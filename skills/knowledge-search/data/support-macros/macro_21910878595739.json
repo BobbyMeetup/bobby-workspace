@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/21910878595739.json",
+  "id": 21910878595739,
+  "title": "APY error",
+  "active": false,
+  "updated_at": "2024-01-20T00:22:25Z",
+  "created_at": "2024-01-09T22:07:26Z",
+  "default": false,
+  "position": 253,
+  "description": null,
+  "actions": [
+    {
+      "field": "custom_fields_6990445837595",
+      "value": "error"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987966018715"
+    },
+    {
+      "field": "current_tags",
+      "value": "failed-to-fetch apy-rates maintanence"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hello,<br><br>Sorry for the scary error! Nothing to worry about, and your funds are safe. All asset functionality is normal except for the Earn feature within Edge that is used to stake assets for an annual percentage yield. Sending, receiving and all other wallet functionality is 100% working.</p><p><br></p><p>If you have staked funds or would like to create a stake to start earning passive crypto income, this issue will be resolved within the next 24-48 hours. Thank you for the patience and understanding.</p><p><br></p><p>Please let us know if you have more questions.</p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hello,\n\nSorry for the scary error! Nothing to worry about, and your funds are safe. All asset functionality is normal except for the Earn feature within Edge that is used to stake assets for an annual percentage yield. Sending, receiving and all other wallet functionality is 100% working.\n\nIf you have staked funds or would like to create a stake to start earning passive crypto income, this issue will be resolved within the next 24-48 hours. Thank you for the patience and understanding.\n\nPlease let us know if you have more questions.\n"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "APY error"
+}

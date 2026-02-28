@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/33704053667227.json",
+  "id": 33704053667227,
+  "title": "Athena ATM - scammed",
+  "active": true,
+  "updated_at": "2025-02-06T00:43:08Z",
+  "created_at": "2025-02-06T00:43:08Z",
+  "default": false,
+  "position": 409,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>We have been getting reports of Athena ATM users attempting to sweep purchased funds into their Edge accounts.</p><p>&nbsp;</p><p>If you may have used a machine that creates a paper wallet for you, you should see 2 QR-codes on your receipt, one is the public address where coins are stored, and the other is a private key that can be used to spend or sweep the funds into another wallet, like Edge. For more information on this: <a href=\"https://athenabitcoin.com/how-to-use-a-paper-wallet\">https://athenabitcoin.com/how-to-use-a-paper-wallet</a></p><p>&nbsp;</p><p>If you did not receive a paper wallet from the machine, it's most likely that a receiving address was already specified or shown to the machine before cash is inserted. If you are unsure of where your coins are at or how to access them, please review some of these scenarios to see if a similar event has occurred in your situation: <a href=\"https://athenabitcoin.com/avoid-these-bitcoin-scams/\">https://athenabitcoin.com/avoid-these-bitcoin-scams</a></p><p>&nbsp;</p><p>You may also reach out to their support directly, here: <a href=\"https://athenabitcoin.com/contact-us/\">https://athenabitcoin.com/contact-us</a></p><p>&nbsp;</p><p>Please let us know if you have more questions, and we will help you however possible.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "We have been getting reports of Athena ATM users attempting to sweep purchased funds into their Edge accounts.\n \nIf you may have used a machine that creates a paper wallet for you, you should see 2 QR-codes on your receipt, one is the public address where coins are stored, and the other is a private key that can be used to spend or sweep the funds into another wallet, like Edge. For more information on this: https://athenabitcoin.com/how-to-use-a-paper-wallet\n \nIf you did not receive a paper wallet from the machine, it's most likely that a receiving address was already specified or shown to the machine before cash is inserted. If you are unsure of where your coins are at or how to access them, please review some of these scenarios to see if a similar event has occurred in your situation: https://athenabitcoin.com/avoid-these-bitcoin-scams\n \nYou may also reach out to their support directly, here: https://athenabitcoin.com/contact-us\n \nPlease let us know if you have more questions, and we will help you however possible."
+    },
+    {
+      "field": "current_tags",
+      "value": "atm athena scam"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "unable_to_receive"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Athena ATM - scammed"
+}

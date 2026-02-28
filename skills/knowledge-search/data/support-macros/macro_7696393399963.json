@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7696393399963.json",
+  "id": 7696393399963,
+  "title": "Matic token instead of mainnet (Coinbase)",
+  "active": true,
+  "updated_at": "2023-02-01T22:37:56Z",
+  "created_at": "2022-07-29T10:43:20Z",
+  "default": false,
+  "position": 127,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi,<br>thanks for reaching out.<br>The problem is that you send Matic tokens on Ethereum instead of Matic coins on Polygon.<br><br>In Wallets, long press on the Matic Polygon wallet you sent the tokens to, tap Split Ethereum.</p><p>You will see a new Ethereum wallet in Wallets list.<br><br>Now, in Wallets, long press on the new Ethereum wallet, Add / Edit token, search for Matic, flag it and Save.<br>You will see a new Matic Token wallet in Wallets list with your tokens inside.</p><p>​</p><p>Remember: if you need to move these Matic tokens in the future, you will need some fraction of ethereum to pay gas (mining fees).<br>This is an Ethereum network policy not an Edge one.<br><br>Please note that this policy applies also to exchanges, so if you want to exchange some ERC20 token to a coin (for example USDT to ETH), you need some ETH to cover the mining fees, because the exchange needs a normal Ethereum transaction.<br> </p><p>Less than 10 USD in ethereum is usually sufficient to cover a lot of token transactions but the at the moment the Ethereum network is congested, so it could be impossible to move your tokens with a Standard or Low fee.&nbsp;</p><p><br>You could try to change the network fees by tapping on the fee section at the send screen to custom however be aware that a failed transaction will result in a loss of the proposed fee.&nbsp;</p><p><br>Please note that:<br>1. The transaction could be dropped<br>2. Fees could be even 10-20 USD per transaction</p><p>3. The more complex smart contracts are (eg CDAI), the higher the fees required will be</p><p>Please let me know if you have any questions.</p><p><br></p>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Matic token instead of mainnet (Coinbase)"
+}

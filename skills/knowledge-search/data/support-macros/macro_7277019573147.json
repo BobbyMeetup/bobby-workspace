@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7277019573147.json",
+  "id": 7277019573147,
+  "title": "Wallet - Send XPUB to Edge",
+  "active": true,
+  "updated_at": "2024-04-11T15:21:42Z",
+  "created_at": "2022-07-12T22:22:58Z",
+  "default": false,
+  "position": 109,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Please supply your xPUB.&nbsp;</p><p><br></p><p>To access the XPUB please follow the steps:</p><p><br></p><p>1) Go to the Wallets List Main Screen by tapping Assets located at the lower left of the screen in the navigation bar</p><p>2) Then tap on the wallet you want to view the xPUB for and it will take you inside the wallet</p><p>3) Once inside, tap on the three vertical dots (located on the upper right side of screen)</p><p>4) A new menu will pop up and then tap on View XPUB Address</p><p>5) Copy/paste the information displayed and send that to us in plain text.</p><p><br></p><p>Note, by providing us the wallet's XPUB Address, you will be allowing us to view the entire transaction history, balance, and any future transactions that go in and out of that particular wallet, but NOT to move the funds. Edge will use the XPUB to troubleshoot and gather information to see if the wallet is out of sync with the balance currently displayed on Edge. The XPUB Address will show the correct balance and transaction history in case Edge is displaying a balance or transaction that is incorrect.</p><p><br> </p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Please supply your xPUB. \n\nTo access the XPUB please follow the steps:\n\n1) Go to the Wallets List Main Screen by tapping Assets located at the lower left of the screen in the navigation bar\n2) Then tap on the wallet you want to view the xPUB for and it will take you inside the wallet\n3) Once inside, tap on the three vertical dots (located on the upper right side of screen)\n4) A new menu will pop up and then tap on View XPUB Address\n5) Copy/paste the information displayed and send that to us in plain text.\n\nNote, by providing us the wallet's XPUB Address, you will be allowing us to view the entire transaction history, balance, and any future transactions that go in and out of that particular wallet, but NOT to move the funds. Edge will use the XPUB to troubleshoot and gather information to see if the wallet is out of sync with the balance currently displayed on Edge. The XPUB Address will show the correct balance and transaction history in case Edge is displaying a balance or transaction that is incorrect.\n\n\n"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - Send XPUB to Edge"
+}

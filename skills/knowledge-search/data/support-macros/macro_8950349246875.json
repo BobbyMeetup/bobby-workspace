@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/8950349246875.json",
+  "id": 8950349246875,
+  "title": "Avax C (USDT)",
+  "active": false,
+  "updated_at": "2022-09-20T17:57:43Z",
+  "created_at": "2022-09-19T16:52:24Z",
+  "default": false,
+  "position": 133,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>You can still recover your funds, but you need to follow these steps:</p><p>1. Check that your Ethereum wallet's address starts with&nbsp;0x2e1fe.... Open the Ethereum wallet, tap Request, check the address.<br>2.&nbsp;Export your Ethereum private key. You can export your Master Private Key by going to the main screen (wallets list). Now press and hold on the wallet's name or slide from right to left and click on Master Private Key.<br>You will see a list of words called seeds, or a unique private key if you are dealing with Avax.<br><br>WARNING: Exposing your private keys can be risky if you do not take the right precautions. Using a private browser or opening the derivation tool on an air-gapped PC will help prevent malicious software from stealing your keys. Most users will not need to follow these steps and they are presented for informational use only.<br><br>3. Install Metamask from <a href=\"https://metamask.io/download/\" target=\"_blank\" rel=\"noreferrer\">https://metamask.io/download/</a> and import your Ethereum Wallet private key.<br><br>4. Go to <a href=\"https://avascan.info/blockchain/c/address/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/token\" target=\"_blank\" rel=\"noreferrer\">https://avascan.info/blockchain/c/address/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/token</a><br>and tap on the Metamask icon \"Add Network\"</p><p><br></p>"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Avax C (USDT)"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/36873104171419.json",
+  "id": 36873104171419,
+  "title": "what is recovery token vs 2fa",
+  "active": true,
+  "updated_at": "2025-05-10T19:56:15Z",
+  "created_at": "2025-05-10T19:56:15Z",
+  "default": false,
+  "position": 436,
+  "description": "general examples to clarify for users if they may have found one and/or the other.",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Here is an example of the Recovery Token information:</p><p>&nbsp;</p><blockquote><p>Please click the link below from a mobile device with Edge installed to initiate account recovery for username</p><p>ed***</p><p>iOS: edge://recovery?token=3cc5oJLLoKqDhiVeX4mPLeCCqauU4K2jfAJ8PJT3x7DD</p><p>Android: https://deep.edge.app/recovery#3cc5oJLLoKqDhiVeX4mPLeCCqauU4K2jfAJ8PJT3x7DD</p><p>You can also use the Recovery Token displayed below:</p><p>Recovery Token: 3cc5oJLLoKqDhiVeX4mPLeCCqauU4K2jfAJ8PJT3x7DD</p><p>Enter or copy and paste the recovery token displayed above inside the Edge app by tapping on Forgot Password at the login screen.</p></blockquote><p>&nbsp;</p><p>A recovery token (44-characters in length) will you allow you to login without knowing the password. You will still need to know the full username, and your personal answers to the security questions selected when creating the token. Once generated, the app prompts you to back it up manually or email it (to self, from self) for safe storage, so you might be able to find this token by searching for \"Edge Recovery Token\" in your email(s).</p><p>&nbsp;</p><p>The 2FA (2nd Factor Authentication) code, alone, is not helpful to anyone. When an accurate username &amp; password are used on an unrecognized device, the 2fa code allows immediate access into your account. Without it, you would need to wait 7-days, or grant permission from an existing logged-in device, to fully login. If you deny this login request within 7 days, you can block any unauthorized access, and change your password to secure your account. This code should not be stored digitally with your password in anyway, or it defeats the purpose of being a 2nd factor of authenticating yourself, should this sensitive data ever become compromised together. A 2FA Code would be 16-digits long and all Upper-Case letters, for example: NMNPKYFZKCNSVWGL</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Here is an example of the Recovery Token information:\n\nPlease click the link below from a mobile device with Edge installed to initiate account recovery for username\ned***\niOS: edge://recovery?token=3cc5oJLLoKqDhiVeX4mPLeCCqauU4K2jfAJ8PJT3x7DD\nAndroid: https://deep.edge.app/recovery#3cc5oJLLoKqDhiVeX4mPLeCCqauU4K2jfAJ8PJT3x7DD\nYou can also use the Recovery Token displayed below:\nRecovery Token: 3cc5oJLLoKqDhiVeX4mPLeCCqauU4K2jfAJ8PJT3x7DD\nEnter or copy and paste the recovery token displayed above inside the Edge app by tapping on Forgot Password at the login screen.\n\n\nA recovery token (44-characters in length) will you allow you to login without knowing the password. You will still need to know the full username, and your personal answers to the security questions selected when creating the token. Once generated, the app prompts you to back it up manually or email it (to self, from self) for safe storage, so you might be able to find this token by searching for \"Edge Recovery Token\" in your email(s).\n\nThe 2FA (2nd Factor Authentication) code, alone, is not helpful to anyone. When an accurate username & password are used on an unrecognized device, the 2fa code allows immediate access into your account. Without it, you would need to wait 7-days, or grant permission from an existing logged-in device, to fully login. If you deny this login request within 7 days, you can block any unauthorized access, and change your password to secure your account. This code should not be stored digitally with your password in anyway, or it defeats the purpose of being a 2nd factor of authenticating yourself, should this sensitive data ever become compromised together. A 2FA Code would be 16-digits long and all Upper-Case letters, for example: NMNPKYFZKCNSVWGL"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "what is recovery token vs 2fa"
+}

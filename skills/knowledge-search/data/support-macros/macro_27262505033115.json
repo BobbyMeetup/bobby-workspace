@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/27262505033115.json",
+  "id": 27262505033115,
+  "title": "some scam resources",
+  "active": true,
+  "updated_at": "2025-04-11T16:46:08Z",
+  "created_at": "2024-07-09T20:57:11Z",
+  "default": false,
+  "position": 324,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Some additional resources that may help with this case:</p><ul><li>VictimConnect: <a href=\"https://victimconnect.org/\">https://victimconnect.org</a> (free support and resources)</li><li>Internet Crime Complaint Center: <a href=\"https://www.ic3.gov/\">https://www.ic3.gov</a> (file formal complaint with the FBI)</li><li>Action Fraud: <a href=\"https://www.actionfraud.police.uk\">https://www.actionfraud.police.uk</a> (UK’s national reporting centre for cybercrime)</li><li>ChainAbuse: <a href=\"https://www.chainabuse.com/\">https://www.chainabuse.com</a> (crypto scam reporting &amp; resources)</li><li>Coinstructive: <a href=\"https://coinstructive.com/\">https://coinstructive.com</a> (Forensic blockchain analysts; free consultation)</li><li>FTC on Romance Scams: <a href=\"https://consumer.ftc.gov/articles/what-know-about-romance-scams\">https://consumer.ftc.gov/articles/what-know-about-romance-scams</a></li></ul>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Some additional resources that may help with this case:\n- VictimConnect: https://victimconnect.org (free support and resources)\n- Internet Crime Complaint Center: https://www.ic3.gov (file formal complaint with the FBI)\n- Action Fraud: https://www.actionfraud.police.uk (UK’s national reporting centre for cybercrime)\n- ChainAbuse: https://www.chainabuse.com (crypto scam reporting & resources)\n- Coinstructive: https://coinstructive.com (Forensic blockchain analysts; free consultation)\n- FTC on Romance Scams: https://consumer.ftc.gov/articles/what-know-about-romance-scams"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "some scam resources"
+}

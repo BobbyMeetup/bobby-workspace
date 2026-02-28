@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/8001445192347.json",
+  "id": 8001445192347,
+  "title": "Bity error",
+  "active": true,
+  "updated_at": "2024-08-22T09:35:56Z",
+  "created_at": "2022-08-11T10:38:55Z",
+  "default": false,
+  "position": 134,
+  "description": "",
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thanks for reaching out.</p><p><br>There are a few reasons why you see this error:<br><br>1. Bity has a limit of 900 euro every 24 hours, so if you do an order higher than 900 euro, it will give this error.<br>Orders sum, so if you did and completed for example an order of 400 euro and one of 500 euro, you reached the limit and you need to wait 24 hours since the latest order.<br>2. Even not completed orders are considered, so if you did an order of 500 euro and you didn't complete it, then you try with an order of 600 euro, you will get this error as well, since the total is 1100 euro. In this case you will need to reach out to Bity and ask them to reset the order list for your IBAN.</p><p>Please contact them directly via email:&nbsp; <a href=\"mailto:support_edge@bity.com\">support_edge@bity.com</a> - or - by using their chat bubble on <a href=\"http://www.bity.com/\">www.bity.com.</a><br>3. You are from a high risk country. You can verify this by entering your IBAN (no additional data) into this website <a href=\"https://resources.davidcoen.it/highriskchecker/\">https://resources.davidcoen.it/highriskchecker/</a>. This tool checks if the IBAN is from a high risk country by comparing the first letters to the JSON file provided by Bity here <a href=\"https://data.bity.com/countries/compendium\">https://data.bity.com/countries/compendium</a>. The IBAN you enter is NOT stored on the website.<br><br>Please let me know if you have doubts.</p>"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "bity"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "unable_to_sell"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "13053445492635"
+    },
+    {
+      "field": "custom_fields_23152938690971",
+      "value": "sepa_sell"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Bity error"
+}

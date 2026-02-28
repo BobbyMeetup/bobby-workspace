@@ -1,0 +1,30 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7411817854363.json",
+  "id": 7411817854363,
+  "title": "Matic tokens instead of mainnet",
+  "active": true,
+  "updated_at": "2024-02-15T11:22:33Z",
+  "created_at": "2022-07-18T12:14:50Z",
+  "default": false,
+  "position": 113,
+  "description": null,
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "6924706366107"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>In Wallets, open the matic Polygon wallet you sent the tokens to, tap the gear icon, tap Split Ethereum.<br>Go back to Wallets, open the new Ethereum wallet, tap the gear icon, tap &nbsp;Add / Edit token, search for Matic, flag it and Save.<br>You will see a new Matic Token wallet in Wallets list with your tokens inside.</p><p>​</p><p>Remember: if you need to move these Matic tokens in the future, you will need some fraction of ethereum to pay gas (mining fees).<br>This is an Ethereum network policy not an Edge one.<br><br>Please note that this policy applies also to exchanges, so if you want to exchange some ERC20 token to a coin (for example USDT to ETH), you need some ETH to cover the mining fees, because the exchange needs a normal Ethereum transaction.<br> </p><p>Less than 10 USD in ethereum on the same address is usually sufficient to cover a token transaction.</p><p>Please let me know if you have any questions.</p><p><br></p><p><br></p>"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 6924706366107
+  },
+  "raw_title": "Matic tokens instead of mainnet"
+}

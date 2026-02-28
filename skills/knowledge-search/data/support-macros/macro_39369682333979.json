@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/39369682333979.json",
+  "id": 39369682333979,
+  "title": "sign-in",
+  "active": true,
+  "updated_at": "2025-07-26T16:44:30Z",
+  "created_at": "2025-07-26T16:40:00Z",
+  "default": false,
+  "position": 463,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>If you go back to the very first screen when opening the app, you will see the page that says:</p><p>&nbsp;</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Welcome to</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Financial Freedom</p><p>&nbsp;</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Get Started)</p><p>Already have an account? <strong>Sign in</strong></p><p>&nbsp;</p><p>Here, you will want to be sure to tap on the light green 'Sign in', instead of the the 'Get Started' button.</p><p>This will present you with Username and Password boxes at the same time, so that you can login to your existing account.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "If you go back to the very first screen when opening the app, you will see the page that says:\n \n                Welcome to\n           Financial Freedom\n \n                (Get Started)\nAlready have an account? Sign in\n \nHere, you will want to be sure to tap on the light green 'Sign in', instead of the the 'Get Started' button.\nThis will present you with Username and Password boxes at the same time, so that you can login to your existing account.\n"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "current_tags",
+      "value": "sign-in_issues"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "sign-in"
+}

@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/25192217430427.json",
+  "id": 25192217430427,
+  "title": "too old",
+  "active": true,
+  "updated_at": "2025-06-16T13:08:48Z",
+  "created_at": "2024-04-25T23:42:37Z",
+  "default": false,
+  "position": 291,
+  "description": "Can't sign up for Banxa as a 70+ year old",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "banxa"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "unable_to_sign_up"
+    },
+    {
+      "field": "current_tags",
+      "value": "over70"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>This issue appears be related to a new policy from Banxa as their effort to protect a high-risk demographic (70+) from becoming scam victims. If you maybe have been interacting with anyone new, online recently, then this might be a blessing in disguise as a cue to 'slow your roll' and apply more scrutiny/skepticism when it comes to online friends and investments.</p><p>&nbsp;</p><p>If you wish to proceed, you may simply choose to work another one of our other exchange partners. This can be while on the buy screen, when you are selecting the amount you want to purchase. If repeating the same order attempt, you may likely see a tile that says 'Powered by Banxa - Tap to change provider'. By tapping here you will open a list where other quotes from other services can be viewed and selected.</p><p>&nbsp;</p><p>If you still need some help completing your first purchase, or have any other questions for the Edge support team, please reply here. You may also call-in for assistance via the 'Help' button in the app.</p><p>&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "\nThis issue appears be related to a new policy from Banxa as their effort to protect a high-risk demographic (70+) from becoming scam victims. If you maybe have been interacting with anyone new, online recently, then this might be a blessing in disguise as a cue to 'slow your roll' and apply more scrutiny/skepticism when it comes to online friends and investments.\n \nIf you wish to proceed, you may simply choose to work another one of our other exchange partners. This can be while on the buy screen, when you are selecting the amount you want to purchase. If repeating the same order attempt, you may likely see a tile that says 'Powered by Banxa - Tap to change provider'. By tapping here you will open a list where other quotes from other services can be viewed and selected.\n \nIf you still need some help completing your first purchase, or have any other questions for the Edge support team, please reply here. You may also call-in for assistance via the 'Help' button in the app.\n "
+    }
+  ],
+  "restriction": null,
+  "raw_title": "too old"
+}

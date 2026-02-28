@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7276315606939.json",
+  "id": 7276315606939,
+  "title": "Wallet - Dropped Tx - Send High Fee",
+  "active": true,
+  "updated_at": "2023-07-04T23:46:37Z",
+  "created_at": "2022-07-12T22:01:51Z",
+  "default": false,
+  "position": 96,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thanks for reaching out and I apologize for the inconvenience.</p><p><br></p><p>It appears the transaction was dropped but the funds will be back in your wallet as if it was never sent. This can happen when there are sudden spikes of traffic on the network.</p><p><br></p><p>With that said, here are the steps so that you can have the funds back in your wallet:</p><p><br></p><p>1) Go to the Main Wallets List screen</p><p>2) Tap on the wallet you're having issues with and you will be taken inside. Once inside of the wallet, tap on the gear icon (located on the upper right side of screen)<br>3) A new menu will appear and then you will tap on Resync</p><p>4) Wait about 15-30 seconds</p><p>5) Re-enter your wallet and you'll notice the Pending should disappear and the funds back up higher as if it was never sent out at all</p><p><br></p><p>If you need to re-send the funds, I recommend to use higher fees. This can be done by:</p><p><br></p><p>1) At the Slide to Confirm screen prior to sending, tap the fee section.</p><p>2) Set to High and press save</p><p>4) Slide to confirm and send</p><p><br></p><p>The transaction should go through even in the event of high traffic on the network by using the higher fee option.&nbsp;</p><p><br></p><p>Let us know if you have any questions.</p><p>​</p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - Dropped Tx - Send High Fee"
+}

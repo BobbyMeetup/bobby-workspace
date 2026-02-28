@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/24248205041435.json",
+  "id": 24248205041435,
+  "title": "HBAR-ErrorActivationPayment",
+  "active": false,
+  "updated_at": "2025-01-12T03:42:13Z",
+  "created_at": "2024-03-27T22:07:08Z",
+  "default": false,
+  "position": 260,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987966018715"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "hbar"
+    },
+    {
+      "field": "current_tags",
+      "value": "wallet-activation"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "update_app"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>When creating a brand new HBAR wallet on the Hedera Hashgraph network, there is a one time 4 HBAR activation fee that must be paid with Ethereum (ETH). Edge has enabled this ability to create and activate HBAR wallets directly from the app, and to do so, you will need to have an ETH wallet with at least 4 HBAR worth of ETH in it, plus $1-$5 for gas fees.</p><p><br></p><p>That said, there is currently a known issue when creating and activating a new Hedera (HBAR) wallet within Edge. Our development team is working on this now, and we are estimating it for v4.6, in approximately 1-2 months. As an immediate work around, you could create &amp; activate an HBAR wallet elsewhere, and then import this wallet's private key into Edge. Please reply if you have more questions about this.<br></p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "When creating a brand new HBAR wallet on the Hedera Hashgraph network, there is a one time 4 HBAR activation fee that must be paid with Ethereum (ETH). Edge has enabled this ability to create and activate HBAR wallets directly from the app, and to do so, you will need to have an ETH wallet with at least 4 HBAR worth of ETH in it, plus $1-$5 for gas fees.\n\nThat said, there is currently a known issue when creating and activating a new Hedera (HBAR) wallet within Edge. Our development team is working on this now, and we are estimating it for v4.6, in approximately 1-2 months. As an immediate work around, you could create & activate an HBAR wallet elsewhere, and then import this wallet's private key into Edge. Please reply if you have more questions about this."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "HBAR-ErrorActivationPayment"
+}

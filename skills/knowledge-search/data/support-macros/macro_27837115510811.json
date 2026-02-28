@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/27837115510811.json",
+  "id": 27837115510811,
+  "title": "download (short)",
+  "active": true,
+  "updated_at": "2024-09-19T20:31:30Z",
+  "created_at": "2024-07-30T15:42:44Z",
+  "default": false,
+  "position": 331,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>To download Edge -</p><ol><li>Click here: <a href=\"https://dl.edge.app/?af=edge-app-get-started\">https://dl.edge.app/?af=edge-app-get-started</a></li><li>Tap on a download button for your device.</li><li>Enjoy!</li></ol><p>&nbsp;</p><p>Feel free to message us anytime with questions.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "To download Edge -\n\n1. Click here: https://dl.edge.app/?af=edge-app-get-started\n2. Tap on a download button for your device.\n3. Enjoy!\n\nFeel free to message us anytime with questions."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "download (short)"
+}

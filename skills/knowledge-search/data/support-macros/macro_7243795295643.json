@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7243795295643.json",
+  "id": 7243795295643,
+  "title": "ETH - can't send ethereum (even with ETH sufficient to cover the fees)",
+  "active": true,
+  "updated_at": "2023-11-14T17:55:41Z",
+  "created_at": "2022-07-11T20:28:40Z",
+  "default": false,
+  "position": 59,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p><br></p><p>Are you trying to send ether to a custodial service?</p><p>It is possible that custodial services like exchanges require now higher fees to be paid, even for receiving ether and not only for sending.</p><p><br></p><p>In this case, I suggest you use custom&nbsp;fees:</p><p>From the Slide to confirm screen, tap the fee section, tap Custom, set the gas limit to 80'000 and the Gwei at the Standard value you can see here <a href=\"https://ethgasstation.info/\" target=\"_blank\" rel=\"noreferrer\">https://ethgasstation.info/</a> .</p><p><br></p><p>Now Save, go back and check the transaction fees. If you are ok with them, simply Slide to confirm.<br>Your transaction should be accepted.<br><br>Please let me know if you have further questions.&nbsp;</p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "ETH - can't send ethereum (even with ETH sufficient to cover the fees)"
+}

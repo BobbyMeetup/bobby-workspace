@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7244151158811.json",
+  "id": 7244151158811,
+  "title": "ETH - impossible to send ERC-20 tokens (with ETH in the balance)",
+  "active": true,
+  "updated_at": "2023-02-13T18:30:53Z",
+  "created_at": "2022-07-11T20:38:44Z",
+  "default": false,
+  "position": 61,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thanks for reaching out.</p><p>Are you trying to send tokens to a custodial service?</p><p>It is possible that custodial services like exchanges require now higher fees to be paid, even for receiving ERC-20 token and not only for sending.</p><p><br></p><p>In this case, I suggest that you try a custom fee:</p><p>On the Slide to confirm screen, tap the fee section, tap Custom, set the gas limit to 200'000 and the Gwei at the Standard value you can see here <a href=\"https://ethgasstation.info/\" target=\"_blank\" rel=\"noreferrer\">https://ethgasstation.info/</a> .</p><p><br></p><p>Now Save, go back and check the transaction fees. If you are ok with them, just Slide to confirm.<br>Your transaction should be accepted.<br><br>Please let me know if you have any additional questions or concerns.&nbsp;&nbsp;</p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "ETH - impossible to send ERC-20 tokens (with ETH in the balance)"
+}

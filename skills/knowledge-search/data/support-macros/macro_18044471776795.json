@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/18044471776795.json",
+  "id": 18044471776795,
+  "title": "ARRR - Sync Troubleshooting",
+  "active": true,
+  "updated_at": "2025-05-22T20:51:25Z",
+  "created_at": "2023-08-17T19:13:29Z",
+  "default": false,
+  "position": 198,
+  "description": "",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "funds_never_arrived_receive"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "pirate_chain"
+    },
+    {
+      "field": "current_tags",
+      "value": "sync_issue"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Please be aware that PirateChain (ARRR) wallets will experience much longer sync times than other assets in your account. It suffered a spam attack in 2023, making its blockchain extremely large, and causing synchronization performance issues on mobile devices. Thanks to our development team, if you're on the latest version of Edge, syncing ARRR wallets is possible, though it still can take a long time to complete.</p><p>&nbsp;</p><p>Our top recommendation is to: force close the app, open it up fresh, allow all the wallets to sync, and when it gets stuck on ARRR, simply allow it time to keep synchronizing to the blockchain. In some cases, it can take ~1-2 hours to download all blocks and get a fully synchronized wallet.</p><p><br>Additional tips:</p><p>- Ensure a fast internet connection speed and close other programs to free up RAM on your device</p><p>- Temporarily disable any VPN or \"battery saver mode\" as they can prevent or slow down wallet synchronization, especially for privacy blockchains like Zcash and PirateChain.</p><p>** Turn your screen time-out limit to 10 minutes or the highest it can go, and leave your Edge app open and active.&nbsp; <i>When the screen goes dark or the app is in background, it won't be synchronizing.</i></p><p>&nbsp;</p><p>Let us know if you have any more questions.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Please be aware that PirateChain (ARRR) wallets will experience much longer sync times than other assets in your account. It suffered a spam attack in 2023, making its blockchain extremely large, and causing synchronization performance issues on mobile devices. Thanks to our development team, if you're on the latest version of Edge, syncing ARRR wallets is possible, though it still can take a long time to complete.\n \nOur top recommendation is to: force close the app, open it up fresh, allow all the wallets to sync, and when it gets stuck on ARRR, simply allow it time to keep synchronizing to the blockchain. In some cases, it can take ~1-2 hours to download all blocks and get a fully synchronized wallet.\n\nAdditional tips:\n- Ensure a fast internet connection speed and close other programs to free up RAM on your device\n- Temporarily disable any VPN or \"battery saver mode\" as they can prevent or slow down wallet synchronization, especially for privacy blockchains like Zcash and PirateChain.\n** Turn your screen time-out limit to 10 minutes or the highest it can go, and leave your Edge app open and active.  When the screen goes dark or the app is in background, it won't be synchronizing.\n \nLet us know if you have any more questions.\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "ARRR - Sync Troubleshooting"
+}

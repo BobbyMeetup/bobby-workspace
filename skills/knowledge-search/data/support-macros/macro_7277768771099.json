@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7277768771099.json",
+  "id": 7277768771099,
+  "title": "XMR - missing Monero (XMR) / resync doesn't work",
+  "active": true,
+  "updated_at": "2023-02-01T22:38:55Z",
+  "created_at": "2022-07-12T22:53:23Z",
+  "default": false,
+  "position": 118,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>If resync doesn't work, please provide these info:<br><br>1) Can you let us know what wallet or service sent those funds?</p><p>​</p><p>2) If you can please contact the sender and ask to see if you can have them send you the \"Transaction Key\" so that we can prove the transaction was sent from them to the correct location?</p><p>​</p><p>3) If you or the sender still has record of the actual \"Address\" the funds were sent to that would also be very helpful. Remember, Monero is quite anonymous and private. Even the Transaction ID you provided does not show the address the funds were sent to.</p><p>​</p><p>4) ​Note, while we continue to investigate, if you'd like go ahead and first make sure you know your username and full password. Have your 2FA code written down and/or disabled temporarily. If you are good on this, go ahead and continue and try deleting the app completely and then reinstalling and logging in and see if the transactions are detected with a reinstall? Remember, make sure you know your account information before deleting or you may be permanently locked.</p><p>​</p><p>Thanks again for your patience and looking forward to your response.</p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "XMR - missing Monero (XMR) / resync doesn't work"
+}

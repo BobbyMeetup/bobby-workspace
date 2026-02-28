@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/11350854326555.json",
+  "id": 11350854326555,
+  "title": "Arbitum Network Metamask",
+  "active": false,
+  "updated_at": "2024-06-05T18:40:30Z",
+  "created_at": "2022-12-17T11:34:40Z",
+  "default": false,
+  "position": 148,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi,&nbsp;</p><p><br>Unfortunately, it appears you have selected the Arbitrum network to send coins into Edge, but we do not support it yet. We have taken note of its popularity and will be integrating it into Edge in the near future! In order to recover the ETH, ARB or any tokens sent to your Ether wallet, please follow these steps:</p><p><br></p><ol dir=\"auto\"><li>Download <a href=\"https://metamask.io\" data-nofollow=\"true\">Metamask</a> for Desktop</li><li>Export your Ethereum private key: tap on the wallet you sent funds to in Edge, then use the settings/gear icon (located upper right side of screen) to view this wallet's menu. Next, tap 'View Master Private Seed, and enter your password to reveal your private key for this wallet address. Manually copy this on a note pad.</li><li>Import it into Metamask</li><li>Go to <a href=\"https://arbiscan.io\" target=\"_blank\" rel=\"noreferrer\">https://arbiscan.io</a>&nbsp;and scroll down to the bottom right, and tap on Metamask icon with \"Add Arbitrum One Network\"</li><li>Now, you can add any additional tokens by going to the token contract page, for example, the ARB token on Arbitrum is here -&nbsp;<a href=\"https://arbiscan.io/token/0x912ce59144191c1204e64559fe8253a0e49e6548\" target=\"_blank\" rel=\"noreferrer\" style=\"background-color: rgb(24, 26, 27); font-family: system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, Arial, sans-serif; --darkreader-inline-bgcolor: #131516;\" data-darkreader-inline-bgcolor=\"\">https://arbiscan.io/token/0x912ce59144191c1204e64559fe8253a0e49e6548</a>&nbsp;and you can easily add a token asset to Metamask by clicking the three vertical dots in the top-right of 'Profile Summary' section, and selecting 'Add Token to Web3 Wallet'</li></ol><p><br></p><p>Note: Your private key for this wallet is very sensitive information! Please keep it safe from others to ensure your funds remain secure.</p><p><br></p><p>Let us know if you have more questions about this.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hi,\n\nUnfortunately, it appears you have selected the Arbitrum network to send coins into Edge, but we do not support it yet. We have taken note of its popularity and will be integrating it into Edge in the near future! In order to recover the ETH, ARB or any tokens sent to your Ether wallet, please follow these steps:\n\n1. Download Metamask (https://metamask.io) for Desktop\n2. Export your Ethereum private key: tap on the wallet you sent funds to in Edge, then use the settings/gear icon (located upper right side of screen) to view this wallet's menu. Next, tap 'View Master Private Seed, and enter your password to reveal your private key for this wallet address. Manually copy this on a note pad.\n3. Import it into Metamask\n4. Go to https://arbiscan.io and scroll down to the bottom right, and tap on Metamask icon with \"Add Arbitrum One Network\"\n5. Now, you can add any additional tokens by going to the token contract page, for example, the ARB token on Arbitrum is here - https://arbiscan.io/token/0x912ce59144191c1204e64559fe8253a0e49e6548 and you can easily add a token asset to Metamask by clicking the three vertical dots in the top-right of 'Profile Summary' section, and selecting 'Add Token to Web3 Wallet'\n\nNote: Your private key for this wallet is very sensitive information! Please keep it safe from others to ensure your funds remain secure.\n\nLet us know if you have more questions about this."
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "receive_wrong_network"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "erc-20"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Arbitum Network Metamask"
+}

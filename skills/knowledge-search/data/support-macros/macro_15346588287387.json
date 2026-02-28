@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/15346588287387.json",
+  "id": 15346588287387,
+  "title": "DL links",
+  "active": true,
+  "updated_at": "2023-05-30T23:10:37Z",
+  "created_at": "2023-05-10T20:08:58Z",
+  "default": false,
+  "position": 167,
+  "description": "Our download links to redirect to appstore for updates",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Android:&nbsp;</p><p><a href=\"https://dl.edge.app/?os=android&amp;af=edge-app\" target=\"_blank\" rel=\"noreferrer\">https://dl.edge.app/?os=android&amp;af=edge-app</a></p><p> iOS:&nbsp;</p><p><a href=\"https://dl.edge.app/?os=ios&amp;af=edge-app\" target=\"_blank\" rel=\"noreferrer\">https://dl.edge.app/?os=ios&amp;af=edge-app</a><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Android: \nhttps://dl.edge.app/?os=android&af=edge-app\n\niOS: \nhttps://dl.edge.app/?os=ios&af=edge-app\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "DL links"
+}

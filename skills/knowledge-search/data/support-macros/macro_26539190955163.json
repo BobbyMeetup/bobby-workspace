@@ -1,0 +1,22 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/26539190955163.json",
+  "id": 26539190955163,
+  "title": "where-funds-purchase",
+  "active": true,
+  "updated_at": "2024-06-12T19:29:32Z",
+  "created_at": "2024-06-12T19:29:13Z",
+  "default": false,
+  "position": 316,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi {{current_user.first_name}},<br><br></p><p>I am happy to look into this for you, but will need some additional information.</p><p>Edge is a zero-knowledge wallet provider allowing users to maintain full custody of their assets and interact with cryptocurrency blockchains. This means we DO NOT have access to any personal information, including asset balances or account history.<br><br></p><p>In order to help:</p><p>• Which service are you using to try purchasing crypto?</p><p>• Do you have an order ID for the payment that was placed?</p><p>• Could you include a screenshot of any errors you encounter?</p><p><br></p>"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 26105022686363
+  },
+  "raw_title": "where-funds-purchase"
+}

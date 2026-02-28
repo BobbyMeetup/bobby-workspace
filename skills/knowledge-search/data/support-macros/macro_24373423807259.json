@@ -1,0 +1,55 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/24373423807259.json",
+  "id": 24373423807259,
+  "title": "Arbitrum - Insufficient Funds",
+  "active": true,
+  "updated_at": "2024-08-08T21:44:08Z",
+  "created_at": "2024-04-01T13:33:21Z",
+  "default": false,
+  "position": 282,
+  "description": "",
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>In order to <i>send</i> an Arbitrum token, for example USDT, USDC, ARB, etc.. you'll first need a small amount of ETH on the Arbitrum One network to pay the blockchain or gas fees. This is an Arbitrum policy, and Edge receives no profit from blockchain fees. They are paid solely to Arbitrum network validators to process your transaction on-chain.<br><br><i>G<strong>enerally speaking</strong></i><strong>, tokens can NOT pay their own fees.</strong></p><p>&nbsp;</p><p>In the v4.10 update of Edge that was released on August 8th 2024, you can now swap between tokens on Arbitrum without initially requiring any ETH (on Arbitrum). If you need to <i>send</i> or do a cross-chain swap, you will still require some (arb)ETH to cover the small gas fees for these kinds of transactions.</p><p>&nbsp;</p><p>Example: you have USDC (on Arbitrum) that is stuck in an empty Arbitrum wallet. You will now be able to swap some of your tokens for (arb)ETH with the new gasless swap tool powered by 0x. Once you acquire some (arb)ETH, you'll then be able to pay the gas fees when attempting to send tokens to another wallet address.<br>&nbsp;</p><p>Please let us know if you have any more questions.</p><p>&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "In order to send an Arbitrum token, for example USDT, USDC, ARB, etc.. you'll first need a small amount of ETH on the Arbitrum One network to pay the blockchain or gas fees. This is an Arbitrum policy, and Edge receives no profit from blockchain fees. They are paid solely to Arbitrum network validators to process your transaction on-chain.Generally speaking, tokens can NOT pay their own fees.\n \nIn the v4.10 update of Edge that was released on August 8th 2024, you can now swap between tokens on Arbitrum without initially requiring any ETH (on Arbitrum). If you need to send or do a cross-chain swap, you will still require some (arb)ETH to cover the small gas fees for these kinds of transactions.\n \nExample: you have USDC (on Arbitrum) that is stuck in an empty Arbitrum wallet. You will now be able to swap some of your tokens for (arb)ETH with the new gasless swap tool powered by 0x. Once you acquire some (arb)ETH, you'll then be able to pay the gas fees when attempting to send tokens to another wallet address. \nPlease let us know if you have any more questions.\n \n"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "6991723828123"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "current_tags",
+      "value": "gasless_swap"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "erc-20"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Arbitrum - Insufficient Funds"
+}

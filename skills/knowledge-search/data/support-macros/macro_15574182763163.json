@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/15574182763163.json",
+  "id": 15574182763163,
+  "title": "setup-2fa-and-recovery",
+  "active": true,
+  "updated_at": "2023-10-26T18:53:14Z",
+  "created_at": "2023-05-18T20:49:48Z",
+  "default": false,
+  "position": 173,
+  "description": "how to secure account access",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Once you regain access to your account, I suggest that you go into Menu(≡) &gt; Settings &gt; Tap to Unlock Account Settings, and unlock them using your password - then you can set up the 2-Factor Security key, and the Password Recovery token (and store them securely!) to protect your Edge account for many years to come 🔐👍<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Once you regain access to your account, I suggest that you go into Menu(≡) > Settings > Tap to Unlock Account Settings, and unlock them using your password - then you can set up the 2-Factor Security key, and the Password Recovery token (and store them securely!) to protect your Edge account for many years to come 🔐👍\n"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "setup-2fa-and-recovery"
+}

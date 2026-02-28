@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/28571285622171.json",
+  "id": 28571285622171,
+  "title": "Wallet - Add Asset (plus button)",
+  "active": true,
+  "updated_at": "2024-09-10T19:39:11Z",
+  "created_at": "2024-08-25T00:53:48Z",
+  "default": false,
+  "position": 346,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>To add a new asset to your Wallets list:</p><ol><li>Open Edge and log in</li><li>Tap <i>View Assets</i> near the top or use the <i>Assets</i> tab at the bottom</li><li>Use the <i>Green +</i> icon to add a new wallet to your account</li></ol>"
+    },
+    {
+      "field": "comment_value",
+      "value": "To add a new asset to your Wallets list:\n\n1. Open Edge and log in\n2. Tap View Assets near the top or use the Assets tab at the bottom\n3. Use the Green + icon to add a new wallet to your account"
+    },
+    {
+      "field": "current_tags",
+      "value": "general_inquiry has_account"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - Add Asset (plus button)"
+}

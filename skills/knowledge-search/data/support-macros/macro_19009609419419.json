@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/19009609419419.json",
+  "id": 19009609419419,
+  "title": "good-notes",
+  "active": true,
+  "updated_at": "2025-01-19T00:12:51Z",
+  "created_at": "2023-09-22T17:34:27Z",
+  "default": false,
+  "position": 208,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Also, take good notes!! I can't stress this enough. Your 'Crypto Notes' file or notebook could be an indispensable part of your crypto journey. Many times, it has been my favorite gift from my past-self 😅 a simple document to hold a dated-entry of what I did and where I put my funds, helping me to keep-it-all-together. I've been able to easily search this to recall what I've done in years past. There can quickly become too much data to remember it all. This practice of good note keeping really helps to bridge the time-gaps, from when you are focusing on crypto, and when you are not ✍️😇 Set yourself up for success as custodian sole authority of funds you hold in your new self-custodial Edge app! Ask us any questions you have, anytime.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Also, take good notes!! I can't stress this enough. Your 'Crypto Notes' file or notebook could be an indispensable part of your crypto journey. Many times, it has been my favorite gift from my past-self 😅 a simple document to hold a dated-entry of what I did and where I put my funds, helping me to keep-it-all-together. I've been able to easily search this to recall what I've done in years past. There can quickly become too much data to remember it all. This practice of good note keeping really helps to bridge the time-gaps, from when you are focusing on crypto, and when you are not ✍️😇 Set yourself up for success as custodian sole authority of funds you hold in your new self-custodial Edge app! Ask us any questions you have, anytime."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "good-notes"
+}

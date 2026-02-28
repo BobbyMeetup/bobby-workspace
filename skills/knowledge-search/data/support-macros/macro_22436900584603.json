@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/22436900584603.json",
+  "id": 22436900584603,
+  "title": "Wrong Network (basic)",
+  "active": true,
+  "updated_at": "2024-01-28T02:56:11Z",
+  "created_at": "2024-01-28T02:56:11Z",
+  "default": false,
+  "position": 257,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "receive_wrong_network"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>When receiving cryptocurrency to the wrong network, it will appear that funds do not arrive into your wallet, even when the transaction is confirmed on the blockchain.</p><p><br></p><p>There are two ways you can recover these funds:</p><ol dir=\"auto\"><li>If the network used is supported by Edge, you can easily split the receiving wallet onto the other blockchain.</li><li>If Edge doesn't support that chain, then you can export your private key for the wallet you received with, and import it into a wallet client that can connect to that blockchain/network.</li></ol><p><br></p><p>Please be mindful about which blockchain you working on when sending or receiving any cryptocurrency. This will ensure your funds land properly. It's a common mistake, but it can also be easily prevented by considering the blockchain or network that funds are moving along.<br><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "When receiving cryptocurrency to the wrong network, it will appear that funds do not arrive into your wallet, even when the transaction is confirmed on the blockchain.\n\nThere are two ways you can recover these funds:\nIf the network used is supported by Edge, you can easily split the receiving wallet onto the other blockchain.\nIf Edge doesn't support that chain, then you can export your private key for the wallet you received with, and import it into a wallet client that can connect to that blockchain/network.\n\nPlease be mindful about which blockchain you working on when sending or receiving any cryptocurrency. This will ensure your funds land properly. It's a common mistake, but it can also be easily prevented by considering the blockchain or network that funds are moving along.\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wrong Network (basic)"
+}

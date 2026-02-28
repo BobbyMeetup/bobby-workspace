@@ -1,0 +1,26 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/20868493788187.json",
+  "id": 20868493788187,
+  "title": "happy",
+  "active": true,
+  "updated_at": "2023-12-02T00:51:41Z",
+  "created_at": "2023-12-02T00:51:41Z",
+  "default": false,
+  "position": 15,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Happy to help,</p><p>Daniel<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Happy to help,\nDaniel"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 13919654551707
+  },
+  "raw_title": "happy"
+}

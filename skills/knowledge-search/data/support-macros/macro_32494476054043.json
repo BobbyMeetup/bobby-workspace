@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/32494476054043.json",
+  "id": 32494476054043,
+  "title": "Thorchain Savers Fixed + TestFlight for iOS",
+  "active": false,
+  "updated_at": "2025-01-24T23:10:14Z",
+  "created_at": "2025-01-05T02:29:46Z",
+  "default": false,
+  "position": 391,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hello {{ticket.requester.first_name}},</p><p>&nbsp;</p><p>Please check for updates in your app store. The v4.19.2 release of Edge is now available globally. Once you install this update, you will be able to see and manage your Thorchain Savers stakes again.</p><p>&nbsp;</p><p>Note: if you unable to download the app due to regional restrictions -</p><ul><li>Android users: may download the .apk directly from our site (https://dl.edge.app/web)</li><li>iOS users: can bypass the appstore restrictions by using TestFlight and a special invite from Edge (https://testflight.apple.com/join/edmmH1PQ)</li></ul><p>&nbsp;</p><p>If you have any questions or concerns, or need further assistance with this process, we're here to help.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hello {{ticket.requester.first_name}},\n \nPlease check for updates in your app store. The v4.19.2 release of Edge is now available globally. Once you install this update, you will be able to see and manage your Thorchain Savers stakes again.\n \nNote: if you unable to download the app due to regional restrictions -\n   -  Android users: may download the .apk directly from our site (https://dl.edge.app/web)\n   -  iOS users: can bypass the appstore restrictions by using TestFlight and a special invite from Edge (https://testflight.apple.com/join/edmmH1PQ)\n\nIf you have any questions or concerns, or need further assistance with this process, we're here to help.\n"
+    },
+    {
+      "field": "current_tags",
+      "value": "thorchain savers apk"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "internally_resolved"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987966018715"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6990591909275",
+      "value": "ios"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Thorchain Savers Fixed + TestFlight for iOS"
+}

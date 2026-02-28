@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/25028157854747.json",
+  "id": 25028157854747,
+  "title": "BTC - Rune fees (reworked)",
+  "active": true,
+  "updated_at": "2024-04-21T17:20:54Z",
+  "created_at": "2024-04-20T19:42:22Z",
+  "default": false,
+  "position": 289,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Sorry for this inconvenience caused by current congestion on the Bitcoin network.&nbsp;<u>The recent<b>&nbsp;Bitcoin Halving</b>&nbsp;event has caused a massive surge in fees!</u><br></p><p><br><b>This is a BTC network issue and is not related to Edge</b>. Many other wallets and services have halted transactions or are getting transactions stuck as a result. <a href=\"https://www.bitcoinrune.xyz/\" target=\"_blank\" rel=\"noreferrer\">BitcoinRune</a> is new protocol built on top of Bitcoin, that launched with the halving and is largely to blame for this current fee situation. We have not seen Bitcoin fees rise to this level since 2017.</p><p><br></p><ul dir=\"auto\"><li>When <b>sending</b> <b>BTC:</b><ul dir=\"auto\"><li>you may see a very high fee or even \"Insufficient BTC\" error if your balance is lower than the average fee.</li><li>keep an eye on these fees and waiting for the congestion to clear up before trying to use the bitcoin blockchain. You may check the current fee levels here: <a href=\"https://mempool.space\" target=\"_blank\" rel=\"noreferrer\">https://mempool.space</a></li></ul></li></ul><ul dir=\"auto\"><li>When <b>buying</b> <b>BTC:</b><ul dir=\"auto\"><li>please pay careful attention to the amount you will be receiving in your quote, and review the blockchain fees that the exchange is quoting in your order before confirming it.</li></ul></li><li>When <b>swapping to / from BTC:</b><ul dir=\"auto\"><li>using the Exchange tab within Edge, pay close attention to the Network Fees before sliding to confirm.</li><li>we recommend waiting for BTC fee levels to normalize again before conducting on-chain trades with BTC.</li></ul></li></ul><p><br></p><p>Please note: Edge does NOT profit from these fees. They are all going to the Bitcoin miners who secure the network to process an on-chain transaction.</p><p><br></p><p><i>For more context on the situation, please check out this Yahoo Finance article:</i></p><p><i><a href=\"https://finance.yahoo.com/news/bitcoin-halving-giant-surge-transaction-001630160.html\" target=\"_blank\" rel=\"noreferrer\">https://finance.yahoo.com/news/bitcoin-halving-giant-surge-transaction-001630160.html</a></i></p><p><br></p><p>Please let us know if you have more questions.</p>"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "network_issue"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "btc"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "6991723828891"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "BTC - Rune fees (reworked)"
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7183852035099.json",
+  "id": 7183852035099,
+  "title": "Account - 2FA/IP Validation Locked",
+  "active": true,
+  "updated_at": "2025-08-13T21:31:50Z",
+  "created_at": "2022-07-08T19:45:44Z",
+  "default": false,
+  "position": 12,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Regarding the 2FA / IP Validation lock-out -&nbsp;</p><p>This is a security measure that's enabled by default and triggered when our servers detect a login from a new or un-permissioned device. This would include if the app was deleted and reinstalled.</p><p>&nbsp;</p><p>For immediate access to your Edge account, you must either:</p><ol><li>Use the 2FA code (if you backed it up before this)</li><li>Use a permissioned device to log into a new or un-permissioned device by scanning a login QR-code; or</li><li>Wait 7+ days to&nbsp;permission an unrecognized deice with valid login credentials</li></ol><p>&nbsp;</p><p>If you are on the original or only device, and do not have a backup of the 2FA key, you will simply need to await the seven days to permission the fresh install. If an attacker had your account credentials and tried to access your account, they would get locked out, you would be notified of this and would be able to take action to prevent the unauthorized access.</p><p>​</p><p>With that said, your funds are safe!</p><p>After the 7+ day period, you will gain full access to your account. Once you're back in, I suggest that you go into Menu(≡) &gt; Settings &gt; Account Settings, to make a record of your 2-Factor Security key, and also create a Password Recovery token by setting up some Questions/Answers. If you store these securely, you can easily protect your Edge account and the assets inside for many years to come 🔐👍</p><p>Please review our support article for more information: <a href=\"https://support.edge.app/hc/en-us/articles/7018106439579-Edge-Security-IP-Validation-and-2FA\">https://support.edge.app/hc/en-us/articles/7018106439579-Edge-Security-IP-Validation-and-2FA</a></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Regarding the 2FA / IP Validation lock-out - \nThis is a security measure that's enabled by default and triggered when our servers detect a login from a new or un-permissioned device. This would include if the app was deleted and reinstalled.\n \nFor immediate access to your Edge account, you must either:\n- Use the 2FA code (if you backed it up before this)\n- Use a permissioned device to log into a new or un-permissioned device by scanning a login QR-code; or\n- Wait 7+ days to permission an unrecognized deice with valid login credentials\n\nIf you are on the original or only device, and do not have a backup of the 2FA key, you will simply need to await the seven days to permission the fresh install. If an attacker had your account credentials and tried to access your account, they would get locked out, you would be notified of this and would be able to take action to prevent the unauthorized access.\n​\nWith that said, your funds are safe!\nAfter the 7+ day period, you will gain full access to your account. Once you're back in, I suggest that you go into Menu(≡) > Settings > Account Settings, to make a record of your 2-Factor Security key, and also create a Password Recovery token by setting up some Questions/Answers. If you store these securely, you can easily protect your Edge account and the assets inside for many years to come 🔐👍\n\nPlease review our support article for more information: https://support.edge.app/hc/en-us/articles/7018106439579-Edge-Security-IP-Validation-and-2FA\n"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "2fa_locked/ip_validation"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "current_tags",
+      "value": "2fa_locked/ip_validation"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Account - 2FA/IP Validation Locked"
+}

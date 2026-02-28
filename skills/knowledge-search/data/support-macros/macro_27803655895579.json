@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/27803655895579.json",
+  "id": 27803655895579,
+  "title": "Fake Token (BSC USDT - Scam)",
+  "active": true,
+  "updated_at": "2025-05-29T01:52:04Z",
+  "created_at": "2024-07-29T15:53:30Z",
+  "default": false,
+  "position": 330,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>I'm very sorry to inform you that the \"USDT\" tokens involved in this transaction appear to be fake. The real USDT, issued by Tether Operations and backed 1:1 with US Dollars, is called \"<span style=\"background-color:rgb(24,26,27);color:rgb(209,205,199);\">Binance-Peg BSC-USD\" (</span><strong>BSC-USD</strong>) on the BNB Smart Chain, and scammers will take advantage of this. The official contract for this token can be seen here:&nbsp;</p><p><a href=\"https://bscscan.com/token/0x55d398326f99059ff775485246999027b3197955\">https://bscscan.com/token/0x55d398326f99059ff775485246999027b3197955</a></p><p>&nbsp;</p><p>Malicious actors may create a new token, call it whatever they want, and try to make them look like tokens that are valuable, in order to trick unsuspecting or new users. In order to avoid counterfeit or fraudulent tokens like this, you can use use the existing token data in Edge. Simply enable the BSC-USD token for any BNB Smart Chain wallet in your account, and you will now have a real place for $1 Tether stable coins. You may also utilize reliable resources like <a href=\"https://coinmarketcap.com\">CoinMarketCap.com</a> to cross-reference token information and verify contract data.&nbsp;</p><p>&nbsp;</p><p>Please be cautious whenever extending trust to someone online who is trying very hard to get it from you. This attack is only possible if you trust someone to help you create this custom token in your Edge account, so that the false balance appears to be real in the app.</p><p>&nbsp;</p><p>Also, reach out anytime to Edge support if you are uncertain about an opportunity presented to you by an online acquaintance. We can help to research and validate what is true or not. Let us know any other questions you have.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "I'm very sorry to inform you that the \"USDT\" tokens involved in this transaction appear to be fake. The real USDT, issued by Tether Operations and backed 1:1 with US Dollars, is called \"Binance-Peg BSC-USD\" (BSC-USD) on the BNB Smart Chain, and scammers will take advantage of this. The official contract for this token can be seen here: \nhttps://bscscan.com/token/0x55d398326f99059ff775485246999027b3197955\n \nMalicious actors may create a new token, call it whatever they want, and try to make them look like tokens that are valuable, in order to trick unsuspecting or new users. In order to avoid counterfeit or fraudulent tokens like this, you can use use the existing token data in Edge. Simply enable the BSC-USD token for any BNB Smart Chain wallet in your account, and you will now have a real place for $1 Tether stable coins. You may also utilize reliable resources like CoinMarketCap.com to cross-reference token information and verify contract data. \n \nPlease be cautious whenever extending trust to someone online who is trying very hard to get it from you. This attack is only possible if you trust someone to help you create this custom token in your Edge account, so that the false balance appears to be real in the app.\n \nAlso, reach out anytime to Edge support if you are uncertain about an opportunity presented to you by an online acquaintance. We can help to research and validate what is true or not. Let us know any other questions you have."
+    },
+    {
+      "field": "current_tags",
+      "value": "bnb_usdt scam"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "bnb_smart_chain"
+    },
+    {
+      "field": "custom_fields_36875024059035",
+      "value": "fake_token"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Fake Token (BSC USDT - Scam)"
+}

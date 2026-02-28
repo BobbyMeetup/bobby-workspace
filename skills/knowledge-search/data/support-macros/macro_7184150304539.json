@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7184150304539.json",
+  "id": 7184150304539,
+  "title": "Account - How to enable 2FA",
+  "active": true,
+  "updated_at": "2023-07-21T23:51:10Z",
+  "created_at": "2022-07-08T19:58:42Z",
+  "default": false,
+  "position": 26,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>To enable 2FA (two factor authentication):</p><ol><li>Open and log into you Edge app.</li><li>Tap the Menu(≡) at the upper right of the screen.&nbsp;</li><li>Look to the bottom of that menu and tap on Settings.</li><li>Now at the top, click on \"Tap to Unlock Account Settings\" and unlock them with your password.</li><li>Tap \"Set Up 2-Factor Security\"</li><li>Follow the steps and keep your code safely stored.</li></ol><p><br></p><p>You may also now set up the Password Recovery token here in Account Settings. I suggest you do both (and store them securely!) to protect your Edge account for many years to come 🔐👍</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "To enable 2FA (two factor authentication):\n1. Open and log into you Edge app.\n2. Tap the Menu(≡) at the upper right of the screen. \n3. Look to the bottom of that menu and tap on Settings.\n4. Now at the top, click on \"Tap to Unlock Account Settings\" and unlock them with your password.\n5. Tap \"Set Up 2-Factor Security\"\n6. Follow the steps and keep your code safely stored.\n\nYou may also now set up the Password Recovery token here in Account Settings. I suggest you do both (and store them securely!) to protect your Edge account for many years to come 🔐👍\n"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Account - How to enable 2FA"
+}

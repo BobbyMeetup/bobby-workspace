@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/26178055248027.json",
+  "id": 26178055248027,
+  "title": "say-more-missingfunds",
+  "active": true,
+  "updated_at": "2024-09-28T20:13:14Z",
+  "created_at": "2024-05-30T20:13:51Z",
+  "default": false,
+  "position": 299,
+  "description": "tell me more info about your missing funds",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hello {{ticket.requester.first_name}},<br><br>Could you please give us some more details about this Missing Funds issue?</p><p>&nbsp;</p><p>Depending on what kind of transaction it is, it could simply be a matter of 3rd-party exchange processing times, in which case waiting will be required. If funds have surely been sent, then it could be that a wallet on your device has gone out-of-sync with the latest blockchain information, and a simple Resync action on your receiving wallet will solve this.</p><p>&nbsp;</p><p>Any additional information, like a transaction ID or screenshots, will help us gain more insight to better assist you with locating these missing funds.<br>&nbsp;<br>Kind regards,<br>{{current_user.first_name}}</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hello {{ticket.requester.first_name}},\n\nCould you please give us some more details about this Missing Funds issue?\n\nDepending on what kind of transaction it is, it could simply be a matter of 3rd-party exchange processing times, in which case waiting will be required. If funds have surely been sent, then it could be that a wallet on your device has gone out-of-sync with the latest blockchain information, and a simple Resync action on your receiving wallet will solve this.\n\nAny additional information, like a transaction ID or screenshots, will help us gain more insight to better assist you with locating these missing funds.\n \nKind regards,\n{{current_user.first_name}}"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "say-more-missingfunds"
+}

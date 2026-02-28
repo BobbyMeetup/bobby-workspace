@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/19033273043867.json",
+  "id": 19033273043867,
+  "title": "Thorchain Savers Staking Error",
+  "active": true,
+  "updated_at": "2024-10-05T18:30:10Z",
+  "created_at": "2023-09-23T21:28:01Z",
+  "default": false,
+  "position": 213,
+  "description": "",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987966018715"
+    },
+    {
+      "field": "custom_fields_6990445837595",
+      "value": "error"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "externally_resolved"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">Hello {{ticket.requester.first_name}},</span><br>&nbsp;</p><p><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">Thank you for the notice about this. We recently discovered this issue as well, and it appears to be an issue currently with the Thorchain Savers Protocol. This only applies to staking more assets, but unstaking is still functional at this time.</span><br>&nbsp;</p><p><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">We don't have an exact ETA on when this will be fixed, since we are also waiting on another team to finish troubleshooting it. If you'd like, I can keep this ticket on hold and reply to let you know when staking has been fixed.</span></p><p>&nbsp;</p><p><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">Please let me know if you have any more questions.</span></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hello {{ticket.requester.first_name}},\n\nThank you for the notice about this. We recently discovered this issue as well, and it appears to be an issue currently with the Thorchain Savers Protocol. This only applies to staking more assets, but unstaking is still functional at this time.\n\nWe don't have an exact ETA on when this will be fixed, since we are also waiting on another team to finish troubleshooting it. If you'd like, I can keep this ticket on hold and reply to let you know when staking has been fixed.\n\nPlease let me know if you have any more questions."
+    },
+    {
+      "field": "current_tags",
+      "value": "thorchain savers error staking"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Thorchain Savers Staking Error"
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/31955557167003.json",
+  "id": 31955557167003,
+  "title": "BNB Beacon Post-fusion recovery steps",
+  "active": true,
+  "updated_at": "2025-01-23T21:11:18Z",
+  "created_at": "2024-12-17T12:19:42Z",
+  "default": false,
+  "position": 383,
+  "description": "",
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hello,</p><p>The Binance Beacon chain was fully sunsetted in 2024 and has since been completely replaced by the Binance Smart Chain. Any assets still on the beacon chain since the network's closure will not be transferable, and could be permanently lost; however, many of them can be recovered using a 3rd-party browser extension and a special tool (dApp) built for this exact situation.</p><p>&nbsp;</p><p>Please navigate to <a href=\"https://docs.bnbchain.org/bc-fusion/post-fusion/token-recovery/\">https://docs.bnbchain.org/bc-fusion/post-fusion/token-recovery</a> to follow the migration steps. Let us know if you have any other questions about this, or would still like more assistance with completing these recovery steps for any BNB or BEP2 tokens stuck on the deprecated BNB chain.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hello,\nThe Binance Beacon chain was fully sunsetted in 2024 and has since been completely replaced by the Binance Smart Chain. Any assets still on the beacon chain since the network's closure will not be transferable, and could be permanently lost; however, many of them can be recovered using a 3rd-party browser extension and a special tool (dApp) built for this exact situation.\n\nPlease navigate to https://docs.bnbchain.org/bc-fusion/post-fusion/token-recovery to follow the migration steps. Let us know if you have any other questions about this, or would still like more assistance with completing these recovery steps for any BNB or BEP2 tokens stuck on the deprecated BNB chain."
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "wallet"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "bnb_beacon_chain"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "externally_resolved"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "BNB Beacon Post-fusion recovery steps"
+}

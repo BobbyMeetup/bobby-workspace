@@ -1,0 +1,46 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7172852229275.json",
+  "id": 7172852229275,
+  "title": "BUSD (Binance USDT) - BNB smart chain",
+  "active": true,
+  "updated_at": "2024-02-15T11:20:15Z",
+  "created_at": "2022-07-08T13:15:17Z",
+  "default": false,
+  "position": 10,
+  "description": null,
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "assignee_id",
+      "value": "6924706366107"
+    },
+    {
+      "field": "group_id",
+      "value": "6923892939675"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>My suggestion right now is to use an external wallet, such as Metamask, to gain access to your token, since we had a couple of bugs with BNB Smart Chain we will fix in the next release, so you can't currently create token wallets under BNB Smart Chain.<br><br>Here the steps:</p><p><br><b><u>For Inside &nbsp;Edge wallet</u></b></p><p>Open your Edge app<br>Search the ethereum wallet, open it, tap Request and check if the address the same you sent the funds to (the address you pasted in Binance Withdraw).</p><p>In Wallets list, long press on your&nbsp;<u>Etherem&nbsp;</u><u>wallet with that address.</u></p><p>press raw key, You will need to write do the information next to the \"Raw Key\" . Now repeat but press Master Private Key and manually copy that string.</p><p>You will need this information for the next&nbsp;steps</p><p><br></p><p><br></p><p><b>Step in metamask (Desktop)</b></p><p>Follow the steps here to install Metamask on your Desktop and use the BNB Smart Chain network:&nbsp;<a href=\"https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain\" target=\"_blank\" rel=\"noreferrer\">https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain</a></p><p><br></p><p>Once you have made the metamask BSC wallet you will need to import your RAW key or Private Key from Edge.</p><p>On Metamask Desktop, tap on the Circle Icon upper right, tap Import, paste the Private key you copied from Edge</p><p><br></p><p>After you import your wallet, you will need to go to&nbsp;<a href=\"https://bscscan.com/token/0x55d398326f99059ff775485246999027b3197955?a=0x88cba3383f217133541727e80813c1c9f672de5d\" target=\"_blank\" rel=\"noreferrer\">https://bscscan.com/token/0x55d398326f99059ff775485246999027b3197955?a=0x88cba3383f217133541727e80813c1c9f672de5d</a><br>​</p><p>You will need to click add to web 3 wallet</p><p>You find this in the profile summary &nbsp;of the crypto you sent.&nbsp;</p><p><br></p><p><img style=\"width: 437px;\" src=\"https://attachment.freshdesk.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6ODA5ODQxMjYyNCwiZG9tYWluIjoiYWlyYml0ei5mcmVzaGRlc2suY29tIiwiYWNjb3VudF9pZCI6MjcxNzQwfQ.gCUmzYwF3KI0XKR9CLAkVSIo7PP1VTUG5d0c-39DqJc\"></p><p><br></p><p>This will add the token to your wallet and the balance.&nbsp;</p><p><br></p><p>Please let us know if you have more questions.</p><p>​</p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "My suggestion right now is to use an external wallet, such as Metamask, to gain access to your token, since we had a couple of bugs with BNB Smart Chain we will fix in the next release, so you can't currently create token wallets under BNB Smart Chain.\n\nHere the steps:\n\nFor Inside  Edge wallet\nOpen your Edge app\nSearch the ethereum wallet, open it, tap Request and check if the address the same you sent the funds to (the address you pasted in Binance Withdraw).\nIn Wallets list, long press on your Etherem wallet with that address.\npress raw key, You will need to write do the information next to the \"Raw Key\" . Now repeat but press Master Private Key and manually copy that string.\nYou will need this information for the next steps\n\n\nStep in metamask (Desktop)\nFollow the steps here to install Metamask on your Desktop and use the BNB Smart Chain network: https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain\n\nOnce you have made the metamask BSC wallet you will need to import your RAW key or Private Key from Edge.\nOn Metamask Desktop, tap on the Circle Icon upper right, tap Import, paste the Private key you copied from Edge\n\nAfter you import your wallet, you will need to go to https://bscscan.com/token/0x55d398326f99059ff775485246999027b3197955?a=0x88cba3383f217133541727e80813c1c9f672de5d\n​\nYou will need to click add to web 3 wallet\nYou find this in the profile summary  of the crypto you sent. \n\n\n\nThis will add the token to your wallet and the balance. \n\nPlease let us know if you have more questions.\n​\n\n"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "funds_never_arrived_receive"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 6924706366107
+  },
+  "raw_title": "BUSD (Binance USDT) - BNB smart chain"
+}

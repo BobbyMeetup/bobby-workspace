@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7247071776923.json",
+  "id": 7247071776923,
+  "title": "LibertyX - Update personal information",
+  "active": true,
+  "updated_at": "2024-09-03T15:19:17Z",
+  "created_at": "2022-07-11T22:32:35Z",
+  "default": false,
+  "position": 75,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge is a zero-knowledge app and we don't have access to any information shared between you and our exchange partners. If you need to update your personal account information with them, their direct support channel for this is:&nbsp;<a href=\"mailto:support@libertyx.com\" target=\"_blank\" rel=\"noreferrer\" data-nofollow=\"true\">support@libertyx.com</a><br></p><p><br></p><p>If you have some general questions about LibertyX, their knowledge base is here: <a href=\"https://libertyx.zendesk.com/hc/en-us\" target=\"_blank\" rel=\"noreferrer\">https://libertyx.zendesk.com/hc/en-us</a></p><p><br></p><p>Let us know if you have more questions for Edge!</p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Edge is a zero-knowledge app and we don't have access to any information shared between you and our exchange partners. If you need to update your personal account information with them, their direct support channel for this is: support@libertyx.com\n\nIf you have some general questions about LibertyX, their knowledge base is here: https://libertyx.zendesk.com/hc/en-us\n\nLet us know if you have more questions for Edge!\n"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "libertyx"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "kyc/id_verification_issue"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "current_tags",
+      "value": "libertyx"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "LibertyX - Update personal information"
+}

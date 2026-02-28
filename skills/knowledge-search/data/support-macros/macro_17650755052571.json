@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/17650755052571.json",
+  "id": 17650755052571,
+  "title": "Buy - Verify Myself / KYC",
+  "active": true,
+  "updated_at": "2025-05-15T20:00:39Z",
+  "created_at": "2023-08-03T18:16:33Z",
+  "default": false,
+  "position": 195,
+  "description": "for users having trouble verifying themselves",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "kyc/id_verification_issue"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge accounts are very private, defined only by a username and password, no identity or personal information is asked or associated with your account.<br>&nbsp;</p><p>In order to buy or sell cryptocurrency, users may need to complete KYC (\"Know Your Customer\") steps with one of our exchange partners. For the exchange company to be legally compliant and be in-business, the must require this in most cases.</p><p><br>Verifying yourself typically only happens once, when you are creating your first order with one of the exchange companies we've integrated (Banxa, Moonpay, Simplex, Paybis, etc.) - If you are experiencing any issue when trying to complete verifications, the quickest resolution is often found by contacting their support directly.</p><p>&nbsp;</p><p>If you cannot find their direct support, let us know and we'll connect you.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Edge accounts are very private, defined only by a username and password, no identity or personal information is asked or associated with your account.\n\nIn order to buy or sell cryptocurrency, users may need to complete KYC (\"Know Your Customer\") steps with one of our exchange partners. For the exchange company to be legally compliant and be in-business, the must require this in most cases.\n\nVerifying yourself typically only happens once, when you are creating your first order with one of the exchange companies we've integrated (Banxa, Moonpay, Simplex, Paybis, etc.) - If you are experiencing any issue when trying to complete verifications, the quickest resolution is often found by contacting their support directly.\n\nIf you cannot find their direct support, let us know and we'll connect you."
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Buy - Verify Myself / KYC"
+}

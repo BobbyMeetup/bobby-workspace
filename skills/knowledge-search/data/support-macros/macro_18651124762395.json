@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/18651124762395.json",
+  "id": 18651124762395,
+  "title": "Buy - Mercuyo Pro (OTC)",
+  "active": true,
+  "updated_at": "2023-09-09T22:02:57Z",
+  "created_at": "2023-09-09T21:09:13Z",
+  "default": false,
+  "position": 205,
+  "description": "https://docs.google.com/spreadsheets/d/1RzXHWLwzuiUh6xpz9x0Qb2TVw3b9kDHXv7BHpQjSqMg/edit#gid=0",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "current_tags",
+      "value": "mercuryo otc_request"
+    },
+    {
+      "field": "subject",
+      "value": "Formal invite to Mercuryo Pro's white-glove OTC service"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "unable_to_buy"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi {{ticket.requester.first_name}},<br><br>I went ahead and created a special link for you.<br>This is a one-time use link that you may use to begin a conversation with Mercuyo's white-glove, OTC desk to make larger BTC purchases.<br><br></p><p>Please let me know if you have any other questions come up during the process.<br>And if you don't mind sharing, I'll be curious to hear any feedback you have regarding their white-glove experience.<br>Mercuryo is very professional and should take excellent care of you.<br><br><a href=\"https://exchange.mercuryo.io/?&amp;widget_id=\" target=\"_blank\" rel=\"noreferrer\">https://exchange.mercuryo.io/?&amp;widget_id=</a>&lt;add required unique otc_id&gt;</p><p><br></p><p>Best regards!<br><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hi,\n\nI went ahead and created a special link for you.\nThis is a one-time use link that you may use to begin a conversation with Mercuyo's white-glove, OTC desk to make larger BTC purchases.\n\nPlease let me know if you have any other questions come up during the process.\nAnd if you don't mind sharing, I'll be curious to hear any feedback you have regarding their white-glove experience.\nMercuryo is very professional and should take excellent care of you.\n\nhttps://exchange.mercuryo.io/?&widget_id=<add required unique otc_id>\n\nBest regards!\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Buy - Mercuyo Pro (OTC)"
+}

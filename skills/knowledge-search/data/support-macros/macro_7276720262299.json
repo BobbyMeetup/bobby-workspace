@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7276720262299.json",
+  "id": 7276720262299,
+  "title": "Wallet - Import private key",
+  "active": true,
+  "updated_at": "2023-09-12T21:07:21Z",
+  "created_at": "2022-07-12T22:12:34Z",
+  "default": false,
+  "position": 102,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>It is possible to import a private key, for example, from a paper wallet.</p><p>Here the steps:</p><p>1) At the Main Wallet list screen, tap the + sign located next to the text \"Wallets\" or tap \"Add Wallet\" at the bottom of the wallets list.&nbsp;</p><p>2) Select an EVM Wallet to create</p><p>3) Tap Import</p><p>4) Enter the text private key</p><p>5) You'll then be able to import that EVM wallet into Edge</p><p><br></p><p>Also please note that if you have any tokens you will have to re-enable them.&nbsp;&nbsp;</p><p>​</p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - Import private key"
+}

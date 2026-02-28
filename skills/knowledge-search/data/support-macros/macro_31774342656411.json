@@ -1,0 +1,55 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/31774342656411.json",
+  "id": 31774342656411,
+  "title": "Solana sync issue",
+  "active": true,
+  "updated_at": "2024-12-12T21:57:34Z",
+  "created_at": "2024-12-11T18:38:06Z",
+  "default": false,
+  "position": 314,
+  "description": "",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "current_tags",
+      "value": "sync_issue"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "internally_resolved"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923916366107"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "solana"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "wallet"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p><span style=\"color:rgb(197,192,184);\">When Solana is under heavy use, we've identified an sync issue that makes it hard for the Edge SOL wallets to synchronize fully. We have a lead developer working on this right now, so we expect this to be fully resolved with the next app update.</span></p><p>&nbsp;</p><p><span style=\"color:rgb(197,192,184);\">Meanwhile, you could try another resync on your SOL when the chain is less impacted, perhaps later in the evenings when on-chain activity typically slows.</span></p><p>&nbsp;</p><p><span style=\"color:rgb(197,192,184);\">Let me know if you have any more questions.</span></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "When Solana is under heavy use, we've identified an sync issue that makes it hard for the Edge SOL wallets to synchronize fully. We have a lead developer working on this right now, so we expect this to be fully resolved with the next app update.\n\nMeanwhile, you could try another resync on your SOL when the chain is less impacted, perhaps later in the evenings when on-chain activity typically slows.\n\nLet me know if you have any more questions."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Solana sync issue"
+}

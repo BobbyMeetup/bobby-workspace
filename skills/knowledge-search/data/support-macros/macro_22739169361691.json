@@ -1,0 +1,55 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/22739169361691.json",
+  "id": 22739169361691,
+  "title": "HBAR - unactivated, can't receive",
+  "active": true,
+  "updated_at": "2025-02-01T00:35:29Z",
+  "created_at": "2024-02-07T18:42:46Z",
+  "default": false,
+  "position": 259,
+  "description": "",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "unable_to_receive"
+    },
+    {
+      "field": "current_tags",
+      "value": "hbar"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923916366107"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "internally_resolved"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>When creating a brand new Hedera (HBAR) wallet address within your Edge account, it will need to first be activated by sending some HBAR into it, before most exchanges will consider the address as valid.</p><p>&nbsp;</p><p>If you already have some HBAR in a self-custodial wallet, like Edge, you can simply send a small amount of HBAR, for instance, send .1 HBAR to your new, Edge HBAR wallet to quickly activate and convert the 'long' address type into your new 'short' HBAR receiving address. The sending wallet must support HIP-542 and pay a small fee in HBAR to activate the new wallet address.</p><p>&nbsp;</p><p>If you do not have another HBAR wallet, or a friend that can send you some HBAR, then we will be your friend! Please share a screenshot your Hedera wallet within Edge, on the Receive HBAR screen, and also click 'Copy' for your long HBAR address to paste and share with us here in text format. I will inquire with the team about getting this activated for you so that you may proceed to swap into HBAR within Edge, or receive HBAR from any exchanger.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "When creating a brand new Hedera (HBAR) wallet address within your Edge account, it will need to first be activated by sending some HBAR into it, before most exchanges will consider the address as valid.\n\nIf you already have some HBAR in a self-custodial wallet, like Edge, you can simply send a small amount of HBAR, for instance, send .1 HBAR to your new, Edge HBAR wallet to quickly activate and convert the 'long' address type into your new 'short' HBAR receiving address. The sending wallet must support HIP-542 and pay a small fee in HBAR to activate the new wallet address.\n\nIf you do not have another HBAR wallet, or a friend that can send you some HBAR, then we will be your friend! Please share a screenshot your Hedera wallet within Edge, on the Receive HBAR screen, and also click 'Copy' for your long HBAR address to paste and share with us here in text format. I will inquire with the team about getting this activated for you so that you may proceed to swap into HBAR within Edge, or receive HBAR from any exchanger."
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "HBAR - unactivated, can't receive"
+}

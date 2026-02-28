@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/29702000598939.json",
+  "id": 29702000598939,
+  "title": "XMR - Scanners ",
+  "active": true,
+  "updated_at": "2024-10-02T12:05:18Z",
+  "created_at": "2024-10-01T20:00:40Z",
+  "default": false,
+  "position": 356,
+  "description": "XMR scanning issues macro",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>MyMonero scanners had some downtime recently, causing sync issues for some of our users.</p><p>&nbsp;</p><p>If you have had any sync issues with your XMR wallet lately, we can have their team manually reinitialize synchronization. We need two (2) pieces of information to resolve this quickly -</p><ul><li>Your XMR receiving address</li><li>Wallet creation date or import date</li></ul><p>&nbsp;</p><p>To locate your Receive address for Monero</p><ol><li>Login and tap into your Assets page</li><li>Click into your XMR wallet, and Tap \"Receive\"&nbsp;</li><li><p>Tap \"Copy\" and paste that in a reply to us.</p><p>&nbsp;</p></li></ol><p>We also need to know when this wallet first started existing. If you've imported this XMR wallet into Edge, please provide the date of the import. If you do not know the XMR wallet creation/import date, please provide logs. (<i>Note: Sharing logs does not include any private information such as password, private keys or extended public keys, but do include some information about your account such as username, device, exchange queries, and EVM addresses.</i>)</p><ol><li>Go to the main Menu (<strong>≡</strong>) in the upper right corner, tap Settings, scroll to the bottom and select 'Export Logs'</li><li>Enter your email address in the notes field to help us identify your log submission.</li><li>Tap 'Send Logs to Edge' and reply here with time sent.</li></ol><p>&nbsp;</p><p>&nbsp;</p><p>With this information, we will be able to get your XMR wallet syncing again.&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "MyMonero scanners had some downtime recently, causing sync issues for some of our users.\n \nIf you have had any sync issues with your XMR wallet lately, we can have their team manually reinitialize synchronization. We need two (2) pieces of information to resolve this quickly -\nYour XMR receiving address\nWallet creation date or import date\n \nTo locate your Receive address for Monero\nLogin and tap into your Assets page\nClick into your XMR wallet, and Tap \"Receive\" \nTap \"Copy\" and paste that in a reply to us.\n \n\n\nWe also need to know when this wallet first started existing. If you've imported this XMR wallet into Edge, please provide the date of the import. If you do not know the XMR wallet creation/import date, please provide logs. (Note: Sharing logs does not include any private information such as password, private keys or extended public keys, but do include some information about your account such as username, device, exchange queries, and EVM addresses.)\nGo to the main Menu (≡) in the upper right corner, tap Settings, scroll to the bottom and select 'Export Logs'\nEnter your email address in the notes field to help us identify your log submission.\nTap 'Send Logs to Edge' and reply here with time sent.\n\n \n \nWith this information, we will be able to get your XMR wallet syncing again. \n"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "xmr"
+    },
+    {
+      "field": "current_tags",
+      "value": "mymonero_scanners"
+    },
+    {
+      "field": "subject",
+      "value": "Manually Reinitialize XMR Scanners"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "XMR - Scanners "
+}

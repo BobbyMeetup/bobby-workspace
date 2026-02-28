@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7184209614235.json",
+  "id": 7184209614235,
+  "title": "Account - IP Validation",
+  "active": true,
+  "updated_at": "2024-02-19T11:33:32Z",
+  "created_at": "2022-07-08T20:01:05Z",
+  "default": false,
+  "position": 29,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Regarding the Authorized Device screen, you possibly tried to log in from a different location from where you created your account or your local IP is different than the one used the last time you logged into your Edge account.</p><p><br></p><p>A user might run into the IP Validation (the screen without the option to enter a 2FA code, scan only) if they log into the account on a completely different IP Address or location since they've last logged in or since they created the account.&nbsp;</p><p>&nbsp;ex: Created account in Italy and logged in various regions in Europe. However, deleted the app and is now logging in from Africa for the first time. This user will see the IP Validation screen as it won't recognize any IP addresses or locations other than Italy and the other countries he's logged in from in the past in Europe.</p><p><br></p><p>This can prevent attackers from entering your account. Even if they have your credentials and are locked out because you didn't back up the 2fa code, they will be locked and have a higher timeframe if they try to log in from another IP. So you can gain access before them, change your password and keep them out.</p><p><br></p><p>With that said, you will likely simply need to wait 7 days after for the IP Validation to reset, and you'll be able to access it.</p><p>Do NOT uninstall/reinstall the app or you will increase the number of days you need to wait.<br></p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Account - IP Validation"
+}

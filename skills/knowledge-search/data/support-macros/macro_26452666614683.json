@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/26452666614683.json",
+  "id": 26452666614683,
+  "title": "Solana - Insufficient funds",
+  "active": true,
+  "updated_at": "2025-06-26T22:36:17Z",
+  "created_at": "2024-06-10T10:40:52Z",
+  "default": false,
+  "position": 315,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>In order to send a Solana token, for example USDT, USDC... you'll first need a bit of SOL to pay the gas (or mining) fees. <br>This is a Solana policy, not an Edge one. We receive no profit from these gas fees. They are paid solely to Solana network validators to process your transaction on-chain.</p><p><br>Tokens can NOT pay for their own fees.</p><p><br>This policy also applies&nbsp;to exchanges, so if you want to swap a Solana token into anything else (for example USDT to SOL), you'll need some SOL beforehand to cover the gas fees.&nbsp;</p><p><br>Please let us know if you have any more questions.</p><p><br></p>"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "insufficient_unable_to_send"
+    },
+    {
+      "field": "current_tags",
+      "value": "insufficient_unable_to_send"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "sol_token"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Solana - Insufficient funds"
+}

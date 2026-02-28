@@ -1,0 +1,38 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7172413906971.json",
+  "id": 7172413906971,
+  "title": "Resync",
+  "active": true,
+  "updated_at": "2024-04-15T12:43:06Z",
+  "created_at": "2022-07-08T12:59:07Z",
+  "default": false,
+  "position": 7,
+  "description": "Resync wallet",
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi {{ticket.requester.first_name}},<br>thanks for reaching out.<br>Can you please try to resync your wallet?<br><br></p><p>From the Assets list, open the wallet, tap the three vertical dots upper right, click resync and confirm, than wait a few seconds.</p><p>If this doesn't work try force close the app, open it and wait till the green circle around the wallet has gone.</p><p>Then check again.</p><p>Also, be sure to have the latest version of the app.</p><p>Please let me know.</p><p><br></p><p><br></p>"
+    },
+    {
+      "field": "group_id",
+      "value": "6923892939675"
+    },
+    {
+      "field": "assignee_id",
+      "value": "6924706366107"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "funds_never_arrived_receive"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 6924706366107
+  },
+  "raw_title": "Resync"
+}

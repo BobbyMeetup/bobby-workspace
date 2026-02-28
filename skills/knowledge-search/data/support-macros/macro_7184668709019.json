@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7184668709019.json",
+  "id": 7184668709019,
+  "title": "AirBitz - Upgrade Airbitz to Edge",
+  "active": true,
+  "updated_at": "2025-08-14T00:44:49Z",
+  "created_at": "2022-07-08T20:13:55Z",
+  "default": false,
+  "position": 34,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Airbitz is no longer being developed and all resources are focused on&nbsp;our new app, Edge. Download and log into Edge with the exact same credentials you use for Airbitz, and you will see your all your funds and will be able to manage them.</p><p><br></p><p>You can find app store links to download Edge, here:&nbsp;<a href=\"https://edge.app/get-started\" target=\"_blank\" rel=\"noreferrer\">https://edge.app/get-started</a></p><p>If you need further info or have more questions, please reply.</p><p><br></p><p><br></p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Airbitz is no longer being developed and all resources are focused on our new app, Edge. Download and log into Edge with the exact same credentials you use for Airbitz, and you will see your all your funds and will be able to manage them.\n\nYou can find app store links to download Edge, here: https://edge.app/get-started\nIf you need further info or have more questions, please reply.\n\n\n\n"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "airbitz"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_10768400573083",
+      "value": "true"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "AirBitz - Upgrade Airbitz to Edge"
+}

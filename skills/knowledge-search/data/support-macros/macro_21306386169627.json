@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/21306386169627.json",
+  "id": 21306386169627,
+  "title": "Invite to Edge Mint",
+  "active": false,
+  "updated_at": "2024-10-21T19:21:48Z",
+  "created_at": "2023-12-16T23:09:48Z",
+  "default": false,
+  "position": 250,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>fyi, we recently launched <a href=\"https://edge.app/mint\" target=\"_blank\" rel=\"noreferrer\" data-nofollow=\"true\">Edge Mint</a>&nbsp;as a way to provide premium levels of crypto support.<br><br>The project is still very young with &lt; 10 Minties, so far! Additional perks may be added price may go up over time, but in a nut shell, this is simply priority access to the support team at Edge, with the ability to request over-the-shoulder crypto tutoring.</p><p><br></p><p>If you are looking to amp up your crypto game, consider this a pretty great opportunity! Having a reliable coach in your corner and someone willing to dig in and research to help you reach your crypto goals, is not something found very often in the crypto space. If you utilize it properly and bring your best crypto questions to the table, it's well worth it!</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "fyi, we recently launched Edge Mint as a way to provide premium levels of crypto support.\n\nThe project is still very young with < 10 Minties, so far! Additional perks may be added price may go up over time, but in a nut shell, this is simply priority access to the support team at Edge, with the ability to request over-the-shoulder crypto tutoring.\n\nIf you are looking to amp up your crypto game, consider this a pretty great opportunity! Having a reliable coach in your corner and someone willing to dig in and research to help you reach your crypto goals, is not something found very often in the crypto space. If you utilize it properly and bring your best crypto questions to the table, it's well worth it!"
+    },
+    {
+      "field": "current_tags",
+      "value": "referred-mint"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Invite to Edge Mint"
+}

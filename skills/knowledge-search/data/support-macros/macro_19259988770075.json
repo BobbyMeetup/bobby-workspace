@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/19259988770075.json",
+  "id": 19259988770075,
+  "title": "recovery-token",
+  "active": true,
+  "updated_at": "2024-11-19T20:50:01Z",
+  "created_at": "2023-10-02T17:23:07Z",
+  "default": false,
+  "position": 218,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>You may be able to find your recovery token by searching your email for 'Edge Recovery Token' - most users will email it to themselves for safe keeping, as this option is prompted by the app, but it's possible to have saved the token somewhere else.</p><p>&nbsp;</p><p>If you find this recovery token, it can be used to access the recovery questions that you set up for the account. With correct answers to these questions, you can login without knowing the password. (Note: You will still need to know the full username)<br><br>The recovery token also contains the first 2 characters of your username to give you a hint. If the recovery token cannot be located, there is no way to generate one while logged out of the account.<br>&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "You may be able to find your recovery token by searching your email for 'Edge Recovery Token' - most users will email it to themselves for safe keeping, as this option is prompted by the app, but it's possible to have saved the token somewhere else.\n\nIf you find this recovery token, it can be used to access the recovery questions that you set up for the account. With correct answers to these questions, you can login without knowing the password. (Note: You will still need to know the full username)\n\nThe recovery token also contains the first 2 characters of your username to give you a hint. If the recovery token cannot be located, there is no way to generate one while logged out of the account."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "recovery-token"
+}

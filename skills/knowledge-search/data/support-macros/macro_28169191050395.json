@@ -1,0 +1,55 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/28169191050395.json",
+  "id": 28169191050395,
+  "title": "Send - Not Received",
+  "active": true,
+  "updated_at": "2024-08-10T16:27:35Z",
+  "created_at": "2024-08-10T16:27:35Z",
+  "default": false,
+  "position": 332,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi {{ticket.requester.first_name}},</p><p>&nbsp;</p><p><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">Will you please send us the transaction ID, so we can check?</span></p><ol><li><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">Login to Edge and tap 'View Assets' at the top - or - tap 'Assets' from the bottom navigation bar</span></li><li><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">Tap on the wallet that you sent crypto from</span></li><li><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">Inside of that wallet: - tap on the transaction in question - tap on the transaction ID (this copies it) - paste it in a response to us here.</span></li></ol><p>&nbsp;</p><p><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">We will have a closer look and provide you with as much insight as we can gather on this transaction. Ultimately, it may be up to your receiver to recover the USDT tokens if you sent them on a different network or blockchain than they were expecting.</span></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hi {{ticket.requester.first_name}},\n \nWill you please send us the transaction ID, so we can check?\n1. Login to Edge and tap 'View Assets' at the top - or - tap 'Assets' from the bottom navigation bar\n2. Tap on the wallet that you sent crypto from\n3. Inside of that wallet: - tap on the transaction in question - tap on the transaction ID (this copies it) - paste it in a response to us here.\n \nWe will have a closer look and provide you with as much insight as we can gather on this transaction. Ultimately, it may be up to your receiver to recover the USDT tokens if you sent them on a different network or blockchain than they were expecting.\n"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "receiver_did_not_get_coins"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "send"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "erc-20"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Send - Not Received"
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/16774726413211.json",
+  "id": 16774726413211,
+  "title": "WalletConnect - MissingWcBridgeKey",
+  "active": false,
+  "updated_at": "2024-02-27T17:49:24Z",
+  "created_at": "2023-06-29T19:36:23Z",
+  "default": false,
+  "position": 182,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987966018715"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "subject",
+      "value": "WalletConnect v1 has been deprecated"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "current_tags",
+      "value": "walletconnect"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "wallet"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "WalletConnect - MissingWcBridgeKey"
+}

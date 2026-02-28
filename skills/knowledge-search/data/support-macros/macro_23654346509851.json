@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/23654346509851.json",
+  "id": 23654346509851,
+  "title": "ccn",
+  "active": true,
+  "updated_at": "2024-03-10T02:35:23Z",
+  "created_at": "2024-03-10T00:15:31Z",
+  "default": false,
+  "position": 274,
+  "description": "Cannot connect to number",
+  "actions": [
+    {
+      "field": "subject",
+      "value": "Cannot connect to {{ticket.requester.name}} - Inconclusive"
+    },
+    {
+      "field": "comment_mode_is_public",
+      "value": "false"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>\"Cannot connect to number\" on callback<br></p>"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923888415643"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "unresponsive/inconclusive"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "ccn"
+}

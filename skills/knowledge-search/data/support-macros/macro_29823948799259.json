@@ -1,0 +1,55 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/29823948799259.json",
+  "id": 29823948799259,
+  "title": "ChangeHero support",
+  "active": true,
+  "updated_at": "2024-10-05T17:09:34Z",
+  "created_at": "2024-10-05T17:09:34Z",
+  "default": false,
+  "position": 358,
+  "description": null,
+  "actions": [
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987701197339"
+    },
+    {
+      "field": "custom_fields_6991553191067",
+      "value": "funds_never_arrived"
+    },
+    {
+      "field": "custom_fields_6991267185435",
+      "value": "changehero"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge doesn't have any insight into your account or actions taken. Most crypto-to-crypto exchanges settle in less than an hour or two. Should any issues or questions arise about an exchange transaction powered by ChangeHero, please reach out to their support directly for more insight or any support needed.</p><p>&nbsp;</p><p>The ChangeHero FAQ and support contact info can be found here: https://changehero.io/mrkt/support</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Edge doesn't have any insight into your account or actions taken. Most crypto-to-crypto exchanges settle in less than an hour or two. Should any issues or questions arise about an exchange transaction powered by ChangeHero, please reach out to their support directly for more insight or any support needed.\n \nThe ChangeHero FAQ and support contact info can be found here: https://changehero.io/mrkt/support"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "ChangeHero support"
+}

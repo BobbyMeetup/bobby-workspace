@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/19984061090843.json",
+  "id": 19984061090843,
+  "title": "ps-app-store-review",
+  "active": true,
+  "updated_at": "2023-10-30T18:15:45Z",
+  "created_at": "2023-10-30T18:15:45Z",
+  "default": false,
+  "position": 226,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p><br></p><p>P.S. if you have a quick moment, leaving a positive review in your app store really helps us to grow and become a better wallet!<br>- <a href=\"https://itunes.apple.com/us/app/edge-bitcoin-wallet/id1344400091\" target=\"_blank\" rel=\"noreferrer\" data-nofollow=\"true\">Apple iTunes Store</a><br>- <a href=\"https://play.google.com/store/apps/details?id=co.edgesecure.app\" target=\"_blank\" rel=\"noreferrer\" data-nofollow=\"true\">Google Play Store</a><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "\nP.S. if you have a quick moment, leaving a positive review in your app store really helps us to grow and become a better wallet!\n- Apple: https://itunes.apple.com/us/app/edge-bitcoin-wallet/id1344400091\n- Google: https://play.google.com/store/apps/details?id=co.edgesecure.app"
+    },
+    {
+      "field": "current_tags",
+      "value": "review_requested"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923888415643"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "ps-app-store-review"
+}

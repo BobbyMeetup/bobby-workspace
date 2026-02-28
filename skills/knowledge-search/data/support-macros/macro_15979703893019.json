@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/15979703893019.json",
+  "id": 15979703893019,
+  "title": "beta-visa-card-apk",
+  "active": false,
+  "updated_at": "2025-01-04T23:39:03Z",
+  "created_at": "2023-05-31T20:02:02Z",
+  "default": false,
+  "position": 178,
+  "description": "",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "13053445492635"
+    },
+    {
+      "field": "current_tags",
+      "value": "visa-card beta-access"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hello,<br><br>Please see this guide for how to save your VISA card info<br><br><a href=\"https://edgeapp.zendesk.com/hc/en-us/articles/17028841988635-Backing-up-your-Prepaid-VISA-Card-Info\" target=\"_blank\" rel=\"noreferrer\">Backing up your Prepaid VISA® Card Info</a><br><br>Note: the window to backup these card details is closing soon by the card issuer, so please do not delay saving your virtual card information so that you may access and use these funds after June 30th.<br><br>Let me know if you have any more questions about this.<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hello,\n\nPlease see this guide for how to save your VISA card info\n\nBacking up your Prepaid VISA® Card Info\n(https://edgeapp.zendesk.com/hc/en-us/articles/17028841988635-Backing-up-your-Prepaid-VISA-Card-Info)\n\nNote: the window to backup these card details is closing soon by the card issuer, so please do not delay saving your virtual card information so that you may access and use these funds after June 30th.\n\nLet me know if you have any more questions about this."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "beta-visa-card-apk"
+}

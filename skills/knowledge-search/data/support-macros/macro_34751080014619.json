@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/34751080014619.json",
+  "id": 34751080014619,
+  "title": "spam",
+  "active": true,
+  "updated_at": "2025-04-03T19:45:45Z",
+  "created_at": "2025-03-08T18:01:15Z",
+  "default": false,
+  "position": 337,
+  "description": "spam tracking before banning, if it becomes recurring issue",
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "spam"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "irrelevant"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "comment_mode_is_public",
+      "value": "false"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>spam tracking (suspend user if repeated calls/emails come in)</p><p>&nbsp;</p>"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923888415643"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "spam"
+}

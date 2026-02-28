@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/32940628258075.json",
+  "id": 32940628258075,
+  "title": "Rates Bug Fixed",
+  "active": true,
+  "updated_at": "2025-01-18T18:17:11Z",
+  "created_at": "2025-01-18T18:17:11Z",
+  "default": false,
+  "position": 402,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>On January 16, 2025 Edge was made aware of an issue with one of our rates providers that gave inaccurate prices for a handful of assets such as DOGE, LINK, XRP, XLM and others. Some more insight into the issue can be seen in X posts from around this time (https://x.com/search?q=coincap)</p><p>&nbsp;</p><p>Your assets have remained safe and worth their true, market value. This was only a visual bug, lasting for a few hours; however, all users with price movement notifications turned on were alerted with these false price reports.<br>&nbsp;<br>We have permanently disabled this provider. All rates should display correctly now and going forward.</p><p>&nbsp;</p><p>We do apologize for any inconvenience from this.<br>If you have any questions or concerns, please respond to this message.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "On January 16, 2025 Edge was made aware of an issue with one of our rates providers that gave inaccurate prices for a handful of assets such as DOGE, LINK, XRP, XLM and others. Some more insight into the issue can be seen in X posts from around this time (https://x.com/search?q=coincap)\n\nYour assets have remained safe and worth their true, market value. This was only a visual bug, lasting for a few hours; however, all users with price movement notifications turned on were alerted with these false price reports.\n \nWe have permanently disabled this provider. All rates should display correctly now and going forward.\n\nWe do apologize for any inconvenience from this.\nIf you have any questions or concerns, please respond to this message."
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "current_tags",
+      "value": "rates"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "internally_resolved"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Rates Bug Fixed"
+}

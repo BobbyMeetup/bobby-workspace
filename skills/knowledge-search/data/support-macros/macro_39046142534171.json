@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/39046142534171.json",
+  "id": 39046142534171,
+  "title": "IMPORT seed phrase OR private key (2025)",
+  "active": true,
+  "updated_at": "2025-07-17T02:21:59Z",
+  "created_at": "2025-07-17T02:21:59Z",
+  "default": false,
+  "position": 459,
+  "description": "",
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "current_tags",
+      "value": "seed-import import"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p><u>To import a seed phrase or private key into Edge:&nbsp;</u><br>1) Go to the <strong>Assets</strong> screen where you can see your list of wallets<br>2) Tap the <strong>+</strong> button above your list of wallets (or tap \"Add Wallet\" at the bottom of the list)&nbsp;<br>2) Select the <strong>networks/currencies</strong> this wallet was used for and then tap \"<strong>Next</strong>\"<br>3) Tap the <strong>Import Wallets</strong> button (feel free to rename the new wallets first)<br>4) Enter your <strong>private key</strong> OR <strong>seed phrase</strong><br>5) Tap the <strong>Next</strong> button and then tap <strong>Next</strong> again to complete the import 🎉<br>&nbsp;<br>You'll be directed back to the Assets screen where you should see your newly imported wallet(s) added to the list. Let us know if you run into any issues during this process.&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "To import a seed phrase or private key into Edge: \n\n1) Go to the Assets screen where you can see your list of wallets\n2) Tap the + button above your list of wallets (or tap \"Add Wallet\" at the bottom of the list) \n2) Select the networks/currencies this wallet was used for and then tap \"Next\"\n3) Tap the Import Wallets button (feel free to rename the new wallets first)\n4) Enter your private key OR seed phrase\n5) Tap the Next button and then tap Next again to complete the import 🎉\n \nYou'll be directed back to the Assets screen where you should see your newly imported wallet(s) added to the list. Let us know if you run into any issues during this process. "
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "IMPORT seed phrase OR private key (2025)"
+}

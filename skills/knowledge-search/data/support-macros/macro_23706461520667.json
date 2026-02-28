@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/23706461520667.json",
+  "id": 23706461520667,
+  "title": "hiiii",
+  "active": true,
+  "updated_at": "2024-06-08T19:04:15Z",
+  "created_at": "2024-03-11T20:03:15Z",
+  "default": false,
+  "position": 11,
+  "description": "for no name and no context tickets",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hello! This is {{current_user.first_name}} with Edge wallet support. How can I be of assistance?<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hello! This is {{current_user.first_name}} with Edge wallet support. How can I be of assistance?"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "hiiii"
+}

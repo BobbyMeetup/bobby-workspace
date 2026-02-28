@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7247074425499.json",
+  "id": 7247074425499,
+  "title": "LTC - Litecoin (LTC) M Segwit Addresses",
+  "active": true,
+  "updated_at": "2023-02-13T18:25:52Z",
+  "created_at": "2022-07-11T22:33:25Z",
+  "default": false,
+  "position": 76,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge has enabled segwit support for Litecoin which means the wallet generates M-address types. Not all services are compatible with this yet and they may need to convert your M-address to a 3-address. You can do that in the wallet by tapping on the three dot menu on the Receive screen (the screen that shows your QR code) and tap \"Use Legacy Address\"</p><p><br></p><p>For more information about litecoin segwit addresses, please read this blog post from Trezor:&nbsp;<a href=\"https://blog.trezor.io/litecoins-new-p2sh-segwit-addresses-843633e3e707\" target=\"_blank\" rel=\"noreferrer\">https://blog.trezor.io/litecoins-new-p2sh-segwit-addresses-843633e3e707</a></p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "LTC - Litecoin (LTC) M Segwit Addresses"
+}

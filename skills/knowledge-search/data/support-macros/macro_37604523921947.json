@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/37604523921947.json",
+  "id": 37604523921947,
+  "title": "User QA Help",
+  "active": true,
+  "updated_at": "2025-06-03T18:24:23Z",
+  "created_at": "2025-06-02T17:59:18Z",
+  "default": false,
+  "position": 441,
+  "description": "helps users help us with a QA effort.",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thank you for bringing this issue to our attention. To help us resolve this efficiently, we'd appreciate if you could follow these steps to verify and report the bug:<br><br>1. **Reproduce the Issue**<br>&nbsp; &nbsp;- Try to recreate the bug at least twice to confirm it's consistent<br>&nbsp; &nbsp;- Note the exact steps you took when the issue occurred<br>&nbsp; &nbsp;- Pay attention to any error messages that appear<br><br>2. **Gather Information**<br>&nbsp; &nbsp;- app version you're using you can find this by tapping \"Help\" at the upper left corner and then looking to the bottom of the app<br>&nbsp; &nbsp;- Operating system and device type<br>&nbsp; &nbsp;- Time and date when the issue occurred<br>&nbsp; &nbsp;- Username of account (if applicable), NEVER SEND PASSWORD ONLY USERNAME<br><br>3. **Document with Screenshots/Recordings**<br>&nbsp; &nbsp;- Take screenshots showing the issue<br>&nbsp; &nbsp;- If possible, record a short screen recording demonstrating the bug<br>&nbsp; &nbsp;- Highlight any error messages or unexpected behavior<br><br>4. **Report Back to Us**<br>&nbsp; &nbsp;- Reply to this ticket with all the information above<br>&nbsp; &nbsp;- steps to reproduce the issue<br>&nbsp; &nbsp;- Attach your screenshots/recordings<br>&nbsp; &nbsp;- Include any additional observations that might help us understand the problem<br><br>This information will help our development team identify and fix the issue more quickly. We appreciate your partnership in improving our product!<br><br>Thank you for your assistance.</p>"
+    },
+    {
+      "field": "current_tags",
+      "value": "qa"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "User QA Help"
+}

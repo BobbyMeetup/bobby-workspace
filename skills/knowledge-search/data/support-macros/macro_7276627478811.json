@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7276627478811.json",
+  "id": 7276627478811,
+  "title": "Wallet - How to Send (sending)",
+  "active": true,
+  "updated_at": "2024-08-16T23:10:37Z",
+  "created_at": "2022-07-12T22:08:49Z",
+  "default": false,
+  "position": 101,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p><u>To send cryptocurrency from Edge to another crypto wallet address:</u></p><ol><li>Login to Edge, tap on Send near the top, and select the option to send 'To Another Wallet/Exchange'</li><li>Search through assets &amp; tap on the crypto wallet you want to send from.</li><li>Specify the Destination address by using:<br>&nbsp; &nbsp; &nbsp;- Enter (type it manually; not suggested)<br>&nbsp; &nbsp; &nbsp;- Scan (uses your camera to scan a wallet QR code)<br>&nbsp; &nbsp; &nbsp;- Paste (only appears when you've already copied a valid public address)</li><li>&nbsp;Now, enter the Amount you want to send, where it says 'Tap to edit'<br>&nbsp; &nbsp; &nbsp;- Enter amount in your local currency (or flip the input for sending a precise amount of crypto)<br>&nbsp; &nbsp; &nbsp;- Use the done/checkmark button on your keyboard to proceed, or<br>&nbsp; &nbsp; &nbsp;- Use the 'Max' button if you want to send everything and empty your wallet</li><li>Slide to Confirm (at the bottom) and your crypto is on the way! 🎉</li></ol><p><br><i>Please be extra careful when selecting the address where you want to send the funds. Cryptocurrencies operate on independent networks which have unique addresses, so you must select the correct address which supports the funds that you are sending. Sending cryptocurrency to an address that is not compatible with the assets being sent will result in loss of funds.</i><br>&nbsp;</p><p>Let us know if you have any other questions!<br>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "To send cryptocurrency from Edge to another crypto wallet address:\n  1. Login to Edge, tap on Send near the top, and select the option to send 'To Another Wallet/Exchange'\n  2. Search through assets & tap on the crypto wallet you want to send from.\n  3. Specify the Destination address by using:\n     - Enter (type it manually; not suggested)\n     - Scan (uses your camera to scan a wallet QR code)\n     - Paste (only appears when you've already copied a valid public address)\n  4. Now, enter the Amount you want to send, where it says 'Tap to edit'\n     - Enter amount in your local currency (or flip the input for sending a precise amount of crypto)\n     - Use the done/checkmark button on your keyboard to proceed, or\n     - Use the 'Max' button if you want to send everything and empty your wallet\n  5. Slide to Confirm (at the bottom) and your crypto is on the way!\n\nPlease be extra careful when selecting the address where you want to send the funds. Cryptocurrencies operate on independent networks which have unique addresses, so you must select the correct address which supports the funds that you are sending. Sending cryptocurrency to an address that is not compatible with the assets being sent will result in loss of funds.\n\nLet us know if you have any other questions!"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "how_to_send"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "send"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - How to Send (sending)"
+}

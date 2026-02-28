@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/31968433688347.json",
+  "id": 31968433688347,
+  "title": "Thorchain Savers not showing balance",
+  "active": false,
+  "updated_at": "2025-01-24T23:09:36Z",
+  "created_at": "2024-12-17T17:51:43Z",
+  "default": false,
+  "position": 384,
+  "description": "",
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "group_id",
+      "value": "6923892939675"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thorchain Savers was recently updated and the balance should show again now on the latest version of Edge.</p><p>You can tap on 'Help' in the top corner of the app, to check your version number. If not on 4.19.2 or higher, please update to see and manage your staked balances again in Edge.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Thorchain Savers was recently updated and the balance should show again now on the latest version of Edge.\nYou can tap on 'Help' in the top corner of the app, to check your version number. If not on 4.19.2 or higher, please update to see and manage your staked balances again in Edge.\n"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "update_app"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "current_tags",
+      "value": "thorchain savers"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Thorchain Savers not showing balance"
+}

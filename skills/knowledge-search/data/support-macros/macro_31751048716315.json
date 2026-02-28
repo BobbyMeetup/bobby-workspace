@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/31751048716315.json",
+  "id": 31751048716315,
+  "title": "Thorchain dust threshold",
+  "active": true,
+  "updated_at": "2024-12-11T02:33:12Z",
+  "created_at": "2024-12-11T02:33:12Z",
+  "default": false,
+  "position": 382,
+  "description": null,
+  "actions": [
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "current_tags",
+      "value": "thorchain dust"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>When using Thorchain products, like ThorSwap or Savers, there's a \"dust threshold\" that's baked into the smart contract. For example, to start a BTC stake, anything below 20,000 satoshi (or .0002 BTC) will not be successful.<br>&nbsp;</p><p>For more information on this:<br><a href=\"https://dev.thorchain.org/saving-guide/quickstart-guide.html#basic-mechanics\">https://dev.thorchain.org/saving-guide/quickstart-guide.html#basic-mechanics</a></p><p>&nbsp;</p><p>Please forward any details about the transaction in question, and we'll have a look to see what can be done in this case.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "When using Thorchain products, like ThorSwap or Savers, there's a \"dust threshold\" that's baked into the smart contract. For example, to start a BTC stake, anything below 20,000 satoshi (or .0002 BTC) will not be successful. \nFor more information on this:https://dev.thorchain.org/saving-guide/quickstart-guide.html#basic-mechanics\n \nPlease forward any details about the transaction in question, and we'll have a look to see what can be done in this case.\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Thorchain dust threshold"
+}

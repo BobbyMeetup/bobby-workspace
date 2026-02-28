@@ -1,0 +1,38 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7172751065243.json",
+  "id": 7172751065243,
+  "title": "No partners",
+  "active": true,
+  "updated_at": "2024-02-15T11:19:34Z",
+  "created_at": "2022-07-08T13:11:27Z",
+  "default": false,
+  "position": 8,
+  "description": "When a user cannot buy or sell",
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "6924706366107"
+    },
+    {
+      "field": "group_id",
+      "value": "6923892939675"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>​thanks for reaching out.<br>At the moment we don't have partners in your location able to buy crypto and sell your national currency, but we are&nbsp;actively searching for them.</p><p>Meanwhile, I suggest you to use some external services, like for example Binance, if supported in your country.</p><p>​</p><p>So sorry for the inconvenience.</p><p><br></p>"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "unable_to_buy"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 6924706366107
+  },
+  "raw_title": "No partners"
+}

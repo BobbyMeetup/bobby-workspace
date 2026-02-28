@@ -1,0 +1,34 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/17552976305691.json",
+  "id": 17552976305691,
+  "title": "looking-foward",
+  "active": true,
+  "updated_at": "2023-07-31T17:29:21Z",
+  "created_at": "2023-07-31T17:29:21Z",
+  "default": false,
+  "position": 10,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Looking forward to your response.<br><br>Best wishes,</p><p>Daniel</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Looking forward to your response.\n\nBest wishes,\nDaniel\n"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 13919654551707
+  },
+  "raw_title": "looking-foward"
+}

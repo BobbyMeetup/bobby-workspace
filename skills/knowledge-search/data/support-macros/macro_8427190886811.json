@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/8427190886811.json",
+  "id": 8427190886811,
+  "title": "Webview issue (plugins are missing)",
+  "active": true,
+  "updated_at": "2023-02-01T22:36:53Z",
+  "created_at": "2022-08-29T12:18:43Z",
+  "default": false,
+  "position": 132,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi,<br>thanks for reaching out and sorry for the inconvenience.<br><br>The latest release of the Edge app contains some new features that requires a minimum version of an Android system app called Webview. It’s an app you wouldn’t use directly as a user but one that Edge uses to run all of the cryptocurrency code in the background. I suspect that the version of Webview on your device may be outdated and an update to that app may resolve the issue you’re having logging into Edge.<br><br>You can search for \"Android System Webview\" in Play Store and see if you have an update.<br>You may also need to update Chrome.<br><br>Then try to login into Edge again.</p>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Webview issue (plugins are missing)"
+}

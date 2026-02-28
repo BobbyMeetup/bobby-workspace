@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7276139182747.json",
+  "id": 7276139182747,
+  "title": "Wallet - Check to make sure wallet is loaded",
+  "active": true,
+  "updated_at": "2023-02-01T22:42:12Z",
+  "created_at": "2022-07-12T21:56:16Z",
+  "default": false,
+  "position": 93,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thank you for reaching out.&nbsp;</p><p>Can you check to see that your wallet has fully loaded?&nbsp;</p><p><br></p><p>When you open your app look at the top of the screen. Just below the text \"Wallets\" you will see a green bar load from the left to the right. When it reaches the right side it will disappear. At this point your wallet is fully loaded and you will be able to send, receive, etc.&nbsp;</p><p><br></p><p>Does this resolve your issue?&nbsp;</p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - Check to make sure wallet is loaded"
+}

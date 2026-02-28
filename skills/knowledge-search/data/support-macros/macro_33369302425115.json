@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/33369302425115.json",
+  "id": 33369302425115,
+  "title": "bity - contact/status",
+  "active": true,
+  "updated_at": "2025-01-30T03:14:45Z",
+  "created_at": "2025-01-30T02:36:48Z",
+  "default": false,
+  "position": 408,
+  "description": "Could CC Bity support",
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "bity sepa"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi {{ticket.requester.first_name}},</p><p>&nbsp;</p><p>Bity is our partner which services SEPA bank transfers, so we will need to get in contact with them regarding this issue. I believe you should have received an email from them for any outstanding orders (please check your junk/spam email folders) which will have included an order number.</p><p>&nbsp;</p><p>If you have the order number, you may enter it here to check the current status: <a href=\"https://sophia.bity.com/\">https://sophia.bity.com</a></p><p>&nbsp;</p><p>If you need further assistance with your account or any existing orders, please reach out to Bity directly and include your IBAN information so they can find your order information - Edge does not have access to personal information or your records with Bity.</p><p>&nbsp;</p><p>Email Support: <a href=\"mailto:support_edge@bity.com\">support_edge@bity.com</a></p><p>Chat Support: <a href=\"http://www.bity.com/\">www.bity.com</a></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hi {{current_user.first_name}} and Bity,\n \nBity is our partner which services SEPA bank transfers, so we will need to get in contact with them regarding this issue. I believe you should have received an email from them for any outstanding orders (please check your junk/spam email folders) which will have included an order number.\n \nIf you have the order number, you may enter it here to check the current status: https://sophia.bity.com\n \nIf you need further assistance with your account or any existing orders, please reach out to Bity directly and include your IBAN information so they can find your order information - Edge does not have access to personal information or your records with Bity.\n \nEmail Support: support_edge@bity.com\nChat Support: www.bity.com\n"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "bity - contact/status"
+}

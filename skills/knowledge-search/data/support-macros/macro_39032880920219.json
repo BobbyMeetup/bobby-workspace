@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/39032880920219.json",
+  "id": 39032880920219,
+  "title": "Paybis Login (jared)",
+  "active": true,
+  "updated_at": "2025-07-16T19:06:21Z",
+  "created_at": "2025-07-16T19:06:21Z",
+  "default": false,
+  "position": 457,
+  "description": "",
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "current_tags",
+      "value": "paybis"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi,<br>&nbsp;<br>It sounds like you have a question about a recent Paybis order. Please login to your Paybis account using the link below and you will be able to view/manage any existing orders!<br>&nbsp;<br>Login: <a href=\"https://payb.is\">https://payb.is</a><br>&nbsp;<br>If you have any questions about one of your Paybis orders, please use the \"Live Chat\" button from your transaction history screen and they will be able to resolve any issues.<br>&nbsp;<br>Let us know if you have any other comments or concerns.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hi,\n \nIt sounds like you have a question about a recent Paybis order. Please login to your Paybis account using the link below and you will be able to view/manage any existing orders!\n \nLogin: https://payb.is\n \nIf you have any questions about one of your Paybis orders, please use the \"Live Chat\" button from your transaction history screen and they will be able to resolve any issues.\n \nLet us know if you have any other comments or concerns."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Paybis Login (jared)"
+}

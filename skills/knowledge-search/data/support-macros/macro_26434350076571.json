@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/26434350076571.json",
+  "id": 26434350076571,
+  "title": "what-is-FIO",
+  "active": true,
+  "updated_at": "2024-06-08T22:03:26Z",
+  "created_at": "2024-06-08T22:02:17Z",
+  "default": false,
+  "position": 313,
+  "description": null,
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "general_inquiry fio"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "wallet"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>You can learn more about the FIO protocol and how to use it within your Edge account, here:</p><p><a href=\"https://edge.app/blog/tips-and-tutorials/edge-fio-one-identity-for-all-your-crypto\" target=\"_blank\" rel=\"noreferrer\">https://edge.app/blog/tips-and-tutorials/edge-fio-one-identity-for-all-your-crypto</a></p><p><br></p><p>If you have more questions about it, please reply here afterwards. We'll be happy to assist you with it getting it set up.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "You can learn more about the FIO protocol and how to use it within your Edge account, here:\nhttps://edge.app/blog/tips-and-tutorials/edge-fio-one-identity-for-all-your-crypto\n\nIf you have more questions about it, please reply here afterwards. We'll be happy to assist you with it getting it set up."
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "what-is-FIO"
+}

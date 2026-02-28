@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7185651496987.json",
+  "id": 7185651496987,
+  "title": "Bitrefill - Order update info",
+  "active": true,
+  "updated_at": "2024-09-03T15:18:12Z",
+  "created_at": "2022-07-08T20:50:35Z",
+  "default": false,
+  "position": 38,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge does not have access to orders made through our partners in the app. For an update, please reach out to Bitrefill directly at&nbsp;support@bitrefill.com</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Edge does not have access to orders made through our partners in the app. For an update, please reach out to Bitrefill directly at support@bitrefill.com\n\n"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "13053445492635"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "bitrefill"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    },
+    {
+      "field": "current_tags",
+      "value": "bitrefill"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Bitrefill - Order update info"
+}

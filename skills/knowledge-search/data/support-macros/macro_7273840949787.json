@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7273840949787.json",
+  "id": 7273840949787,
+  "title": "Sell - How to sell",
+  "active": true,
+  "updated_at": "2025-08-09T16:04:55Z",
+  "created_at": "2022-07-12T20:47:33Z",
+  "default": false,
+  "position": 85,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>To sell cryptocurrencies, simply go into your Edge account, and select Sell from the bottom menu bar. Set the location to your region and you will find a list of services that are supported in your country.<br>&nbsp;</p><p>Read through them and pick the best option for you as each one has different fees, payment methods, and currencies supported.<br>&nbsp;</p><p>Let us know if you have any questions.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "To sell cryptocurrencies, simply go into your Edge account, and select Sell from the bottom menu bar. Set the location to your region and you will find a list of services that are supported in your country.\n\nRead through them and pick the best option for you as each one has different fees, payment methods, and currencies supported.\n\nLet us know if you have any questions."
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "current_tags",
+      "value": "general_inquiry how_to_sell has_account"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "13053445492635"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Sell - How to sell"
+}

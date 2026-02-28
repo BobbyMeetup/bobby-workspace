@@ -1,0 +1,22 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/15315767306267.json",
+  "id": 15315767306267,
+  "title": "hello",
+  "active": true,
+  "updated_at": "2023-05-09T23:22:59Z",
+  "created_at": "2023-05-09T23:22:59Z",
+  "default": false,
+  "position": 151,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hello, how can we help?</p>"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 1904053440604
+  },
+  "raw_title": "hello"
+}

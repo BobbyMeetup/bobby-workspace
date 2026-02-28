@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/14790883703579.json",
+  "id": 14790883703579,
+  "title": "Wallet - Pending BTC (simple)",
+  "active": true,
+  "updated_at": "2023-06-22T16:46:40Z",
+  "created_at": "2023-04-22T00:00:10Z",
+  "default": false,
+  "position": 160,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "pending/stuck_transaction"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "send"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>BTC transactions will get stuck or hang when your 'Priority Fee' level is relatively low compared to current network conditions. You can check the current priority fee levels here: <a href=\"https://mempool.space/\" target=\"_blank\" rel=\"noreferrer\">mempool.space</a>&nbsp;or <a href=\"https://bitcoinfees.net/\" target=\"_blank\" rel=\"noreferrer\">bitcoinfees.net</a><br><br>You can check your priority fee by clicking into your BTC wallet, and tapping on the Pending transaction. From here, select View Advanced Transaction Data and scroll down a little to see the Fee Used: 'Sats / vByte' __<br><br>If the number of Sats/Vb in relatively close to current network fee levels, you may simply choose to wait for the network congestion to clear up a little more. A bit of patience is the simplest and cheapest way to resolve the issue.<br><br>If your priority fee is VERY low, or you need the funds to arrive as soon as possible, you might be able to do an advanced maneuver called \"CPFP\" to speed up the transaction, but this can only work if you sent a <b>partial balance</b> from your BTC wallet. A Max Send, that is pending, cannot be sped up or cancelled, so waiting is the only option.</p><p><br></p><p><i>Note: Bitcoin network activity normally dips over nights and weekends.</i></p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "BTC transactions will get stuck or hang when your 'Priority Fee' level is relatively low compared to current network conditions. You can check the current priority fee levels here: https://mempool.space/\n\nYou can check your priority fee by clicking into your BTC wallet, and tapping on the Pending transaction. From here, select View Advanced Transaction Data and scroll down a little to see the Fee Used: 'Sats / vByte' __\n\nIf the number of Sats/Vb in relatively close to current network fee levels, you may simply choose to wait for the network congestion to clear up a little more. A bit of patience is the simplest and cheapest way to resolve the issue.\n\nIf your priority fee is VERY low, or you need the funds to arrive as soon as possible, you might be able to do an advanced maneuver called \"CPFP\" to speed up the transaction, but this can only work if you sent a partial balance from your BTC wallet. A Max Send, that is pending, cannot be sped up or cancelled, so waiting is the only option.\n\nNote: Bitcoin network activity normally dips over nights and weekends."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - Pending BTC (simple)"
+}

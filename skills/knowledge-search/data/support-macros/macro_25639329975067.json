@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/25639329975067.json",
+  "id": 25639329975067,
+  "title": "history",
+  "active": false,
+  "updated_at": "2025-08-09T16:03:31Z",
+  "created_at": "2024-05-10T21:45:22Z",
+  "default": false,
+  "position": 297,
+  "description": "how to view transaction history",
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "total_newb"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "history"
+}

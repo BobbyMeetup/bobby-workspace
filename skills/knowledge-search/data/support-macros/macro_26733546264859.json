@@ -1,0 +1,22 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/26733546264859.json",
+  "id": 26733546264859,
+  "title": "refund",
+  "active": true,
+  "updated_at": "2024-06-19T21:25:08Z",
+  "created_at": "2024-06-19T21:25:08Z",
+  "default": false,
+  "position": 323,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hello,</p><p><br></p><p>How may I help you?</p><p><br></p><p>Edge does not process cryptocurrency transactions of any kind, but if you have enrolled in our $15/mo Edge-Mint Support membership, then we will be happy to issue you a refund! This is an optional service for users who want more personalized support help and is the ONLY payment ever accepted by our company.</p><p><br></p><p>If you are having any issues regarding an account or a transaction made with one of our partner exchanges, you will need to contact them directly. Edge is a zero-knowledge app, so we don't have access to the information you share with any exchanges, nor do we ask for any personal information from our users.</p><p><br></p><p>For any questions about the Edge application, please reach back out to us and be sure to provide context for your inquiry. Please include any error messages, transaction IDs, exchanges used, and relevant screenshots so that we may be able to offer proper assistance.&nbsp;</p><p><br></p><p>Below is a list of some partner exchanges where you can find support for their platform/service:</p><p>&nbsp; Banxa -&nbsp;<a href=\"https://support.banxa.com/\" target=\"_blank\" rel=\"noreferrer\">https://support.banxa.com</a></p><p>&nbsp; Kado - <a href=\"https://faq.kado.money\" target=\"_blank\" rel=\"noreferrer\">https://faq.kado.money</a></p><p>&nbsp; Paybis -&nbsp;<a href=\"https://paybis.com/contacts\" target=\"_blank\" rel=\"noreferrer\">https://paybis.com/contacts</a></p><p>&nbsp; MoonPay -&nbsp;<a href=\"https://support.moonpay.com/\" target=\"_blank\" rel=\"noreferrer\">https://support.moonpay.com</a></p><p>&nbsp; Simplex -&nbsp;<a href=\"https://support.simplex.com/\" target=\"_blank\" rel=\"noreferrer\">https://support.simplex.com</a></p><p>&nbsp; Bity -&nbsp;<a href=\"https://sophia.bity.com\" target=\"_blank\" rel=\"noreferrer\">https://sophia.bity.com</a></p><p><br></p>"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 26105022686363
+  },
+  "raw_title": "refund"
+}

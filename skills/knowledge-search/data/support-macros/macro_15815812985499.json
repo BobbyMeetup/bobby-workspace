@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/15815812985499.json",
+  "id": 15815812985499,
+  "title": "Swapuz - Support / Customer Contact",
+  "active": true,
+  "updated_at": "2023-05-25T21:24:23Z",
+  "created_at": "2023-05-25T21:23:26Z",
+  "default": false,
+  "position": 177,
+  "description": "https://swapuz.com/contact",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987701197339"
+    },
+    {
+      "field": "custom_fields_6991267185435",
+      "value": "swapuz"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge is a zero-knowledge app and we don't have access to the information you share with our exchange partners. We first recommend that you fill out the Swapuz contact form to seek resolution for your processing swap: https://swapuz.com/contact</p><p><br></p><p>Please let us know if you require further assistance with this. We'll leave this ticket open for the time being.<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Edge is a zero-knowledge app and we don't have access to the information you share with our exchange partners. We first recommend that you fill out the Swapuz contact form to seek resolution for your processing swap: https://swapuz.com/contact\n\nPlease let us know if you require further assistance with this. We'll leave this ticket open for the time being.\n\n"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Swapuz - Support / Customer Contact"
+}

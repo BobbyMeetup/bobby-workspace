@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/26795241008795.json",
+  "id": 26795241008795,
+  "title": "unblocked",
+  "active": true,
+  "updated_at": "2024-06-21T19:32:59Z",
+  "created_at": "2024-06-21T19:32:59Z",
+  "default": false,
+  "position": 319,
+  "description": "7 days after a 2fa lockout (text friendly)",
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "unblocked"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi! It has been 7 days since you contacted Edge Support regarding an IP Validation lockout on your account. You should now be able to retry the login process and successfully access your account. Please let us know if you still need help with this, or have any other questions! Kind regards, {{ticket.assignee.first_name}}<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hi! It has been 7 days since you contacted Edge Support regarding an IP Validation lockout on your account. You should now be able to retry the login process and successfully access your account. Please let us know if you still need help with this, or have any other questions! Kind regards, {{ticket.assignee.first_name}}\n\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "unblocked"
+}

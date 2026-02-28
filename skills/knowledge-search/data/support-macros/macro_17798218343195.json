@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/17798218343195.json",
+  "id": 17798218343195,
+  "title": "Buy - Powered by ...",
+  "active": true,
+  "updated_at": "2024-02-17T23:31:32Z",
+  "created_at": "2023-08-09T16:47:37Z",
+  "default": false,
+  "position": 197,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>When you go through the 'Buy tab' at the bottom of the screen in Edge, and proceed to create a buy order by card, Apple Pay or Google Pay - on the very next screen, where you are inputting the amount to buy, you will notice a small tile underneath that says \"Powered by...\" -- when you tap on that, you'll be able to see the other exchange services available to you. In the event that an exchange denies service to you for some reason, it is first recommended to try using a different payment method if possible, and next would be to try switching exchange providers here.<br></p><p><br></p><p>Let us know if you have more questions!</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "When you go through the 'Buy tab' at the bottom of the screen in Edge, and proceed to create a buy order by card, Apple Pay or Google Pay - on the very next screen, where you are inputting the amount to buy, you will notice a small tile underneath that says \"Powered by...\" -- when you tap on that, you'll be able to see the other exchange services available to you. In the event that an exchange denies service to you for some reason, it is first recommended to try using a different payment method if possible, and next would be to try switching exchange providers here.\n\nLet us know if you have more questions!\n"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_19558556601243",
+      "value": "unknown_payment"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "unable_to_buy"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Buy - Powered by ..."
+}

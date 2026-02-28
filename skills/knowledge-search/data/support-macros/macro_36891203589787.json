@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/36891203589787.json",
+  "id": 36891203589787,
+  "title": "Thorchain Savers - TCY (update)",
+  "active": true,
+  "updated_at": "2025-06-12T19:07:50Z",
+  "created_at": "2025-05-12T00:41:01Z",
+  "default": false,
+  "position": 437,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hello {{ticket.requester.first_name}},</p><p>&nbsp;</p><p>As of v4.29, users can now fully manage their TCY stake within Edge.</p><p>If you had staked assets in the Savers protocol, but have not claimed your TCY allocation, please do so at your earliest convenience, so that you may start earning RUNE distributions from an active TCY stake; however, there is no time limit to claim.</p><p>&nbsp;</p><p>Trading TCY can be done via the Exchange tab in Edge. Our swap integration with Thorchain makes this seamless, but please note that exchanging TCY is only possible after unstaking.</p><p>&nbsp;</p><p>Additional information -</p><ul><li>Unstaked TCY will not earn RUNE.</li><li>Staking and unstaking TCY is immediate. No waiting or cool-down period.</li><li>To stake, unstake, send and swap, some RUNE is required for gas fees on Thorchain.</li></ul><p>&nbsp;</p><p>Please let us know if you have more questions.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hello {{ticket.requester.first_name}},\n \nAs of v4.29, users can now fully manage their TCY stake within Edge.\nIf you had staked assets in the Savers protocol, but have not claimed your TCY allocation, please do so at your earliest convenience, so that you may start earning RUNE distributions from an active TCY stake; however, there is no time limit to claim.\n\nTrading TCY can be done via the Exchange tab in Edge. Our swap integration with Thorchain makes this seemless, but please note that exchanging TCY is only possible after unstaking.\n\nAdditional information -\n- Unstaked TCY will not earn RUNE.\n- Staking and unstaking TCY is immediate. No waiting or cool-down period.\n- To stake, unstake, send and swap, some RUNE is required for gas fees on Thorchain.\n\nPlease let us know if you have more questions."
+    },
+    {
+      "field": "current_tags",
+      "value": "thorchain savers_deprecated"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "tcy"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Thorchain Savers - TCY (update)"
+}

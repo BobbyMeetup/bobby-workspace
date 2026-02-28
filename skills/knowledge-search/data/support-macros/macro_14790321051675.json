@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/14790321051675.json",
+  "id": 14790321051675,
+  "title": "Account - Forgot Username (only)",
+  "active": true,
+  "updated_at": "2024-06-22T22:07:34Z",
+  "created_at": "2023-04-21T23:19:24Z",
+  "default": false,
+  "position": 159,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "account"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "forgot_username/password"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Your Edge account was initially created with username and password only, no other personal information. These login credentials should ideally be written down in your secure cryptocurrency notes from when you started the account.</p><p><br></p><p>As a zero-knowledge app, and we do not maintain any information on our users. We cannot help to recover a username, since there's no other associated information that can be used to identify or locate the account.</p><p><br></p><p>With that being said, our top suggestion is to make a list, where you write down all possible usernames that you think you may have used when creating the account. A username must be at least 3 characters long and can be any combination of letters, numbers, or symbols. Once you've got a small list, you can then test them one at a time. Try to create a new account, and entering in your first guess in the username field. If you see the 'Username available' message - then this one is NOT your username because every Edge account username must be unique. If you see the 'Username already exists' error, then there is a possibility that this username you just tested could be yours! You may go back and try to login with your password.</p><p><br></p><p>We have had multiple users regain access to their accounts with this method.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Your Edge account was initially created with username and password only, no other personal information. These login credentials should ideally be written down in your secure cryptocurrency notes from when you started the account.\n\nAs a zero-knowledge app, and we do not maintain any information on our users. We cannot help to recover a username, since there's no other associated information that can be used to identify or locate the account.\n\nWith that being said, our top suggestion is to make a list, where you write down all possible usernames that you think you may have used when creating the account. A username must be at least 3 characters long and can be any combination of letters, numbers, or symbols. Once you've got a small list, you can then test them one at a time. Try to create a new account, and entering in your first guess in the username field. If you see the 'Username available' message - then this one is NOT your username because every Edge account username must be unique. If you see the 'Username already exists' error, then there is a possibility that this username you just tested could be yours! You may go back and try to login with your password.\n\nWe have had multiple users regain access to their accounts with this method."
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Account - Forgot Username (only)"
+}

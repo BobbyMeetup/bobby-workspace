@@ -1,0 +1,59 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/28285239768091.json",
+  "id": 28285239768091,
+  "title": "turn off custom servers / nodes",
+  "active": true,
+  "updated_at": "2024-08-14T23:49:28Z",
+  "created_at": "2024-08-14T23:49:28Z",
+  "default": false,
+  "position": 338,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987966018715"
+    },
+    {
+      "field": "current_tags",
+      "value": "sync_issue custom_servers"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "btc"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_6990445837595",
+      "value": "bug"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">Synchronization issues for your wallets typically have to do with having a weak or spotty internet connection, but in some cases, a sync issue could be related to having Custom Servers turned on when not needed.</span></p><p>&nbsp;</p><p><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">Please verify that Custom Servers are turned off for BTC within your Asset Settings. To do this:</span><br><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">- tap the menu button (≡) in the top right, and find Settings near the bottom</span><br><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">- Scroll down until you see Asset Settings, then tap on the Bitcoin asset inside.</span><br><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">- Please confirm that Customer Servers are not enabled. If they are, please let us know so we can try to determine the cause of this. You may also turn them off, and your wallet should resume synchronizing successfully.</span></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Synchronization issues for your wallets typically have to do with having a weak or spotty internet connection, but in some cases, a sync issue could be related to having Custom Servers turned on when not needed.\n \nPlease verify that Custom Servers are turned off for BTC within your Asset Settings. To do this:\n- tap the menu button (≡) in the top right, and find Settings near the bottom\n- Scroll down until you see Asset Settings, then tap on the Bitcoin asset inside.\n- Please confirm that Customer Servers are not enabled. If they are, please let us know so we can try to determine the cause of this. You may also turn them off, and your wallet should resume synchronizing successfully.\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "turn off custom servers / nodes"
+}

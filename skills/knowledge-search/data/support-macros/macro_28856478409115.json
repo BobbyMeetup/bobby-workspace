@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/28856478409115.json",
+  "id": 28856478409115,
+  "title": "describe-it",
+  "active": true,
+  "updated_at": "2025-05-20T23:40:43Z",
+  "created_at": "2024-09-03T17:52:41Z",
+  "default": false,
+  "position": 348,
+  "description": "Could you please describe the issue you're seeing, or send a screenshot if possible?",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Could you please describe the issue some more, and maybe send a screenshot if possible?</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Could you please describe the issue some more, and maybe send a screenshot if possible?\n"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "describe-it"
+}

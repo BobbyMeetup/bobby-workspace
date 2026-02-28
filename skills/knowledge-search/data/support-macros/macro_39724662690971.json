@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/39724662690971.json",
+  "id": 39724662690971,
+  "title": "Moonpay - missing card option in widget",
+  "active": true,
+  "updated_at": "2025-08-06T08:57:59Z",
+  "created_at": "2025-08-06T08:57:59Z",
+  "default": false,
+  "position": 471,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>If you don't see the credit / debit card option inside the Moonpay widget, it is possible that you reached your monthly limit.<br>It will reset 30 days after your last purchase using cards.&nbsp;<br>You can however use Google pay or PayPal where you can use the same card, if you linked that to those payment methods.</p>"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Moonpay - missing card option in widget"
+}

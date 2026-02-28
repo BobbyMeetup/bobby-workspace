@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/14882041541915.json",
+  "id": 14882041541915,
+  "title": "Thorchain Savers - View Stake Details (UTXO)",
+  "active": true,
+  "updated_at": "2023-04-25T19:58:45Z",
+  "created_at": "2023-04-25T19:58:45Z",
+  "default": false,
+  "position": 161,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "current_tags",
+      "value": "general_inquiry thorchain savers"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "wallet"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>To check your Savers stake details, you'll need to click into the wallet you staked from,  and tap the gear icon to pull up the menu. Here, you will select 'View  XPub Address'. Copy these 2 long strings, but we only need the first one  that starts with \"ypub...\"<br><br>You will then paste your ypub... string into an explorer that can view xpub files. You may use this one: <a href=\"https://btc1.trezor.io/\" target=\"_blank\" rel=\"noreferrer\">https://btc1.trezor.io/</a><br><br>After  you search and view the ypub, you can click on either \"Show used XPUB  addresses\" or \"Show all derived XPUB addresses\" &amp; the 1st address in  this list (path: m/49'/0'/0'/0/0) is your Thorchain staking address. You can use this for viewing your staking position details on a site  like:<br><a href=\"https://app.thoryield.com/accounts\" target=\"_blank\" rel=\"noreferrer\">https://app.thoryield.com/accounts</a><br></p>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Thorchain Savers - View Stake Details (UTXO)"
+}

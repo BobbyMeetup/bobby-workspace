@@ -1,0 +1,59 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/29901303854491.json",
+  "id": 29901303854491,
+  "title": "Paybis - pending transaction uncertainty",
+  "active": true,
+  "updated_at": "2025-01-15T00:28:37Z",
+  "created_at": "2024-10-08T16:10:03Z",
+  "default": false,
+  "position": 361,
+  "description": "",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "paybis"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "missing_funds/did_not_arrive_"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>It could be a simple matter of processing time, or there may have some more verification steps to complete.</p><p>&nbsp;</p><p>You can navigate to <a href=\"https://payb.is\">https://payb.is</a> and login with your email to review recent order history with Paybis. There, you'll be able to complete any verification steps, if needed, or get direct support from the exchanger with any open orders.</p><p>&nbsp;</p><p>&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "It could be a simple matter of processing time, or there may have some more verification steps to complete.\n\nYou can navigate to https://payb.is and login with your email to review recent order history with Paybis. There, you'll be able to complete any verification steps, if needed, or get direct support from the exchanger with any open orders.\n \n \n"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_30728781462555",
+      "value": "user_resolved_by_contacting_partner"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Paybis - pending transaction uncertainty"
+}

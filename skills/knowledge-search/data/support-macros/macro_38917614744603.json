@@ -1,0 +1,55 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/38917614744603.json",
+  "id": 38917614744603,
+  "title": "Buy with virtual card (general)",
+  "active": true,
+  "updated_at": "2025-07-13T20:26:32Z",
+  "created_at": "2025-07-13T20:26:32Z",
+  "default": false,
+  "position": 454,
+  "description": "",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "payment_declined"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "current_tags",
+      "value": "virtual_card"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p><span style=\"background-color:rgb(28,30,31);\">To secure their customers, GooglePay (GPay) encrypts physical card numbers when using a virtual version of your card. Unfortunately, this encryption makes it impossible to verify the physical card details, which may be need by the exchange service in order to process a crypto transaction.</span></p><p>&nbsp;</p><p><span style=\"background-color:rgb(28,30,31);\">Which exchange service was used for this recent order attempt? You may be able to achieve quick resolution by reaching out directly to their support team with your email or any order ID you might have. In some cases, all that is requires is a screenshot of the virtual card within GooglePay.</span></p><p>&nbsp;</p><p>Please let us know if you have more questions for the Edge support team.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "To secure their customers, GooglePay (GPay) encrypts physical card numbers when using a virtual version of your card. Unfortunately, this encryption makes it impossible to verify the physical card details, which may be need by the exchange service in order to process a crypto transaction.\n\nWhich exchange service was used for this recent order attempt? You may be able to achieve quick resolution by reaching out directly to their support team with your email or any order ID you might have. In some cases, all that is requires is a screenshot of the virtual card within GooglePay.\n\nPlease let us know if you have more questions for the Edge support team."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Buy with virtual card (general)"
+}

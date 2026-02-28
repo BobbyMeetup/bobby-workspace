@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7277698224155.json",
+  "id": 7277698224155,
+  "title": "Wyre - Buy/ settlement ",
+  "active": false,
+  "updated_at": "2024-04-05T20:40:46Z",
+  "created_at": "2022-07-12T22:49:27Z",
+  "default": false,
+  "position": 114,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Purchasing cryptocurrency with a bank transfer via Wyre will take up to 5 business days to complete.</p><p><br></p><p>Note that you have locked in the price of your crypto at the time of your purchase. &nbsp;The value of your purchase may have fluctuated due to market volatility, and your account will have a higher or lower value&nbsp;than you had initially purchased.&nbsp;</p><p><br></p><p>You still have the same amount of crypto, but like any other investment market, prices change constantly.</p><p><br></p><p>Let us know if you have any further questions!</p><p><br></p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wyre - Buy/ settlement "
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7274070613147.json",
+  "id": 7274070613147,
+  "title": "Wallet - Cancel or Refund a Transaction",
+  "active": true,
+  "updated_at": "2025-07-06T19:07:51Z",
+  "created_at": "2022-07-12T20:55:11Z",
+  "default": false,
+  "position": 91,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Unfortunately, once bitcoin or any type of cryptocurrency is sent out, the transactions are irreversible. This is the way bitcoin and all cryptocurrencies were designed and applies not just to Edge, but to all other wallets or services as well.&nbsp;</p><p><br></p><p>My suggestion is to contact the website, party, or person that you sent bitcoins to and show them your Transaction ID (which is basically like a receipt or proof of payment) and let them know that you sent bitcoin to them but would like to have it refunded. The Transaction ID can be found by tapping on the transaction from your history, then tapping View Advanced Transaction Data. The Transaction ID will be visible for you to copy and show as proof of your purchase.</p><p><br></p><p>Please let us know if you have any other questions. </p><p><br></p>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "cancel_a_transaction"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - Cancel or Refund a Transaction"
+}

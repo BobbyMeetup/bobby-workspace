@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/16334766174363.json",
+  "id": 16334766174363,
+  "title": "Jaxx - follow up",
+  "active": true,
+  "updated_at": "2023-06-14T22:09:14Z",
+  "created_at": "2023-06-12T23:00:02Z",
+  "default": false,
+  "position": 179,
+  "description": null,
+  "actions": [
+    {
+      "field": "set_tags",
+      "value": "jaxx"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>An ongoing effort is being made to understand what happened with Jaxx users coming to Edge.&nbsp; We would like to know how many devices and what devices you've interacted with Jaxx on. For example Windows PC and iPhone. Also if you have had more than one phone with Jaxx. For example iPhone upgrades to new iPhones.&nbsp;</p><p><br></p><p>Additionally if you've switched phones outline the dates.&nbsp;</p><p><br></p><p>Have you been in contact with anyone from Jaxx? On Telegram, or other social platforms?&nbsp;<br></p>"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Jaxx - follow up"
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/38688524710043.json",
+  "id": 38688524710043,
+  "title": "Warning: rushed send, scam risk high",
+  "active": true,
+  "updated_at": "2025-07-06T18:14:23Z",
+  "created_at": "2025-07-06T18:14:23Z",
+  "default": false,
+  "position": 451,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>And note: If anyone is rushing you to send these coins for any reason at all, you could be at high risk of being involved in a scam. Please ask us anything or send over anything in question, and we'll help to verify and validate whatever you may be uncertain about.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "And note: If anyone is rushing you to send these coins for any reason at all, you could be at high risk of being involved in a scam. Please ask us anything or send over anything in question, and we'll help to verify and validate whatever you may be uncertain about.\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Warning: rushed send, scam risk high"
+}

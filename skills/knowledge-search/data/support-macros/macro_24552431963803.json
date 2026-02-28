@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/24552431963803.json",
+  "id": 24552431963803,
+  "title": "tax-prep",
+  "active": true,
+  "updated_at": "2024-04-05T20:59:58Z",
+  "created_at": "2024-04-05T20:59:58Z",
+  "default": false,
+  "position": 284,
+  "description": null,
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "tax_question"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge does not prepare tax records, and we are best thought of as a security company that focuses on your privacy and security of your crypto. Any financial transactions, such as buying or selling cryptocurrency, would have been handled between you and any exchanges that you've worked with, inside of Edge or externally.</p><p><br></p><p>Within Edge you can generate a CSV report of all transactions for any given asset. You may also find that the receipts from your order history, found in your email, may be more helpful for preparing your tax records.</p><p><br></p><p>Please let us know if you have more questions.<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Edge does not prepare tax records, and we are best thought of as a security company that focuses on your privacy and security of your crypto. Any financial transactions, such as buying or selling cryptocurrency, would have been handled between you and any exchanges that you've worked with, inside of Edge or externally. Within Edge you can generate a CSV report of all transactions for any given asset. You may also find that the receipts from your order history, found in your email, may be more helpful for preparing your tax records. Please let us know if you have more questions.\n\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "tax-prep"
+}

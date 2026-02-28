@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7277267437723.json",
+  "id": 7277267437723,
+  "title": "Wallet - Still Pending 404 (or \"no results\" on Blockchair)",
+  "active": true,
+  "updated_at": "2023-05-11T00:29:02Z",
+  "created_at": "2022-07-12T22:33:30Z",
+  "default": false,
+  "position": 110,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>When you go into your BTC wallet &gt; tap on the pending transaction and click: View Advanced Transaction Details, then Show in Explorer --&nbsp; this brings you to the Blockchair website, and if you get this \"404&nbsp; Not found\" error, it could either mean that the transaction was dropped, or that the fee was so low that Blockchair nodes are not seeing the transaction.</p><p><br></p><p>If this is the case, we suggest you manually check your Transaction ID on some different block explorers - such as:</p><ul dir=\"auto\"><li> <a href=\"https://btc1.trezor.io\" target=\"_blank\" rel=\"noreferrer\">https://btc1.trezor.io</a></li><li><a href=\"https://mempool.space\" target=\"_blank\" rel=\"noreferrer\">https://mempool.space</a> <br></li><li><a href=\"https://blockstream.info\" target=\"_blank\" rel=\"noreferrer\">https://blockstream.info</a></li></ul><p><br></p><p>If you still do not see your unconfirmed transaction on any of these sites, then it probably means that the transaction was dropped by the network. You can check if it was dropped by doing a Resync of your BTC wallet:</p><ol dir=\"auto\"><li>Go to the main wallets list</li><li>Long-press on the wallet you're having an issue with to bring up its Menu<br></li><li>Tap on Resync, and give it a few minutes to fully reload.</li></ol><p><br></p><p>When a Bitcoin transaction has a very low fee, it can become stuck for up to 2-3 weeks. Please consider current network conditions/fees before broadcasting future transactions to prevent this situation from happening to you again. For a more detailed understanding of stuck transactions, I recommend this article: <a href=\"https://bitcoinbriefly.com/so-your-bitcoin-transaction-is-stuck\" target=\"_blank\" rel=\"noreferrer\">https://bitcoinbriefly.com/so-your-bitcoin-transaction-is-stuck</a></p><p><br></p><p>Let us know if you have more questions about this. We are here to help!<br></p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "When you go into your BTC wallet > tap on the pending transaction and click: View Advanced Transaction Details, then Show in Explorer --  this brings you to the Blockchair website, and if you get this \"404  Not found\" error, it could either mean that the transaction was dropped, or that the fee was so low that Blockchair nodes are not seeing the transaction.\n\nIf this is the case, we suggest you manually check your Transaction ID on some different block explorers - such as:\nhttps://btc1.trezor.io\nhttps://mempool.space\n\nhttps://blockstream.info\n\nIf you still do not see your unconfirmed transaction on any of these sites, then it probably means that the transaction was dropped by the network. You can check if it was dropped by doing a Resync of your BTC wallet:\nGo to the main wallets list\nLong-press on the wallet you're having an issue with to bring up its Menu\n\nTap on Resync, and give it a few minutes to fully reload.\n\nWhen a Bitcoin transaction has a very low fee, it can become stuck for up to 2-3 weeks. Please consider current network conditions/fees before broadcasting future transactions to prevent this situation from happening to you again. For a more detailed understanding of stuck transactions, I recommend this article: https://bitcoinbriefly.com/so-your-bitcoin-transaction-is-stuck\n\nLet us know if you have more questions about this. We are here to help!"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "btc"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "pending/stuck_transaction"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - Still Pending 404 (or \"no results\" on Blockchair)"
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/35500291375131.json",
+  "id": 35500291375131,
+  "title": "Battery Saver",
+  "active": true,
+  "updated_at": "2025-03-31T16:28:13Z",
+  "created_at": "2025-03-31T16:28:13Z",
+  "default": false,
+  "position": 425,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "current_tags",
+      "value": "battery_saver"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Please disable Battery Saver or Low Power mode. This can cause the Edge app to not function properly. For instructions please visit: <a href=\"https://support.edge.app/hc/en-us/articles/35500091388443-Battery-Saver-or-Power-save-mode\">https://support.edge.app/hc/en-us/articles/35500091388443-Battery-Saver-or-Power-save-mode</a></p><p>&nbsp;</p>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Battery Saver"
+}

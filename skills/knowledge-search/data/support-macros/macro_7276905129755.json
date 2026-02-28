@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7276905129755.json",
+  "id": 7276905129755,
+  "title": "Wallet - Recipient doesn't see the transaction",
+  "active": true,
+  "updated_at": "2023-08-07T19:23:09Z",
+  "created_at": "2022-07-12T22:18:34Z",
+  "default": false,
+  "position": 106,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>If the transaction does not show as pending in your wallet, that means the funds were successfully sent to the address you specified. I recommend reaching out to the service that you sent the funds to request that they credit your account or send the funds back to you. Share the transaction ID with them as proof of your transaction. The transaction ID can be found by tapping on the outgoing transaction in your wallet history and then tap \"View advanced transaction details.\" You can then tap on the transaction ID to copy and then send in a message to them.&nbsp;<br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - Recipient doesn't see the transaction"
+}

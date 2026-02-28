@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7277636717467.json",
+  "id": 7277636717467,
+  "title": "WAX - Wax not supported ",
+  "active": true,
+  "updated_at": "2023-02-02T19:10:34Z",
+  "created_at": "2022-07-12T22:47:11Z",
+  "default": false,
+  "position": 113,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thanks for reaching out. I apologize for the inconvenience but Edge is no longer supporting WAX for the time being so you may see issues with syncing your wallet or seeing the balance.</p><p><br></p><p>You will need to access your private seed for your WAX wallet and restore your funds on another wallet that supports WAX.</p><p><br></p><p>To find the WAX seed, tap on your WAX wallet to go inside of it and then tap on the gear icon (located upper right side). A new menu will pop up and then tap on Master Private Key. Enter your password and the private seed will be revealed. Do NOT share this with anyone as anyone that gets a hold of that will be able to steal your funds.</p><p><br></p><p>Now with the private seed from WAX you can use that to restore your funds on another wallet outside of Edge that supports WAX.</p><p><br></p><p>We apologize for any inconvenience. Let us know if you have questions.</p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "WAX - Wax not supported "
+}

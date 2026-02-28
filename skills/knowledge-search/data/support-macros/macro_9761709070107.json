@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/9761709070107.json",
+  "id": 9761709070107,
+  "title": "Moonpay - ACH Sell",
+  "active": false,
+  "updated_at": "2024-02-16T21:23:20Z",
+  "created_at": "2022-10-19T17:55:09Z",
+  "default": false,
+  "position": 140,
+  "description": null,
+  "actions": [
+    {
+      "field": "subject",
+      "value": "Moonpay ACH"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "moonpay"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": ""
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge added MoonPay as a sell option however the steps can be a bit confusing. Please reference this article: <a href=\"https://edgeapp.zendesk.com/hc/en-us/articles/9738775659419\" target=\"_blank\" rel=\"noreferrer\">https://edgeapp.zendesk.com/hc/en-us/articles/9738775659419</a></p><p><br></p><p>We will be making this process easier in the near future. If you have any questions please reach out.&nbsp;</p>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Moonpay - ACH Sell"
+}

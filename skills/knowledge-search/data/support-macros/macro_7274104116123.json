@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7274104116123.json",
+  "id": 7274104116123,
+  "title": "Wallet - Change Fiat/Currency",
+  "active": true,
+  "updated_at": "2024-03-27T22:57:43Z",
+  "created_at": "2022-07-12T20:56:08Z",
+  "default": false,
+  "position": 92,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>You can modify the default currency from Menu &gt; Settings &gt; Options &gt; Default Currency, but this will only affect the total balance at the top, and future wallets created will have this currency defaulted.</p><p><br></p><p>For each individual wallet, there is no way to change the associated fiat currency once it has already been created. We are working to add this feature, but for the time being, a simple solution would be to simply tap the + sign and create a new wallet of your choice and ensure that your preferred currency for this wallet is selected at the top (will be permanent) before tapping Create Wallets. You can then transfer any funds into this newly created wallet, and delete/archive the old, empty wallets with the incorrect fiat currency associated with them.<br><br>Also, when you go to send crypto, you can now toggle between the crypto amount and the amount based on your local currency.</p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "You can modify the default currency from Menu > Settings > Options > Default Currency, but this will only affect the total balance at the top, and future wallets created will have this currency defaulted.\n\nFor each individual wallet, there is no way to change the associated fiat currency once it has already been created. We are working to add this feature, but for the time being, a simple solution would be to simply tap the + sign and create a new wallet of your choice and ensure that your preferred currency for this wallet is selected at the top (will be permanent) before tapping Create Wallets. You can then transfer any funds into this newly created wallet, and delete/archive the old, empty wallets with the incorrect fiat currency associated with them.\n\nAlso, when you go to send crypto, you can now toggle between the crypto amount and the amount based on your local currency."
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "wallet"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - Change Fiat/Currency"
+}

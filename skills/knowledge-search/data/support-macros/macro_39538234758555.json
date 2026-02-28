@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/39538234758555.json",
+  "id": 39538234758555,
+  "title": "Go To Parent Wallet (Check If They Have Enough For Network Fees + Resync ) ",
+  "active": true,
+  "updated_at": "2025-07-31T20:58:48Z",
+  "created_at": "2025-07-31T15:58:01Z",
+  "default": false,
+  "position": 467,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Can you check if the parent wallet has enough to cover the network fee?</p><p>&nbsp;</p><p>To check your parent wallet follow these steps.&nbsp;</p><ol><li>Tap assets button down at the bottom of the app.</li><li>Tap into your Tether wallet.</li><li>Tap the three dots on the right hand upper side.</li><li>Tap go to parent wallet.</li><li><p>What is your balance?&nbsp;</p><p>&nbsp;</p><p>*Depending on the network you might need anywhere between $1-$10 or more to cover the network cost. Network fees are not paid to Edge Wallet but are paid to the network operators.&nbsp;</p></li></ol><p>&nbsp;</p><p>*It is also helpful to sync the parent wallet so it properly displays your accurate balance from the blockchain.&nbsp;</p><p>&nbsp;</p><p><strong>To resync: ​</strong></p><ol><li>Open Edge &amp; Tap help and look to the bottom and report the version that is seen at the bottom of the app</li><li>Tap back and then tap \"View Assets\" near the top OR use the 'Assets' tab in the bottom navigation bar.</li><li>Long-press (hold down) on the wallet you want to resync OR tap into it once and use the 3 dots (⋮) to open its menu.</li><li>Tap the option to 'Resync' near the top and confirm the operation.</li></ol><p>&nbsp;</p><p>You will see a green circle in the upper left hand corner forming around the logo of your wallet. Give it a few moments to fully reload and do not be alarmed if you see the balance change during this process.</p><p>&nbsp;</p><p>Once that is done, if you have enough balance to cover the network fees then you should be successful in your next transaction. Can you see if the error is still present?&nbsp;</p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Go To Parent Wallet (Check If They Have Enough For Network Fees + Resync ) "
+}

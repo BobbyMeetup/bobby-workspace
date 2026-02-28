@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7188256309147.json",
+  "id": 7188256309147,
+  "title": "Recover Bitcoin (BTC) sent to Bitcoin SV (BSV) address",
+  "active": true,
+  "updated_at": "2024-03-30T21:14:58Z",
+  "created_at": "2022-07-08T22:58:23Z",
+  "default": false,
+  "position": 281,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Please note that Bitcoin and BSV are two different currencies with two different chains, so you should never send Bitcoin directly to a BSV wallet.</p><p><br></p><p>That said, you can try to recover your funds using an external wallet like Electrum SV if you sent BTC to a BSV legacy address (starting with 1).</p><p><br></p><p>Here the steps to follow:</p><p>1) Open Edge, find the BSV wallet, and tap to go inside of the BSV wallet. Once inside of the wallet, tap on the gear icon (located on the upper right side of screen). A new menu will pop up, then tap View Master Private Seed.&nbsp; Enter your password and you'll see your seed. Copy these seed into a note that you will delete after the procedure. DO NOT SHARE YOUR SEEDS. You cannot copy/paste for safety reasons, but only manually copy.</p><p><br></p><p>2)&nbsp;Download Electrum SV from&nbsp;<a href=\"https://electrumsv.io/download.html\" target=\"_blank\" rel=\"noreferrer\">https://electrumsv.io/download.html</a>. Create a new wallet and give it a name of your choice.</p><p><img src=\"https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/8064048967/original/i0gzBiABA65uD18X6IYEyQDQa-GkHG1hpA.png?1588938602\" style=\"width: 441px;\"><br></p><p>Click on Standard Wallet, Choose “I already have a seed\", paste the seeds, click on option and select Bip39.</p><p><br></p><p><img src=\"https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/8064048979/original/fqRWaR_e6b3LaZbPbhSFh6aD4KOvJBRuNg.png?1588938623\" style=\"width: 437px;\"><br></p><p>Click next and select Derivation Path m/236'/0'/0'.</p><p>You can leave the password field empty.</p><p><br></p><p>3) In your Electrum SV wallet, go to Wallets, Private keys, Export.</p><p>Search the address you sent your BTC to and copy its private key.</p><p><img src=\"https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/8064048996/original/X8F8KpB10XOKGjXZln43kaNYCZT5C7csHg.png?1588938662\" style=\"width: 469px;\"><br></p><p>Send your private key to your smartphone. You can send it to you by email but be sure to delete this message completely after you imported your funds.</p><p><br></p><p><br></p><p>4) Open Edge Wallet, go to Menu, Sweep Private Key, Address, paste your private key.</p><p><br></p><p>The wallet will then import the funds you have on that address, minus the mining fees.</p><p>You will be then able to manage your BTC and eventually transfer them to another Bitcoin wallet.</p><p>If you want to sell BTC for BSV remember to use the Edge Wallet Exchange function.</p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Please note that Bitcoin and BSV are two different currencies with two different chains, so you should never send Bitcoin directly to a BSV wallet.\n\nThat said, you can try to recover your funds using an external wallet like Electrum SV if you sent BTC to a BSV legacy address (starting with 1).\n\nHere the steps to follow:\n1) Open Edge, find the BSV wallet, and tap to go inside of the BSV wallet. Once inside of the wallet, tap on the gear icon (located on the upper right side of screen). A new menu will pop up, then tap View Master Private Seed.  Enter your password and you'll see your seed. Copy these seed into a note that you will delete after the procedure. DO NOT SHARE YOUR SEEDS. You cannot copy/paste for safety reasons, but only manually copy.\n\n2) Download Electrum SV from https://electrumsv.io/download.html. Create a new wallet and give it a name of your choice.\n\nClick on Standard Wallet, Choose “I already have a seed\", paste the seeds, click on option and select Bip39.\n\n\nClick next and select Derivation Path m/236'/0'/0'.\nYou can leave the password field empty.\n\n3) In your Electrum SV wallet, go to Wallets, Private keys, Export.\nSearch the address you sent your BTC to and copy its private key.\n\nSend your private key to your smartphone. You can send it to you by email but be sure to delete this message completely after you imported your funds.\n\n\n4) Open Edge Wallet, go to Menu, Sweep Private Key, Address, paste your private key.\n\nThe wallet will then import the funds you have on that address, minus the mining fees.\nYou will be then able to manage your BTC and eventually transfer them to another Bitcoin wallet.\nIf you want to sell BTC for BSV remember to use the Edge Wallet Exchange function.\n\n"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "sent_to_wrong_network"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "btc"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Recover Bitcoin (BTC) sent to Bitcoin SV (BSV) address"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/32480950088091.json",
+  "id": 32480950088091,
+  "title": "check status show in explorer",
+  "active": true,
+  "updated_at": "2025-01-04T08:49:09Z",
+  "created_at": "2025-01-04T08:49:09Z",
+  "default": false,
+  "position": 387,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>You can always check on the official status of a transaction on the blockchain by tapping on the transaction, then tapping on \"Show In Explorer\" from the next screen.</p>"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "check status show in explorer"
+}

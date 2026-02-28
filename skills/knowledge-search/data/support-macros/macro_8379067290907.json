@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/8379067290907.json",
+  "id": 8379067290907,
+  "title": "XMR - Videos Seed Import",
+  "active": true,
+  "updated_at": "2023-02-01T22:37:19Z",
+  "created_at": "2022-08-26T16:22:00Z",
+  "default": false,
+  "position": 123,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>We have created videos on how to import your XMR Seed from Edge into the Monero GUI Wallet and <a href=\"http://Monero.com\" target=\"_blank\" rel=\"noreferrer\">Monero.com</a> Mobile Wallet. Here are videos + instructions:<br> - </p><p><br></p><p>Monero GUI Wallet Video + Instructions:<br> -Click Restore Wallet from Keys</p><p>-Enter a wallet name, it can be anything<br> -Enter in your 25 word seed phrase from Edge XMR wallet<br> -Enter in a wallet creation date. This date will be a few days earlier than your oldest XMR transaction on Edge<br> -Choose a password or leave it blank. In this example, I left it blank<br> -Then click on the Create Wallet button<br> -Then you will need to let the wallet fully synchronize with the blockchain. This can take a few hours. You will need to leave the computer on with the XMR wallet/program running while it syncs to blockchain<br> -After the wallet has fully synchronized, your XMR funds will be available <br>-<br><br> For the <a href=\"http://Monero.com\" target=\"_blank\" rel=\"noreferrer\">Monero.com</a> Wallet Video + Instructions<br> -Open the <a href=\"http://Monero.com\" target=\"_blank\" rel=\"noreferrer\">Monero.com</a>&nbsp;Mobile Wallet<br> -Tap on the (3) horizontal lines located top right<br> -Then tap on Restore Wallet button (located bottom middle)<br> -Enter a wallet name, it can be anything<br> -Enter in your 25 word seed phrase from Edge XMR wallet <br> -Then you want to restore from date. This date will be a few days earlier than your oldest XMR transaction on Edge<br> -Then tap the Restore button<br> -Then you will need to let the wallet fully synchronize with the blockchain. This can take 30min up to a few hours. On the top middle of the screen you will see the wallet syncing by the number of blocks remaining. The wallet will be fully sync’d when it shows the status as ‘SYNCHRONIZED’<br> -After the wallet has fully synchronized, your XMR funds will be available <br> </p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    }
+  ],
+  "restriction": null,
+  "attachments": [
+    8379045813403,
+    8379073500187
+  ],
+  "raw_title": "XMR - Videos Seed Import"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/32882202755995.json",
+  "id": 32882202755995,
+  "title": "exchange/swap outside of edge ",
+  "active": true,
+  "updated_at": "2025-01-16T21:47:18Z",
+  "created_at": "2025-01-16T21:47:18Z",
+  "default": false,
+  "position": 400,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>If you choose to use an exchange service outside of Edge, PLEASE be sure to always enter the correct receiving address for the exchange. If you do not specify, then the exchange service may make an assumption that you want the funds sent back to the SAME address. This is simple to resolve, but also easily avoidable if you review and verify all the swap details before initiating the exchange.</p>"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "exchange/swap outside of edge "
+}

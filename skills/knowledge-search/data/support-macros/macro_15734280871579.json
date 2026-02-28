@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/15734280871579.json",
+  "id": 15734280871579,
+  "title": "Jaxx - Compromised ",
+  "active": true,
+  "updated_at": "2023-10-10T16:06:55Z",
+  "created_at": "2023-05-23T23:33:18Z",
+  "default": false,
+  "position": 152,
+  "description": null,
+  "actions": [
+    {
+      "field": "subject",
+      "value": "Jaxx Import"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987639498651"
+    },
+    {
+      "field": "current_tags",
+      "value": "jaxx hacked/compromised"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>To help identify the issue please review the following questions and answer to the best of your ability.&nbsp;</p><p>1. What version of Jaxx was used to export the keys?</p><p>&nbsp; &nbsp; -- You can tap the menu at the upper right and see the version within the About portion of that menu.</p><p>2. What device and OS version were you on at the time of exporting from Jaxx?</p><p>3. How did you remove the key or phrase from Jaxx and import it into Edge?</p><p>&nbsp; &nbsp; &nbsp;-- Please be specific about the steps you took, where it was stored, who may have helped you, etc.</p><p>4. Did you visit any websites to aid in this process?</p><p>&nbsp; &nbsp; &nbsp;-- Please give all websites visited.&nbsp;</p><p>5. How did you get your copy of Jaxx? Website, link, app store, etc? Please link the website you visited.&nbsp;</p><p>6. Could you please send us your logs file?</p><p>- Go to the main Menu (<b>≡</b>) in the upper right corner, tap Settings, scroll to the bottom and select 'Export Logs'</p><p>- Enter your email address in the notes field to help us identify your log submission.</p><p>- Tap 'Send Logs to Edge' and reply here with time sent.</p><p>7. Please supply the first three words of your seed phrase (NOTE: only the first three words!) This will aid in our discovery of any potential leaks.&nbsp;</p><p>8. Have you ever taken a screenshot or picture of your seed phrase or qr code?&nbsp;</p><p>9. Please provide the transaction IDs of unknown transactions.&nbsp;</p><p>10. Please provide the username of the account.&nbsp;</p><p><br></p>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "current_tags",
+      "value": "hacked/compromised jaxx import"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Jaxx - Compromised "
+}

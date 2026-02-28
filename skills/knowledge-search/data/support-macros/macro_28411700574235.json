@@ -1,0 +1,42 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/28411700574235.json",
+  "id": 28411700574235,
+  "title": "reset password with biometrics (forgot)",
+  "active": true,
+  "updated_at": "2024-09-21T14:42:57Z",
+  "created_at": "2024-08-19T19:47:02Z",
+  "default": false,
+  "position": 340,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>If you still have the ability to login to your Edge app with PIN or Biometric (faceID/fingerprint) but do not remember your password, then you just need to follow the reset password process to create a new password for your account.</p><p>&nbsp;</p><p>With your PIN / biometric login, you can reset the password by logging in and out of the application <u>multiple</u> times in a row, at which point you will see a small pop-up at the bottom of the screen asking you to confirm your password - look for the message: \"Security Check: Tap to Verify Password\"</p><p>Note: this can also be triggered quickly if you have a 2nd device that you can Login Scan into, since the new device would have no history of previously successful password logins.</p><p>&nbsp;</p><p>Since you do not know your password, you just tap the button that reads \"I Forgot. Change Password\" and then enter your new password to be used when accessing this account.</p><p>&nbsp;</p><p>Once done, you will have full access to edit your Edge account and/or login to another device with your new login credentials.</p><p>&nbsp;</p><p>I'll attach a demo video of how this is done.&nbsp;</p><p>&nbsp;</p><p><i>IMPORTANT: This does NOT secure an account that has been previously compromised. Any compromised account should create a new Edge account and migrate your assets to this new account.&nbsp;</i></p>"
+    },
+    {
+      "field": "current_tags",
+      "value": "password"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "account"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "forgot_username/password"
+    }
+  ],
+  "restriction": null,
+  "attachments": [
+    28483510229147
+  ],
+  "raw_title": "reset password with biometrics (forgot)"
+}

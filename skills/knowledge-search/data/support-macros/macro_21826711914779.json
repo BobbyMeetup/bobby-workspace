@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/21826711914779.json",
+  "id": 21826711914779,
+  "title": "Buy - Increase Limits",
+  "active": true,
+  "updated_at": "2025-08-03T01:09:29Z",
+  "created_at": "2024-01-06T22:03:02Z",
+  "default": false,
+  "position": 216,
+  "description": "",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "kyc/id_verification_issue"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "current_tags",
+      "value": "general_inquiry buy_limit"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hello {{ticket.requester.first_name}},</p><p>&nbsp;</p><p>Edge is not placing any limitations on your account. The app enables you to securely self-custody your own cryptocurrency (your keys, your coins) with <i>full encryption</i> and backups, meaning that we cannot see your account or identify who is purchasing crypto in the app.</p><p>&nbsp;</p><p>We are a technology and security company, focusing also on privacy and empowering end users of crypto. Any financial transactions would be passed on to one of several crypto exchanges that we have integrated into Edge. This diversity brings the wider range of purchasable cryptocurrencies, supporting nearly all corners of the globe!</p><p>&nbsp;</p><p>Each exchange will have it's own<i> limits</i> whenever you are buying or selling crypto assets. These limits will vary from region to region, and by asset. By submitting additional verifications with an exchanger, you can typically increase these limits.</p><p>&nbsp;</p><p>Here are some of the initial transaction limits from our most popular exchanges:<br><a href=\"https://support.paybis.com/hc/en-us/articles/5119025073309-Available-payment-methods-and-their-limits\">https://support.paybis.com/hc/en-us/articles/5119025073309-Available-payment-methods-and-their-limits</a><br>&nbsp;</p><p><a href=\"https://support.banxa.com/en/support/solutions/articles/44002465167-how-does-banxa-set-the-price-of-cryptocurrency\">https://support.banxa.com/en/support/solutions/articles/44002465167-how-does-banxa-set-the-price-of-cryptocurrency</a><br>&nbsp;</p><p><a href=\"https://support.simplex.com/hc/en-gb/articles/360018494500-Transaction-limits\">https://support.simplex.com/hc/en-gb/articles/360018494500-Transaction-limits</a><br>&nbsp;</p><p>Let us know if you have any other questions!</p>"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Buy - Increase Limits"
+}

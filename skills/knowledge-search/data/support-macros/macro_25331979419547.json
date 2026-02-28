@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/25331979419547.json",
+  "id": 25331979419547,
+  "title": "wrapped",
+  "active": true,
+  "updated_at": "2024-05-01T00:09:12Z",
+  "created_at": "2024-05-01T00:09:12Z",
+  "default": false,
+  "position": 292,
+  "description": "how to receive from ATM that doesn't accept Edge QR code",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p> There is a special way that you can get an older Bitcoin ATM machine to accept your Edge QR code. When you are displaying it, you can see 2 transparent dots just below it. This indicates the 2 variations of the QR code: Segwit and Wrapped Segwit.</p><p><br></p><p>When an older ATM machine is not compatible with Segwit addresses (starting with bc1...) then you can slide this QR over to the left, to reveal the wrapped segwit version of your BTC wallet (has an address beginning with 3...), which could be thought of as a compatibility address that's able to work with older machines that were built only to work with Legacy or Non-segwit wallet addresses (starting with 1..)<br></p><p><br></p><p>Let us know if you have more questions on this.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "There is a special way that you can get an older Bitcoin ATM machine to accept your Edge QR code. When you are displaying it, you can see 2 transparent dots just below it. This indicates the 2 variations of the QR code: Segwit and Wrapped Segwit.\n\nWhen an older ATM machine is not compatible with Segwit addresses (starting with bc1...) then you can slide this QR over to the left, to reveal the wrapped segwit version of your BTC wallet (has an address beginning with 3...), which could be thought of as a compatibility address that's able to work with older machines that were built only to work with Legacy or Non-segwit wallet addresses (starting with 1..)\n\nLet us know if you have more questions on this."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "wrapped"
+}

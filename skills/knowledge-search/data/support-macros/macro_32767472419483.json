@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/32767472419483.json",
+  "id": 32767472419483,
+  "title": "old BTC address ok (hd wallet)",
+  "active": true,
+  "updated_at": "2025-01-13T22:16:23Z",
+  "created_at": "2025-01-13T22:16:23Z",
+  "default": false,
+  "position": 396,
+  "description": "",
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "btc"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Great question. &nbsp;<br>&nbsp;<br>Yes, Edge supports HD Bitcoin wallets, which allows the address to change with each new transaction. &nbsp;&nbsp;<br>&nbsp;<br>If the address to your BTC wallet has changed because of a new transaction, you CAN still send BTC to a previous address for the same wallet without any issues.</p>"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "old BTC address ok (hd wallet)"
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/19032132590363.json",
+  "id": 19032132590363,
+  "title": "Tron - Unstake claimable TRX (hacky way)",
+  "active": false,
+  "updated_at": "2024-05-02T17:45:14Z",
+  "created_at": "2023-09-23T20:00:42Z",
+  "default": false,
+  "position": 210,
+  "description": "how to claim TRX that was unstaked over 14 days ago",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "subject",
+      "value": "How to claim unstaked Tron (TRX)"
+    },
+    {
+      "field": "current_tags",
+      "value": "tron unstake"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "funds_never_arrived_receive"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_18541027654043",
+      "value": "navigation"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_fields_6990445837595",
+      "value": "bug_other"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "tron"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>If you have unstaked some Tron, over 14 days ago, and it's now ready to be claimed - you can easily claim it with this process:<br><br>1. Create a new, very small stake (1 TRX would be plenty) for either energy or bandwidth.</p><p>2. After you stake it, unstake it. This will push out any claimable TRX that you have unstaked at least 2 weeks ago.<br>(Claimable funds can be seen on&nbsp;<a href=\"https://tronscan.org/#/address/\" target=\"_blank\" rel=\"noreferrer\">https://tronscan.org/#/address/</a>&nbsp; under 'Staking Details' -&gt; 'To be withdrawn')</p><p><br></p><p><i>Note: By staking TRX in Edge, you can obtain free blockchain resources, and with enough resources in your wallet, transactions on the Tron network can become completely free to you!&nbsp;These resources, known as Energy and Bandwidth, are replenished&nbsp;daily, and if you don't have enough cover a blockchain operation fully, you'll first use what you do have, then pay a reduced TRX fee for the transaction.</i><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "If you have unstaked some Tron, over 14 days ago, and it's now ready to be claimed - you can easily claim it with this process:\n\n1. Create a new, very small stake (1 TRX would be plenty) for either energy or bandwidth.\n2. After you stake it, unstake it. This will push out any claimable TRX that you have unstaked at least 2 weeks ago.\n(Claimable funds can be seen on https://tronscan.org/#/address/  under 'Staking Details' -> 'To be withdrawn')\n\nNote: By staking TRX in Edge, you can obtain free blockchain resources, and with enough resources in your wallet, transactions on the Tron network can become completely free to you! These resources, known as Energy and Bandwidth, are replenished daily, and if you don't have enough cover a blockchain operation fully, you'll first use what you do have, then pay a reduced TRX fee for the transaction."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Tron - Unstake claimable TRX (hacky way)"
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/36237753840027.json",
+  "id": 36237753840027,
+  "title": "what if edge shuts down, closes, stops business",
+  "active": true,
+  "updated_at": "2025-04-22T23:33:30Z",
+  "created_at": "2025-04-22T23:33:30Z",
+  "default": false,
+  "position": 430,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>These are some great questions and I'm glad to hear you are thinking ahead.<br>&nbsp;<br>As of right now, the dependency on Edge is primarily limited to our login server where your account information is backed up and encrypted with your username and password.<br>&nbsp;<br>While Edge has been around for 11+ years and shows no signs of slowing down, if we were to forcibly close operation tomorrow, the main result would be the inability to create new accounts or login to existing accounts - but only on new devices.&nbsp;<br>&nbsp;<br>Any devices that are currently logged into Edge will still be able to access their accounts and move/transact with all their funds! 🎉<br>&nbsp;<br>That being said, if Edge were to close AND you were to lose your phone and thus need to login on a new device, you would run into some problems.&nbsp;<br>&nbsp;<br>However, you could prepare for this by manually storing your seed phrases (or private keys) for each of your wallets within your Edge account. It is important to note that each wallet in your Edge account has it's own independent seed phrase (private key).<br>&nbsp;<br>With the seed phrase (or private key) you can \"import\" a wallet into any other cryptocurrency wallet app and have full access to the funds in that wallet.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "These are some great questions and I'm glad to hear you are thinking ahead.\n \nAs of right now, the dependency on Edge is primarily limited to our login server where your account information is backed up and encrypted with your username and password.\n \nWhile Edge has been around for 11+ years and shows no signs of slowing down, if we were to forcibly close operation tomorrow, the main result would be the inability to create new accounts or login to existing accounts - but only on new devices. \n \nAny devices that are currently logged into Edge will still be able to access their accounts and move/transact with all their funds! 🎉\n \nThat being said, if Edge were to close AND you were to lose your phone and thus need to login on a new device, you would run into some problems. \n \nHowever, you could prepare for this by manually storing your seed phrases (or private keys) for each of your wallets within your Edge account. It is important to note that each wallet in your Edge account has it's own independent seed phrase (private key).\n \nWith the seed phrase (or private key) you can \"import\" a wallet into any other cryptocurrency wallet app and have full access to the funds in that wallet."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "what if edge shuts down, closes, stops business"
+}

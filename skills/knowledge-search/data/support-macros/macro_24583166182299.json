@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/24583166182299.json",
+  "id": 24583166182299,
+  "title": "wire",
+  "active": true,
+  "updated_at": "2025-02-26T23:17:55Z",
+  "created_at": "2024-04-06T21:32:51Z",
+  "default": false,
+  "position": 285,
+  "description": "how to do a wire transfer for purchase",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_19558556601243",
+      "value": "wire_transfer"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "kado"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>In order to buy cryptocurrency via Bank Wire Transfer -</p><ol><li>Log into Edge and tap the 'Buy Crypto' tile or use the Buy tab near the bottom</li><li>Scroll down to see if the Bank Wire Transfer option is available in your region.</li><li>Proceed to log into the Kado Ramp provider, using a code that will get sent to your email.</li></ol><p>&nbsp;</p><p>Proceed to follow the steps provided by Kado to complete the order.</p><p>Caution! Be sure to include the bank wire message/memo, precisely, otherwise the funds will need to be manually tracked down and order delayed.<br>&nbsp;</p><p>Within 1-2 business days, the coins will be delivered into your Edge account 🎉</p><p>Let us know if you have any other questions!</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "In order to buy cryptocurrency via Bank Wire Transfer -\n1. Log into Edge and tap the 'Buy Crypto' tile or use the Buy tab near the bottom\n2. Scroll down to see if the Bank Wire Transfer option is available in your region.\n3. Proceed to log into the Kado Ramp provider, using a code that will get sent to your email.\n\nProceed to follow the steps provided by Kado to complete the order.\nCaution! Be sure to include the bank wire message/memo, precisely, otherwise the funds will need to be manually tracked down and order delayed. \n\nWithin 1-2 business days, the coins will be delivered into your Edge account 🎉 \nLet us know if you have any other questions!"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "wire"
+}

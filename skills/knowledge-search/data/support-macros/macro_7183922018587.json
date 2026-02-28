@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7183922018587.json",
+  "id": 7183922018587,
+  "title": "Account - Auth Server Down",
+  "active": true,
+  "updated_at": "2024-06-08T16:17:14Z",
+  "created_at": "2022-07-08T19:48:51Z",
+  "default": false,
+  "position": 23,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thanks for reaching out and we apologize for the inconvenience.</p><p><br></p><p>When our servers are under heavy load, users may not be able to:</p><p>- create new accounts&nbsp;</p><p>- create new wallets, or</p><p>- login with PIN</p><p><br></p><p><b>Note: You can still login with your full password or saved biometrics on any device you have logged in to before, so long as you haven't deleted the app.</b></p><p><br></p><p>Our engineers are working now to bring the server back up as soon as possible.</p><p>You may try again, soon. Thanks for your patience.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Thanks for reaching out and we apologize for the inconvenience.\n\nWhen our servers are under heavy load, users may not be able to:\n- create new accounts \n- create new wallets, or\n- login with PIN\n\nNote: You can still login with your full password or saved biometrics on any device you have logged in to before, so long as you haven't deleted the app.\n\nOur engineers are working now to bring the server back up as soon as possible.\nYou may try again, soon. Thanks for your patience."
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987966018715"
+    },
+    {
+      "field": "custom_fields_6990445837595",
+      "value": "login__auth_server__error_"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Account - Auth Server Down"
+}

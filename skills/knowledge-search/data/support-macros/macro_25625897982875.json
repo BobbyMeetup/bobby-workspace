@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/25625897982875.json",
+  "id": 25625897982875,
+  "title": "AnyO",
+  "active": false,
+  "updated_at": "2024-05-17T16:51:16Z",
+  "created_at": "2024-05-10T16:51:22Z",
+  "default": false,
+  "position": 296,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>If you have any other questions or concerns, please feel free to reach out to us - anytime!</p><p><br></p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "If you have any other questions or concerns, please feel free to reach out to us - anytime!\n\n"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923888415643"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "AnyO"
+}

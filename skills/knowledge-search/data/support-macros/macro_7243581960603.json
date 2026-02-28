@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7243581960603.json",
+  "id": 7243581960603,
+  "title": "DGB - Recover Digibyte (DGB) sent to Doge (DOGE)",
+  "active": true,
+  "updated_at": "2022-10-19T20:40:26Z",
+  "created_at": "2022-07-11T20:19:04Z",
+  "default": false,
+  "position": 52,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<ol><li>To start this process please have a PC or laptop available and visit <a href=\"https://iancoleman.io/bip39/\" target=\"_blank\" rel=\"noreferrer\">https://iancoleman.io/bip39/</a>&nbsp;(You will use this to access your funds).<br></li><li>To export your Doge private key, go to your wallet main screen by tapping wallets located at the bottom right of your app screen. <br></li><li>Tap on your Doge coin wallet to go inside of it. Once inside of the wallet, tap on the gear icon (located on the upper right side of screen). A new menu will pop up and then you will tap on View Master Private Seed and enter your password and your seed will be displaed.<br></li><li>Take your seed (Called the mnemonic phrase.) and type it into the box labeled \"BIP39 Mnemonic\" on the website&nbsp;<a href=\"https://iancoleman.io/bip39/\" target=\"_blank\" rel=\"noreferrer\">https://iancoleman.io/bip39/</a> <br></li><li>Now look for the field labeled \"Coin\" and set that to Doge.<br></li><li>Now scroll down to the section of the website labeled \"Derived Addresses\" (It will be the section following Derivation Path).<br></li><li>There will be a table that shows four fields \"Path, Address, Public Key, and Private Key\" from here mouse over \"Private Key\" to reveal a QR code. You will use these to sweep your funds.<br></li><li>Now open your Edge app and create a Digibyte wallet, from the wallets main screen tap the \"+\" sign to the left of the screen to create the wallet. &nbsp;After pressing the \"+\" you can type Digi and then tap that wallet.<br></li><li>Once the wallet is created tap the menu icon located at the upper right of the screen and then tap \"Sweep Private Key\".<br></li><li>At the top of the screen tap the wallet that is shown to make sure you have Digibyte selected. After tapping the top of the screen you can then select Digibyte.<br></li><li>Now point your camera at the revealed QR code that is shown when you mouse over \"Private Key\".&nbsp;<br></li></ol><p>You will need to reveal each \"Private Key\" QR code and repeat steps 9 through 11&nbsp;until you have all &nbsp;of the funds that you're missing.&nbsp;</p><p>Please let me know if you have any further questions.&nbsp;</p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "DGB - Recover Digibyte (DGB) sent to Doge (DOGE)"
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7246430716059.json",
+  "id": 7246430716059,
+  "title": "Exchange - Missing Exchange / Order ID response",
+  "active": true,
+  "updated_at": "2024-12-19T11:15:29Z",
+  "created_at": "2022-07-11T22:04:02Z",
+  "default": false,
+  "position": 69,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Processing an exchange typically takes 10 minutes to 24 hours (average 1-4 hours). Delays up to 48 hours may occur during high traffic. For concerns, please reply with exchange information retrievable by following these steps:</p><ol><li>Go to \"Assets\" and select the wallet you exchanged from.</li><li>Locate the transaction and tap for details.</li><li>Find \"Exchange Details\" and tap then tap copy.</li><li>Paste the copied information in your reply.</li><li>Copy the transaction ID and paste it in your reply.</li></ol><p>We will reach out to the partner and find the reason for the delay.</p>"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987701197339"
+    },
+    {
+      "field": "custom_fields_6991553191067",
+      "value": "funds_never_arrived"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Exchange - Missing Exchange / Order ID response"
+}

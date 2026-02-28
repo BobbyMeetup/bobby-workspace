@@ -1,0 +1,55 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7276544752667.json",
+  "id": 7276544752667,
+  "title": "Wallet - How to Receive",
+  "active": true,
+  "updated_at": "2025-01-16T23:22:28Z",
+  "created_at": "2022-07-12T22:06:31Z",
+  "default": false,
+  "position": 100,
+  "description": "",
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "how_to_receive"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Here are the steps to receive crypto into your Edge wallet:</p><p><br></p><p>1) Log into your Edge account</p><p>2) Tap 'Deposit' and select the 2nd option: 'From Another Wallet/Exchange'</p><p>3) Tap on the wallet from this list that you want send funds into</p><p>4) This will take you to the Receive Screen for this asset.</p><p>The QR code here = your public wallet address = the string of numbers and letters below it.</p><p><br></p><p>Receiving this specific cryptocurrency into your Edge account can be accomplished by scanning the QR image (from your sending wallet), or tap on Copy, and paste this public address into your sending wallet, or into a message for your sender to copy &amp; paste into theirs.<br></p><p><br></p><p>Let us know if you have any more questions!&nbsp; 🎉</p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Here are the steps to receive crypto into your Edge wallet:\n\n1) Log into your Edge account\n2) Tap 'Deposit' and select the 2nd option: 'From Another Wallet/Exchange'\n3) Tap on the wallet from this list that you want send funds into\n4) This will take you to the Receive Screen for this asset.\nThe QR code here = your public wallet address = the string of numbers and letters below it.\n\nReceiving this specific cryptocurrency into your Edge account can be accomplished by scanning the QR image (from your sending wallet), or tap on Copy, and paste this public address into your sending wallet, or into a message for your sender to copy & paste into theirs.\n\nLet us know if you have any more questions!  🎉\n"
+    },
+    {
+      "field": "current_tags",
+      "value": "total_newb how_to_receive"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - How to Receive"
+}

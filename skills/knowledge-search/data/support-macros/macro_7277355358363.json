@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7277355358363.json",
+  "id": 7277355358363,
+  "title": "Wallet - Suggested coins/tokens (w/ request form)",
+  "active": true,
+  "updated_at": "2025-03-21T23:05:41Z",
+  "created_at": "2022-07-12T22:35:25Z",
+  "default": false,
+  "position": 111,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thank you for the suggestion! We have added this to our list of user requests.<br><br>This coin is not currently available on any supported blockchains and appears to be its own independent network. Edge will research how we can build out functionality for this asset, but cannot guarantee when it will be integrated.<br><br>Please feel free to submit new currency requests here for us to add to Edge. New \"tokens\" can be added in just a couple hours, but new blockchains do require significant additional development.&nbsp;<br>&nbsp;</p><p><a href=\"https://form.asana.com/?k=0EM9Iy0RD5Qvd6aWsYeTRw&amp;d=9976422036640\">Token Request Form</a><br>&nbsp;</p><p>Note to Developers:<br>Edge is open source and welcomes contributors and projects to create a new plugins and submit a pull request themselves. If you're part of the development team you can get more information at&nbsp;<a href=\"mailto:info@edge.app\">info@edge.app</a></p><p>&nbsp;</p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - Suggested coins/tokens (w/ request form)"
+}

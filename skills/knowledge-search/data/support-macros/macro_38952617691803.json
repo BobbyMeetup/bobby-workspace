@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/38952617691803.json",
+  "id": 38952617691803,
+  "title": "partner logins",
+  "active": true,
+  "updated_at": "2025-07-14T19:28:43Z",
+  "created_at": "2025-07-14T19:28:43Z",
+  "default": false,
+  "position": 456,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p><i><u>Partner Logins and Status Checkers</u></i></p><p><strong>MoonPay</strong>:</p><ul><li>Login: <a href=\"https://buy.moonpay.com/trade_history\">https://buy.moonpay.com/trade_history</a></li></ul><p><strong>Paybis</strong>:</p><ul><li>Login: <a href=\"https://payb.is\">https://payb.is</a></li></ul><p><strong>Simplex</strong>:</p><ul><li>Check Status: <a href=\"https://payment-status.simplex.com/#/\">https://payment-status.simplex.com/#/</a></li></ul><p><strong>Bity</strong>:</p><ul><li>Check Status: <a href=\"https://sophia.bity.com/\">https://sophia.bity.com/</a></li><li>Login: <a href=\"https://my.bity.com/login\">https://my.bity.com/login</a></li></ul><p><strong>Banxa</strong>:</p><ul><li>Check Status: <a href=\"https://support.banxa.com/en/support/home\">https://support.banxa.com/en/support/home</a></li></ul><p>(share order ID with chatbot to check status)</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "-- Partner Logins and Status Checkers --\n\nMoonPay:\n- Login: https://buy.moonpay.com/trade_history\n\nPaybis:\n- Login: https://payb.is\n\nSimplex:\n- Check Status: https://payment-status.simplex.com/#/\n\nBity:\n- Check Status: https://sophia.bity.com/\n- Login: https://my.bity.com/login\n\nBanxa:\n- Check Status: https://support.banxa.com/en/support/home\n(share order ID with chatbot to check status)\n"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "partner logins"
+}

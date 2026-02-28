@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/25571088540059.json",
+  "id": 25571088540059,
+  "title": "Kado - Buying Power",
+  "active": false,
+  "updated_at": "2025-07-01T19:48:21Z",
+  "created_at": "2024-05-08T22:06:36Z",
+  "default": false,
+  "position": 295,
+  "description": "what is \"Buying Power\" and how do I increase it?",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "kado"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "unable_to_buy"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "current_tags",
+      "value": "buying-power"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Buying or Selling Power is how Kado refers to their crypto purchasing/selling limits. Each pay method has its own power, and has a 24-hour recovery time. So if you are seeing an \"insufficient power\" message, you can try reducing the amount of the order, waiting 1 day for your limits to reset, or changing the payment or payout method.</p><p>&nbsp;</p><p>To learn more about buying/selling power and how to request an increase, please see this page: <a href=\"https://faq.kado.money/en/article/what-is-buying-power-and-how-do-i-increase-it-1nwii71\">https://faq.kado.money/en/article/what-is-buying-power-and-how-do-i-increase-it-1nwii71</a></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Buying or Selling Power is how Kado refers to their crypto purchasing/selling limits. Each pay method has its own power, and has a 24-hour recovery time. So if you are seeing an \"insufficient power\" message, you can try reducing the amount of the order, waiting 1 day for your limits to reset, or changing the payment or payout method.\n\nTo learn more about buying/selling power and how to request an increase, please see this page: https://faq.kado.money/en/article/what-is-buying-power-and-how-do-i-increase-it-1nwii71"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Kado - Buying Power"
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7247433506971.json",
+  "id": 7247433506971,
+  "title": "Moonpay - User contact",
+  "active": true,
+  "updated_at": "2023-07-07T21:14:18Z",
+  "created_at": "2022-07-11T22:56:04Z",
+  "default": false,
+  "position": 80,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thanks for reaching out.</p><p>We suggest you to open a ticket with Moonpay at&nbsp;<a href=\"https://support.moonpay.com/hc/en-gb/requests/new\" target=\"_blank\" rel=\"noreferrer\">https://support.moonpay.com/hc/en-gb/requests/new</a>.<br>They will reply as soon as possible and help you with your issue.<br>If you have more questions for us, you may reply here.<br><br></p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Thanks for reaching out.\nWe suggest you to open a ticket with Moonpay at https://support.moonpay.com/hc/en-gb/requests/new.\nThey will reply as soon as possible and help you with your issue.\nIf you have more questions for us, you may reply here."
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "moonpay"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Moonpay - User contact"
+}

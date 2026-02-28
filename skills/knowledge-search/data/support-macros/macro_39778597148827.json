@@ -1,0 +1,30 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/39778597148827.json",
+  "id": 39778597148827,
+  "title": "IP follow up",
+  "active": true,
+  "updated_at": "2025-08-07T16:55:24Z",
+  "created_at": "2025-08-07T16:52:17Z",
+  "default": false,
+  "position": 473,
+  "description": "",
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "ip_voucher_reset"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>The timer has been reset and should unlock after the 7 days from the original request.&nbsp;</p><p>Please let us know if you have any further questions.&nbsp;</p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 1904053440604
+  },
+  "raw_title": "IP follow up"
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/16969912475931.json",
+  "id": 16969912475931,
+  "title": "BSV - Electrum Import - Set Derivation Path",
+  "active": false,
+  "updated_at": "2024-01-14T02:39:28Z",
+  "created_at": "2023-07-07T21:08:03Z",
+  "default": false,
+  "position": 183,
+  "description": "how to manually set derivation path to m/44'/236'/0' for Electrum BSV imports from Edge to appear",
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "bsv"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>After downloading the latest version of Electrum (v1.3.16) to your computer. Then you will need click on File, and New, to create a new wallet and set a password for it. Then you can click 'Add Account', and then 'Import from text' -- here you will type in your 24 word seed from Edge. Before clicking 'Done', you'll want to modify the derivation path by clicking on 'Customize' button. Default is m/44'/0'/0' and we want to simply change that middle zero to a 236 for BSV. So please set it to m/44'/236'/0' - and then Click Done. You should now be able to see and use your BSV. The next time Edge syncs with BSV, you will see your electrum activity populate inside Edge.<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "After downloading the latest version of Electrum (v1.3.16) to your computer. Then you will need click on File, and New, to create a new wallet and set a password for it. Then you can click 'Add Account', and then 'Import from text' -- here you will type in your 24 word seed from Edge. Before clicking 'Done', you'll want to modify the derivation path by clicking on 'Customize' button. Default is m/44'/0'/0' and we want to simply change that middle zero to a 236 for BSV. So please set it to m/44'/236'/0' - and then Click Done. You should now be able to see and use your BSV. The next time Edge syncs with BSV, you will see your electrum activity populate inside Edge.\n\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "BSV - Electrum Import - Set Derivation Path"
+}

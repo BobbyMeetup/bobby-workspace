@@ -1,0 +1,55 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/34930783760923.json",
+  "id": 34930783760923,
+  "title": "Thorchain Savers - TCY",
+  "active": true,
+  "updated_at": "2025-07-22T18:08:37Z",
+  "created_at": "2025-03-14T00:50:28Z",
+  "default": false,
+  "position": 419,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Following the restructure of ThorFi, any users staking assets in the Thorchain Savers program are now able to claim their ThorChain Yield tokens ($TCY) allocation in proportion to the dollar value of their staked assets when the Savers and Lending vaults were halted.</p><p>The TCY are a compensation for the original funds staked by the users that cannot be recovered.<br>&nbsp;</p><p>More information on how to claim and manage your TCY stake can be found here: <a href=\"https://support.edge.app/hc/en-us/articles/36640943008923-How-to-claim-and-manage-your-TCY-stake-in-Edge-THORChain-Yield-token\">https://support.edge.app/hc/en-us/articles/36640943008923-How-to-claim-and-manage-your-TCY-stake-in-Edge-THORChain-Yield-token</a></p><p>&nbsp;</p><p>Please let us know if you have any questions.</p><p>&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Following the restructure of ThorFi, any users staking assets in the Thorchain Savers program are now able to claim their ThorChain Yield tokens ($TCY) allocation in proportion to the dollar value of their staked assets when the Savers and Lending vaults were halted.\nThe TCY are a compensation for the original funds staked by the users that cannot be recovered. \n\nMore information on how to claim and manage your TCY stake can be found here: https://support.edge.app/hc/en-us/articles/36640943008923-How-to-claim-and-manage-your-TCY-stake-in-Edge-THORChain-Yield-token\n \nPlease let us know if you have any questions.\n \n"
+    },
+    {
+      "field": "current_tags",
+      "value": "thorchain savers_deprecated"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "unstake"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "tcy"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Thorchain Savers - TCY"
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/18474074187547.json",
+  "id": 18474074187547,
+  "title": "chainabuse-referral",
+  "active": true,
+  "updated_at": "2024-06-06T23:01:27Z",
+  "created_at": "2023-09-02T21:15:02Z",
+  "default": false,
+  "position": 202,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p><a href=\"https://www.chainabuse.com/\" target=\"_blank\" rel=\"noreferrer\">Chainabuse</a> &nbsp;- can provide you with some extra support as well. It's a free service that includes advice on how to stay safe going forward, how to properly reach out to Law Enforcement, and how the recovery of stolen crypto might work in your case.<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "https://www.chainabuse.com  - can provide you with some extra support as well. It's a free service that includes advice on how to stay safe going forward, how to properly reach out to Law Enforcement, and how the recovery of stolen crypto might work in your case."
+    },
+    {
+      "field": "current_tags",
+      "value": "chainabuse_ref scammed"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987639498651"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "chainabuse-referral"
+}

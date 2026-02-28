@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/14747026327067.json",
+  "id": 14747026327067,
+  "title": "EmberFund Support",
+  "active": true,
+  "updated_at": "2025-03-27T21:23:14Z",
+  "created_at": "2023-04-20T18:38:35Z",
+  "default": false,
+  "position": 157,
+  "description": "",
+  "actions": [
+    {
+      "field": "status",
+      "value": "solved"
+    },
+    {
+      "field": "type",
+      "value": "question"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6923892657307"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "emberfund"
+    },
+    {
+      "field": "remove_tags",
+      "value": "edge"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi, you have reached the Edge wallet support team. Within EmberFund, the self-custodial wallet portion of the app uses the same account system of Edge, so you can technically login to Edge with the same wallet username &amp; password that you used when setting up your Ember app.</p><p>&nbsp;</p><p>Please send a quick email to <a href=\"mailto:help@emberfund.io\">help@emberfund.io</a> for any EmberFund support requests pertaining to earning, payouts, and any inquires not related to your Edge account management.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hi, you have reached the Edge wallet support team. Within EmberFund, the self-custodial wallet portion of the app uses the same account system of Edge, so you can technically login to Edge with the same wallet username & password that you used when setting up your Ember app.\n \nPlease send a quick email to help@emberfund.io for any EmberFund support requests pertaining to earning, payouts, and any inquires not related to your Edge account management.\n"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "EmberFund Support"
+}

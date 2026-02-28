@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/14149710484123.json",
+  "id": 14149710484123,
+  "title": "Partner - Bits of Gold",
+  "active": true,
+  "updated_at": "2023-05-16T22:45:18Z",
+  "created_at": "2023-03-31T15:25:34Z",
+  "default": false,
+  "position": 9,
+  "description": "",
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "13053445492635"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "current_tags",
+      "value": "bits_of_gold"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>You may need to contact Bits of Gold directly. You can reach them here: <a href=\"https://bitsofgoldhelp.freshdesk.com/en/support/home\" target=\"_blank\" rel=\"noreferrer\">https://bitsofgoldhelp.freshdesk.com/en/support/home</a><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "You may need to contact Bits of Gold directly. You can reach them here: https://bitsofgoldhelp.freshdesk.com/en/support/home\n\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Partner - Bits of Gold"
+}

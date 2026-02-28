@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/21066204290459.json",
+  "id": 21066204290459,
+  "title": "Split Wallet - Wrong Network",
+  "active": true,
+  "updated_at": "2025-03-28T21:00:15Z",
+  "created_at": "2023-12-08T21:16:38Z",
+  "default": false,
+  "position": 245,
+  "description": "",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "receive_wrong_network"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>To recover funds that were sent to you on the wrong network, you can utilize the 'Split Wallet' feature of Edge.</p><p>&nbsp;</p><p>To Split your wallet, please follow these steps:</p><ul><li>Tap into the wallet that funds were sent to, in this instance the \"wrong wallet/network\" and then tap the three vertical dots (⋮)</li><li>Tap on \"<strong>Split Wallet</strong>\" (note: for tokens, you will need to first 'Go to Parent Wallet')</li><li>Toggle on the network(s) you wish to split or have visible</li><li>Tap Next and then review - tap on the wallet to change its name, if desired</li><li>Tap \"<strong>Split Wallet\"</strong> and you will now see the newly created wallets from that private key</li></ul><p>Please be mindful about which network or blockchain you're dealing with, whenever sending or receiving crypto assets. This is an important lesson as funds can be permanently lost!</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "To recover funds that were sent to you on the wrong network, you can utilize the 'Split Wallet' feature of Edge.\n\nTo Split your wallet please follow these steps -\n1. Tap into the wallet that funds were sent to, and then tap the three vertical dots (⋮)\n2. Tap on \"Split Wallet\" (note: for tokens, you will need to first 'Go to Parent Wallet')\n3. Toggle on the networks you wish to split or have visible\n4. Tap Next and then review - tap on the wallet to change its name, if desired\n5. Tap \"Split Wallet\" and you will now see the newly created wallets from that private key\n\nPlease be mindful about which network or blockchain you're dealing with, whenever sending or receiving crypto assets. This is an important lesson as funds can be permanently lost!"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "current_tags",
+      "value": "split_wallet"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Split Wallet - Wrong Network"
+}

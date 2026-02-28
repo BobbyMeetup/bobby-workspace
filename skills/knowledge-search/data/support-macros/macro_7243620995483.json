@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7243620995483.json",
+  "id": 7243620995483,
+  "title": "EBOOST - deprecated recover funds ",
+  "active": true,
+  "updated_at": "2022-10-19T20:33:18Z",
+  "created_at": "2022-07-11T20:22:34Z",
+  "default": false,
+  "position": 55,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>EBOOST support has been removed.&nbsp;</p><p>If you would like to recover your funds you can do so by extracting the private key and importing into a core wallet or wallet of your choice. One suggestion for a wallet would be <a href=\"https://eboost.fun/#wallet\" target=\"_blank\" rel=\"noreferrer\">https://eboost.fun/#wallet</a>.</p><p><br></p><p>To access your private key tap on your EBOOST wallet from the main wallet list and then tap on the gear icon (located on the upper right side of screen). A new menu will appear, then tap \"Master Private Seed\". You will then be prompted to enter your password. Your Private Seed will be displayed which you can input that key into the core wallet. NOTE: do not store this key online anyone with access to that key can access your funds.&nbsp;</p><p><br></p><p>If you need assistance please reach out.&nbsp;</p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "solved"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "EBOOST - deprecated recover funds "
+}

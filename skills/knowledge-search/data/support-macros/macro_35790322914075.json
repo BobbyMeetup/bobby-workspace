@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/35790322914075.json",
+  "id": 35790322914075,
+  "title": "Thorchain Savers Stake - TCY Claim Calculation",
+  "active": false,
+  "updated_at": "2025-05-11T17:38:25Z",
+  "created_at": "2025-04-08T19:49:46Z",
+  "default": false,
+  "position": 428,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>To determine the $TCY claim for your wallet, you will need to know your <i>staking wallet address</i>, which can be found by following these steps:</p><ol><li>Log into Edge and navigate to your Assets page</li><li>Select the wallet that you have staked from in the past.</li><li>Scroll down to view your transaction history for this wallet (tap 'See All' if needed to view entire history)</li><li>Locate any transaction that is labeled \"Thorchain Savers\" and tap into it.<ol><li>The transaction may be labeled either as \"Transfer:Stake\" or as \"Expense:Network Fee\"</li></ol></li><li>Scroll down until you see 'Show in Explorer' and just below that,</li><li>Tap on the 'My Receive Addresses' field to copy your <i><strong>staking wallet address</strong></i>.</li><li>Input this address into <a href=\"https://rune.tools/tcy-claims\">https://rune.tools/tcy-claims</a> or <a href=\"https://xscanner.org/tokens/TCY\">https://xscanner.org/tokens/TCY</a> to see your expected claim.</li></ol><p>Let us know if you have any other questions.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "To determine the $TCY claim for your wallet, you will need to know your staking wallet address, which can be found by following these steps:\n\n1. Log into Edge and navigate to your Assets page\n2. Select the wallet that you have staked from in the past.\n3. Scroll down to view your transaction history for this wallet (tap 'See All' if needed to view entire history)\n4. Locate any transaction that is labeled \"Thorchain Savers\" and tap into it.\n     a. The transaction may be labeled either as \"Transfer:Stake\" or as \"Expense:Network Fee\"\n5. Scroll down until you see 'Show in Explorer' and just below that,\n6. Tap on the 'My Receive Addresses' field to copy your staking wallet address.\n7. Input this address into https://rune.tools/tcy-claims or https://xscanner.org/tokens/TCY to see your expected claim.\n\nLet us know if you have any other questions."
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "unstake"
+    },
+    {
+      "field": "current_tags",
+      "value": "tcy tcy-claim-inquiry thorchain savers"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Thorchain Savers Stake - TCY Claim Calculation"
+}

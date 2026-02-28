@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/35346857216155.json",
+  "id": 35346857216155,
+  "title": "Account - Verbose Logs",
+  "active": true,
+  "updated_at": "2025-03-26T16:32:19Z",
+  "created_at": "2025-03-26T16:32:19Z",
+  "default": false,
+  "position": 424,
+  "description": "Use for issues that can not be easily diagnosed. ",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Could you please send us your logs file?</p><ol><li>Go to the main Menu (<strong>≡</strong>) in the upper right corner,&nbsp;</li><li>Tap Settings, scroll to the bottom&nbsp;</li><li>Find the \"Verbose Logging\" toggle and turn this on</li><li>Select 'Export Logs'</li><li>Enter your email address in the notes field to help us identify your log submission.</li><li>Tap 'Send Logs to Edge' and reply here with time sent.</li></ol><p>&nbsp;</p><p>NOTE:&nbsp;</p><ul><li>Logs do not provide any private information such as private key, password, or XPUBS.&nbsp;</li><li>Logs do provide some information about your account such as username, device, exchange queries, and EVM addresses.</li></ul>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "current_tags",
+      "value": "verbose_logs_requested"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Account - Verbose Logs"
+}

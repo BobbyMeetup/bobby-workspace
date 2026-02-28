@@ -1,0 +1,59 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/25164198763035.json",
+  "id": 25164198763035,
+  "title": "POL - Insufficient funds on Polygon",
+  "active": true,
+  "updated_at": "2025-07-06T17:24:23Z",
+  "created_at": "2024-04-25T09:39:40Z",
+  "default": false,
+  "position": 290,
+  "description": "",
+  "actions": [
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "current_tags",
+      "value": "insufficient"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>In order to send or swap a Polygon token, for example USDT, USDC..., you'll first need a bit of POL within the parent wallet, which has the same receiving address and wallet name as your token. This will enable your wallet to pay the gas fees required to broadcast an on-chain transaction within the Polygon network.<br>&nbsp;</p><p>This is an blockchain policy, and Edge receives <strong>no</strong> profit from gas fees. They are paid solely to polygon network validators to process your transaction on-chain.&nbsp;</p><p>&nbsp;</p><h4><strong>- Note: Tokens on any chain, </strong><i><strong>generally</strong></i><strong> can NOT pay their own fees! -</strong><br>However, if you are on the latest version of Edge, you may be able to utilize our 'gasless swaps' integration, which allows you to trade an otherwise stuck token, like USDT in a 0 POL \"My Polygon\" wallet, or for some POL, so you can acquire some gas money to conduct other blockchain operations. Simply us the Exchange tab and build a small quote from token wallet to parent wallet (must be same wallet to find gasless swap quote).</h4><p>&nbsp;</p><p>If you have any questions or need further assistance, please let us know.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "In order to send or swap a Polygon token, for example USDT, USDC..., you'll first need a bit of POL within the parent wallet, which has the same receiving address and wallet name as your token. This will enable your wallet to pay the gas fees required to broadcast an on-chain transaction within the Polygon network. \n\nThis is an blockchain policy, and Edge receives no profit from gas fees. They are paid solely to polygon network validators to process your transaction on-chain. \n \n- Note: Tokens on any chain, generally can NOT pay their own fees! -\nHowever, if you are on the latest version of Edge, you may be able to utilize our 'gasless swaps' integration, which allows you to trade an otherwise stuck token, like USDT in a 0 POL \"My Polygon\" wallet, or for some POL, so you can acquire some gas money to conduct other blockchain operations. Simply us the Exchange tab and build a small quote from token wallet to parent wallet (must be same wallet to find gasless swap quote).\n\nIf you have any questions or need further assistance, please let us know. "
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "insufficient_unable_to_send"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "polygon"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "POL - Insufficient funds on Polygon"
+}

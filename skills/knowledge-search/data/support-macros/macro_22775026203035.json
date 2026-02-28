@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/22775026203035.json",
+  "id": 22775026203035,
+  "title": "vmns - voicemail not.setup",
+  "active": true,
+  "updated_at": "2024-05-25T17:49:01Z",
+  "created_at": "2024-02-08T19:46:52Z",
+  "default": false,
+  "position": 22,
+  "description": "inconclusive callback due to voicemail not being set up",
+  "actions": [
+    {
+      "field": "comment_mode_is_public",
+      "value": "false"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>- No Voicemail box set up -</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Inconclusive</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "- No Voicemail box set up -\n           Inconclusive"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "unresponsive/inconclusive"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923888415643"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "subject",
+      "value": "Voicemail box not set up for {{ticket.requester.name}} - Inconclusive"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "vmns - voicemail not.setup"
+}

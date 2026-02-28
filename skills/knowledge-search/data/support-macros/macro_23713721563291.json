@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/23713721563291.json",
+  "id": 23713721563291,
+  "title": "myjaxx.pro - report abuse to Tilda",
+  "active": false,
+  "updated_at": "2025-04-03T23:43:30Z",
+  "created_at": "2024-03-11T23:16:02Z",
+  "default": false,
+  "position": 276,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "hacked/compromised"
+    },
+    {
+      "field": "current_tags",
+      "value": "jaxx import_issue"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>We have heard several reports of Jaxx users attempting to restore their wallets with a fake/phishing site, located at: myjaxx[.]pro - this bad tool appears to be automatically emptying any cryptocurrency associated with a 12-word seed phrase that's been submitted to it. We've researched the webhost, and recommend that you send a formal abuse complaint to:&nbsp;<a href=\"https://tilda.cc/abuse\" target=\"_blank\" rel=\"noreferrer\">https://tilda.cc/abuse</a>, and proceed with filing a local police report of the theft. This will get something on the record, and assist the authorities in being able to track down the criminal behind this site.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "We have heard several reports of Jaxx users attempting to restore their wallets with a fake/phishing site, located at: myjaxx[.]pro - this bad tool appears to be automatically emptying any cryptocurrency associated with a 12-word seed phrase that's been submitted to it. We've researched the webhost, and recommend that you send a formal abuse complaint to: https://tilda.cc/abuse, and proceed with filing a local police report of the theft. This will get something on the record, and assist the authorities in being able to track down the criminal behind this site.\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "myjaxx.pro - report abuse to Tilda"
+}

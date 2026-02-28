@@ -1,0 +1,63 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/26428769125403.json",
+  "id": 26428769125403,
+  "title": "sell-to-debit-declined",
+  "active": true,
+  "updated_at": "2024-06-10T17:38:36Z",
+  "created_at": "2024-06-08T16:42:37Z",
+  "default": false,
+  "position": 311,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "13053445492635"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "paybis"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "payment_declined"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>We are very sorry for the inconvenience of this!&nbsp;</p><p><br></p><p>When selling crypto to your debit card, it's important that your card can accept a cash transfer. Not all debit cards can do this, in particular there are issue seen most commonly with debit cards connected to app-only banks like: Cashapp, Chime, Revolut, Venmo, etc.</p><p><br></p><p>Another possibility is that the card does not have 3DSecure features needed by crypto exchangers to verify you are the account holder. When attempting to sell cryptocurrency to your card fails, please try another card (ideally from a brick-and-mortar bank, that's able to receive cash transfers) - or select another payout option, such as direct ACH bank transfer, which would bypass any card limitations.<br></p><p><br></p><p>And if you could let us know: the card issuing bank or type of card that was used, and we will make a note and try working with Paybis to come up with a preventative solution in these cases. For now, please allow some processing time for the coins to be refunded to be manually reviewed and sent back to you. This waiting period may seem long, but there is no risk of loss here.</p><p><br></p><p>Please let us know if you have any other questions.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "We are very sorry for the inconvenience of this! \n\nWhen selling crypto to your debit card, it's important that your card can accept a cash transfer. Not all debit cards can do this, in particular there are issue seen most commonly with debit cards connected to app-only banks like: Cashapp, Chime, Revolut, Venmo, etc.\n\nAnother possibility is that the card does not have 3DSecure features needed by crypto exchangers to verify you are the account holder. When attempting to sell cryptocurrency to your card fails, please try another card (ideally from a brick-and-mortar bank, that's able to receive cash transfers) - or select another payout option, such as direct ACH bank transfer, which would bypass any card limitations.\n\nAnd if you could let us know: the card issuing bank or type of card that was used, and we will make a note and try working with Paybis to come up with a preventative solution in these cases. For now, please allow some processing time for the coins to be refunded to be manually reviewed and sent back to you. This waiting period may seem long, but there is no risk of loss here.\n\nPlease let us know if you have any other questions."
+    },
+    {
+      "field": "custom_fields_23152938690971",
+      "value": "debit_sell"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "send"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "sell-to-debit-declined"
+}

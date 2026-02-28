@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/32617546771099.json",
+  "id": 32617546771099,
+  "title": "vmci - Infinite Ring",
+  "active": true,
+  "updated_at": "2025-01-08T23:33:16Z",
+  "created_at": "2025-01-08T23:26:06Z",
+  "default": false,
+  "position": 394,
+  "description": "Cannot make connection on callback attempt",
+  "actions": [
+    {
+      "field": "comment_mode_is_public",
+      "value": "false"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Cannot reach end user:</p><ul><li>Infinite ring on callback (...spam?)</li><li>Inconclusive</li></ul>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "unresponsive/inconclusive"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923888415643"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "subject",
+      "value": "Infinite Ring for {{ticket.requester.name}} - Inconclusive"
+    },
+    {
+      "field": "current_tags",
+      "value": "infinite-ring"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "vmci - Infinite Ring"
+}

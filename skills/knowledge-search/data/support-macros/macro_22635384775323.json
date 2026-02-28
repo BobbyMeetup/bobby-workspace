@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/22635384775323.json",
+  "id": 22635384775323,
+  "title": "close-an-app-on-iphone",
+  "active": true,
+  "updated_at": "2024-02-03T19:42:01Z",
+  "created_at": "2024-02-03T19:42:01Z",
+  "default": false,
+  "position": 258,
+  "description": "How to kill an app on an iPhone",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>How to close an app on iphone:<br>1. From the Home Screen, swipe up from the bottom of the screen and pause in the middle of the screen.<br>2. Swipe right or left to find the app that you want to close.<br>3. Swipe up on the app's preview to close the app.<br></p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "How to close an app on iphone:\n1. From the Home Screen, swipe up from the bottom of the screen and pause in the middle of the screen.\n2. Swipe right or left to find the app that you want to close.\n3. Swipe up on the app's preview to close the app.\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "close-an-app-on-iphone"
+}

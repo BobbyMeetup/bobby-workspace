@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/17501056632731.json",
+  "id": 17501056632731,
+  "title": "paypal",
+  "active": true,
+  "updated_at": "2023-07-28T23:24:33Z",
+  "created_at": "2023-07-28T21:30:53Z",
+  "default": false,
+  "position": 189,
+  "description": "How to send to PayPal",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "unable_to_send"
+    },
+    {
+      "field": "subject",
+      "value": "How to send crypto to PayPal"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "send"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Please see these support guides from PayPal on how to obtain a receiving address -<br><br></p><p>Send and receive Crypto to and from eligible confirmed personal PayPal accounts in the USA:</p><p><a href=\"https://www.paypal.com/us/cshelp/article/what-can-i-do-with-crypto-within-paypal-help893\" target=\"_blank\" rel=\"noreferrer\">https://www.paypal.com/us/cshelp/article/what-can-i-do-with-crypto-within-paypal-help893</a></p><p><br>If you cannot find the crypto hub in your dashboard, you may have a business account:<br><a href=\"https://www.paypal.com/us/cshelp/article/where-can-i-locate-crypto-within-my-business-account-help579\" target=\"_blank\" rel=\"noreferrer\">https://www.paypal.com/us/cshelp/article/where-can-i-locate-crypto-within-my-business-account-help579</a></p><p><br></p><p>And to Send crypto from Edge:<br><br></p><p>1) Log into your Edge account &amp; tap on the wallet that you would like to send from</p><p>2) Tap on Send (top-middle of screen, right under your balance), and select</p><p>&nbsp; &nbsp; &nbsp;- Enter: allows for manual entry of an address or you can paste</p><p>&nbsp; &nbsp; &nbsp;- Scan: uses your camera to scan a QR code, or</p><p>&nbsp; &nbsp; &nbsp;- Paste: this appears as an option, only if you've already copied an address to your clipboard</p><p>3) Edit the Amount you want to send by clicking on the big grey 'Tap to edit' area,</p><p>&nbsp; &nbsp; &nbsp;(use the enter button / checkmark on your keyboard to proceed)</p><p>4) Customize your Priority Fee level: Low, Optimal (default), High (recommended) or Custom</p><p>5) Slide to Confirm (at the bottom) and your crypto is on its way! 🎉</p><p><br></p><p>Let us know if you have any other questions.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Please see these support guides from PayPal on how to obtain a receiving address -\n\nSend and receive Crypto to and from eligible confirmed personal PayPal accounts in the USA:\nhttps://www.paypal.com/us/cshelp/article/what-can-i-do-with-crypto-within-paypal-help893\n\nIf you cannot find the crypto hub in your dashboard, you may have a business account:\nhttps://www.paypal.com/us/cshelp/article/where-can-i-locate-crypto-within-my-business-account-help579\n\nTo Send from Edge:\n\n1) Log into your Edge account & tap on the wallet that you would like to send from\n2) Tap on Send (top-middle of screen, right under your balance), and select\n     - Enter: allows for manual entry of an address or you can paste\n     - Scan: uses your camera to scan a QR code, or\n     - Paste: this appears as an option, only if you've already copied an address to your clipboard\n3) Edit the Amount you want to send by clicking on the big grey 'Tap to edit' area,\n     (use the enter button / checkmark on your keyboard to proceed)\n4) Customize your Priority Fee level: Low, Optimal (default), High (recommended) or Custom\n5) Slide to Confirm (at the bottom) and your crypto is on its way! 🎉\n\nLet us know if you have any other questions."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "paypal"
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/14742713910427.json",
+  "id": 14742713910427,
+  "title": "EDGE Physical Wallet",
+  "active": true,
+  "updated_at": "2025-06-03T17:28:14Z",
+  "created_at": "2023-04-20T16:35:53Z",
+  "default": false,
+  "position": 156,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hello {{ticket.requester.first_name}},</p><p>&nbsp;</p><p><a href=\"http://edge.app\">Edge.app</a>&nbsp;- A Bitcoin &amp; Crypto Wallet (formerly Airbitz), is a completely separate company. We do not sell any physical wallets, but do get people occasionally calling in for an update on their shipment -- Please reach out to the store or company you made this purchase from, since we cannot offer any support for this item.</p><p>&nbsp;</p><p>If you want to download Edge and get started with cryptocurrencies in a fun and easy way, I encourage you to give the app a try! <a href=\"https://edge.app/get-started\">https://edge.app/get-started</a></p><p>&nbsp;</p><p>We are here if you have questions specifically for Edge.app support team.</p><p>&nbsp;</p><p>Kind regards,</p><p>{{current_user.first_name}}</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hello {{ticket.requester.first_name}},\n\nEdge.app - A Bitcoin & Crypto Wallet (formerly Airbitz), is a completely separate company. We do not sell any physical wallets, but do get people occasionally calling in for an update on their shipment -- Please reach out to the store or company you made this purchase from, since we cannot offer any support for this item.\n\nIf you want to download Edge and get started with cryptocurrencies in a fun and easy way, I encourage you to give the app a try! https://edge.app/get-started\n\nWe are here if you have questions specifically for Edge.app support team.\n\nKind regards,\n{{current_user.first_name}}"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "status",
+      "value": "solved"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "irrelevant"
+    },
+    {
+      "field": "current_tags",
+      "value": "physical-wallet"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "whitelabel_not_listed"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "EDGE Physical Wallet"
+}

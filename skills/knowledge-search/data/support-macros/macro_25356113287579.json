@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/25356113287579.json",
+  "id": 25356113287579,
+  "title": "wire without memo",
+  "active": true,
+  "updated_at": "2024-07-05T19:43:51Z",
+  "created_at": "2024-05-01T19:34:07Z",
+  "default": false,
+  "position": 293,
+  "description": "what do to in the case that user forgot or omitted the message/memo for a wire transafer purchase with Kado",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "kado"
+    },
+    {
+      "field": "custom_fields_19558556601243",
+      "value": "wire_transfer"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "missing_funds/did_not_arrive_"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>When sending a Wire transfer to purchase cryptocurrency, a Reference Message or Memo must be included for the partner bank to recognize the deposit and fully automate your crypto purchase. If the reference/memo is accidentally omitted, then it will require some extra actions from you, so that Kado may manually locate and process your wire transfer. In this event, reach out to Kado directly by email to <a href=\"mailto:support@kado.money\" target=\"_blank\" rel=\"noreferrer\">support@kado.money</a> and explain the situation. Include your order number, and the IMAD for your wire transfer and/or any sender info or actual wire details. They will then forward this information to Bridge Ventures to manually match the payment and resume the processing of your order.<br></p><p><br></p><p>Let us know if you have any concern or any other questions for the Edge team.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "When sending a Wire transfer to purchase cryptocurrency, a Reference Message or Memo must be included for the partner bank to recognize the deposit and fully automate your crypto purchase. If the reference/memo is accidentally omitted, then it will require some extra actions from you, so that Kado may manually locate and process your wire transfer. In this event, reach out to Kado directly by email to support@kado.money and explain the situation. Include your order number, and the IMAD for your wire transfer and/or any sender info or actual wire details. They will then forward this information to Bridge Ventures to manually match the payment and resume the processing of your order.\n\nLet us know if you have any concern or any other questions for the Edge team."
+    },
+    {
+      "field": "current_tags",
+      "value": "wire_nomemo"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "wire without memo"
+}

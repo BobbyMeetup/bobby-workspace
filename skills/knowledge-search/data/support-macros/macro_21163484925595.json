@@ -1,0 +1,26 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/21163484925595.json",
+  "id": 21163484925595,
+  "title": "Ethereum (or EVM) transaction not reflected",
+  "active": true,
+  "updated_at": "2024-02-15T11:24:59Z",
+  "created_at": "2023-12-12T10:11:05Z",
+  "default": false,
+  "position": 227,
+  "description": null,
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi,</p><p>Will you please send us the transaction ID/Hash in plain text, so we can check?<br></p><p>Also, can you open your receiving wallet, tap Receive and take a screenshot?<br></p>"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 6924706366107
+  },
+  "raw_title": "Ethereum (or EVM) transaction not reflected"
+}

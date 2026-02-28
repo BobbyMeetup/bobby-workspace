@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7277892949275.json",
+  "id": 7277892949275,
+  "title": "ZEC - Not Syncing ",
+  "active": true,
+  "updated_at": "2024-04-11T15:35:41Z",
+  "created_at": "2022-07-12T22:56:30Z",
+  "default": false,
+  "position": 121,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>​Thank you for your patience. Our dev team has confirmed that there is an underlying sync issue. If you need access to your ZEC immediately&nbsp;you can import your key into the ZEC Lite wallet.&nbsp;</p><p><br></p><p>NOTE: exposing keys does carry some risk, please&nbsp;store your keys safely and offline.&nbsp;</p><p><br></p><p>1. Download the wallet here: <a href=\"https://www.zecwallet.co/#download\" target=\"_blank\" rel=\"noreferrer\">https://www.zecwallet.co/#download</a></p><p>2. Enter Edge and tap on Assets located at the bottom navigation. f</p><p>3. From the wallet list tap on ZEC wallet to go inside of it</p><p>4. Next tap on the three vertical dots (located upper right side of screen)</p><p>5. Then tap Master Private Seed and enter your password and the seed will be displayed</p><p><br></p><p>Please let me know if you have any questions or concerns.&nbsp; &nbsp;</p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "​Thank you for your patience. Our dev team has confirmed that there is an underlying sync issue. If you need access to your ZEC immediately you can import your key into the ZEC Lite wallet. \n\nNOTE: exposing keys does carry some risk, please store your keys safely and offline. \n\n1. Download the wallet here: https://www.zecwallet.co/#download\n2. Enter Edge and tap on Assets located at the bottom navigation. f\n3. From the wallet list tap on ZEC wallet to go inside of it\n4. Next tap on the three vertical dots (located upper right side of screen)\n5. Then tap Master Private Seed and enter your password and the seed will be displayed\n\nPlease let me know if you have any questions or concerns.   \n\n"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "ZEC - Not Syncing "
+}

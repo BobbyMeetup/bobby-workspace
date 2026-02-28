@@ -1,0 +1,59 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/36521981771803.json",
+  "id": 36521981771803,
+  "title": "KADO limited service",
+  "active": false,
+  "updated_at": "2025-07-01T18:46:13Z",
+  "created_at": "2025-05-01T17:16:26Z",
+  "default": false,
+  "position": 432,
+  "description": "",
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "13053445492635"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "unable_to_sell"
+    },
+    {
+      "field": "custom_fields_23152938690971",
+      "value": "ach_sell"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "kado"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>At this time, the ACH Bank Transfer method is temporarily unavailable. The supporting partner, Kado, has recently been acquired and their services were recently disabled. Fortunately, we found a replacement partner for ACH selling. We've finished coding it, so you'll be able to resume ACH orders within the next update (v4.27) about ~1 week away.</p><p>&nbsp;</p><p>If waiting is not an option, please try using an alternative pay-out method on the Sell scene of the app to find an off-ramp partner that will suit your need.</p><p>&nbsp;</p><p>We are here if you have any further questions.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "At this time, the ACH Bank Transfer method is temporarily unavailable. The supporting partner, Kado, has recently been acquired and their services were recently disabled. Fortunately, we found a replacement partner for ACH selling. We've finished coding it, so you'll be able to resume ACH orders within the next update (v4.27) about ~1 week away.\n\nIf waiting is not an option, please try using an alternative pay-out method on the Sell scene of the app to find an off-ramp partner that will suit your need.\n\nWe are here if you have any further questions."
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_fields_30728781462555",
+      "value": "partner_not_contacted"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_25170963300251",
+      "value": "united_states"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "KADO limited service"
+}

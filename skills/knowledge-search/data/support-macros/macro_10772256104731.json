@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/10772256104731.json",
+  "id": 10772256104731,
+  "title": "Inconclusive - No Answer, repeat call, etc. ",
+  "active": true,
+  "updated_at": "2024-01-06T23:15:15Z",
+  "created_at": "2022-11-29T22:59:08Z",
+  "default": false,
+  "position": 147,
+  "description": null,
+  "actions": [
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "status",
+      "value": "solved"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "unresponsive/inconclusive"
+    },
+    {
+      "field": "subject",
+      "value": "Inconclusive with {{ticket.requester.name}}"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Inconclusive - No Answer, repeat call, etc. "
+}

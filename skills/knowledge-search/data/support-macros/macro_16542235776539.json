@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/16542235776539.json",
+  "id": 16542235776539,
+  "title": "Jaxx - Malware",
+  "active": true,
+  "updated_at": "2023-08-07T16:23:12Z",
+  "created_at": "2023-06-20T14:59:22Z",
+  "default": false,
+  "position": 5,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "group_id",
+      "value": "6923892939675"
+    },
+    {
+      "field": "current_tags",
+      "value": "hacked/compromised import investigating jaxx user/behavioral"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Companies such as CoinStructive (<a href=\"https://coinstructive.com/investigations\" target=\"_blank\" rel=\"noreferrer\">https://coinstructive.com/investigations</a>) take cases like this. &nbsp;After reviewing all cases nothing points to Edge. Note we are open source and encourage anyone to review. You can also attempt to reach Jaxx. Edge will continue to offer help if you provide any additional information regarding the import. From this point forward we have to assume this is a Jaxx or seed phrase/key compromise that happened because of Jaxx or malware. Over the years of operation Jaxx has a history of compromises and issues as evidenced by many posts, stories, etc. found by searching.&nbsp;</p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Companies such as CoinStructive (https://coinstructive.com/investigations) take cases like this.  After reviewing all cases nothing points to Edge. Note we are open source and encourage anyone to review. You can also attempt to reach Jaxx. Edge will continue to offer help if you provide any additional information regarding the import. From this point forward we have to assume this is a Jaxx or seed phrase/key compromise that happened because of Jaxx or malware. Over the years of operation Jaxx has a history of compromises and issues as evidenced by many posts, stories, etc. found by searching. \n\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Jaxx - Malware"
+}

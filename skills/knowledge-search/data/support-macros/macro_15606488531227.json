@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/15606488531227.json",
+  "id": 15606488531227,
+  "title": "socials",
+  "active": true,
+  "updated_at": "2023-12-30T17:00:04Z",
+  "created_at": "2023-05-19T19:22:39Z",
+  "default": false,
+  "position": 175,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Instagram:</p><p>edgewallet -&nbsp;<a href=\"https://www.instagram.com/edgewallet\" target=\"_blank\" rel=\"noreferrer\" data-nofollow=\"true\">https://www.instagram.com/edgewallet</a></p><p><br></p><p>Facebook:</p><p>EdgeWallet - <a href=\"https://www.facebook.com/EdgeWallet\" target=\"_blank\" rel=\"noreferrer\">https://www.facebook.com/EdgeWallet</a></p><p><br></p><p>Twitter:<br>@edgewallet -&nbsp;<a href=\"https://twitter.com/EdgeWallet\" target=\"_blank\" rel=\"noreferrer\">https://twitter.com/EdgeWallet</a></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Instagram:\nedgewallet - https://www.instagram.com/edgewallet\n\nFacebook:\nEdgeWallet - https://www.facebook.com/EdgeWallet\n\nTwitter:\n@edgewallet - https://twitter.com/EdgeWallet\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "socials"
+}

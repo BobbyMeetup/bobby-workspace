@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7245081616411.json",
+  "id": 7245081616411,
+  "title": "ETH import to MetaMask",
+  "active": true,
+  "updated_at": "2023-02-01T22:34:11Z",
+  "created_at": "2022-07-11T21:07:54Z",
+  "default": false,
+  "position": 65,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>How to export your key and move the funds.&nbsp;</p><p>​</p><p>1. Download MetaMask or get the extension for your browser.</p><p>2. Create an account and then go to your Edge app.</p><p>3. Enter the Edge app and then tap on your ETH wallet to go inside of it. Once inside of the wallet, tap on the gear icon (located on the upper right side of screen)&nbsp;</p><p>4. A pop up will be displayed then tap on \"Master Private Key\" and then enter your password. &nbsp;NOTE; Exposing your private key does come with some risk so please store it safely.&nbsp;</p><p>5. Go back to MetaMask and then tap the menu and import your account by tapping \"Import\" and then entering the private key.</p><p>6. You will now be able to send your token from the MetaMask wallet.</p><p><br>Please let me know if you have any questions or concerns.&nbsp;&nbsp;</p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "ETH import to MetaMask"
+}

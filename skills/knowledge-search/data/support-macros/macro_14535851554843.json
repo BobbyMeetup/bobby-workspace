@@ -1,0 +1,30 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/14535851554843.json",
+  "id": 14535851554843,
+  "title": "Vulnerability & compromised account",
+  "active": true,
+  "updated_at": "2024-02-15T11:24:50Z",
+  "created_at": "2023-04-14T09:09:12Z",
+  "default": false,
+  "position": 137,
+  "description": null,
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "6924706366107"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi,<br>thanks for reaching out.<br>Let me ask you a few questions:<br><br>1. have you ever shared the logs with Edge wallet? Which note did you enter?<br>2. Have you used one of the providers available in Buy / Sell section, such as Bitrefill, Ionia or Bity AFTER sharing the logs?<br>3. Have you seen an in-app notification asking you to migrate the wallets?<br>4. When creating an Edge account, everything is completely encrypted before being backed up, meaning not even Edge can see the username, password, or the transactions inside the wallet.</p><p><b>If you think your account is compromised, please IMMEDIATELY STOP USING IT AND DO NOT RECEIVE ANY ADDITIONAL FUNDS AS MORE CAN BE LOST.</b></p><p>With that said, please fill the replies in the form here&nbsp;<a href=\"https://form.asana.com/?k=g4MFFV8sJJC6P-nxQb192Q&amp;d=9976422036640\" target=\"_blank\" rel=\"noreferrer\">https://form.asana.com/?k=g4MFFV8sJJC6P-nxQb192Q&amp;d=9976422036640</a></p><p><br></p>"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 6924706366107
+  },
+  "raw_title": "Vulnerability & compromised account"
+}

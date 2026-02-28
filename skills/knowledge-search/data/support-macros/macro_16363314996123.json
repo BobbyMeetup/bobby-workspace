@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/16363314996123.json",
+  "id": 16363314996123,
+  "title": "ARRR - Spam Attack",
+  "active": false,
+  "updated_at": "2023-09-27T18:46:03Z",
+  "created_at": "2023-06-13T16:50:22Z",
+  "default": false,
+  "position": 180,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>The ARRR chain has been under a spam attack and may not sync or reflect funds until the Pirate Chain receives an upgrade. You can try a resync however this is impacting the entire network and ultimately needs to be resolved by ARRR developers.<br></p><p>​</p><p>More info on the spam attack can be found here: <a href=\"https://www.reddit.com/r/PirateChain/comments/141nhup/more_info_on_the_spam_attack/\" target=\"_blank\" rel=\"noreferrer\">https://www.reddit.com/r/PirateChain/comments/141nhup/more_info_on_the_spam_attack/</a></p><p>And here the same attacker posted an update 2 month later: <a href=\"https://www.reddit.com/user/SignificantRoof5656/comments/15h9reh/pirate_chains_045_spam_attack_2_months_later/\" target=\"_blank\" rel=\"noreferrer\">https://www.reddit.com/user/SignificantRoof5656/comments/15h9reh/pirate_chains_045_spam_attack_2_months_later/</a></p><p><br>They are also posting updates in their Discord server, which can be joined here: <a href=\"https://pirate.black/discord\" target=\"_blank\" rel=\"noreferrer\">https://pirate.black/discord</a><br><br>You may also export your private seed to try using a different app, such as <a href=\"https://pirate.black/wallets/skull-island/\" target=\"_blank\" rel=\"noreferrer\">https://pirate.black/wallets/skull-island/</a> or <a href=\"https://pirate.black/wallets/desktop-lite/\" target=\"_blank\" rel=\"noreferrer\">https://pirate.black/wallets/desktop-lite/</a> <br></p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "The ARRR chain has been under a spam attack and may not sync or reflect funds until the Pirate Chain receives an upgrade. You can try a resync however this is impacting the entire network and ultimately needs to be resolved by ARRR developers.\n\nMore info on the spam attack can be found here: https://www.reddit.com/r/PirateChain/comments/141nhup/more_info_on_the_spam_attack/\nAnd here the same attacker posted an update 2 month later: https://www.reddit.com/user/SignificantRoof5656/comments/15h9reh/pirate_chains_045_spam_attack_2_months_later/\n\nThey are also posting updates in their Discord server, which can be joined here: https://pirate.black/discord\n\nYou may also export your private seed to try using a different app, such as https://pirate.black/wallets/skull-island/ or https://pirate.black/wallets/desktop-lite/\n"
+    },
+    {
+      "field": "subject",
+      "value": "ARRR Spam Attack"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "set_tags",
+      "value": "arrr spam_attack network_issue"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "pirate_chain"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "ARRR - Spam Attack"
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7277835079835.json",
+  "id": 7277835079835,
+  "title": "XRP - Ripple 1 minimum required",
+  "active": true,
+  "updated_at": "2024-12-17T13:39:28Z",
+  "created_at": "2022-07-12T22:55:47Z",
+  "default": false,
+  "position": 120,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>All XRP wallets are required to hold a minimum balance of XRP at all times. This is an XRP policy called the Base Reserve (<a href=\"https://xrpl.org/reserves.html\">https://xrpl.org/reserves.html</a>) and it applies to all XRP wallets. When you create a new XRP wallet in Edge, you'll see a message informing you about this.</p><p>&nbsp;</p><p>The last 1 XRP is bound to your XRP account / public address on the blockchain, so these funds are not technically stuck in Edge. An additional 0.2 XRP is lock for any active XRP token wallet, such as Bitstamp EUR, Bitstamp USD and others.</p><p>&nbsp;</p><p>As of Dec 3rd a policy has been approved to reduced the reserve from 10 XRP to 1 XRP, so if you still see 10 XRP as locked balance, you need to update your Edge app to the latest version from your App / Play Store.<br><br>Please let us know if you have any questions.&nbsp;</p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "xrp"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "send"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "unable_to_send"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "XRP - Ripple 1 minimum required"
+}

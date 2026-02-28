@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7277815864859.json",
+  "id": 7277815864859,
+  "title": "XMR - Monero Down",
+  "active": true,
+  "updated_at": "2024-04-02T18:52:36Z",
+  "created_at": "2022-07-12T22:54:05Z",
+  "default": false,
+  "position": 119,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thanks for reaching out and we apologize for any inconvenience. This is only a temporary issue with XMR sync servers. We have the Monero team working on it and hope to have wallets syncing quickly again soon.</p><p>​</p><p>To help us better diagnose the issue please provide us with:</p><p>1.&nbsp; The IP you're attempting to sync from you can use <a href=\"https://www.whatismyip.com/\" target=\"_blank\" rel=\"noreferrer\">https://www.whatismyip.com/</a>&nbsp;for this information.&nbsp;</p><p>2.&nbsp; Screenshot the error or report what error you're receiving&nbsp;</p><p>3.&nbsp; Supply your XMR receiving address</p><p><br></p><p>Your funds are still safe! If you urgently need to use or access the XMR, you could export the private seed by going to the Assets page, and then pressing and holding on your Monero wallet until a menu pops up from the bottom.&nbsp;&nbsp;From this menu tap on \"Master Private Key\" - enter your password and the private seed will be revealed. This is root access to your XMR wallet, so please take care to keep it VERY safe and secure. By importing this into an alternative Monero wallet will allow you to create access to your funds from a faster synchronizing client. Note: the Monero core wallet does support importing of the private seed.</p><p><br></p><p>Alternatively, you can simply wait and the issue should be self-resolving as the sync-servers catch up from this recent surge in activity on the Monero blockchain.</p><p>​</p><p>Let us know if you have any questions.</p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "current_tags",
+      "value": "xmr sync_issue"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "XMR - Monero Down"
+}

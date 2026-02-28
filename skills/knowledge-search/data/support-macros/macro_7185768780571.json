@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7185768780571.json",
+  "id": 7185768780571,
+  "title": "BTC - Bitcoin (BTC) network congested / CPFP",
+  "active": true,
+  "updated_at": "2023-02-01T22:25:34Z",
+  "created_at": "2022-07-08T20:55:52Z",
+  "default": false,
+  "position": 42,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thanks for reaching out and I apologize for the issue. Currently there is a lot of traffic on the network and is causing transactions to take longer than usual which in some cases is taking multiple hours and even multiple days to confirm depending on your circumstances.</p><p>The transaction shows that //insert transaction ID// is still being processed.</p><p>Do you remember if you did a low or custom fee? It appears a low fee was used which is why the transaction is taking very long combined with the high traffic on the bitcoin network.</p><p>Users who pay higher than your fee will continue to process first before you are finally processed. With that said, transactions are irreversible for cryptocurrencies so you will need to continue to wait and as mentioned earlier may be multiple hours or even multiple days for the transaction to confirm based on the current traffic on the network and the fee that was used.</p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "BTC - Bitcoin (BTC) network congested / CPFP"
+}

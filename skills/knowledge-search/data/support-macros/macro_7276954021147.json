@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7276954021147.json",
+  "id": 7276954021147,
+  "title": "Wallet - Resync (General)",
+  "active": true,
+  "updated_at": "2025-06-25T19:39:26Z",
+  "created_at": "2022-07-12T22:20:28Z",
+  "default": false,
+  "position": 107,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>The wallet might be out of sync.&nbsp;</p><p>&nbsp;</p><p><strong>To help resolve the issue: ​</strong></p><ol><li>Open Edge &amp; Tap help and look to the bottom and report the version that is seen at the bottom of the app</li><li>Tap back and then tap \"View Assets\" near the top OR use the 'Assets' tab in the bottom navigation bar.</li><li>Long-press (hold down) on the wallet you want to resync OR tap into it once and use the 3 dots (⋮) to open its menu.</li><li>Tap the option to 'Resync' near the top and confirm the operation.</li></ol><p>&nbsp;</p><p>Give it a few moments to fully reload and do not be alarmed if you see the balance change during this process.</p><p>&nbsp;</p><p>Once that is done, can you see if the error is still present?</p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "resync"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "funds_never_arrived_receive"
+    },
+    {
+      "field": "current_tags",
+      "value": "resync"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - Resync (General)"
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/20885725110043.json",
+  "id": 20885725110043,
+  "title": "Buy - fchill",
+  "active": true,
+  "updated_at": "2023-12-03T00:27:08Z",
+  "created_at": "2023-12-03T00:27:08Z",
+  "default": false,
+  "position": 242,
+  "description": null,
+  "actions": [
+    {
+      "field": "subject",
+      "value": "Understanding a Self-Custody Purchase Delay"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "missing_funds/did_not_arrive_"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi {{ticket.requester.first_name}},</p><p><br></p><p>I'm very sorry for the unexpected delay here on your coin delivery. Processing times for a Buy or Sell order can be a bit longer, maybe due to a backlog of verifications that require manual approval, or simply a matter of time for funds to settle between institutions, and then be sent on-chain to your wallet. If your payment was successful, the exchange should be completed in about 4 to 72 hours, so if you are in this range, please be patient to allow the independent company to fulfill the order and deliver the coins.</p><p><br></p><p>Currently, Edge knows nothing about this order, your account, or any funds that are or should be inside of it. We do not have access to your exchange details because this data is encrypted on your device before being securely passed to our partnered exchanges. If you don't know which exchange you're working with exactly, you should see email correspondence from them and may reply there for direct assistance with your recent order.</p><p><br></p><p>Please also note: when buying or selling crypto with a self-custody wallet such as Edge, you may experience longer than expected processing times. Many are used to the speed present in traditional financial systems, centralized exchanges, or custodial wallet services where numbers can be simply updated on internal-centralized books. When you hold your own crypto, you must allow processing time between institutions to dispatch your coins on-chain, so funds can settle with finality into your custody. <i>In contrast, crypto-to-crypto exchanges are much faster, typically between 10 minutes and 4 hours because many times the process can be fully automated on-chain without any human intervention.</i></p><p><br></p><p><b>After 72 hours, if the coins have still not arrived in your wallet, let us know and we will help you chase this up with the exchange, as we have a service agreement with them.</b><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hi {{ticket.requester.first_name}},\n\nI'm very sorry for the unexpected delay here on your coin delivery. Processing times for a Buy or Sell order can be a bit longer, maybe due to a backlog of verifications that require manual approval, or simply a matter of time for funds to settle between institutions, and then be sent on-chain to your wallet. If your payment was successful, the exchange should be completed in about 4 to 72 hours, so if you are in this range, please be patient to allow the independent company to fulfill the order and deliver the coins.\n\nCurrently, Edge knows nothing about this order, your account, or any funds that are or should be inside of it. We do not have access to your exchange details because this data is encrypted on your device before being securely passed to our partnered exchanges. If you don't know which exchange you're working with exactly, you should see email correspondence from them and may reply there for direct assistance with your recent order.\n\nPlease also note: when buying or selling crypto with a self-custody wallet such as Edge, you may experience longer than expected processing times. Many are used to the speed present in traditional financial systems, centralized exchanges, or custodial wallet services where numbers can be simply updated on internal-centralized books. When you hold your own crypto, you must allow processing time between institutions to dispatch your coins on-chain, so funds can settle with finality into your custody. In contrast, crypto-to-crypto exchanges are much faster, typically between 10 minutes and 4 hours because many times the process can be fully automated on-chain without any human intervention.\n\nAfter 72 hours, if the coins have still not arrived in your wallet, let us know and we will help you chase this up with the exchange, as we have a service agreement with them."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Buy - fchill"
+}

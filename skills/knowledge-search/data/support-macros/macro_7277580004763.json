@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7277580004763.json",
+  "id": 7277580004763,
+  "title": "Wallet - Transaction ID / Hash",
+  "active": true,
+  "updated_at": "2024-03-13T21:17:48Z",
+  "created_at": "2022-07-12T22:44:21Z",
+  "default": false,
+  "position": 112,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Will you please send us the transaction ID, so we can check?<br>1. Open Edge and tap \"View Assets\" near the top, or tap Assets from the bottom navigation bar.&nbsp;</p><p>2. Tap on the wallet that you sent from</p><p>3. Inside of that wallet:<br>- tap on the transaction in question<br>- tap on the transaction ID (this copies it)<br>- paste it in a response to us here</p><p><br>We will have a closer look and provide you with as much insight as we can gather on this transaction.<br></p><p><br></p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Will you please send us the transaction ID, so we can check?\n1. Login to Edge and tap 'View Assets' at the top - or - tap 'Assets' from the bottom navigation bar\n2. Tap on the wallet that you sent crypto from\n3. Inside of that wallet:\n- tap on the transaction in question\n- tap on the transaction ID (this copies it)\n- paste it in a response to us here\n\nWe will have a closer look and provide you with as much insight as we can gather on this transaction.\n\n"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - Transaction ID / Hash"
+}

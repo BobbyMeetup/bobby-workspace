@@ -1,0 +1,50 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/23229038914587.json",
+  "id": 23229038914587,
+  "title": "Wallet - View Master Private Key / Seed",
+  "active": true,
+  "updated_at": "2024-11-29T22:00:38Z",
+  "created_at": "2024-02-24T19:22:15Z",
+  "default": false,
+  "position": 98,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>To view / export your Master Private Key for any of your assets in Edge:</p><p>&nbsp;</p><p>1. Use the Assets tab at the bottom of the screen after logging into your account</p><p>2. Long-press or hold down on the wallet you want to export (alternatively, tap into it and use the <strong>⋮</strong> vertical dots to open this wallet's menu)</p><p>3. Locate the option to 'View Master Private Key' - OR - Firstly, 'Go to Parent wallet' for any token wallets.</p><p>4. Enter your password to reveal your seed or private key ***</p><p>&nbsp;</p><p>*** This information is recommended to be handwritten only. It cannot be copied, and a screenshot is a very insecure&nbsp; way to store such sensitive information. Please take care.<br>&nbsp;</p><p>&nbsp;</p><p>Please note that each Asset in your account has a unique, private key or seed phrase. These are all held together and encrypted by your username and password = A better setup than a single seed for all assets 💪📱🔐</p><p>&nbsp;</p><p>Be EXTREMELY cautious when copying or exporting your master private seed. Consider this as root-level access to your funds. Every wallet you create in your Edge account has a private key/seed that has never been exposed before, and the security of your Edge account will not be able to protect an exposed seed that's out in the wild.</p>"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "current_tags",
+      "value": "general_inquiry seed-export has_account"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "wallet"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    }
+  ],
+  "restriction": null,
+  "attachments": [
+    34369974677531
+  ],
+  "raw_title": "Wallet - View Master Private Key / Seed"
+}

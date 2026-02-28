@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/15102923453979.json",
+  "id": 15102923453979,
+  "title": "zero-knowledge",
+  "active": true,
+  "updated_at": "2025-04-18T16:53:33Z",
+  "created_at": "2023-05-03T06:17:18Z",
+  "default": false,
+  "position": 163,
+  "description": "Basic explanation of edge as a zk app",
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge is a zero-knowledge application with client-side encryption, which means we cannot see who owns which accounts, and we have no way to access the wallets on your device or manage your account for you in any way. With that said, maybe I can guide you to solve the issue. Can you tell me any more details?<br>&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Edge is a zero-knowledge application with client-side encryption, which means we cannot see who owns which accounts, and we have no way to access the wallets on your device or manage your account for you in any way. With that said, maybe I can guide you to solve the issue. Can you tell me any more details?"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "zero-knowledge"
+}

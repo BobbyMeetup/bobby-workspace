@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/27184921815707.json",
+  "id": 27184921815707,
+  "title": "Scam - debrief",
+  "active": true,
+  "updated_at": "2025-06-18T13:24:23Z",
+  "created_at": "2024-07-06T18:45:56Z",
+  "default": false,
+  "position": 323,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>I am&nbsp;very sorry that you have been introduced to cryptocurrency in this way. Whenever someone online that you do not know well instructs you to invest cryptocurrency by sending it from your wallet to another website or platform, please reconsider their motives! Edge is a legitimate and powerful self-custodial crypto wallet application, and so long as you keep the username and password for your Edge account safe, then you can securely <i>hold</i> and <i>trade</i> cryptocurrency from right within this app.</p><p>&nbsp;</p><p>It's very important to keep your <i>trust</i> guarded with new online friends, especially if they make first contact with you and are being very helpful, maybe even pushy. Since crypto transactions are not reversible and recovering stolen crypto is rare, these 'crypto lessons' can be very costly. Please learn well from this and protect yourself should any similar situation arise again, as prevention is the best method for managing scams. We recommend that you report this cybercrime to your local police as well, to have something on file and potentially pursue the lost funds with authorities.</p><p>&nbsp;</p><p><a href=\"https://help.chainabuse.com\">https://help.chainabuse.com</a> - a good resource to help get started with reporting this.</p><p><a href=\"https://victimconnect.org\">https://victimconnect.org</a> - is another good resource for support in this case.</p><p>&nbsp;</p><p>If you have any more questions, please reply. We will assist you however possible on our end.</p><p>&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "I am very sorry that you have been introduced to cryptocurrency in this way. Whenever someone online that you do not know well instructs you to invest cryptocurrency by sending it from your wallet to another website or platform, please reconsider their motives! Edge is a legitimate and powerful self-custodial crypto wallet application, and so long as you keep the username and password for your Edge account safe, then you can securely hold and trade cryptocurrency from right within this app.\n\nIt's very important to keep your trust guarded with new online friends, especially if they make first contact with you and are being very helpful, maybe even pushy. Since crypto transactions are not reversible and recovering stolen crypto is rare, these 'crypto lessons' can be very costly. Please learn well from this and protect yourself should any similar situation arise again, as prevention is the best method for managing scams. We recommend that you report this cybercrime to your local police as well, to have something on file and potentially pursue the lost funds with authorities.\n\nhttps://help.chainabuse.com - a good resource to help get started with reporting this.\nhttps://victimconnect.org - is another good resource for support in this case.\n\nIf you have any more questions, please reply. We will assist you however possible on our end.\n"
+    },
+    {
+      "field": "current_tags",
+      "value": "scam"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Scam - debrief"
+}

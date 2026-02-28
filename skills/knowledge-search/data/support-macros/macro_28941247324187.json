@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/28941247324187.json",
+  "id": 28941247324187,
+  "title": "Force Close",
+  "active": true,
+  "updated_at": "2024-09-11T20:36:34Z",
+  "created_at": "2024-09-05T19:04:48Z",
+  "default": false,
+  "position": 350,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<ul><li><strong>First can we get your logs?</strong></li></ul><p style=\"margin-left:40px;\">- Go to the main Menu (≡) in the upper right corner, tap Settings, scroll to the bottom and select 'Export Logs'</p><p style=\"margin-left:40px;\">- Enter your email address in the notes field to help us identify your log submission.</p><p style=\"margin-left:40px;\">- Tap 'Send Logs to Edge' and reply here with time sent.&nbsp;</p><p style=\"margin-left:40px;\">If you DO NOT have access to your account, from the login screen you can access the log submission prompt by taping 5 times fast on the Edge logo.</p><p style=\"margin-left:40px;\">&nbsp;</p><p style=\"margin-left:40px;\">NOTE:&nbsp;</p><p style=\"margin-left:40px;\">- Logs do not provide any private information such as private key, password, or XPUBS.&nbsp;</p><p style=\"margin-left:40px;\">- Logs do provide some information about your account such as username, device, exchange queries, and EVM addresses.</p><p>&nbsp;</p><ul><li><strong>To check if your wallet is not syncing because of Edge please force close your application.&nbsp;</strong></li></ul><p>&nbsp;</p><p style=\"margin-left:40px;\">How to close an app on a phone with gesture support (iPhone and some Android phones):<br>1. From the Home Screen, swipe up from the bottom of the screen and pause in the middle of the screen.<br>2. Swipe right or left to find the app that you want to close.<br>3. Swipe up on the app's preview to close the app.</p><p style=\"margin-left:40px;\">&nbsp;</p><p style=\"margin-left:40px;\">How to close an app on android phones with a navigation bar:<br>1. From the Home Screen, tap on the square or three lines at the bottom of the screen.<br>2. Swipe right or left to find the app that you want to close.<br>3. Swipe up on the app's preview to close the app.</p><p>&nbsp;</p><p>Now reopen Edge to check if your wallet did sync.&nbsp;</p><p>&nbsp;</p><p>Did this solve your issue?</p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "current_tags",
+      "value": "force_close"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Force Close"
+}

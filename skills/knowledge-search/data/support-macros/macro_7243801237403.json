@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7243801237403.json",
+  "id": 7243801237403,
+  "title": "EOS - Export / restore keys in another wallet",
+  "active": true,
+  "updated_at": "2024-04-13T13:21:02Z",
+  "created_at": "2022-07-11T20:26:53Z",
+  "default": false,
+  "position": 233,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>You may access to your EOS by exporting the private key from Edge into another wallet. To view your private key, open Edge or tap \"Wallets\" in lower left to get to the main wallet screen. Enter into your EOS wallet and tap on the three vertical dots (located in the top right).&nbsp; From this menu select \"Master Private Key\" and confirm your password. You may now write down these words, safely and securely. After successfully importing them into the EOS wallet of your choice, funds will be immediately accessible.<br></p><p><br>Let us know if you have any other questions.</p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "eos"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "EOS - Export / restore keys in another wallet"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/34293096045595.json",
+  "id": 34293096045595,
+  "title": "high risk",
+  "active": true,
+  "updated_at": "2025-02-23T00:25:24Z",
+  "created_at": "2025-02-23T00:25:24Z",
+  "default": false,
+  "position": 416,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>If your primary concern is being able to send crypto, then I fear you are at high risk of being a scam victim. PLEASE double check and verify everything before sending cryptocurrency into a wallet address you do not own. There are many fancy lies that scammers are using today, and it can be difficult to perceive the scam. Cross-reference any website with a tool like <a href=\"https://scamadviser.com\">scamadviser.com</a> to check web reputation, especially if someone is guiding you to invest. We have seen all kinds of attack vectors, so please feel free to use us as a resource as well. If the scam artist is rushing you, intimidating your, or pressuring you in anyway, this is a red-flag commonly displayed by scammers. Allow us to be a second voice of authority if you are unsure. Verify everything until you are certain, especially <u>before sending</u>!</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "If your primary concern is being able to send crypto, then I fear you are at high risk of being a scam victim. PLEASE double check and verify everything before sending cryptocurrency into a wallet address you do not own. There are many fancy lies that scammers are using today, and it can be difficult to perceive the scam. Cross-reference any website with a tool like scamadviser.com to check web reputation, especially if someone is guiding you to invest. We have seen all kinds of attack vectors, so please feel free to use us as a resource as well. If the scam artist is rushing you, intimidating your, or pressuring you in anyway, this is a red-flag commonly displayed by scammers. Allow us to be a second voice of authority if you are unsure. Verify everything until you are certain, especially before sending!\n"
+    },
+    {
+      "field": "current_tags",
+      "value": "scam-likely"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "high risk"
+}

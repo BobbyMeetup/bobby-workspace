@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/27423988889371.json",
+  "id": 27423988889371,
+  "title": "Partner Contacts",
+  "active": true,
+  "updated_at": "2025-07-25T19:13:15Z",
+  "created_at": "2024-07-15T20:50:29Z",
+  "default": false,
+  "position": 326,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p><strong>Banxa:</strong></p><p>• <a href=\"mailto:support@banxa.com\">support@banxa.com</a></p><p>• <a href=\"https://support.banxa.com/en/support/tickets/new\">support.banxa.com/en/support/tickets/new</a>&nbsp;</p><p>&nbsp;</p><p><strong>Paybis:</strong><br>• <a href=\"mailto:support@paybis.com\">support@paybis.com</a></p><p>• <a href=\"https://support.paybis.com/hc/en-us/requests/new\">support.paybis.com/hc/en-us/requests/new</a></p><p>• <a href=\"https://paybis.com/contacts\">paybis.com/contacts</a></p><p>&nbsp;</p><p><strong>Moonpay:</strong></p><p>• <a href=\"mailto:support@moonpay.com\">support@moonpay.com</a>&nbsp;</p><p>• <a href=\"https://support.moonpay.com/hc/en-gb/requests/new\">support.moonpay.com/hc/en-gb/requests/new</a></p><p>&nbsp;</p><p><strong>Simplex:</strong></p><p>• <a href=\"mailto:support@simplex.com\">support@simplex.com</a>&nbsp;<br>• <a href=\"https://support.simplex.com/hc/en-gb/requests/new\">support.simplex.com/hc/en-gb/requests/new</a></p><p>&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Banxa:\n• support@banxa.com\n• support.banxa.com/en/support/tickets/new \n \nPaybis:\n• support@paybis.com\n• support.paybis.com/hc/en-us/requests/new\n• paybis.com/contacts\n \nMoonpay:\n• support@moonpay.com \n• support.moonpay.com/hc/en-gb/requests/new\n \nSimplex:\n• support@simplex.com \n• support.simplex.com/hc/en-gb/requests/new"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Partner Contacts"
+}

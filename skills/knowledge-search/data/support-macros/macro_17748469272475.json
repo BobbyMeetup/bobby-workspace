@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/17748469272475.json",
+  "id": 17748469272475,
+  "title": "loans",
+  "active": true,
+  "updated_at": "2023-08-07T22:42:06Z",
+  "created_at": "2023-08-07T22:42:06Z",
+  "default": false,
+  "position": 196,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Loans in crypto work a bit differently than loans do in traditional finance. You can review this blog post (<a href=\"https://milkroad.com/borrow/collateralized-loan/\" target=\"_blank\" rel=\"noreferrer\">https://milkroad.com/borrow/collateralized-loan</a>) for a general overview on how over-collateralized loans work. In a nutshell, you often need 150% - 200% of the loan that you want, <i>before</i> you can get the loan.</p><p><br></p><p>So for example, if you have $0, there will be no crypto loans available to you. But if you have $10,000 of crypto, you would be able to put it up as collateral for a ~$5000 loan, and if you don't pay it back, then the lending platform keeps your $10k of crypto collateral. This is a rough description, and you'll want to do your homework to dive deep into this realm if you want to explore lending/borrowing in crypto more. This article is a pretty good starting point to learn about the different types of financial loans: <a href=\"https://www.investopedia.com/crypto-lending-5443191\" target=\"_blank\" rel=\"noreferrer\">https://www.investopedia.com/crypto-lending-5443191</a><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Loans in crypto work a bit differently than loans do in traditional finance. You can review this blog post (https://milkroad.com/borrow/collateralized-loan) for a general overview on how over-collateralized loans work. In a nutshell, you often need 150% - 200% of the loan that you want, before you can get the loan.\n\nSo for example, if you have $0, there will be no crypto loans available to you. But if you have $10,000 of crypto, you would be able to put it up as collateral for a ~$5000 loan, and if you don't pay it back, then the lending platform keeps your $10k of crypto collateral. This is a rough description, and you'll want to do your homework to dive deep into this realm if you want to explore lending/borrowing in crypto more. This article is a pretty good starting point to learn about the different types of financial loans: https://www.investopedia.com/crypto-lending-5443191\n\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "loans"
+}

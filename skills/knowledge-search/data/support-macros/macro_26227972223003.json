@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/26227972223003.json",
+  "id": 26227972223003,
+  "title": "paymoneytogetmoney",
+  "active": true,
+  "updated_at": "2025-02-26T23:18:32Z",
+  "created_at": "2024-06-01T18:07:17Z",
+  "default": false,
+  "position": 308,
+  "description": "",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987639498651"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "current_tags",
+      "value": "almost_scammed general_inquiry"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>If you are being asked to pay any kind of fee or taxes, to receive money.. it's very likely to be a scam attempt. Even without knowing any further details, there is almost never a legitimate situation that requires you to pay a small amount of money to receive a larger amount of money. Anyone communicating with you about this, is probably a liar and a scammer, attempt to sell you a lie, so they can simply run with your money. Going forward, please be cautious about giving any of your trust to online strangers who approach you out of the blue. There are a lot of scammers active today.<br><br>Please let me know if you have any more questions.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "If you are being asked to pay any kind of fee or taxes, to receive money.. it's very likely to be a scam attempt. Even without knowing any further details, there is almost never a legitimate situation that requires you to pay a small amount of money to receive a larger amount of money. Anyone communicating with you about this, is probably a liar and a scammer, attempt to sell you a lie, so they can simply run with your money. Going forward, please be cautious about giving any of your trust to online strangers who approach you out of the blue. There are a lot of scammers active today.\n\nPlease let me know if you have any more questions."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "paymoneytogetmoney"
+}

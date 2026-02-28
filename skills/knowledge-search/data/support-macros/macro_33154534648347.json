@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/33154534648347.json",
+  "id": 33154534648347,
+  "title": "Thorchain Savers - Deprecated",
+  "active": true,
+  "updated_at": "2025-06-20T16:33:27Z",
+  "created_at": "2025-01-25T03:20:53Z",
+  "default": false,
+  "position": 54,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>On January 23rd, Thorchain nodes voted to pause the Savers and Lending programs in order to safeguard the network. Deposits and withdrawals for Savers staking were halted for 90-days while their team restructured and stabilize the network. For more information on this, please see this update: <a href=\"https://edge.app/blog/company-news/thorchain-savers-halts\">https://edge.app/blog/company-news/thorchain-savers-halts</a></p><p>&nbsp;</p><p>Following the restructure of ThorFi, any users staking assets in the Thorchain Savers program are now able to claim their ThorChain Yield tokens ($TCY) allocation in proportion to the dollar value of their staked assets when the Savers and Lending vaults were halted.</p><p>&nbsp;</p><p>More information on how to claim and manage your TCY stake can be found here: <a href=\"https://support.edge.app/hc/en-us/articles/36640943008923-How-to-claim-and-manage-your-TCY-stake-in-Edge-THORChain-Yield-token\">https://support.edge.app/hc/en-us/articles/36640943008923-How-to-claim-and-manage-your-TCY-stake-in-Edge-THORChain-Yield-token</a></p><p>&nbsp;</p><p>Please let us know if you have any questions.</p><p>&nbsp;</p>"
+    },
+    {
+      "field": "current_tags",
+      "value": "thorchain savers_deprecated staking"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Thorchain Savers - Deprecated"
+}

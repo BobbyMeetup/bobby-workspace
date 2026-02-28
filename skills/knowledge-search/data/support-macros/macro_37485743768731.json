@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/37485743768731.json",
+  "id": 37485743768731,
+  "title": "Kado OTC deprecated",
+  "active": true,
+  "updated_at": "2025-07-01T23:45:27Z",
+  "created_at": "2025-05-29T15:26:38Z",
+  "default": false,
+  "position": 439,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Our prior ACH and OTC provider, Kado.money, has informed us that they have been acquired by a different company and are no longer able to provide exchange services within Edge. We apologize for any inconvenience.</p><p>&nbsp;</p><p>You may proceed to make a purchase order by selecting another payment method in the Buy area of the app.</p><p>&nbsp;</p><p>When we find a replacement OTC provider, we will reinstate the 'OTC / Bank Wire' payment option back into the app. If you have any other questions, please let us know.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Our prior ACH and OTC provider, Kado.money, has informed us that they have been acquired by a different company and are no longer able to provide exchange services within Edge. We apologize for any inconvenience.\n \nYou may proceed to make a purchase order by selecting another payment method in the Buy area of the app.\n \nWhen we find a replacement OTC provider, we will reinstate the 'OTC / Bank Wire' payment option back into the app. If you have any other questions, please let us know.\n"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "kado"
+    },
+    {
+      "field": "custom_fields_30728781462555",
+      "value": "partner_not_contacted"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Kado OTC deprecated"
+}

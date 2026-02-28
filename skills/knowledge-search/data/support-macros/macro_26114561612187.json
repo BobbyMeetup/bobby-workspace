@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/26114561612187.json",
+  "id": 26114561612187,
+  "title": "msedge",
+  "active": true,
+  "updated_at": "2025-03-13T17:46:38Z",
+  "created_at": "2024-05-28T20:25:23Z",
+  "default": false,
+  "position": 307,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi {{ticket.requester.first_name}},<br><br><a href=\"http://edge.app/\" target=\"_blank\" rel=\"noreferrer\">Edge.app</a>: Bitcoin &amp; Crypto Wallet (formerly Airbitz), is a completely separate company from Microsoft Edge.<br><br>For their support, please try <a href=\"https://support.microsoft.com/en-us\" target=\"_blank\" rel=\"noreferrer\">https://support.microsoft.com/en-us</a> to get help with any of your Edge web browser issues.<br>-<br>If you want to download Edge to and get started with cryptocurrencies in a fun and easy way, I encourage you to give us a try and start holding some digital coins too: <a href=\"https://edge.app/get-started\" target=\"_blank\" rel=\"noreferrer\">https://edge.app/get-started</a>&nbsp;+ we're here if you have questions for us!<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hi {{ticket.requester.first_name}},\n\nEdge.app: Bitcoin & Crypto Wallet (formerly Airbitz), is a completely separate company from Microsoft Edge.\n\nFor their support, please try https://support.microsoft.com/en-us to get help with any of your Edge web browser issues.\n-\nIf you want to download Edge to and get started with cryptocurrencies in a fun and easy way, I encourage you to give us a try and start holding some digital coins too: https://edge.app/get-started + we're here if you have questions for us!\n\n"
+    },
+    {
+      "field": "current_tags",
+      "value": "microsoft"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "irrelevant"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923888415643"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "msedge"
+}

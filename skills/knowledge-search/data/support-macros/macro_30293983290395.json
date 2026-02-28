@@ -1,0 +1,55 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/30293983290395.json",
+  "id": 30293983290395,
+  "title": "ETH - Insufficient funds | USDT (only)",
+  "active": true,
+  "updated_at": "2024-11-13T21:16:10Z",
+  "created_at": "2024-10-22T21:56:18Z",
+  "default": false,
+  "position": 364,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>In order to <i>swap</i> or <i>send</i> USDT, and erc-20 token on Ethereum, you'll first need some ETH in order to pay the gas fees associated with that transaction, on that blockchain.</p><p>&nbsp;</p><p><strong>Please be aware: USDT cannot pay its own fees!</strong></p><p>&nbsp;</p><p>This is a blockchain policy, and we receive no profit from these gas fees. They go strictly to Ethereum network validators to process your transaction into a block, on-chain. If your USDT <i>token wallet</i> is part of an empty, 0 ETH wallet -- then these tokens will be temporarily stuck until you either <i>buy</i> or <i>transfer</i> some ETH into this wallet.</p><p>&nbsp;</p><p>Note: Gas prices can sharply rise when Ethereum becomes congested and trend lower over nights and weekends. You can check current 'Estimated Cost of Transaction Actions' on <a href=\"https://etherscan.io/gastracker\">https://etherscan.io/gastracker</a><br>&nbsp;</p><p>Please let us know if you have any more questions about this.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "In order to swap or send USDT, and erc-20 token on Ethereum, you'll first need some ETH in order to pay the gas fees associated with that transaction, on that blockchain.\n \nPlease be aware: USDT cannot pay its own fees!\n \nThis is a blockchain policy, and we receive no profit from these gas fees. They go strictly to Ethereum network validators to process your transaction into a block, on-chain. If your USDT token wallet is part of an empty, 0 ETH wallet -- then these tokens will be temporarily stuck until you either buy or transfer some ETH into this wallet. \n\nNote: Gas prices can sharply rise when Ethereum becomes congested and trend lower over nights and weekends. You can check current 'Estimated Cost of Transaction Actions' on https://etherscan.io/gastracker\n\nPlease let us know if you have any more questions about this.\n"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "erc-20"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "insufficient_unable_to_send"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "current_tags",
+      "value": "erc-20 unable_to_send_eth/usdt/usdc__erc-20_ insufficient_unable_to_send insufficient"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "ETH - Insufficient funds | USDT (only)"
+}

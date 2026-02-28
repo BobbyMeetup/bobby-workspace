@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/8102838767131.json",
+  "id": 8102838767131,
+  "title": "XMR - Hard fork issue",
+  "active": true,
+  "updated_at": "2023-02-01T22:37:28Z",
+  "created_at": "2022-08-15T18:35:11Z",
+  "default": false,
+  "position": 129,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>XMR is experiencing issues due to the MyMonero implementation within Edge. The hard fork on 08/13/22 has become a challenge to implement. Your funds are not at risk however the wallet will not properly sync.&nbsp;<br> </p><p>If you need access to your funds immediately you can export your private key by tapping and holding on your XMR wallet and the tap \"Master Private Key.\" NOTE: Do not store this key digitally as anyone with this key can access your funds.&nbsp;</p><p>You can then use the key to import your wallet into a functioning wallet, some examples can be found here: <a href=\"https://monero.com/wallets\" target=\"_blank\" rel=\"noreferrer\">https://monero.com/wallets</a>.&nbsp;</p><p>The MyMonero implementation within Edge is actively being worked on however we do not have an exact timeline to resolved this issue.&nbsp; All funds are safe however sending, receiving, and viewing funds may not function properly. We do advise not sending until this is resolved.&nbsp;<br>More information: <a href=\"https://twitter.com/edgewallet/status/1558915520203632640?s=21\" target=\"_blank\" rel=\"noreferrer\">https://twitter.com/edgewallet/status/1558915520203632640?s=21</a><br><br></p><p>If you would like more info on how to extract your XMR private seed please let us know.&nbsp;</p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "xmr"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987966018715"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "XMR - Hard fork issue"
+}

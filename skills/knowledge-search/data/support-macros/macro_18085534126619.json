@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/18085534126619.json",
+  "id": 18085534126619,
+  "title": "rotating-address",
+  "active": true,
+  "updated_at": "2023-08-18T21:24:57Z",
+  "created_at": "2023-08-18T21:24:57Z",
+  "default": false,
+  "position": 199,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Please have a look at this article to better understand why your wallet address may change when funds are received:<br><br></p><p>Why does my receiving address keep changing? (<a href=\"https://edgeapp.zendesk.com/hc/en-us/articles/7019256770075-Why-does-my-receiving-address-keep-changing\" target=\"_blank\" rel=\"noreferrer\">https://edgeapp.zendesk.com/hc/en-us/articles/7019256770075-Why-does-my-receiving-address-keep-changing</a>)<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Please have a look at this article to better understand why your wallet address may change when funds are received:\n\n\nWhy does my receiving address keep changing? (https://edgeapp.zendesk.com/hc/en-us/articles/7019256770075-Why-does-my-receiving-address-keep-changing)\n\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "rotating-address"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7276869880347.json",
+  "id": 7276869880347,
+  "title": "Wallet - Receiving Address Changes",
+  "active": true,
+  "updated_at": "2023-02-01T22:40:09Z",
+  "created_at": "2022-07-12T22:16:57Z",
+  "default": false,
+  "position": 105,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thanks for reaching out.</p><p>​</p><p>Edge will automatically change your receiving address after each receive in order to better protect your privacy so no one can easily look up how much money you have.</p><p>​</p><p>However, if anyone happens to send funds into an old address that you've used before, you can still continue to receive money into any old addresses without any issue.</p><p>​</p><p>Let us know if you have any questions.</p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - Receiving Address Changes"
+}

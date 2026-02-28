@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/37085000326427.json",
+  "id": 37085000326427,
+  "title": "edgeimpulse",
+  "active": true,
+  "updated_at": "2025-05-16T22:52:10Z",
+  "created_at": "2025-05-16T22:52:10Z",
+  "default": false,
+  "position": 438,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi {{ticket.requester.first_name}},</p><p>&nbsp;</p><p><a href=\"http://edge.app/\">Edge.app</a>: Bitcoin &amp; Crypto Wallet (formerly Airbitz), is a completely separate company from Edge Impulse.</p><p>&nbsp;</p><p>To reach their support, please try heading over to <a href=\"https://edgeimpulse.com/contact\">https://edgeimpulse.com/contact</a> to get any assistance with your AI product engineering questions.</p><p>-</p><p>If you want get started with cryptocurrencies in an easy and secure way, download our app (<a href=\"https://edge.app/get-started\">https://edge.app/get-started</a>) and become a coin holder, too! Our line is open if you have any questions.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hi {{ticket.requester.first_name}},\n \nEdge.app: Bitcoin & Crypto Wallet (formerly Airbitz), is a completely separate company from Edge Impulse.\n\nTo reach their support, please try heading over to https://edgeimpulse.com/contact to get any assistance with your AI product engineering questions.\n-\nIf you want get started with cryptocurrencies in an easy and secure way, download our app (https://edge.app/get-started) and become a coin holder, too! Our line is open if you have any questions."
+    },
+    {
+      "field": "current_tags",
+      "value": "edgeimpulse"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "irrelevant"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923888415643"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "edgeimpulse"
+}

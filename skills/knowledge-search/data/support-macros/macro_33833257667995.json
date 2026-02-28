@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/33833257667995.json",
+  "id": 33833257667995,
+  "title": "logout",
+  "active": true,
+  "updated_at": "2025-02-20T23:39:17Z",
+  "created_at": "2025-02-08T22:57:34Z",
+  "default": false,
+  "position": 411,
+  "description": "how to log out",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>To logout of this Edge account, tap the menu button (≡) in the top right, and select 'Logout' at the bottom of the side-menu. You may immediately be prompted to input PIN or biometric input to log back into the same account. Tap on 'Cancel' or 'Exit PIN' to return fully to the Username and Password login screen.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "To logout of this Edge account, tap the menu button (≡) in the top right, and select 'Logout' at the bottom of the side-menu. You may immediately be prompted to input PIN or biometric input to log back into the same account. Tap on 'Cancel' or 'Exit PIN' to return fully to the Username and Password login screen."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "logout"
+}

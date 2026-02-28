@@ -1,0 +1,30 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/36861449334555.json",
+  "id": 36861449334555,
+  "title": "compromise/scam let down",
+  "active": true,
+  "updated_at": "2025-05-28T22:47:11Z",
+  "created_at": "2025-05-10T08:27:42Z",
+  "default": false,
+  "position": 435,
+  "description": "",
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "hacked/compromised scam user/behavioral"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi,<br>&nbsp;<br>Thank you for the extra information so that I could look into the login server activity.<br>&nbsp;<br>Unfortunately, it appears that your Edge account is compromised and should not be used any more. Please note, changing your password does NOT secure your account and it is advised that you create a new profile with a username and password. This does not involve any additional KYC process, as that is registered directly with the exchange partners.<br>&nbsp;<br>Looking at the server records, it appears like the robber tried maybe 7 times and got the correct password on 4/17/2025. All new login attempts will send a notification to each of your personal devices with your Edge account. This notification is asking if you would like to approve or deny the new login, giving you 7 days to respond and deny the request. Unfortunately, despite the notification, your device did not login to deny the login request (\"rejectVouchers\" in photo) until 21 days afterwards when they had already stolen the funds.<br>&nbsp;<br>I'm very sorry to share this information with you, but we can see that this is a username that has been used on various other platforms online (ex. <a href=\"https://www.instagram.com/tekvoj/\">https://www.instagram.com/tekvoj/</a>). If you had a chance to search your email address on the <a href=\"https://haveibeenpwned.com\">https://haveibeenpwned.com</a> site, then you saw that the login credentials have been included in multiple data leaks for other websites in the past.&nbsp;<br>&nbsp;<br>I wish I had better news for you, but please let me know if you have any questions or concerns.<br>&nbsp;<br>Here are a few resources that can be helpful when dealing with a tough cryptocurrency situation:</p><ul><li>VictimConnect: <a href=\"https://victimconnect.org/\">https://victimconnect.org</a> (free support and resources)</li><li>Internet Crime Complaint Center: <a href=\"https://www.ic3.gov/\">https://www.ic3.gov</a> (file formal complaint with the FBI)</li><li>Action Fraud: <a href=\"https://www.actionfraud.police.uk\">https://www.actionfraud.police.uk</a> (UK’s national reporting centre for cybercrime)</li><li>ChainAbuse: <a href=\"https://www.chainabuse.com/\">https://www.chainabuse.com</a> (crypto scam reporting &amp; resources)</li><li>Coinstructive: <a href=\"https://coinstructive.com/\">https://coinstructive.com</a> (Forensic blockchain analysts; free consultation)</li></ul>"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 26105022686363
+  },
+  "attachments": [
+    37466682619931,
+    37466727790619
+  ],
+  "raw_title": "compromise/scam let down"
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/20862149784091.json",
+  "id": 20862149784091,
+  "title": "USDC.e vs native USDC on Polygon",
+  "active": true,
+  "updated_at": "2023-12-01T21:03:27Z",
+  "created_at": "2023-12-01T21:03:27Z",
+  "default": false,
+  "position": 239,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "wallet"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "matic_token"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>USDC is not USDC.e - they are different assets. You may read more about this update, here: <a href=\"https://www.circle.com/blog/native-usdc-now-available-on-polygon-pos\" target=\"_blank\" rel=\"noreferrer\">https://www.circle.com/blog/native-usdc-now-available-on-polygon-pos</a> And while both Ethereum and Polygon are compatible EVMs, they are still not the same blockchain, so you would need a bridge to transfer assets between them. In fact, USDC.e is the 'bridged from Eth' version of USDC, which you'll read in that article update, and this new asset, now known as just USDC, is native to Polygon, minted directly on and for that blockchain.<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "USDC is not USDC.e - they are different assets. You may read more about this update, here: https://www.circle.com/blog/native-usdc-now-available-on-polygon-pos And while both Ethereum and Polygon are compatible EVMs, they are still not the same blockchain, so you would need a bridge to transfer assets between them. In fact, USDC.e is the 'bridged from Eth' version of USDC, which you'll read in that article update, and this new asset, now known as just USDC, is native to Polygon, minted directly on and for that blockchain."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "USDC.e vs native USDC on Polygon"
+}

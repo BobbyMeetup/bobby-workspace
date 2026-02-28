@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7246582916763.json",
+  "id": 7246582916763,
+  "title": "FTM - ERC20 failed exchanges. ",
+  "active": true,
+  "updated_at": "2023-02-13T18:26:58Z",
+  "created_at": "2022-07-11T22:07:16Z",
+  "default": false,
+  "position": 72,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Currently there is an issue with some of our exchange partners allowing exchanges of the ERC-20 token of Fantom (FTM) to FTM main net (Opera) wallets. The FTM ERC20 tokens will be sent to your FTM wallet within Edge and not be viewable because they are on the wrong chain. To access your FTM ERC20 tokens you will need to export your FTM private key.&nbsp;</p><p>Note: exposing private keys does come with risk, store keys securely and not online, digitally, etc.&nbsp;</p><p><br></p><p>Please follow these steps to recover your tokens:</p><p>1. Tap and hold on your FTM wallet (the wallet that was used for the exchange) from the main wallet screen until a menu appears.&nbsp;&nbsp;</p><p>2. Tap \"Master Private Key\" and then enter your password, you will then need to write down this key as it will be used to recover your token.&nbsp;</p><p>3. Go back to the main wallet screen and then tap the \"+\" sign or visit the bottom of the list to add a wallet then tap on create an ETH wallet.</p><p>4. Now tap import and then enter the FTM Private Key, press next and finish creating the ETH wallet.&nbsp;</p><p>5. Visit the main wallet list and find your newly created ETH wallet, tap and hold on the wallet until a menu appears.&nbsp;</p><p>6. Tap \"Add/Edit Tokens\" and then tap custom.&nbsp;</p><p>7. Enter the following details: Token Name: Fantom ERC20, Token Code: FTM20, Contract Address: 0x4e15361fd6b4bb609fa63c81a2be19d873717870, Number of Decimal Places: 18. Now press Save.&nbsp;</p><p><br></p><p>Your FTM ERC-20 Token will now be viewable and you can send, interact etc.&nbsp;</p><p><br></p><p>If you need further assistances please let us know.&nbsp;</p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "FTM - ERC20 failed exchanges. "
+}

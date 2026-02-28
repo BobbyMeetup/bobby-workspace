@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/31481677025563.json",
+  "id": 31481677025563,
+  "title": "XRP deletion",
+  "active": true,
+  "updated_at": "2024-12-03T11:00:19Z",
+  "created_at": "2024-12-03T10:57:16Z",
+  "default": false,
+  "position": 379,
+  "description": "",
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi,</p><p>thanks for reaching out.</p><p>It's currently not possible within Edge.</p><p>&nbsp;</p><p>All XRP wallets are required to hold at least 10 XRP at all times. This is an XRP policy called the Base Reserve (<a href=\"https://xrpl.org/reserves.html\">https://xrpl.org/reserves.html</a>) and it applies to all XRP wallets. When you create a new XRP wallet in Edge, you'll see a message informing you about this.</p><p>&nbsp;</p><p>The last 10 XRP is bound to your XRP account / public address on the blockchain, so these funds are not technically stuck in Edge.</p><p>We hope that XRP will change this policy in the near future, especially if the price keeps increasing!</p><p>&nbsp;</p><p>If you want you can delete the XRP account by using an external app and an external service, but still you will need to burn 2 XRP and will recover 8, if you don't have any XRP token wallets such as Stably USD, Gatehub EUR, Bitstamp EUR...</p><p>In order to do so, you will need to export the master private key from your XRP wallet, download Xaman Wallet and import your XRP wallet there.</p><p>You can then use this website: <a href=\"https://xrpl.services/\">https://xrpl.services/</a></p><p>Login using your Xaman and then follow the steps to delete your XRP account.</p><p>&nbsp;</p><p>You can export your Master Private Key by going to the Assets screen. Then tap on the wallet you wish to view the key&nbsp; / seeds for. Once in the wallet, tap on the three vertical dots (located upper right side of screen) and a new menu will pop up. Next tap View Master Private Key and enter your password and your key will be displayed.<br>&nbsp;</p><p><strong>WARNING</strong>: Exposing your private keys can be risky if you do not take the right precautions. Using a private browser or opening the derivation tool on an air-gapped PC will help prevent malicious software from stealing your keys. Most users will not need to follow these steps and they are presented for informational use only.</p><p>&nbsp;</p><p>Please let us know if you have any questions.&nbsp;</p>"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "XRP deletion"
+}

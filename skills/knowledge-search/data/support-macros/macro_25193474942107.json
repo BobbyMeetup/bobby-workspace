@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/25193474942107.json",
+  "id": 25193474942107,
+  "title": "sideshift",
+  "active": true,
+  "updated_at": "2024-04-26T00:46:24Z",
+  "created_at": "2024-04-26T00:46:04Z",
+  "default": false,
+  "position": 172,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987701197339"
+    },
+    {
+      "field": "custom_fields_6991267185435",
+      "value": "sideshift.ai"
+    },
+    {
+      "field": "custom_fields_6991553191067",
+      "value": "funds_never_arrived"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge is a fully private and encrypted app, so we don't have access to any of your exchange details at this time.</p><p><br></p><p>When exchanging cryptocurrency, you will be able to conveniently check the status of your swap by checking the Exchange Status page, found within the transaction details of your outgoing transaction for the swap. From here, you can also reach their support directly if there are any issues or concerns.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Edge is a fully private and encrypted app, so we don't have access to any of your exchange details at this time.\n\nWhen exchanging cryptocurrency, you will be able to conveniently check the status of your swap by checking the Exchange Status page, found within the transaction details of your outgoing transaction for the swap. From here, you can also reach their support directly if there are any issues or concerns.\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "sideshift"
+}

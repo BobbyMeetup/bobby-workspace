@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/36759852026651.json",
+  "id": 36759852026651,
+  "title": "Kado - OTC follow up (if they give their name to us)",
+  "active": false,
+  "updated_at": "2025-07-01T18:47:40Z",
+  "created_at": "2025-05-07T22:59:26Z",
+  "default": false,
+  "position": 434,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">Hi {{ticket.requester.first_name}},</span></p><p>&nbsp;</p><p><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">If you wish to continue with this OTC purchase order, payable by bank wire transfer, please be sure to send your full name to their email (otc@kado.money) as well. They'll be in touch with you shortly to walk through the next steps for completing the order.</span></p><p>&nbsp;</p><p><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">Message us here at Edge support, if you have any other questions or concerns.</span></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hi {{ticket.requester.first_name}},\n\nIf you wish to continue with this OTC purchase order, payable by bank wire transfer, please be sure to send your full name to their email (otc@kado.money) as well. They'll be in touch with you shortly to walk through the next steps for completing the order.\n\nMessage us here at Edge support, if you have any other questions or concerns."
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Kado - OTC follow up (if they give their name to us)"
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/9484977743771.json",
+  "id": 9484977743771,
+  "title": "Marketing - Tomb Giveaway ",
+  "active": false,
+  "updated_at": "2023-10-07T17:35:31Z",
+  "created_at": "2022-10-10T17:29:08Z",
+  "default": false,
+  "position": 136,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "group_id",
+      "value": "6923892939675"
+    },
+    {
+      "field": "set_tags",
+      "value": "marketing"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>The promo link is <a href=\"http://dl.edge.app/tombgiveaway\" target=\"_blank\" rel=\"noreferrer\">dl.edge.app/tombgiveaway</a>&nbsp; which will give you access to the banner.&nbsp;</p><p>If you're a new user download using the QR or link and the banner should be at the top of the app when you open Edge. If you have an existing Edge account enter your account and then tap Menu &gt; Scan QR&nbsp; and then point your camera at the QR code. If you are vising the webpage from the device that has your Edge account simply tap on the QR code.&nbsp;</p><p>Please let us know if you have any questions or concerns.&nbsp;</p>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Marketing - Tomb Giveaway "
+}

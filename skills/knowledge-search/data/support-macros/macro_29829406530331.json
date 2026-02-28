@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/29829406530331.json",
+  "id": 29829406530331,
+  "title": "password (new)",
+  "active": true,
+  "updated_at": "2025-01-15T01:29:50Z",
+  "created_at": "2024-10-05T22:54:11Z",
+  "default": false,
+  "position": 351,
+  "description": "For users that have forgotten their username. ",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>In order to be a fully secure and self-custodial wallet, Edge and its employees have no way to know your username or reset the password for your account. Considering this, please review these tips below to help regain access to your account:</p><p>&nbsp;</p><p>Note - When deleting and reinstalling the app, or installing Edge on a new phone, it will have no memory of you and require the full username and password to restore your account from encrypted backups.</p><p>&nbsp;</p><p>If you do not know the Username -</p><ul><li>Our top recommendation is to make a list of as many possible usernames that you can think you may have used from around the time you started the account. Write these possibilities down to track them!<ul><li>Usernames must be:<i> at least three (3) characters long,</i> and can contain<i> any combination of letters, numbers, symbols or spaces.</i></li></ul></li><li>Next, systematically test through them by attempting to create a new account with them. If you see 'Username available' then you may cross it off the list. If you see 'Username already exists' then there is a possibility that it's yours.</li></ul><p>&nbsp;</p><p>If you do not know the Password -</p><ul><li>And you are 100% sure about the username, then you are ready to test through possible passwords from the main login screen. Track your misses, so you can make progress while narrowing it down. You do not need to worry about locking the account. It will tell you to \"please wait\" if you have tried too many times, too quickly.<ul><li>Passwords must be: <i>at least ten (10) characters long, </i>and contain at least:<i> one (1) Upper-case letter, one (1) lower-case letter, and one (1) number</i></li></ul></li></ul><p>&nbsp;</p><p>Regarding the Recovery Token -&nbsp;</p><ul><li>A Recovery Token must be created while logged into your account, so if you have not already generated this token for yourself, it will not be possible to create this token while logged out.<ul><li>If you did answer the 2 security questions to create a Recovery Token - the app will prompt users to back this up by emailing it to themselves. If you might have done this, you can try finding it by searching for \"Edge Recovery Token\" in your email. If you can locate this token, and answer the questions correctly, you will be able to login without remembering the password.</li></ul></li></ul><p>&nbsp;</p><p>Also note -</p><ul><li>On an authorized device that you've logged into before, it's possible that you may have exited the PIN login screen. From the main login screen, with your username visible and an empty password field below it, tap on the username, then tap on it again from the drop-down list to re-enable Pin login mode.<ul><li>Using PIN login, you can reset the Password for the account by logging in and out of the application multiple times in a row, causing a 'Security Check' message to pop up that will allow you to set a new password.</li></ul></li><li>Your Edge account is created with a username and a password <i>only</i>, so there is no personal information associated with it that could be used to help find the username.</li></ul><p>&nbsp;</p><p>As a last resort, if you know your username, but still need assistance with the password, we can discuss more about how to apply for an encrypted Login Package of your account, which could potentially be brute-forced into by a specialized service/software.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "In order to be a fully secure and self-custodial wallet, Edge and its employees have no way to know your username or reset the password for your account. Considering this, please review these tips below to help regain access to your account:\n\nNote - When deleting and reinstalling the app, or installing Edge on a new phone, it will have no memory of you and require the full username and password to restore your account from encrypted backups.\n\nIf you do not know the Username -\n- Our top recommendation is to make a list of as many possible usernames that you can think you may have used from around the time you started the account. Write these possibilities down to track them!\n   - Usernames must be: at least three (3) characters long, and can contain any combination of letters, numbers, symbols or spaces.\n- Now, systematically test through them by attempting to create a new account with them. If you see 'Username available' then you may cross it off the list. If you see 'Username already exists' then there is a possibility that it's yours.\n\nIf you do not know the Password -\n- And you are 100% sure about the username, then you are ready to test through possible passwords from the main login screen. Track your misses, so you can make progress while narrowing it down. You do not need to worry about locking the account. It will tell you to \"please wait\" if you have tried too many times, too quickly.\n- Passwords must be: at least ten (10) characters long, and contain at least: one (1) Upper-case letter, one (1) lower-case letter, and one (1) number\n\nRegarding the Recovery Token - \n- A Recovery Token must be created while logged into your account, so if you have not already generated this token for yourself, it will not be possible to create this token while logged out.\n   - If you did answer the 2 security questions to create a Recovery Token - the app will prompt users to back this up by emailing it to themselves. If you might have done this, you can try finding it by searching for \"Edge Recovery Token\" in your email. If you can locate this token, and answer the questions correctly, you will be able to login without remembering the password.\n\nAlso note -\n- On an authorized device that you've logged into before, it's possible that you may have exited the PIN login screen. From the main login screen, with your username visible and an empty password field below it, tap on the username, then tap on it again from the drop-down list to re-enable Pin login mode.\n- Using PIN login, you can reset the Password for the account by logging in and out of the application multiple times in a row, causing a 'Security Check' message to pop up that will allow you to set a new password.\n- Your Edge account was created with a username and a password only, so there is no personal information associated with it that could be used to help find the username.\n\nAs a last resort, if you know your username, but still need assistance with the password, we can discuss more about how to apply for an encrypted Login Package of your account, which could potentially be brute-forced into by a specialized service/software."
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "forgot_username/password"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "password (new)"
+}

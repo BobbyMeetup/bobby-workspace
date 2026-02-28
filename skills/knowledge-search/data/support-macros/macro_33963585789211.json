@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/33963585789211.json",
+  "id": 33963585789211,
+  "title": "No rates (for some assets)",
+  "active": true,
+  "updated_at": "2025-07-21T03:32:13Z",
+  "created_at": "2025-02-12T19:30:00Z",
+  "default": false,
+  "position": 341,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>We've received a few other similar reports. It appears that a handful of assets are not displaying their correct value in the app, and might be displaying $0.</p><p>&nbsp;</p><p>When a rates server has an issue, balances may appear wrong, but no cause for alarm. It is only a temporary display issue. You can verify and see that your <i>crypto</i> amount is still present, which is the most important part. The true market value of the coins remains intact.</p><p>&nbsp;</p><p>All functionality remains, send, receive, sell, swap - but you may need need to input the amount of coins, rather than fiat value, when the app is not showing a rate. We apologize for this inconvenience and are working hard to resolve this quickly as possible.</p><p>&nbsp;</p><p>Please let us know if you have any other questions, otherwise, we will send you an update when the rates issue has been resolved.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "We've received a few other similar reports. It appears that a handful of assets are not displaying their correct value in the app, and might be displaying $0.\n \nWhen a rates server has an issue, balances may appear wrong, but no cause for alarm. It is only a temporary display issue. You can verify and see that your crypto amount is still present, which is the most important part. The true market value of the coins remains intact.\n \nAll functionality remains, send, receive, sell, swap - but you may need need to input the amount of coins, rather than fiat value, when the app is not showing a rate. We apologize for this inconvenience and are working hard to resolve this quickly as possible.\n \nPlease let us know if you have any other questions, otherwise, we will send you an update when the rates issue has been resolved.\n"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "current_tags",
+      "value": "rates_not_loading"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923916366107"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "internally_resolved"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "No rates (for some assets)"
+}

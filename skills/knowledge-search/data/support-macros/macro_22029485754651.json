@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/22029485754651.json",
+  "id": 22029485754651,
+  "title": "edgecard",
+  "active": true,
+  "updated_at": "2025-03-28T22:12:11Z",
+  "created_at": "2024-01-13T20:20:08Z",
+  "default": false,
+  "position": 255,
+  "description": "for inquires about a Edge debit card",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "13053445492635"
+    },
+    {
+      "field": "current_tags",
+      "value": "general_inquiry edgecard has_account"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi, thanks for reaching out!<br></p><p><br></p><p>Edge currently doesn't have its own debit card that you can spend your crypto with, but we do have some options that you might be interested in:</p><p><br></p><div class=\"zd-indent\" data-test-id=\"zd-editor-indent-line\" style=\"margin-left: 20px;\"><p>Bitrefill - has a virtual Mastercard that can be loaded with crypto, and then used to spend online or locally by adding the virtual card details into GooglePay or ApplePay.</p><p><br></p><p>Paybis - offers the ability to sell crypto directly to your own debit card (available in most regions).</p></div><p><br></p><p>Use the Sell tab within Edge, select your region,&nbsp;and you will be able to see what options are available to you and suit your needs. Be sure to also keep your app updated, as new buy/sell and swap services are being integrated into Edge all the time.</p><p><br></p><p>If you have any more questions at all, please feel free to respond.</p><p><br></p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hi, thanks for reaching out!\n\nEdge currently doesn't have its own debit card that you can spend your crypto with, but we do have some options that you might be interested in:\nBitrefill - has a virtual Mastercard that can be loaded with crypto, and then used to spend online or locally by adding the virtual card details into GooglePay or ApplePay.\n\nPaybis - offers the ability to sell crypto directly to your own debit card (available in most regions).\n\n\nUse the Sell tab within Edge, select your region, and you will be able to see what options are available to you and suit your needs. Be sure to also keep your app updated, as new buy/sell and swap services are being integrated into Edge all the time.\n\nIf you have any more questions at all, please feel free to respond."
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "unable_to_sell"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "edgecard"
+}

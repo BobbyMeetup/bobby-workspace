@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/21302427120923.json",
+  "id": 21302427120923,
+  "title": "Exchange - External Partner Links (for ADA)",
+  "active": true,
+  "updated_at": "2023-12-16T18:25:50Z",
+  "created_at": "2023-12-16T18:25:50Z",
+  "default": false,
+  "position": 204,
+  "description": "quick agent access to Edge ref links for external swaps (cardano specific)",
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "external_swap_link ada coin_or_token_not_supported"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge may not currently have the ability to hold ADA inside of it, but if you still want to swap into or out of Cardano, we can grant you access to our exchange network for external access links by the links below:<br><br><a href=\"https://changehero.io/?ref=581574809c2448ad832fa2f9d3fe4cb8\" target=\"_blank\" rel=\"noreferrer\">ChangeHero</a>&nbsp;(supports ADA)</p><p><br></p><p><a href=\"https://changenow.app.link/referral?link_id=db30644774551b\" target=\"_blank\" rel=\"noreferrer\">ChangeNow</a>&nbsp;(supports ADA)</p><p><br></p><p><a href=\"https://letsexchange.io/?ref_id=TEFfWjFDyDkhnrlR\" target=\"_blank\" rel=\"noreferrer\">Let's Exchange</a>&nbsp;(supports ADA)</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Edge may not currently have the ability to hold ADA inside of it, but if you still want to swap into or out of Cardano, we can grant you access to our exchange network for external access links by the links below:\n\nChangeHero (https://changehero.io/?ref=581574809c2448ad832fa2f9d3fe4cb8) *supports ADA\n\nChangeNow (https://changenow.app.link/referral?link_id=db30644774551b) *supports ADA\n\nLet's Exchange (https://letsexchange.io/?ref_id=TEFfWjFDyDkhnrlR) *supports ADA"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Exchange - External Partner Links (for ADA)"
+}

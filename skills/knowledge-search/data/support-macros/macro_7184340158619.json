@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7184340158619.json",
+  "id": 7184340158619,
+  "title": "Account - Restore wallets",
+  "active": true,
+  "updated_at": "2024-12-11T10:02:29Z",
+  "created_at": "2022-07-08T20:04:13Z",
+  "default": false,
+  "position": 31,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>To restore any previously Archived wallets from within your Edge account:</p><p>​</p><p>Open the Main Menu (≡) in the top-right</p><p>- Click on 'Settings' and scroll toward the bottom</p><p>- Tap on 'Restore Wallets'</p><p>- Select any wallets you want to bring back into your account, and tap 'Restore'</p><p>&nbsp;</p><p>Please let us know if you have any more questions.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "To restore any previously Archived or Deleted wallets from within your Edge account:\n​\nOpen the Main Menu (≡) in the top-right\n- Click on 'Settings' and scroll toward the bottom\n- Tap on 'Restore Wallets'\n- Select any wallets you want to bring back into your account, and tap 'Restore'\n\nPlease let us know if you have any more questions."
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "wallet"
+    },
+    {
+      "field": "current_tags",
+      "value": "general_inquiry restore_wallets has_account"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Account - Restore wallets"
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/20497576623003.json",
+  "id": 20497576623003,
+  "title": "Doge - RangeError",
+  "active": true,
+  "updated_at": "2025-08-13T23:49:21Z",
+  "created_at": "2023-11-18T00:11:11Z",
+  "default": false,
+  "position": 232,
+  "description": "",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987966018715"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "current_tags",
+      "value": "unable_to_send range_error error"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "doge"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "externally_resolved"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>If you see \"RangeError: value out of range\" when working with Dogecoin, we apologize for the inconvenience. This is due to a technical bug from using BitcoinJS for all UTXO currencies, and with so much Dogecoin in the world, the code can not properly account for all units in aggregate UTXOs, particularly when receiving DOGE from a \"whale\" wallet that has a very large balance.</p><p>&nbsp;</p><p>There is no quick fix that we can deploy right now, but we do have a more robust fix in the pipeline.</p><p>Our top suggestion would be utilizing&nbsp;<a href=\"https://github.com/dogecoin/dogecoin/releases\">DogecoinCore</a>&nbsp;to get these coins unstuck; however these steps are very Much complicated, requiring use of iancoleman.io/bip39 to derive every private key from your mnemonic and sweeping them. The much simpler way is temporarily using Trust wallet for its ability to import 24-word seed phrases.</p><p>&nbsp;</p><p>Here are the steps:</p><p>&nbsp;</p><p>1. Open Edge, tap on Assets. Locate and long-press on your DOGE wallet to open its menu or tap into the wallet and tap the three (⋮) dots; select the option to 'View Master Private Key'. Enter your password and SECURELY write down your Doge wallet seed. Much sensitive information!!</p><p>2. Download <a href=\"https://trustwallet.com/download\">Trust wallet</a> in your phone's app store.</p><p>3. Open and select 'Add existing wallet', using your 'Secret phrase' to boot up your Edge's DOGE wallet in Trust.</p><p>&nbsp;</p><p>After a successful import into Trust, you can now send all of your DOGE to yourself, and this will consolidate your funds into a single UTXO, and break the connection from the whale wallet, resolving the issue completely (within Edge as well!) You may simply delete the Trust wallet app afterwards, since you maintain access to the seed in Edge.</p><p>&nbsp;</p><p>Let us know if you have additional questions!</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "If you see the \"RangeError: value out of range\" when working with Dogecoin, we apologize for the inconvenience. This is due to a technical bug from using BitcoinJS for all UTXO currencies, and with so much Dogecoin in the world, the code can not properly account for all units in aggregate UTXOs, particularly when receiving DOGE from a \"whale\" wallet that has a very large balance.\n\nThere is no quick fix that we can deploy right now, but we do have a more robust fix in the pipeline.\nOur top suggestion would be utilizing DogecoinCore to get these coins unstuck; however these steps are very Much complicated, requiring use of iancoleman.io/bip39 to derive every private key from your mnemonic and sweeping them. The much simpler way is temporarily using Trust wallet for its ability to import 24-word seed phrases.\n\nHere are the steps:\n\n1. Open Edge, tap on Assets. Locate and long-press on your DOGE wallet to open its menu or tap into the wallet and tap the three (⋮) dots; select the option to 'View Master Private Key'. Enter your password and SECURELY write down your Doge wallet seed. Much sensitive information!!\n2. Download Trust wallet in your phone's app store.\n3. Open and select 'Add existing wallet', using your 'Secret phrase' to boot up your Edge's DOGE wallet in Trust.\n \nAfter a successful import into Trust, you can now send all of your DOGE to yourself, and this will consolidate your funds into a single UTXO, and break the connection from the whale wallet, resolving the issue completely (within Edge as well!) You may simply delete the Trust wallet app afterwards, since you maintain access to the seed in Edge.\n \nLet us know if you have additional questions!"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Doge - RangeError"
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/20009521441947.json",
+  "id": 20009521441947,
+  "title": "taskscam",
+  "active": true,
+  "updated_at": "2024-09-14T18:07:20Z",
+  "created_at": "2023-10-31T16:21:37Z",
+  "default": false,
+  "position": 227,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>If you have recently start online work, and are receiving cryptocurrency payouts, PLEASE be extremely cautious when proceeding. There have been many cases of employment or task scams that have been popping up lately, where someone offers employment, out of the blue, and then \"proves\" the system is real, only later locking you into a scheme that requires paying money to continue receiving employment payouts. If this sounds familiar, please read up online about 'task scams', maybe including the name of this company in your research, to see what you can find on them. Whether you have or haven't lost money yet, we urge you to please reconsider the legitimacy of any external parties you may work with when it comes to using crypto. General rule of thumb, is to pause and reconsider when/if anyone asks you to over-extend your Trust in any financial matter.</p><p><br>We also recommend familiarizing with the various crypto scams active today, so that they can be recognized and prevented - <a href=\"https://consumer.ftc.gov/articles/what-know-about-cryptocurrency-and-scams#scams\">https://consumer.ftc.gov/articles/what-know-about-cryptocurrency-and-scams#scams</a></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "If you have recently start online work, and are receiving cryptocurrency payouts, PLEASE be extremely cautious when proceeding. There have been many cases of employment or task scams that have been popping up lately, where someone offers employment, out of the blue, and then \"proves\" the system is real, only later locking you into a scheme that requires paying money to continue receiving employment payouts. If this sounds familiar, please read up online about 'task scams', maybe including the name of this company in your research, to see what you can find on them. Whether you have or haven't lost money yet, we urge you to please reconsider the legitimacy of any external parties you may work with when it comes to using crypto. General rule of thumb, is to pause and reconsider when/if anyone asks you to over-extend your Trust in any financial matter.\n\nWe also recommend familiarizing with the various crypto scams active today, so that they can be recognized and prevented - https://consumer.ftc.gov/articles/what-know-about-cryptocurrency-and-scams#scams"
+    },
+    {
+      "field": "current_tags",
+      "value": "employment-scam"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "taskscam"
+}

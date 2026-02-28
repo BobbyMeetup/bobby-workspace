@@ -1,0 +1,55 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/26606579375899.json",
+  "id": 26606579375899,
+  "title": "banxa error - Expected a number at .data.order.blockchain.id",
+  "active": true,
+  "updated_at": "2024-06-14T21:53:56Z",
+  "created_at": "2024-06-14T20:24:48Z",
+  "default": false,
+  "position": 318,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "13053445492635"
+    },
+    {
+      "field": "custom_fields_6990445837595",
+      "value": "error"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "banxa"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "unable_to_sell"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "send"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hello {{ticket.requester.first_name}},</p><p><br></p><p>We have seen a few cases like this pop up recently, and we are currently investigating the issue. Your patience is very well appreciated in the mean time. To help us investigate -<br><br>Can you simply let us know the Order ID from Banxa, and we'll follow up with them directly to get this resolved as soon as possible.<br><br>Our teams are looking into this and get back to you as soon as possible. We will keep you updated!</p><p>Let us know if you have any other questions.<br><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hello {{ticket.requester.first_name}},\n\nWe have seen a few cases like this pop up recently, and we are currently investigating the issue. Your patience is very well appreciated in the mean time. To help us investigate -\n\nCan you simply let us know the Order ID from Banxa, and we'll follow up with them directly to get this resolved as soon as possible.\n\nOur teams are looking into this and get back to you as soon as possible. We will keep you updated!\nLet us know if you have any other questions."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "banxa error - Expected a number at .data.order.blockchain.id"
+}

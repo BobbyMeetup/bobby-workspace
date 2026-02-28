@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/8031284162459.json",
+  "id": 8031284162459,
+  "title": "New Buy Flow",
+  "active": true,
+  "updated_at": "2023-05-11T17:53:17Z",
+  "created_at": "2022-08-12T12:03:45Z",
+  "default": false,
+  "position": 128,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>If you've updated Edge to the latest version, and you tap on Buy, select Credit/Debit Card or Apple/Google Pay, then enter the amount you want to buy - below you will see the partner chosen by the app.   You can tap on \"Powered by...\" and select a different partner if you prefer.<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "If you've updated Edge to the latest version, and you tap on Buy, select Credit/Debit Card or Apple/Google Pay, then enter the amount you want to buy - below you will see the partner chosen by the app. You can tap on \"Powered by...\" and select a different partner if you prefer.\n\n"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "New Buy Flow"
+}

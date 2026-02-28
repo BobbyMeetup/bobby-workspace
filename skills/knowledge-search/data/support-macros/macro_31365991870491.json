@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/31365991870491.json",
+  "id": 31365991870491,
+  "title": "international-number (tollfree)",
+  "active": true,
+  "updated_at": "2024-11-28T18:54:05Z",
+  "created_at": "2024-11-28T18:54:05Z",
+  "default": false,
+  "position": 377,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>+1 (855) 346-4974</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "+1 (855) 346-4974\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "international-number (tollfree)"
+}

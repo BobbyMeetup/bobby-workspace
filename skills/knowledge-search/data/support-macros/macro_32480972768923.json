@@ -1,0 +1,19 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/32480972768923.json",
+  "id": 32480972768923,
+  "title": "check status exchange status page",
+  "active": true,
+  "updated_at": "2025-01-04T08:53:01Z",
+  "created_at": "2025-01-04T08:53:01Z",
+  "default": false,
+  "position": 388,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>You can always check on the official status of a transaction with the exchange by tapping on the transaction, then tapping on \"Exchange Status Page\" from the next screen.</p>"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "check status exchange status page"
+}

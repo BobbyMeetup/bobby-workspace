@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/25657019439771.json",
+  "id": 25657019439771,
+  "title": "menubutton",
+  "active": true,
+  "updated_at": "2024-05-11T18:44:26Z",
+  "created_at": "2024-05-11T18:42:48Z",
+  "default": false,
+  "position": 300,
+  "description": "≡",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>&nbsp;tap the menu button (≡) in the top right<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": " tap the menu button (≡) in the top right\n\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "menubutton"
+}

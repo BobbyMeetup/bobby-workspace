@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7184490871707.json",
+  "id": 7184490871707,
+  "title": "Account - Threatens legal action",
+  "active": true,
+  "updated_at": "2024-11-20T19:51:25Z",
+  "created_at": "2022-07-08T20:07:58Z",
+  "default": false,
+  "position": 33,
+  "description": "",
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thanks for reaching out and sorry for what happened to you.</p><p>Please note that Edge wallet is a totally non-custodial wallet.</p><p>Edge does not have access to accounts or maintain any information about our users. During the account creation process, Edge never asks for your name, phone number, email or any personal information that ties your identity to an account. There are also multiple warnings that the password is known only to you and that Edge cannot see or reset it.</p><p><br>For the same reason, Edge is not able to see and manage user funds, nor can we ban or blacklist addresses.<br>The user is in full control of his funds.</p><p>Here, you can find our Terms of Service for the app:&nbsp;<a href=\"https://edge.app/terms-of-service-privacy-policy\" target=\"_blank\" rel=\"noreferrer\">https://edge.app/terms-of-service-privacy-policy</a></p><p><br></p><p>Moreover,&nbsp;once bitcoin or any type of cryptocurrency is sent out, the transactions are irreversible. This is the way bitcoin and all cryptocurrencies were designed and applies not just to Edge, but to all other wallets or services as well.&nbsp;</p><p>My suggestion is to contact the website, party, or person that you sent bitcoins to and show them your Transaction ID (which is basically like a receipt or proof of payment) and let them know that you sent bitcoin to them but would like to have it refunded. The Transaction ID can be found by tapping on the transaction from your history, then tapping View Advanced Transaction Data. The Transaction ID will be visible for you to copy and show as proof of your purchase.<br>In case your receiver is no more reachable, you can use this information and give it to the police.</p><p><br></p><p>If you would like to pursue legal action please submit with <a href=\"mailto:legal@edge.app\" target=\"_blank\" rel=\"noreferrer\">legal@edge.app</a><br></p><p><br></p><p>Please let us know if you have any other questions. </p><p><br></p>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "current_tags",
+      "value": "legal"
+    },
+    {
+      "field": "assignee_id",
+      "value": "1904053440604"
+    },
+    {
+      "field": "follower",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Account - Threatens legal action"
+}

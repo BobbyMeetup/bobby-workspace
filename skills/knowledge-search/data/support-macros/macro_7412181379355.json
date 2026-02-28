@@ -1,0 +1,30 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7412181379355.json",
+  "id": 7412181379355,
+  "title": "Mastercard refund",
+  "active": true,
+  "updated_at": "2024-02-15T11:25:09Z",
+  "created_at": "2022-07-18T12:35:13Z",
+  "default": false,
+  "position": 115,
+  "description": null,
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "6924706366107"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi,<br>unfortunately we had to pause the Mastercard feature and our provider is working on that.<br>We don't have yet an ETA for when it will be available again.<br><br>If you topped-up your card, we can have our provider to send you a refund, but we need the transaction ID of the top-up.<br></p><p>Please enter the wallet you used for the top-up, tap on the transaction, tap on view Advanced transaction data, copy the ID and paste it in the reply in plain text.</p><p><br>Now we will be able to look further into the transaction, thanks.&nbsp;</p><p><br></p>"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 6924706366107
+  },
+  "raw_title": "Mastercard refund"
+}

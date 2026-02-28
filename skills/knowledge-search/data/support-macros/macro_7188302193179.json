@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7188302193179.json",
+  "id": 7188302193179,
+  "title": "BTC - XPUB user access",
+  "active": true,
+  "updated_at": "2024-04-13T13:12:05Z",
+  "created_at": "2022-07-08T22:59:10Z",
+  "default": false,
+  "position": 45,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>By viewing your XPub, you'll be able to see all of your used and unused (derived) public addresses, and all blockchain activity associated with a multi-address, or hierarchally deterministic wallet.</p><p><br></p><p>To access the XPub of any multi-address wallet:</p><p>1. Open Edge and view the main list of your wallets (tap \"Assets\" at the bottom-left, of your navigation bar)&nbsp;</p><p>2. Now tap on the wallet to enter it</p><p>3. Tap on the three vertical dots in the upper-right</p><p>4. A menu will come up with the option to \"View XPub Address,\" tap on that option.</p><p>5. Next, copy that address and paste it into this Trezor block explorer tool -&nbsp;&nbsp;<a href=\"https://btc1.trezor.io\" target=\"_blank\" rel=\"noreferrer\">https://btc1.trezor.io</a></p><p><br>Note: For Segwit enabled wallets, you will see 2 xpub strings:&nbsp; ypub... &amp; zpub...<br><b>Make sure that you only query one at a time in the xpub explorer.</b></p><p><br></p><p>If the explorer still doesn't give you a result, you may need to convert your XPub address into a supported address here&nbsp;<a href=\"https://www.blockonomics.co/views/segwit_xpub_convert.html\" target=\"_blank\" rel=\"noreferrer\">https://www.blockonomics.co/views/segwit_xpub_convert.html</a>&nbsp;, select \"It starts with a 3\" and then copy/paste the yPub into the Trezor block explorer.&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "By viewing your XPub, you'll be able to see all of your used and unused (derived) public addresses, and all blockchain activity associated with a multi-address, or hierarchally deterministic wallet.\n\nTo access the XPub of any multi-address wallet:\n1. Open Edge and view the main list of your wallets (tap \"Assets\" at the bottom-left, of your navigation bar) \n2. Now tap on the wallet to enter it\n3. Tap on the three vertical dots in the upper-right\n4. A menu will come up with the option to \"View XPub Address,\" tap on that option.\n5. Next, copy that address and paste it into this Trezor block explorer tool -  https://btc1.trezor.io\n\nNote: For Segwit enabled wallets, you will see 2 xpub strings:  ypub... & zpub...\nMake sure that you only query one at a time in the xpub explorer.\n\nIf the explorer still doesn't give you a result, you may need to convert your XPub address into a supported address here https://www.blockonomics.co/views/segwit_xpub_convert.html , select \"It starts with a 3\" and then copy/paste the yPub into the Trezor block explorer. \n"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "BTC - XPUB user access"
+}

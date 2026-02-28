@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/14414032184603.json",
+  "id": 14414032184603,
+  "title": "ZEC - import",
+  "active": true,
+  "updated_at": "2023-06-05T20:01:44Z",
+  "created_at": "2023-04-10T17:49:57Z",
+  "default": false,
+  "position": 153,
+  "description": null,
+  "actions": [
+    {
+      "field": "set_tags",
+      "value": "jaxx zec"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>With regards to Zcash, if you look about half way down on our import article (<a href=\"https://edgeapp.zendesk.com/hc/en-us/articles/13160464080539-Move-Your-Crypto-From-Jaxx-Liberty-to-Edge\" target=\"_blank\" rel=\"noreferrer\">https://edgeapp.zendesk.com/hc/en-us/articles/13160464080539-Move-Your-Crypto-From-Jaxx-Liberty-to-Edge</a>)<br><br>You will see at Step 9, a small note that it's not possible to import ZEC because Jaxx did not support shielded transactions. You may first need to import into a ZEC full node wallet, which you can find here: <a href=\"https://zecwallet.co/fullnode.html\" target=\"_blank\" rel=\"noreferrer\">https://zecwallet.co/fullnode.html</a></p><p><br></p><p>You may also try YWallet mobile/desktop wallet for ZCash (<a href=\"https://ywallet.app/\" target=\"_blank\" rel=\"noreferrer\">https://ywallet.app/</a>), and from the menu in YWallet (vertical three dots) - click on Advanced, and at the bottom of this list, select \"Sweep.\" Here, you will paste in your private key for your transparent ZEC address from Jaxx. Once you have swept funds from Jaxx into your YWallet's transparent ZEC address, and you see the funds present, then you can tap on \"Shield Transp. Balance\" to create a transaction to move funds into your YWallet's Shield ZEC address. Once your ZEC is shielded, then you can consolidate and send them into Edge for safe (and private) keeping!</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "With regards to Zcash, if you look about half way down on our import article (https://edgeapp.zendesk.com/hc/en-us/articles/13160464080539-Move-Your-Crypto-From-Jaxx-Liberty-to-Edge)\n\nYou will see at Step 9, a small note that it's not possible to import ZEC because Jaxx did not support shielded transactions. You may first need to import into a ZEC full node wallet, which you can find here: https://zecwallet.co/fullnode.html\n\nYou may also try YWallet mobile/desktop wallet for ZCash (https://ywallet.app/), and from the menu in YWallet (vertical three dots) - click on Advanced, and at the bottom of this list, select \"Sweep.\" Here, you will paste in your private key for your transparent ZEC address from Jaxx. Once you have swept funds from Jaxx into your YWallet's transparent ZEC address, and you see the funds present, then you can tap on \"Shield Transp. Balance\" to create a transaction to move funds into your YWallet's Shield ZEC address. Once your ZEC is shielded, then you can consolidate and send them into Edge for safe (and private) keeping!\n"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "unable_to_receive"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "zec"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "ZEC - import"
+}

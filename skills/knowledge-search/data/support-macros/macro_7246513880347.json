@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7246513880347.json",
+  "id": 7246513880347,
+  "title": "FTC - deprecated recover funds",
+  "active": true,
+  "updated_at": "2023-02-01T22:33:30Z",
+  "created_at": "2022-07-11T22:06:01Z",
+  "default": false,
+  "position": 71,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>FTC support has been removed.&nbsp;</p><p>If you would like to recover your funds you can do so by extracting the private key and importing into a core wallet or wallet of your choice. One suggestion for a wallet would be&nbsp;<a href=\"https://feathercoin.com/\" target=\"_blank\" rel=\"noreferrer\">https://feathercoin.com/</a>.</p><p><br></p><p>To access your private key tap to go inside of your FTC wallet from the main wallet list and then tap on the gear icon (located on upper right side of screen) then tap on \"Master Private Key\" input that key into the core wallet. NOTE: do not store this key online anyone with access to that key can access your funds.&nbsp;</p><p><br></p><p>If you need assistance please reach out.&nbsp;</p><p><br></p><p><br></p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "FTC - deprecated recover funds"
+}

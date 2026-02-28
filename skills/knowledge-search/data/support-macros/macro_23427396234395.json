@@ -1,0 +1,55 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/23427396234395.json",
+  "id": 23427396234395,
+  "title": "non-segwit-bug-jaxx-import (fixed)",
+  "active": true,
+  "updated_at": "2024-03-02T16:50:42Z",
+  "created_at": "2024-03-02T16:50:42Z",
+  "default": false,
+  "position": 269,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "import_issue"
+    },
+    {
+      "field": "current_tags",
+      "value": "non-segwit jaxx"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Ok {{ticket.requester.first_name}}, the v4.1.1 update is now live in the app stores!</p><p><br></p><p>Check for app updates, and as soon as you see Edge, run the update and please reattempt the seed import for your Jaxx assets. Non-segwit wallet creation is functioning 100% again, and you should be able to successfully import any BTC, LTC or DGB that was not showing up when attempting these past few days.<br><br>Let me know how it goes and if you have any other questions.<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Ok {{ticket.requester.first_name}}, the v4.1.1 update is now live in the app stores!\n\nCheck for app updates, and as soon as you see Edge, run the update and please reattempt the seed import for your Jaxx assets. Non-segwit wallet creation is functioning 100% again, and you should be able to successfully import any BTC, LTC or DGB that was not showing up when attempting these past few days.\n\nLet me know how it goes and if you have any other questions.\n"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "update_app"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "non-segwit-bug-jaxx-import (fixed)"
+}

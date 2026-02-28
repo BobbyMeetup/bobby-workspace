@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7276738631323.json",
+  "id": 7276738631323,
+  "title": "Wallet - AddEdit custom token (ct)",
+  "active": true,
+  "updated_at": "2024-09-04T19:58:27Z",
+  "created_at": "2022-07-12T22:13:34Z",
+  "default": false,
+  "position": 103,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>To add or edit the tokens in one of your EVM wallets (Ethereum, Arbitrum, Polygon, Binance Smart Chain, Avalanche, etc.):</p><p>&nbsp;</p><p>Open Edge and tap on Assets near the bottom to get to your wallets list.&nbsp;</p><p>Next, long-press on the mainnet wallet, or tap into it and the three vertical dots in upper-right to open its menu where you can select \"Add/Edit Tokens\"&nbsp;</p><p>- Here, you can search for any popular token that's preloaded and simply toggle it on before tapping Next to return to the main screen.</p><p>&nbsp;</p><p>If you don't find your token in this list, you can tap on 'Add Custom' at the bottom of the screen.&nbsp;<br>- Here, you can manually import the token contract details so that your Edge wallet knows to display this token balance in your wallet.</p><p>&nbsp;</p><p>Please let us know if you need help finding token contract details or have some more questions about this process.<br>&nbsp;</p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "erc-20"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "funds_never_arrived_receive"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - AddEdit custom token (ct)"
+}

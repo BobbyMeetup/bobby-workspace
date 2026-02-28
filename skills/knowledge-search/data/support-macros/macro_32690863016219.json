@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/32690863016219.json",
+  "id": 32690863016219,
+  "title": "coinflip",
+  "active": true,
+  "updated_at": "2025-02-05T22:18:13Z",
+  "created_at": "2025-01-10T21:30:44Z",
+  "default": false,
+  "position": 395,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Coinflip ATMs have been known to have slow delivery times.</p><p>&nbsp;</p><p>If you have recently purchased coins from one of their kiosks, please allow up to 48 hours for delivery.</p><p>You may reach out to their customer support by phone: +1 (733) 800-0106</p><p>&nbsp;</p><p>Be sure to have your 6-digit Order ID, so Coinflip can locate your order in their system.<br>If the order has been fulfilled, you should see the coins arrive into your Edge account. If there is any issue, please request the Transaction ID (a.k.a. Hash), so we can review the on-chain status of your coins with a block explorer.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Coinflip ATMs have been known to have slow delivery times.\n \nIf you have recently purchased coins from one of their kiosks, please allow up to 48 hours for delivery.\nYou may reach out to their customer support by phone: +1 (733) 800-0106\n \nBe sure to have your 6-digit Order ID, so Coinflip can locate your order in their system.If the order has been fulfilled, you should see the coins arrive into your Edge account. If there is any issue, please request the Transaction ID (a.k.a. Hash), so we can review the on-chain status of your coins with a block explorer.\n"
+    },
+    {
+      "field": "current_tags",
+      "value": "atm coinflip"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "funds_never_arrived_receive"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "coinflip"
+}

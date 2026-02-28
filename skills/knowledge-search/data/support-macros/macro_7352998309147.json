@@ -1,0 +1,30 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7352998309147.json",
+  "id": 7352998309147,
+  "title": "Delete Account (New Feature)",
+  "active": true,
+  "updated_at": "2024-02-15T11:21:14Z",
+  "created_at": "2022-07-15T10:23:21Z",
+  "default": false,
+  "position": 111,
+  "description": "New Delete Account feature",
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "6924706366107"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thanks for reaching out.<br></p><p><br>Please note that there is no personal information collected and nothing that would tie the account to a specific person or identity. As you may have already noticed, when you create an account, no personal information is ever asked. We store zero information so that accounts are tied to no individual.</p><p>All of your completed transactions in your account are encrypted so not even we can see the transaction history, public and private keys, or anything related to transactions. The account cannot be accessed by anyone other than the person that created the account. <br><br>With that said, you can actually delete your account by following these steps:<br><br></p><ol dir=\"auto\"><li>Be sure to have at least Edge version 2.18.0<br>Tap on Side Menu</li><li>Settings</li><li>Unlock Account Settings by entering your password</li><li>Tap Delete Account, read the message and accept the conditions</li><li>Enter the username (lowercase)</li><li>Confirm</li></ol><p><br><br>Deleting your Edge account will make any funds in your wallets inaccessible. As well, any future funds that these wallets may receive will also be inaccessible. <br><br>Any accounts created with Edge partners will remain active. You will need to request deletion for any such accounts directly with the appropriate partners.&nbsp;<br>If you logged in this account from any other devices, the private keys and information on those devices will remain accessible until the application has been deleted from those devices. <br><br>Deletion of this account will make the account's username usable for new account creation.<br><br>If you have any questions or concerns, feel free to reply.</p>"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 6924706366107
+  },
+  "raw_title": "Delete Account (New Feature)"
+}

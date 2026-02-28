@@ -1,0 +1,38 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/39974533890587.json",
+  "id": 39974533890587,
+  "title": "moonpay verification (jared)",
+  "active": true,
+  "updated_at": "2025-08-13T19:02:08Z",
+  "created_at": "2025-08-13T19:02:08Z",
+  "default": false,
+  "position": 474,
+  "description": "",
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "current_tags",
+      "value": "ar_suggest_false auto-response moonpay other partner"
+    },
+    {
+      "field": "comment_mode_is_public",
+      "value": "true"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi,<br>&nbsp;<br>It looks like you are trying to verify your identity with MoonPay. Edge does not have the ability to manage your MoonPay account for you, but you might be able to complete the verification by going directly to their website and signing in with your email address.&nbsp;<br>&nbsp;<br>&nbsp;</p><ul><li>Login: <a href=\"https://buy.moonpay.com/trade_history\">https://buy.moonpay.com/trade_history</a></li></ul><p>&nbsp;<br>If you still have trouble with the MoonPay verification process, you can reach out to them directly for assistance with their platform.&nbsp;</p>"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 26105022686363
+  },
+  "raw_title": "moonpay verification (jared)"
+}

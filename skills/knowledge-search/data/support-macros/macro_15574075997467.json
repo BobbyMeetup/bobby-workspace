@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/15574075997467.json",
+  "id": 15574075997467,
+  "title": "letsexchange",
+  "active": true,
+  "updated_at": "2024-08-21T20:32:06Z",
+  "created_at": "2023-05-18T20:46:30Z",
+  "default": false,
+  "position": 171,
+  "description": "",
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987701197339"
+    },
+    {
+      "field": "custom_fields_6991267185435",
+      "value": "letsexchange"
+    },
+    {
+      "field": "custom_fields_6991553191067",
+      "value": "funds_never_arrived"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge is an encrypted app so we can't access any information about who is swapping what or which partner service was used.<br><br>You can check the status of the order placed with LetsExchange by tapping the button in your transaction details which reads \"Exchange Status Page\" or manually by inputting your Order ID into their web-tool, here: <a href=\"https://letsexchange.io/transaction-status\">https://letsexchange.io/transaction-status</a><br>&nbsp;</p><p>If you have any issues with this exchange order, you'll want to contact their dedicated support team so they can look into your order details and provide you with information that our office does not have access to.<br><br>You can reach them by tapping the \"Exchange Support\" button from the transaction details page, which will create a new email addressed to their support team: support@letsexchange.io<br><br>They will respond as quickly as they can.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Edge is an encrypted app so we can't access any information about who is swapping what or which partner service was used.\n\nYou can check the status of the order placed with LetsExchange by tapping the button in your transaction details which reads \"Exchange Status Page\" or manually by inputting your Order ID into their web-tool, here: https://letsexchange.io/transaction-status\n\n\nIf you have any issues with this exchange order, you'll want to contact their dedicated support team so they can look into your order details and provide you with information that our office does not have access to.\n\nYou can reach them by tapping the \"Exchange Support\" button from the transaction details page, which will create a new email addressed to their support team: support@letsexchange.io\n\nThey will respond as quickly as they can."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "letsexchange"
+}

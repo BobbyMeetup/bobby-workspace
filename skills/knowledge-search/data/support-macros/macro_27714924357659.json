@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/27714924357659.json",
+  "id": 27714924357659,
+  "title": "paybis sell broken",
+  "active": true,
+  "updated_at": "2024-07-25T22:07:29Z",
+  "created_at": "2024-07-25T22:07:29Z",
+  "default": false,
+  "position": 328,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "13053445492635"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "paybis"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "unable_to_sell"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>The <i>Sell-to-Debit</i> service from Paybis is currently down for maintenance in the United States. As there are many moving parts, Paybis estimates that this will be functional again near the end of August. You can reach their support here: <a href=\"https://paybis.com/contacts\"><u>paybis.com/contacts</u></a></p><p>&nbsp;</p><p>If no other selling options are currently available for your selected region, you may choose to send the coins you wish to sell to an external exchanger of your choice! Edge is fully self-custodial, so your funds are never technically stuck in the app.</p><p>&nbsp;</p><p>With that said, it may be easier to simply hodl your cryptocurrency while Paybis reboots their system and makes this convenient off-ramp service available again.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "The Sell-to-Debit service from Paybis is currently down for maintenance in the United States. As there are many moving parts, Paybis estimates that this will be functional again near the end of August. You can reach their support here: paybis.com/contacts\n \nIf no other selling options are currently available for your selected region, you may choose to send the coins you wish to sell to an external exchanger of your choice! Edge is fully self-custodial, so your funds are never technically stuck in the app.\n \nWith that said, it may be easier to simply hodl your cryptocurrency while Paybis reboots their system and makes this convenient off-ramp service available again.\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "paybis sell broken"
+}

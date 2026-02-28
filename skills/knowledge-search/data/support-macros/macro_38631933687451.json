@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/38631933687451.json",
+  "id": 38631933687451,
+  "title": "PIN Login Error (July 2025)",
+  "active": true,
+  "updated_at": "2025-07-04T19:31:15Z",
+  "created_at": "2025-07-04T03:36:16Z",
+  "default": false,
+  "position": 448,
+  "description": "lol...there was already a macro from before",
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thank you for reporting the issue. The development team was able to resolve this issue within a few hours, so you may proceed with PIN login at this time.<br>&nbsp;<br>For reference, if your device is unable to connect with Edge login servers, you may still utilize <strong>Biometric</strong> login (FaceID and fingerprint) or <strong>full Username and Password</strong> to login to an existing account on your device, since these login paths occur on your device and do not require internet connection.<br>&nbsp;</p><p>Apologies for any inconvenience this may have caused.</p><p>Please let us know if you have any other questions or concerns.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Thank you for reporting the issue. The development team was able to resolve this issue within a few hours, so you may proceed with PIN login at this time.\n\nFor reference, if your device is unable to connect with Edge login servers, you may still utilize Biometric login (FaceID and fingerprint) or full Username and Password to login to an existing account on your device, since these login paths occur on your device and do not require internet connection.\n\nApologies for any inconvenience this may have caused.\nPlease let us know if you have any other questions or concerns."
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "login_auth_server_error"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "internally_resolved"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "PIN Login Error (July 2025)"
+}

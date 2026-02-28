@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7648375724315.json",
+  "id": 7648375724315,
+  "title": "Marketing - Please contact marketing@edge.app",
+  "active": true,
+  "updated_at": "2024-11-27T01:13:51Z",
+  "created_at": "2022-07-27T15:30:57Z",
+  "default": false,
+  "position": 126,
+  "description": "",
+  "actions": [
+    {
+      "field": "subject",
+      "value": "Thank you for reaching out, let's get you over to marketing. "
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thank you for reaching out. Please contact <a href=\"mailto:marketing@edge.app\" target=\"_blank\" rel=\"noreferrer\">marketing@edge.app</a> -&nbsp; And we'll be happy to look into this opportunity!<br></p><p>Feel free to respond with any questions.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Thank you for reaching out. Please contact marketing@edge.app -  And we'll be happy to look into this opportunity!\nFeel free to respond with any questions.\n"
+    },
+    {
+      "field": "status",
+      "value": "solved"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6988062942619"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Marketing - Please contact marketing@edge.app"
+}

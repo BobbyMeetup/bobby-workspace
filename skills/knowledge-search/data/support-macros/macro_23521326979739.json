@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/23521326979739.json",
+  "id": 23521326979739,
+  "title": "XRP - Destination Tag / Memo",
+  "active": true,
+  "updated_at": "2025-03-16T21:37:19Z",
+  "created_at": "2024-03-06T01:46:05Z",
+  "default": false,
+  "position": 271,
+  "description": "",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "current_tags",
+      "value": "how_to_receive general_inquiry destination-tag_memo has_account"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "xrp"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Regarding: Destination Tags or Memos -&nbsp;</p><p>&nbsp;</p><p>These will usually be required when sending cryptocurrencies to an exchange. This is because a centralized exchange platform will have one deposit address for all their customers, and then the destination tag is what gets used to properly associate the funds to the account of the sender.</p><p>&nbsp;</p><p>When receiving into Edge, the destination tag or memo is not required, as you own the entire wallet, 100% yourself. Leaving it blank is recommended, but you can also enter random numbers. Any information placed into this optional field, will be visible on the blockchain in the trxn details, but will not affect your ability to receive.</p>"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "XRP - Destination Tag / Memo"
+}

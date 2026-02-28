@@ -1,0 +1,30 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7411468755867.json",
+  "id": 7411468755867,
+  "title": "How can I help you? (chat)",
+  "active": true,
+  "updated_at": "2024-02-19T13:06:09Z",
+  "created_at": "2022-07-18T12:01:13Z",
+  "default": false,
+  "position": 112,
+  "description": "for chat",
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "6924706366107"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi {{ticket.requester.first_name}},<br>thanks for reaching out.<br>How can I help you?</p>"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 6924706366107
+  },
+  "raw_title": "How can I help you? (chat)"
+}

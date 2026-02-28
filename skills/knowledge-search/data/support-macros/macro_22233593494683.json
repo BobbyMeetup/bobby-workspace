@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/22233593494683.json",
+  "id": 22233593494683,
+  "title": "vmf - voicemail full",
+  "active": true,
+  "updated_at": "2024-05-25T17:46:36Z",
+  "created_at": "2024-01-20T23:14:46Z",
+  "default": false,
+  "position": 19,
+  "description": "inconclusive callbacks due to user's voice mailbox being full (noVM)",
+  "actions": [
+    {
+      "field": "comment_mode_is_public",
+      "value": "false"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>- The voicemail is full and cannot accept any messages at this time -</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "- The voicemail is full and cannot accept any messages at this time -\n"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "unresponsive/inconclusive"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923888415643"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "subject",
+      "value": "Full Voicemail for {{ticket.requester.name}}"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "vmf - voicemail full"
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/26624674589083.json",
+  "id": 26624674589083,
+  "title": "plka",
+  "active": true,
+  "updated_at": "2025-01-16T20:19:15Z",
+  "created_at": "2024-06-15T20:24:08Z",
+  "default": false,
+  "position": 321,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Please let me know if you need more help with this, or have any other questions!</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Please let me know if you need more help with this, or have any other questions!"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "plka"
+}

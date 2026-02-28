@@ -1,0 +1,59 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/23229326157211.json",
+  "id": 23229326157211,
+  "title": "ETC down / fixed",
+  "active": true,
+  "updated_at": "2024-02-28T21:12:58Z",
+  "created_at": "2024-02-24T19:43:01Z",
+  "default": false,
+  "position": 266,
+  "description": null,
+  "actions": [
+    {
+      "field": "subject",
+      "value": "ETC sync issue: Funds are safe!"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "unable_to_receive"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "current_tags",
+      "value": "sync_issue"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "ethereum_classic"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>We have been getting other reports of ETC wallets not synchronizing effectively at the end of February.<br></p><p><br></p><p>This issue had been escalated to our developers, and they've deployed a fix in the latest update of Edge v4.1 -- No worries, your funds have always safe and visible on a block explorer! You can view what is true for your ETC wallet (balance and all transactions) by tapping into it, tap on Receive, and tap on your address to View in explorer.</p><p><br></p><p>To check the version number of Edge that you're running, open Edge and tap on 'Help' in the top-left corner. You can see version of the app installed at the bottom of this menu. If you are not yet on the latest version of Edge (v4.1), initiate the update from your app store or by following the appropriate link, here: <a href=\"https://edge.app/get-started/\" target=\"_blank\" rel=\"noreferrer\">https://edge.app/get-started/</a><br><br>After updating, can you see if the issue still persists?<br></p><p><br></p><p>Please let me know if you have more questions.</p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "We have been getting other reports of ETC wallets not synchronizing effectively at the end of February.\n\nThis issue had been escalated to our developers, and they've deployed a fix in the latest update of Edge v4.1 -- No worries, your funds have always safe and visible on a block explorer! You can view what is true for your ETC wallet (balance and all transactions) by tapping into it, tap on Receive, and tap on your address to View in explorer.\n\nTo check the version number of Edge that you're running, open Edge and tap on 'Help' in the top-left corner. You can see version of the app installed at the bottom of this menu. If you are not yet on the latest version of Edge (v4.1), initiate the update from your app store or by following the appropriate link, here: https://edge.app/get-started/\n\nAfter updating, can you see if the issue still persists?\n\nPlease let me know if you have more questions."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "ETC down / fixed"
+}

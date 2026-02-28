@@ -1,0 +1,59 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7149876492699.json",
+  "id": 7149876492699,
+  "title": "Account - Forgot Username/Forgot Password",
+  "active": true,
+  "updated_at": "2025-07-23T17:22:39Z",
+  "created_at": "2022-07-07T16:34:36Z",
+  "default": false,
+  "position": 3,
+  "description": "For users that have forgotten their username. ",
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "account"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Can you login either by PIN or fingerprint?</p><p><i>Note: if you no longer see the PIN screen, you may have exited the pin login. To bring it back, tap the arrow next to username and then tap your username again in the drop down list to regain access to PIN login.</i></p><p>With your PIN, you can reset the password by logging in and out of the application multiple times in a row, at which point a message will pop up that asks if you want to set a new password.<br>&nbsp;</p><p>&nbsp;</p><p>If recovery questions were set up for the account, you would have shared a special 'Recovery Token' with yourself. This may have been sent, by you, to an email, text or cloud backup, and could possibly be found by searching for \"Edge Recovery Token\" in your email. If you can locate this token, and answer the questions correctly, you will be able to login without remembering the password.</p><p>&nbsp;</p><p>Edge is a zero-knowledge app and does not have access to or maintain any information about its users. If recovery questions were not set up and you do not remember your password, we cannot help to recover the username or password for you. Account usernames must be at least three (3) characters long, and can be any combination of letters, numbers, or symbols. A valid password will be at least ten (10) characters long, and contain at least one upper-case letter, one lower-case letter, and one number.</p><p>&nbsp;</p><p>Our top recommendation is to start a list/spreadsheet where you can write down all possible usernames and passwords that you think you could have used, and test through them. To test if the username is correct, you can try creating a new account. If you are able to continue to the next page after entering a potential username, then the account name entered is not the one you used because Edge does not allow accounts to share the same username. However, if you see a message that the username already exists, then there is a possibility that the username you tested could be yours, and you may proceed to test through your list of potential passwords.</p><p>&nbsp;</p><p>By utilizing this method detailed above, we have had multiple users regain access to their accounts.</p><p>&nbsp;</p><p>As a last resort, if you know your username, but still need assistance with the password, let us know, and we can discuss how to apply for an encrypted Login Package of your account, which could potentially be brute-forced by a specialized service/software.<br>&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Can you login either by PIN or fingerprint?\nNote: if you no longer see the PIN screen, you may have exited the pin login. To bring it back, tap the arrow next to username and then tap your username again in the drop down list to regain access to PIN login.\nWith your PIN, you can reset the password by logging in and out of the application multiple times in a row, at which point a message will pop up that asks if you want to set a new password. \n \nIf recovery questions were set up for the account, you would have shared a special 'Recovery Token' with yourself. This may have been sent, by you, to an email, text or cloud backup, and could possibly be found by searching for \"Edge Recovery Token\" in your email. If you can locate this token, and answer the questions correctly, you will be able to login without remembering the password.\n \nEdge is a zero-knowledge app and does not have access to or maintain any information about its users. If recovery questions were not set up and you do not remember your password, we cannot help to recover the username or password for you. Account usernames must be at least three (3) characters long, and can be any combination of letters, numbers, or symbols. A valid password will be at least ten (10) characters long, and contain at least one upper-case letter, one lower-case letter, and one number.\n \nOur top recommendation is to start a list/spreadsheet where you can write down all possible usernames and passwords that you think you could have used, and test through them. To test if the username is correct, you can try creating a new account. If you are able to continue to the next page after entering a potential username, then the account name entered is not the one you used because Edge does not allow accounts to share the same username. However, if you see a message that the username already exists, then there is a possibility that the username you tested could be yours, and you may proceed to test through your list of potential passwords.\n \nBy utilizing this method detailed above, we have had multiple users regain access to their accounts.\n \nAs a last resort, if you know your username, but still need assistance with the password, let us know, and we can discuss how to apply for an encrypted Login Package of your account, which could potentially be brute-forced by a specialized service/software. \n"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "forgot_username/password"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "subject",
+      "value": "Username/Password Troubleshooting Steps"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Account - Forgot Username/Forgot Password"
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/16526944235803.json",
+  "id": 16526944235803,
+  "title": "Jaxx - Conclusion ",
+  "active": true,
+  "updated_at": "2024-03-06T10:05:45Z",
+  "created_at": "2023-06-19T22:23:18Z",
+  "default": false,
+  "position": 181,
+  "description": null,
+  "actions": [
+    {
+      "field": "subject",
+      "value": "Jaxx"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>After multiple reports of compromised funds in relation to Jaxx seed exports we have concluded the compromise is independent of Edge. Many of the wallet compromises happened before account creation in Edge, proven by transaction ID timestamps and the missing \"Device\" field in the transaction details, which Edge adds as a metadata to every transaction sent from an Edge account.&nbsp; <br><br>We are not the only mobile wallet that is seeing a string of similar reports from Jaxx users attempting to import their seed phrase and these cases come only from Jaxx users.<br></p><p><br></p><p><b>Many users have reported fake Jaxx  apps and websites and unfortunately had their funds drained. Edge is NOT  responsible for this kind of situations.</b></p><p><br></p><p>Please consider filing a local police report to document these losses as this may be helpful with attempts to recover funds.</p><p><br></p>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Jaxx - Conclusion "
+}

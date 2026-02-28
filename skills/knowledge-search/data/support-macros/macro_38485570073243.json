@@ -1,0 +1,19 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/38485570073243.json",
+  "id": 38485570073243,
+  "title": "Hello User",
+  "active": true,
+  "updated_at": "2025-06-30T15:15:06Z",
+  "created_at": "2025-06-30T15:11:39Z",
+  "default": false,
+  "position": 447,
+  "description": "simple macro for greeting.",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hello {{ticket.requester.first_name}},&nbsp;</p><p>&nbsp;</p>"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Hello User"
+}

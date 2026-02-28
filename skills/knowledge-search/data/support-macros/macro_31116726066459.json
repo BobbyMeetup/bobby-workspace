@@ -1,0 +1,26 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/31116726066459.json",
+  "id": 31116726066459,
+  "title": "camera permissions android (with video)",
+  "active": true,
+  "updated_at": "2024-11-20T20:34:25Z",
+  "created_at": "2024-11-20T20:20:54Z",
+  "default": false,
+  "position": 372,
+  "description": "",
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "verification partner"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>I have recorded a demonstration video for you to adjust your device settings. &nbsp;&nbsp;<br>&nbsp;<br>Our goal here is specifically to give \"camera permissions\" to your browser application. &nbsp;&nbsp;<br>&nbsp;<br>Please follow along turn on \"camera permissions\" for the following apps from within your device's settings: &nbsp;<br>• Your primary browser application &nbsp;<br>• Any Google browser: Chrome, Google, etc. &nbsp;<br>• Edge Wallet &nbsp;<br>&nbsp;<br>Once you have done that, you should be able to complete any verification that requires a camera. &nbsp;&nbsp;<br>&nbsp;<br>Let us know if you have any other questions or concerns. &nbsp;</p>"
+    }
+  ],
+  "restriction": null,
+  "attachments": [
+    31116511754907
+  ],
+  "raw_title": "camera permissions android (with video)"
+}

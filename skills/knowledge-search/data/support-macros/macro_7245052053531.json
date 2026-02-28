@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7245052053531.json",
+  "id": 7245052053531,
+  "title": "ETH - Syncing issue where balance is correct but history missing or partially shown",
+  "active": false,
+  "updated_at": "2024-02-28T22:09:05Z",
+  "created_at": "2022-07-11T21:07:01Z",
+  "default": false,
+  "position": 64,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>We have an issue where ETH is not properly syncing and may show the balance but the tx history partially. We are working on a fix by migrating to another service called BlockBook which should help in able to detect transactions. This will be in an upcoming update possibly in a few weeks from now.</p><p><br></p><p>If you urgently need to move your funds, you can export your private key and import it into an external wallet, like for example Metamask or MyEtherWallet.</p><p>You can export your Master Private Key by going to the main screen (wallets list). Then tap on your ETH wallet to go inside. Once inside of the ETH wallet, tap on the gear icon (located upper right side) and a new menu will appear. Then on the new menu tap on Master Private Seed and enter your password. You private key will displayed which it can used to import into MetaMask or MyEtherWallet.<br></p><p><br></p><p>WARNING: Exposing your private keys can be risky if you do not take the right precautions. Using a private browser or opening the derivation tool on an air-gapped PC will help prevent malicious software from stealing your keys. Most users will not need to follow these steps and they are presented for informational use only.</p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "ETH - Syncing issue where balance is correct but history missing or partially shown"
+}

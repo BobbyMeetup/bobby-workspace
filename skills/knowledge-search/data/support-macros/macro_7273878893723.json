@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7273878893723.json",
+  "id": 7273878893723,
+  "title": "Simplex - Missing Order update",
+  "active": true,
+  "updated_at": "2024-09-03T15:05:50Z",
+  "created_at": "2022-07-12T20:49:06Z",
+  "default": false,
+  "position": 87,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>You can check the status of your Simplex order here:&nbsp;<a href=\"https://payment-status.simplex.com/#/\" target=\"_blank\" rel=\"noreferrer\">https://payment-status.simplex.com/#/</a></p><p><br>If you have any questions about your account with them, or a specific transaction, please reach out to directly to <a href=\"mailto:support@simplex.com\" target=\"_blank\" rel=\"noreferrer\">support@simplex.com</a>&nbsp;-or- you can create a support ticket here: <a href=\"https://support.simplex.com/hc/en-gb/requests/new\" target=\"_blank\" rel=\"noreferrer\">https://support.simplex.com/hc/en-gb/requests/new</a></p><p><br></p><p>They are often really responsive when troubleshooting order issues.<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "You can check the status of your Simplex order here: https://payment-status.simplex.com/#/\n\nIf you have any questions about your account with them, or a specific transaction, please reach out to directly to support@simplex.com -or- you can create a support ticket here: https://support.simplex.com/hc/en-gb/requests/new\n\nThey are often really responsive when troubleshooting order issues.\n\n"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "simplex"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "missing_funds/did_not_arrive_"
+    },
+    {
+      "field": "current_tags",
+      "value": "simplex"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Simplex - Missing Order update"
+}

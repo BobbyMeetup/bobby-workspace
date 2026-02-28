@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/29824468131099.json",
+  "id": 29824468131099,
+  "title": "Stuck Tokens after Split",
+  "active": true,
+  "updated_at": "2024-10-05T17:39:20Z",
+  "created_at": "2024-10-05T17:39:20Z",
+  "default": false,
+  "position": 359,
+  "description": null,
+  "actions": [
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "current_tags",
+      "value": "unable_to_send_eth/usdt/usdc__erc-20_"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Ok, excellent! I am so glad to hear you were successful in recovering your assets here!<br><br>Now, please understand that this newly Split/created wallet has never seen any action before. So, it's likely that your USDT is stuck within a 0 ETH balance wallet.<br><br>To verify this, you could tap into your USDT wallet that has the stuck balance, tap on Receive, and then tap on your Receive Address to launch the Block Explorer. Here, you will see your token balance, as well as the main balance for this wallet. Once you transfer or buy some ETH for this parent wallet of the stuck USDT, on this network, then you will be able to pay gas fees on this chain, to trade or transfer the tokens however you please!<br><br>Let us know if you have any other questions or concerns.</p>"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Stuck Tokens after Split"
+}

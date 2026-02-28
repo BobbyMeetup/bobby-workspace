@@ -1,0 +1,34 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7172914183579.json",
+  "id": 7172914183579,
+  "title": "Smart Deprecated",
+  "active": true,
+  "updated_at": "2024-02-15T11:20:59Z",
+  "created_at": "2022-07-08T13:17:21Z",
+  "default": false,
+  "position": 11,
+  "description": null,
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "6924706366107"
+    },
+    {
+      "field": "group_id",
+      "value": "6923892939675"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>thanks for reaching out.<br>Smart has been deprecated, so it could be possible that you don't see the correct amount in your wallet and you are not able to send them.<br>Your funds are safe 'cause you can export the private key, but you should import it into another wallet, so you can manage them.</p><p>Here you have the list of Smart wallets:&nbsp;<a href=\"https://smartcash.cc/wallets/\" target=\"_blank\" rel=\"noreferrer\">https://smartcash.cc/wallets/</a></p><p>​</p><p>You can export your Master Private Key by going to the main screen (wallets list). Now&nbsp;press and hold on the wallet's name or slide from right to left&nbsp;and click on Master Private Key.<br>You will see a list of words called seeds, or a unique private key if you are dealing with Ethereum.</p><p>With these seeds you can derive all your private keys.</p><p><br></p><p><b>WARNING</b>: Exposing your private keys can be risky if you do not take the right precautions. Using a private browser or opening the derivation tool on an air-gapped PC will help prevent malicious software from stealing your keys. Most users will not need to follow these steps and they are presented for informational use only.<br><br>If you need to derive individual private keys we recommend using Ian Coleman's tool&nbsp;<a href=\"https://iancoleman.io/bip39/\" target=\"_blank\" rel=\"noreferrer\">https://iancoleman.io/bip39/</a>. All bitcoin-related currencies in Edge can be derived using this tool. If you are exporting an Edge wallet seed to use in another wallet you can find the appropriate derivation path in the table below.<br><br>Generally, the process to derive private keys is the same for each currency and involves these three steps:<br>-Enter private seed (24 word phrase) into the \"BIP39 Mnemonic\" field<br>-Change the Coin<br>-Select a derivation path &lt;-- This step may be different depending on the coin and which type of address you are attempting to derive a private key for.</p><table><thead><tr><th>Coin</th><th>Derivation Path</th><th>Full Derivation Path</th></tr></thead><tbody><tr><td>Bitcoin</td><td>BIP49</td><td>m/49'/0'/0'/0</td></tr><tr><td>Bitcoin (no segwit)</td><td>BIP44</td><td>m/44'/0'/0'/0</td></tr><tr><td>Bitcoin Cash (BCH)</td><td>BIP44</td><td>m/44'/145'/0'/0</td></tr><tr><td>Bitcoin Gold (BTG)</td><td>BIP49</td><td>m/49'/156'/0'/0</td></tr><tr><td>Bitcoin SV (BSV)</td><td>BIP44</td><td>m/44'/145'/0'/0</td></tr><tr><td>Dash (DASH)</td><td>BIP44</td><td>m/44'/5'/0'/0</td></tr><tr><td>DigiByte (DGB)</td><td>BIP49</td><td>m/49'/20'/0'/0</td></tr><tr><td>Dogecoin (DOGE)</td><td>BIP44</td><td>m/44'/3'/0'/0</td></tr><tr><td>eBoost (EBST)*</td><td>BIP44</td><td>m/44'/324'/0'/0</td></tr><tr><td>Feathercoin (FTC)</td><td>BIP44</td><td>m/44'/8'/0'/0</td></tr><tr><td>GroestlCoin (GRS)*</td><td>BIP49</td><td>m/49'/17'/0'/0</td></tr><tr><td>Litecoin (LTC)</td><td>BIP49</td><td>m/49'/2'/0'/0</td></tr><tr><td>QTUM*</td><td>BIP44</td><td>m/44'/2301'/0'/0</td></tr><tr><td>Ravencoin (RVN)</td><td>BIP44</td><td>m/44'/175'/0'/0</td></tr><tr><td>SmartCash (SMART)*</td><td>BIP44</td><td>m/44'/224'/0'/0</td></tr><tr><td>Uniform Fiscal Object (UFO)*</td><td>BIP49</td><td>m/49'/202'/0'/0</td></tr><tr><td>Vertcoin (VTC)</td><td>BIP49</td><td>m/49'/28'/0'/0</td></tr><tr><td>Zcoin (XZC)</td><td>BIP44</td><td>m/44'/136'/0'/0</td></tr></tbody></table><p>* = not available on&nbsp;<a href=\"https://iancoleman.io/bip39/\" target=\"_blank\" rel=\"noreferrer\">https://iancoleman.io/bip39/</a></p><p><br></p>"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 6924706366107
+  },
+  "raw_title": "Smart Deprecated"
+}

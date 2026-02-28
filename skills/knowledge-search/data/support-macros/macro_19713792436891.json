@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/19713792436891.json",
+  "id": 19713792436891,
+  "title": "full-voicemail",
+  "active": true,
+  "updated_at": "2023-10-19T18:57:55Z",
+  "created_at": "2023-10-19T18:57:55Z",
+  "default": false,
+  "position": 222,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_mode_is_public",
+      "value": "false"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>No Answer + \"The mailbox is full and cannot accept anymore messages at this time. Thank you.\"<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "No Answer + \"The mailbox is full and cannot accept anymore messages at this time. Thank you.\"\n\n"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923888415643"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "unresponsive/inconclusive"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "full-voicemail"
+}

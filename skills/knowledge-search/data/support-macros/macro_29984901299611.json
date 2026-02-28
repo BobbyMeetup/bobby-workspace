@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/29984901299611.json",
+  "id": 29984901299611,
+  "title": "OTC - Large Order Inquiry (inactive)",
+  "active": false,
+  "updated_at": "2025-07-01T18:47:27Z",
+  "created_at": "2024-10-11T00:25:16Z",
+  "default": false,
+  "position": 362,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">An OTC (over-the-counter) trade is typically when someone works closely with an exchange service to make larger orders without overpaying in fees. With a more hands-on approach, you will have them available to answer questions and guide you throughout the process.</span></p><p>&nbsp;</p><p><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">At this time, Edge has partnered with <strong>'s OTC desk to provide our users with a larger purchasing limit option. If you are interested, please reach out to </strong></span><a href=\"mailto:otc@kado.money\"><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\"><strong>otc@</strong>__.com</span></a><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\"> and CC: </span><a href=\"mailto:support@edge.app\"><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">support@edge.app</span></a><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\"> - Let them know you're with Edge and would like to make a crypto purchase. Also state which asset you would like, and how much of it.</span></p><p>&nbsp;</p><p><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">Let us know if you have other questions for Edge. Any feedback on your OTC experience with __ would be greatly appreciated as well.</span></p>"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "OTC - Large Order Inquiry (inactive)"
+}

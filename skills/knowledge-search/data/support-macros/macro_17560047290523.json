@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/17560047290523.json",
+  "id": 17560047290523,
+  "title": "ETH - add token",
+  "active": true,
+  "updated_at": "2024-11-27T02:03:33Z",
+  "created_at": "2023-07-31T20:48:11Z",
+  "default": false,
+  "position": 192,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>To add a custom token:</p><p>1. Tap into the parent wallet</p><p>2. Use the three vertical dots (<strong>⋮</strong>)&nbsp;to access this wallet's menu</p><p>3. Select 'Add/Edit Tokens'</p><p>4. Tap the 'Add Custom' button at the bottom</p><p>5. Enter the smart contract details</p><p><i>Note: you may reference the block explorer (ex.&nbsp;</i><a href=\"https://etherscan.io/\"><i>etherscan.io</i></a><i>) for custom token contract details; please let us know if you need help finding this information.</i></p><p>6. Tap 'Save' at the bottom, and then the 'Done' button to proceed back to your Assets with the new token wallet added.</p><p>&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "To add a custom token:\n1. Tap into the parent wallet\n2. Use the three vertical dots (⋮) to access this wallet's menu\n3. Select 'Add/Edit Tokens'\n4. Tap the 'Add Custom' button at the bottom\n5. Enter the smart contract details\nNote: you may reference the block explorer (ex. etherscan.io) for custom token contract details; please let us know if you need help finding this information.\n6. Tap 'Save' at the bottom, and then the 'Done' button to proceed back to your Assets with the new token wallet added.\n \n"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "ETH - add token"
+}

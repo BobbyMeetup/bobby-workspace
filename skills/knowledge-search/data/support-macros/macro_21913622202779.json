@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/21913622202779.json",
+  "id": 21913622202779,
+  "title": "rockitcoin-support",
+  "active": true,
+  "updated_at": "2024-01-10T00:23:37Z",
+  "created_at": "2024-01-09T23:53:11Z",
+  "default": false,
+  "position": 254,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "rockitcoin"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    },
+    {
+      "field": "current_tags",
+      "value": "rockitcoin"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi {{ticket.requester.first_name}},<br><br>You've reached Edge wallet support here. Now, we wrote the code that helps you securely self-custody (hold) your cryptocurrency within RockItCoin, but our ability to help with issues inside of their app is limited.</p><p><br></p><p>On their website, you can find a contact form, an email, and a phone number that can be used for direct support with their team. They also have a chat bubble in the lower-right that can be used to speak with a live agent.</p><p><a href=\"https://www.rockitcoin.com/contact-us\" target=\"_blank\" rel=\"noreferrer\">https://www.rockitcoin.com/contact-us</a><br></p><p><br></p><p>-</p><p>If they told you to come to us, or we need to do some more advanced troubleshooting, you may download Edge (<a href=\"https://edge.app/get-started\" target=\"_blank\" rel=\"noreferrer\">https://edge.app/get-started</a>) and use the same wallet login credentials that you use in RockItCoin to login and create equal access your crypto holdings. From here, Edge support can help to troubleshoot any issues with wallet functionality, but for most matters, the RockitCoin team will be more appropriate to help you.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hi,\n\nYou've reached Edge wallet support here. Now, we wrote the code that helps you securely self-custody (hold) your cryptocurrency within RockItCoin, but our ability to help with issues inside of their app is limited.\n\nOn their website, you can find a contact form, an email, and a phone number that can be used for direct support with their team. They also have a chat bubble in the lower-right that can be used to speak with a live agent.\nhttps://www.rockitcoin.com/contact-us\n\nIf they told you to come to us, or we need to do some more advanced troubleshooting, you may download Edge (https://edge.app/get-started) and use the same wallet login credentials that you use in RockItCoin to login and create equal access your crypto holdings. From here, Edge support can help to troubleshoot any issues with wallet functionality, but for most matters, the RockitCoin team will be more appropriate to help you.\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "rockitcoin-support"
+}

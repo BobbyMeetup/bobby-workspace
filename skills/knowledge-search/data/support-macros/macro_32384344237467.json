@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/32384344237467.json",
+  "id": 32384344237467,
+  "title": "Thorchain Savers Fix ",
+  "active": false,
+  "updated_at": "2025-01-08T20:45:31Z",
+  "created_at": "2024-12-31T19:26:23Z",
+  "default": false,
+  "position": 386,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hello. The following link should fix the Thorchain issue however you will need to install the APK. &nbsp;</p><p>&nbsp;</p><p><a href=\"https://drive.google.com/file/d/1CTaHeOHYxHl8lz3ZLnrFS53iupim39RM/view?usp=sharing\">https://drive.google.com/file/d/1CTaHeOHYxHl8lz3ZLnrFS53iupim39RM/view?usp=sharing</a></p><p>&nbsp;</p><p>Note: This may require going into your phone settings to allow unknown source install/downloads. If you need assistance with installing the APK please let us know.&nbsp;</p><p>&nbsp;</p><p>Please try to install and see if your Thorchain balance loads. If your balance does not show after the install please send logs.&nbsp;</p><p>&nbsp;</p><p>- Go to the main Menu (<strong>≡</strong>) in the upper right corner, tap Settings, scroll to the bottom and select 'Export Logs'</p><p>- Enter your email address in the notes field to help us identify your log submission.</p><p>- Tap 'Send Logs to Edge' and reply here with time sent.<br>&nbsp;</p><p>If you DO NOT have access to your account, from the login screen you can access the log submission prompt by taping 5 times fast on the Edge logo.</p><p>&nbsp;</p><p>NOTE:&nbsp;</p><ul><li>Logs do not provide any private information such as private key, password, or XPUBS.&nbsp;</li><li>Logs do provide some information about your account such as username, device, exchange queries, and EVM addresses.</li></ul><p>&nbsp;</p>"
+    },
+    {
+      "field": "current_tags",
+      "value": "thorchain savers apk"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Thorchain Savers Fix "
+}

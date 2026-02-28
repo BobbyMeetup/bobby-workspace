@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/37695283622043.json",
+  "id": 37695283622043,
+  "title": "TCY - Stats and Distributions",
+  "active": true,
+  "updated_at": "2025-06-05T00:07:20Z",
+  "created_at": "2025-06-04T22:36:27Z",
+  "default": false,
+  "position": 444,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Also for your reference, you can see TCY stats and paste your RUNE (thor...) receiving address here (<a href=\"https://thorchain.net/thorfi/tcy\">https://thorchain.net/thorfi/tcy</a>) to see the record of RUNE distributions that have been coming into your wallet from your active TCY stake everyday.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Also for your reference, you can see TCY stats and paste your RUNE (thor...) receiving address here (https://thorchain.net/thorfi/tcy) to see the record of RUNE distributions that have been coming into your wallet from your active TCY stake everyday."
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "tcy"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "TCY - Stats and Distributions"
+}

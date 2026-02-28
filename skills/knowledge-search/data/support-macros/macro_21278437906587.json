@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/21278437906587.json",
+  "id": 21278437906587,
+  "title": "why-btc-fee-so-high",
+  "active": true,
+  "updated_at": "2024-06-08T17:16:24Z",
+  "created_at": "2023-12-15T18:10:49Z",
+  "default": false,
+  "position": 247,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Bitcoin fees have been surging recently, spiking to high levels and remaining high, and this is causing a lot of people to be with stuck BTC transactions right now. Simple transactions can cost between $10 - $100, sometimes higher!<br></p><p><br></p><p>Potential issues that can arise in high-fee conditions -</p><ul dir=\"auto\"><li>When <b>sending</b> <b>BTC:</b><ul dir=\"auto\"><li>you may see a very high fee or even \"Insufficient BTC\" error if your balance is lower than the average fee.</li><li>keep an eye on these fees and waiting for the congestion to clear up before trying to use the bitcoin blockchain. You may check the current fee levels here: <a href=\"https://mempool.space/\" target=\"_blank\" rel=\"noreferrer\">https://mempool.space</a></li></ul></li></ul><ul dir=\"auto\"><li>When <b>buying</b> <b>BTC:</b><ul dir=\"auto\"><li>please pay careful attention to the amount you will be receiving in your quote, and review the blockchain fees that the exchange is quoting in your order before confirming it. Your rate of exchange may be worsened simply by network fees it costs to deliver the coins to you.</li></ul></li><li>When <b>trading to / from BTC:</b><ul dir=\"auto\"><li>using the Exchange tab within Edge, pay close attention to the Network Fees before sliding to confirm.</li><li>it is recommend to wait for Bitcoin fee levels to normalize again before doing self-custodial, on-chain swaps with BTC.</li></ul></li></ul><p><br></p><p>Please note: Edge does NOT profit from these fees. They all go to the Bitcoin miners who secure the network to process your transaction into a block on the chain.</p><p><br></p><p>Some Tips -&nbsp;<br>-&nbsp; do your send at night and/or on the weekend, when fees are trending down and the world is less financially active.</p><p>-&nbsp; set a custom fee, but only if you understand the implications of stuck coins, or if time is of no concern.</p><p><br></p><p>The $ amount of the transaction has no effect on the fee. What matters most here is the  increase of on-chain priority fees due to high traffic / network congestion. When everyone is competing to have their transaction confirmed in the next block, the fee bids for some transactions can get VERY costly! You might consider other cryptocurrencies if possible, as this main chain (BTC) is becoming very expensive for simple day-to-day use and smaller transactions.</p><p><br>Let me know if you have any more questions here!</p>"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "6991723828891"
+    },
+    {
+      "field": "current_tags",
+      "value": "general_inquiry"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "btc"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "send"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "network_issue"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "why-btc-fee-so-high"
+}

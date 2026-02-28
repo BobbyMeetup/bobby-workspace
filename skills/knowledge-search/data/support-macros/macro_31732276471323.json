@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/31732276471323.json",
+  "id": 31732276471323,
+  "title": "Earn - Unstake",
+  "active": true,
+  "updated_at": "2024-12-10T18:20:46Z",
+  "created_at": "2024-12-10T18:20:46Z",
+  "default": false,
+  "position": 381,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Please review our article on staking to learn how to unstake: <a href=\"https://support.edge.app/hc/en-us/articles/11956072026651-How-to-Stake-and-Unstake-to-Earn-passively-with-Edge\">https://support.edge.app/hc/en-us/articles/11956072026651-How-to-Stake-and-Unstake-to-Earn-passively-with-Edge</a></p><p>&nbsp;</p><p>If you have any further questions please let us know.&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Please review our article on staking to learn how to unstake: https://support.edge.app/hc/en-us/articles/11956072026651-How-to-Stake-and-Unstake-to-Earn-passively-with-Edge\n \nIf you have any further questions please let us know. \n"
+    },
+    {
+      "field": "subject",
+      "value": "Unstake"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "group_id",
+      "value": "6923892939675"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Earn - Unstake"
+}

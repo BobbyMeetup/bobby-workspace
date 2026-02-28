@@ -1,0 +1,22 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/36916294393755.json",
+  "id": 36916294393755,
+  "title": "how to sell - detailed",
+  "active": true,
+  "updated_at": "2025-05-12T18:55:18Z",
+  "created_at": "2025-05-12T18:55:18Z",
+  "default": false,
+  "position": 439,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>The process to sell Bitcoin is as follows:<br>&nbsp;</p><ol><li>Tap the \"Sell\" tab to get to the sell screen</li><li>Select the correct region at the top of the screen</li><li>Tap on the payment method you would like to use</li><li>Tap on the wallet that has the currency you wish to sell (your BTC wallet)</li><li>Enter the amount that you wish to sell</li><li>Select the exchange you would like to use for this order (Edge will default to the exchange with the best rate)</li><li>Tap \"Next\" and you will be directed to the exchange website to complete the order</li><li>Once on the exchange site, you will need to login with your email</li><li>Next you will verify your identity with the exchange (note: this only needs to be done once when you use this exchange for the first time)</li><li>Then you will connect your payment method to the exchange account</li><li>Lastly, complete the sell order and \"slide to confirm\" in Edge</li></ol>"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 26105022686363
+  },
+  "raw_title": "how to sell - detailed"
+}

@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/37918623533595.json",
+  "id": 37918623533595,
+  "title": "FIRO - sync issue / missing deposit",
+  "active": true,
+  "updated_at": "2025-06-12T01:18:52Z",
+  "created_at": "2025-06-12T01:18:52Z",
+  "default": false,
+  "position": 446,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "funds_never_arrived_receive"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "current_tags",
+      "value": "sync_issue"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>We have recently identified a bug that's causing incoming FIRO to not be observed by the app when sent from private to transparent address. This means that you may not see the results of a crypto swap into FIRO, even if the exchange confirms that funds are sent on-chain.<br><br>A developer is working on the fix for this now. If all goes well, this solution will be included in the v4.31 update of the app, which is about 3-4 weeks away. If you do not want to wait this long to see and access your FIRO coins within Edge, then you may consider exporting your Master Private Key for this wallet, into another operating wallet client.<br><br>Let us know if you have any other questions.<br>&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "We have recently identified a bug that's causing incoming FIRO to not be observed by the app when sent from private to transparent address. This means that you may not see the results of a crypto swap into FIRO, even if the exchange confirms that funds are sent on-chain.\n\nA developer is working on the fix for this now. If all goes well, this solution will be included in the v4.31 update of the app, which is about 3-4 weeks away. If you do not want to wait this long to see and access your FIRO coins within Edge, then you may consider exporting your Master Private Key for this wallet, into another operating wallet client.\n\nLet us know if you have any other questions\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "FIRO - sync issue / missing deposit"
+}

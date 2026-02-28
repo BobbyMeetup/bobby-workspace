@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/19033260588699.json",
+  "id": 19033260588699,
+  "title": "Buy - LibertyX process",
+  "active": true,
+  "updated_at": "2025-04-03T18:25:57Z",
+  "created_at": "2023-09-23T21:26:59Z",
+  "default": false,
+  "position": 212,
+  "description": "How to use LibertyX ATMs and other services",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "libertyx"
+    },
+    {
+      "field": "current_tags",
+      "value": "how_to_buy"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Here are the steps to acquire cryptocurrency using LibertyX services within Edge -</p><p>1. Login into Edge, and select the 'Buy' tab from the bottom navigation bar</p><p>2. Tap the option at the bottom, labeled: 'In-person Cash or debit'</p><p>3. Using the 'map/location' symbol near the bottom, you can search for locations near you</p><p>4. Use the 'person' symbol to create an account or login to your LibertyX profile</p><p>5. Complete your verification steps (verify to Level 3 for higher limits and more purchase options such as cash $$)<br><br>Once you are set up with LibertyX, you'll can then create the purchase order that you want to make BEFORE going in person to the LibertyX location. That way when you arrive on-site, you'll be ready with a 5-6 digit code that can be inputted into the machine to swiftly complete your BTC purchase!</p><p>&nbsp;</p><p>Let us know if you have other questions.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Here are the steps to acquire cryptocurrency using LibertyX services within Edge -\n\n1. Login into Edge, and select the 'Buy' tab from the bottom navigation bar\n2. Tap the option at the bottom, labeled: 'In-person Cash or debit'\n3. Using the 'map/location' symbol near the bottom, you can search for locations near you\n4. Use the 'person' symbol to create an account or login to your LibertyX profile\n5. Complete your verification steps (verify to Level 3 for higher limits and more purchase options such as cash $$)\n\nOnce you are set up with LibertyX, you'll can then create the purchase order that you want to make BEFORE going in person to the LibertyX location. That way when you arrive on-site, you'll be ready with a 5-6 digit code that can be inputted into the machine to swiftly complete your BTC purchase!\n\nLet us know if you have other questions."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Buy - LibertyX process"
+}

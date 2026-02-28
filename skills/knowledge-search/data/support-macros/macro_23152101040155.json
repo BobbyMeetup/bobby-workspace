@@ -1,0 +1,55 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/23152101040155.json",
+  "id": 23152101040155,
+  "title": "prepaid-mastercard-visa-bitrefill",
+  "active": true,
+  "updated_at": "2024-02-22T00:05:11Z",
+  "created_at": "2024-02-22T00:05:11Z",
+  "default": false,
+  "position": 265,
+  "description": "Sell Crypto to a Prepaid Mastercard or VISA",
+  "actions": [
+    {
+      "field": "subject",
+      "value": "Sell Crypto to a MasterCard or VISA"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "13053445492635"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "send"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "current_tags",
+      "value": "prepaid-card how_to_sell"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "unable_to_sell"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "bitrefill"
+    },
+    {
+      "field": "custom_fields_19558556601243",
+      "value": "22637346724251"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>We have partnered with Bitrefill and integrated their services directly into Edge. This option allows you to sell your crypto onto a virtual MasterCard and be able to spend anywhere MasterCard is accepted in the United States.<br><br>To give this a closer look, tap on the Sell tab on the bottom of the screen after logging into Edge. Look for 'Gift Cards' powered by Bitrefill near the bottom. Once you tap on this, you will be brought into their platform to browse products that can be purchased with crypto. Tap on the VISA or MasterCard logo to view more details about the offering.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "We have partnered with Bitrefill and integrated their services directly into Edge. This option allows you to sell your crypto onto a virtual MasterCard and be able to spend anywhere MasterCard is accepted in the United States.\n\nTo give this a closer look, tap on the Sell tab on the bottom of the screen after logging into Edge. Look for 'Gift Cards' powered by Bitrefill near the bottom. Once you tap on this, you will be brought into their platform to browse products that can be purchased with crypto. Tap on the VISA or MasterCard logo to view more details about the offering.\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "prepaid-mastercard-visa-bitrefill"
+}

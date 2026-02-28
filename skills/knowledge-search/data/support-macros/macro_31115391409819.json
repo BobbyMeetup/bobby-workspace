@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/31115391409819.json",
+  "id": 31115391409819,
+  "title": "Account - Special Agent (legal action)",
+  "active": true,
+  "updated_at": "2024-11-20T19:50:55Z",
+  "created_at": "2024-11-20T19:47:08Z",
+  "default": false,
+  "position": 371,
+  "description": "A slight modification of the original /legal macro.\nTo be used when a law enforcement agent reaches to Edge support with a subpoena or for help with an investigation.",
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hello Special Agent {{ticket.requester.first_name}},<br><br>Please note that Edge wallet is a totally non-custodial wallet.<br>Edge does not have access to accounts or maintain any information about our users. During the account creation process, Edge never asks for a name, phone number, email or any personal information that ties your identity to an account. There are also multiple warnings that the password is known only to you and that Edge cannot see or reset it.</p><p>For the same reason, Edge is not able to see and manage user funds, nor can we ban or blacklist addresses.<br>The user is in full control of his funds.<br>Here, you can find our Terms of Service for the app:&nbsp;https://edge.app/terms-of-service-privacy-policy<br><br>Further legal requests can be directed to legal@edge.app<br><br>Any exchanges, purchases or sales of crypto assets would be handled by licensed money exchangers operating in compliance with KYC regulations.<br><br>Please let us know if you have any other questions.<br><br>Kind regards,<br>{{current_user.first_name}}</p>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "current_tags",
+      "value": "legal law-enforcement"
+    },
+    {
+      "field": "assignee_id",
+      "value": "1904053440604"
+    },
+    {
+      "field": "follower",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Account - Special Agent (legal action)"
+}

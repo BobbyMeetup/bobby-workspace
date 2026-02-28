@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/25662873587611.json",
+  "id": 25662873587611,
+  "title": "ViewTrxnHistory",
+  "active": true,
+  "updated_at": "2025-05-15T23:13:54Z",
+  "created_at": "2024-05-12T03:47:09Z",
+  "default": false,
+  "position": 303,
+  "description": "",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "wallet"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "current_tags",
+      "value": "view_transactions"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>To view transaction history for any of your assets:</p><ol><li>Open Edge and log into your account</li><li>From the Home page, tap 'View Assets' at the top or use the 'Assets' tab at the bottom</li><li>Search or scroll to find the specific crypto wallet you want to review and tap into it</li><li>Scroll down to view transaction history associated with this wallet</li></ol><p>&nbsp;</p><p>If your internet connection has been spotty, then please first ensure a strong connection, and then tap the 3 vertical dots (⋮)&nbsp;near the top to open this wallet's menu, and select the option to Resync. This will take some time to reload the wallet and ensure that it's up to date with its latest transactions.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "To view transaction history for any of your assets:\n1. Open Edge and log into your account\n2. From the Home page, tap 'View Assets' at the top or use the 'Assets' tab at the bottom\n3. Search or scroll to find the specific crypto wallet you want to review and tap into it\n4. Scroll down to view transaction history associated with this wallet\n \nIf your internet connection has been spotty, then please first ensure a strong connection, and then tap the 3 vertical dots (⋮) near the top to open this wallet's menu, and select the option to Resync. This will take some time to reload the wallet and ensure that it's up to date with its latest transactions."
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "ViewTrxnHistory"
+}

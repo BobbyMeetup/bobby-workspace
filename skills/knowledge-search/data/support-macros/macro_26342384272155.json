@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/26342384272155.json",
+  "id": 26342384272155,
+  "title": "onehop",
+  "active": true,
+  "updated_at": "2024-11-15T17:30:45Z",
+  "created_at": "2024-06-05T19:33:48Z",
+  "default": false,
+  "position": 309,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>In general, buying or selling most cryptocurrencies today will require at least 'one hop' - passing through a top crypto asset (that usually has lots of liquidity and widespread support). For the option to appear, our exchange partners must support the asset and be able to transact with your local currency.</p><p>&nbsp;</p><p>Now, because it's very easy to swap any crypto to any crypto, purchasing a cryptocurrency available to you may need to be done first, before using the Exchange tab to convert into the crypto you ultimately want.</p><p>&nbsp;</p><p>In the other direction, when attempting to sell a less-supported asset, you may need to first swap or exchange what you've got into a top crypto asset, like BTC, ETH or LTC - before you can use the Sell tab to convert that into cash for your bank. I'd recommend verifying sell support in your region before this step, for some regions may only support BTC for trading into or from your local currency, for example.</p><p>&nbsp;</p><p>Please ask us anything if you have more questions.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "In general, buying or selling most cryptocurrencies today will require at least 'one hop' - passing through a top crypto asset (that usually has lots of liquidity and widespread support). For the option to appear, our exchange partners must support the asset and be able to transact with your local currency.\n\nNow, because it's very easy to swap any crypto to any crypto, purchasing a cryptocurrency available to you may need to be done first, before using the Exchange tab to convert into the crypto you ultimately want.\n\nIn the other direction, when attempting to sell a less-supported asset, you may need to first swap or exchange what you've got into a top crypto asset, like BTC, ETH or LTC - before you can use the Sell tab to convert that into cash for your bank. I'd recommend verifying sell support in your region before this step, for some regions may only support BTC for trading into or from your local currency, for example.\n\nPlease ask us anything if you have more questions."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "onehop"
+}

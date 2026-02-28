@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7276810520091.json",
+  "id": 7276810520091,
+  "title": "Wallet - Pending Transaction & CPFP",
+  "active": false,
+  "updated_at": "2025-04-03T19:50:01Z",
+  "created_at": "2022-07-12T22:15:02Z",
+  "default": false,
+  "position": 104,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Currently there is a lot of traffic on the network and transactions may take multiple hours or even multiple days before it confirms, especially if you used a low fee for the transaction - you may simply need to wait for the BTC network.&nbsp;<br></p><p><br></p><p>If you would like to see the status or your place in line for your transaction, please follow the steps below:</p><p><br></p><p>1) Tap on your Edge transaction that is still pending</p><p>2) Tap on View Advance Transaction Details</p><p>3) Tap on Show in Block Explorer</p><p>4) This will open another window to Blockchair&nbsp;</p><p>5) Here you can see, your position in the Queue, Estimated time to first Confirmation, and the priority fee level (Fee per vbyte = xx satoshi)</p><p><br></p><p><i>Note: Your place in line will continue to change relative to the amount of incoming transactions where users pay higher and higher fees.</i></p><p><br></p><p>In the future, if you wish to have your transaction confirm as soon as possible, we recommend using a High priority fee level. On the Slide to Confirm screen, just before sending payment, you can tap the Fee section to manually set it to Low, Optimal, High or Custom.</p><p><br></p><p>These transaction fees go directly to the bitcoin miners to process your transaction, and Edge makes no profit on them. We provide the secure software that allows users to have more control over their fees.</p><p><br></p><p>--<br><br></p><p><b>There are 2 options you can try to encourage your transaction to go through:<br><br></b></p><p><b>1.</b> Create a Child-Pays-For-Parent transaction, or CPFP, is a high-fee transaction that you send to yourself, that contains some coins or 'change' that is remaining in your wallet from the pending transaction. <i>Note: if the pending transaction was a Max Send, a CPFP transaction will not be possible from the sending wallet.</i></p><p><br></p><p>The description may sound complex but it's very easy to do:</p><p><br></p><p>1) Copy your BTC address from the same wallet as the original transaction by tapping the Receive option and then Copy.</p><p>2) Go to the Send screen and click to Paste your recipient address.</p><p>3) Edit the Amount by clicking on \"Tap to edit\" and select Max</p><p>4) <b>Important</b>: Now tap the Fee section, change the mining fee to Custom, and input a number of Satoshi Per Byte that is 50-100% higher than the current High Fee Priority level for BTC (<a href=\"https://mempool.space\" target=\"_blank\" rel=\"noreferrer\">https://mempool.space</a>&nbsp;or <a href=\"https://bitcoinfees.net\" target=\"_blank\" rel=\"noreferrer\">https://bitcoinfees.net</a>) <i>- this fee needs to carry the weight of the first transaction's deficit, in addition to its own.</i></p><p>5) Then Slide to Confirm.</p><p><br></p><p><i>Note: you do&nbsp;<b>not&nbsp;</b>need to follow these steps to get your original transaction confirmed. Most low-fee transactions remain valid for days and eventually confirm, however in rare cases, a transaction can be stuck for weeks if the Bitcoin network remains busy.</i></p><p><br></p><p><b>2.</b> Try a Bitcoin transaction accelerator</p><p>- <a href=\"https://btcnitro.com\" target=\"_blank\" rel=\"noreferrer\">https://btcnitro.com</a></p><p>- <a href=\"https://bitaccelerate.com\" target=\"_blank\" rel=\"noreferrer\">https://bitaccelerate.com</a></p><p>- <a href=\"https://btcaccelerators.com\" target=\"_blank\" rel=\"noreferrer\">https://btcaccelerators.com</a>&nbsp;(paid only)<br></p><p>- <a href=\"https://viabtc.com/tools/txaccelerator\" target=\"_blank\" rel=\"noreferrer\">https://viabtc.com/tools/txaccelerator</a></p><p><i>* Please note that these are services outside of Edge, and we cannot guarantee their reliability or effectiveness, but we do consider the free options to be  at least worth a try!</i><br></p><p><br></p><p>Let us know if you have any questions.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Currently there is a lot of traffic on the network and transactions may take multiple hours or even multiple days before it confirms, especially if you used a low fee for the transaction - you may simply need to wait for the BTC network. \n\nIf you would like to see the status or your place in line for your transaction, please follow the steps below:\n\n1) Tap on your Edge transaction that is still pending\n2) Tap on View Advance Transaction Details\n3) Tap on Show in Block Explorer\n4) This will open another window to Blockchair \n5) Here you can see, your position in the Queue, Estimated time to first Confirmation, and the priority fee level (Fee per vbyte = xx satoshi)\n\nNote: Your place in line will continue to change relative to the amount of incoming transactions where users pay higher and higher fees.\n\nIn the future, if you wish to have your transaction confirm as soon as possible, we recommend using a High priority fee level. On the Slide to Confirm screen, just before sending payment, you can tap the Fee section to manually set it to Low, Optimal, High or Custom.\n\nThese transaction fees go directly to the bitcoin miners to process your transaction, and Edge makes no profit on them. We provide the secure software that allows users to have more control over their fees.\n\n--\n\nThere are 2 options you can try to encourage your transaction to go through:\n\n1. Create a Child-Pays-For-Parent transaction, or CPFP, is a high-fee transaction that you send to yourself, that contains some coins or 'change' that is remaining in your wallet from the pending transaction. Note: if the pending transaction was a Max Send, a CPFP transaction will not be possible from the sending wallet.\n\nThe description may sound complex but it's very easy to do:\n\n1) Copy your BTC address from the same wallet as the original transaction by tapping the Receive option and then Copy.\n2) Go to the Send screen and click to Paste your recipient address.\n3) Edit the Amount by clicking on \"Tap to edit\" and select Max\n4) Important: Now tap the Fee section, change the mining fee to Custom, and input a number of Satoshi Per Byte that is 50-100% higher than the current High Fee Priority level for BTC (https://mempool.space or https://bitcoinfees.net) - this fee needs to carry the weight of the first transaction's deficit, in addition to its own.\n5) Then Slide to Confirm.\n\nNote: you do not need to follow these steps to get your original transaction confirmed. Most low-fee transactions remain valid for days and eventually confirm, however in rare cases, a transaction can be stuck for weeks if the Bitcoin network remains busy.\n\n2. Try a Bitcoin transaction accelerator:\n- https://btcnitro.com\n- https://bitaccelerate.com\n- https://btcaccelerators.com (paid only)\n- https://viabtc.com/tools/txaccelerator\n\n* Please note that these are services outside of Edge, and we cannot guarantee their reliability or effectiveness, but we do consider the free options to be at least worth a try!\n\nLet us know if you have any questions."
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "pending/stuck_transaction"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "btc"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "send"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - Pending Transaction & CPFP"
+}

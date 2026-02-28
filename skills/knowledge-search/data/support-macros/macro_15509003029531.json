@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/15509003029531.json",
+  "id": 15509003029531,
+  "title": "view-advanced-transaction-data",
+  "active": true,
+  "updated_at": "2024-05-28T19:38:18Z",
+  "created_at": "2023-05-16T23:53:38Z",
+  "default": false,
+  "position": 169,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>You transaction details can be found by navigating to your Assets tab. Then search for or scroll to the wallet you sent from, and tap into it. Here, you can review all recent wallet activity for this asset.</p><p><br></p><p>Tap on any transaction that you want to view more details for. As you scroll down, you will see the transaction ID, which you can tap on to copy it if desired. Or just below where it says View Advanced Transaction Data, you can tap on 'Show in Explorer' to navigate to a block explorer website, where you can view this transaction's status on the blockchain. This link could serve as a receipt for this transaction, indicating: when, how many coins, moved from where to where.</p>"
+    },
+    {
+      "field": "current_tags",
+      "value": "general_inquiry advanced-transaction-data"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "view-advanced-transaction-data"
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/32495347799195.json",
+  "id": 32495347799195,
+  "title": "XMR - Scanners 2 (asks for IP)",
+  "active": true,
+  "updated_at": "2025-01-30T03:17:00Z",
+  "created_at": "2025-01-05T04:24:45Z",
+  "default": false,
+  "position": 392,
+  "description": "XMR scanning issues macro",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>When MyMonero scanners experience occasional downtime, it can cause sync issues for some of our users. We apologize for the inconvenience.</p><p>&nbsp;</p><p>If you have had any sync issues with your XMR wallet lately, we can have their team manually reinitialize synchronization. We need two (2) pieces of information for them to be able to quickly resolve this -</p><ul><li>Your XMR receiving address</li><li>The IP address that you are attempting to sync from</li></ul><p>&nbsp;</p><p>To locate your Receive address for Monero (XMR)</p><ol><li>Login and tap into your Assets page</li><li>Click into your XMR wallet, and Tap \"Receive\"&nbsp;</li><li>Tap \"Copy\" and paste that in a reply to us.</li></ol><p>&nbsp;</p><p>To locate your IP address</p><ol><li>You can simply navigate to <a href=\"https://whatismyipaddress.com\">https://whatismyipaddress.com</a></li><li>Copy/Paste that as well in your reply to us</li></ol><p>&nbsp;</p><p>With this info, we will be able to get your XMR wallet rescanned and synchronized again.&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "When MyMonero scanners experience occasional downtime, it can cause sync issues for some of our users. We apologize for the inconvenience.\n \nIf you have had any sync issues with your XMR wallet lately, we can have their team manually reinitialize synchronization. We need two (2) pieces of information for them to be able to quickly resolve this -\n1. Your XMR receiving address\n2. The IP address that you are attempting to sync from\n\nTo locate your Receive address for Monero (XMR) -\n1. Login and tap into your Assets page\n2. Click into your XMR wallet, and Tap \"Receive\" \n3. Tap \"Copy\" and paste that in a reply to us.\n\nTo locate your IP address -\n1. You can simply navigate to https://whatismyipaddress.com\n2. Copy/Paste that as well in your reply to us\n\n\nWith this info, we will be able to get your XMR wallet rescanned and synchronized again. "
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "xmr"
+    },
+    {
+      "field": "current_tags",
+      "value": "mymonero_scanners"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "externally_resolved"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "XMR - Scanners 2 (asks for IP)"
+}

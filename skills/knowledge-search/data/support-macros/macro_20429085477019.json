@@ -1,0 +1,59 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/20429085477019.json",
+  "id": 20429085477019,
+  "title": "XMR - botnet attack",
+  "active": true,
+  "updated_at": "2023-11-18T18:12:45Z",
+  "created_at": "2023-11-15T22:13:45Z",
+  "default": false,
+  "position": 230,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Monero (XMR) is currently not synchronizing quickly with the blockchain due to a sustained botnet attack.</p><p>This is not in our control, but we're in conversation with the MyMonero team who are actively working on resolving this - <a href=\"https://twitter.com/MyMonero/status/1724352386481762500\" target=\"_blank\" rel=\"noreferrer\">https://twitter.com/MyMonero/status/1724352386481762500</a></p><p><br></p><p>Please do not worry. This is a temporary issue, and your coins are safe!</p><p>With some patience, your XMR balance will update and the transaction history will be reflected.</p><p><br>Let us know if you have more questions.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Monero (XMR) is currently not synchronizing quickly with the blockchain due to a sustained botnet attack.\nThis is not in our control, but we're in conversation with the MyMonero team who are actively working on resolving this - https://twitter.com/MyMonero/status/1724352386481762500\n\nPlease do not worry. This is a temporary issue, and your coins are safe!\nWith some patience, your XMR balance will update and the transaction history will be reflected.\n\nLet us know if you have more questions."
+    },
+    {
+      "field": "subject",
+      "value": "XMR botnet attack, please be patient for block synchronization!"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "current_tags",
+      "value": "botnet-attack"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "funds_never_arrived_receive"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "network_issue"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "xmr"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "XMR - botnet attack"
+}

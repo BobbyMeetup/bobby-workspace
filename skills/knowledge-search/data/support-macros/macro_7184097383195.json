@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7184097383195.json",
+  "id": 7184097383195,
+  "title": "Account - Forgot Username/ Forgot Password ",
+  "active": false,
+  "updated_at": "2023-07-24T21:00:17Z",
+  "created_at": "2022-07-08T19:57:37Z",
+  "default": false,
+  "position": 27,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Do you have access to either pin or fingerprint login? If you do, you can reset your password by logging in and out of the application multiple times in a row, at which point a pop up will appear that allows you to reset your password.</p><p><br></p><p>If not, do you know if account recovery questions were set up for the account? If they were, you would have shared a token to yourself. This information could have been sent to an email, text, cloud, etc. with the title \"Recovery Token.\" By locating this information, you will be able to recover the account information.</p><p><br></p><p>Edge/Airbitz is a zero knowledge app and does not have access to or maintain any information about its users. If recovery questions were not set up and you do not remember your password, we cannot recover the username or password for you since Edge does not have access.</p><p><br></p><p>With that being said, we recommend that you start a spreadsheet in which you write down all possible usernames and passwords that you think you may have used, and you test them. We have had multiple users regain access to their accounts by using this method.</p><p><br></p><p>To test if the account name is correct, you can try creating a new account. If account creation proceeds, then the account name is not the one you used because Edge/Airbitz does not allow users to have the same account name. However, suppose account creation does not proceed. In that case, there is a possibility that the username you tested could be your original username.</p><p><br></p><p>Regarding account setup, the only username requirement that Edge/Airbitz has is that the username is at least three characters long. The username can be any combination of letters, numbers, or symbols.</p><p><br></p><p>For the password, the requirements are as follows:</p><p>- Must have at least one upper case letter</p><p>- Must have at least one lower case letter</p><p>- Must have at least one number</p><p>- Must have at least ten characters</p><p><br></p><p><br></p><p>By utilizing the method detailed above, we have had multiple users regain access to their accounts.</p><p><br></p><p>Note, is it possible for us to send you the encrypted wallet file if you are interested? A few security questions need to be answered before we can send them. Note that this will not grant you access and still requires the entire password. But in this format, you can use other tools or services to brute force the password.</p><p><br></p><p>Here are the questions to answer:&nbsp;<a href=\"https://form.asana.com/?k=4kfv4vqnK8u4Hy0Gt077sg&amp;d=9976422036640\" target=\"_blank\" rel=\"noreferrer\">Use this form.</a></p><p><br></p><p>After receiving your answers and the encrypted wallet file matches your answers, we will then send you the Login Package or encrypted file of the wallet. This package will still not be able to do anything without the full password.</p><p><br></p><p>We will send this if in 30 days if there are no other known logins made to this account.</p><p><br></p><p>The file that will be sent will need a brute-force service such as walletrecoveryservices.com to attempt to guess the password, meaning they make ~10,000 guesses per second until they can unlock the account.</p><p><br></p><p>The service mentioned above does not charge fees unless they are successful, and I believe it would only be 20% in fees if they are successful.</p><p><br></p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Account - Forgot Username/ Forgot Password "
+}

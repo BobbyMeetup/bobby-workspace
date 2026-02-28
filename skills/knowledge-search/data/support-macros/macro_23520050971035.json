@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/23520050971035.json",
+  "id": 23520050971035,
+  "title": "Kado - contact",
+  "active": false,
+  "updated_at": "2025-07-01T18:42:56Z",
+  "created_at": "2024-03-06T00:41:37Z",
+  "default": false,
+  "position": 40,
+  "description": "",
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge is a zero-knowledge app and we don't have access to the information shared with our exchange partners.</p><p>Please reach out directly to Kado regarding recent orders or to update personal information.</p><p><br></p><p>A Support Request can be submitted from their Helpdesk: <a href=\"https://faq.kado.money\" target=\"_blank\" rel=\"noreferrer\">https://faq.kado.money</a></p><p>Or you may email them directly, here:&nbsp;<a href=\"mailto:support@kado.money\" target=\"_blank\" rel=\"noreferrer\">support@kado.money</a></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Edge is a zero-knowledge app and we don't have access to the information shared with our exchange partners.\nPlease reach out directly to Kado regarding recent orders or to update personal information.\n\nA Support Request can be submitted from their Helpdesk: https://faq.kado.money\nOr you may email them directly, here: support@kado.money"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "kado"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    },
+    {
+      "field": "current_tags",
+      "value": "kado"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Kado - contact"
+}

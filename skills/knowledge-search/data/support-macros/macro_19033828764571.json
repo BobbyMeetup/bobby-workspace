@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/19033828764571.json",
+  "id": 19033828764571,
+  "title": "Tron - Staking TRX to reduce fees (esp.USDT)",
+  "active": true,
+  "updated_at": "2025-02-15T17:33:46Z",
+  "created_at": "2023-09-23T22:12:12Z",
+  "default": false,
+  "position": 214,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Tron network fees can sometimes get rather expensive, in particular: when working with TRC-20 tokens, like USDT, especially when sending to a wallet that hasn’t received TRX before, and/or has a 0 balance of the token being sent to it. Essentially, the complexity of the transaction will require more or less ‘Energy’ to be created on-chain.</p><p><br>The Tron blockchain uses a ‘wallet resources’ system, consisting of Energy and Bandwidth. Every Tron wallet comes with 600 Bandwidth per day, enough to fully cover about 2 blockchain transactions, but has no Energy by default, and so burning TRX, for energy, can be the cause of higher fees for a transaction.</p><p><br>If you stake TRX for Energy, you can reduce on-chain costs associated with having to burn TRX for energy. You may also use an Energy rental service on the Tron network to buy extra energy and complete transactions for free, which can be significantly cheaper than burning TRX alone for the required energy.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Tron network fees can sometimes get rather expensive, in particular: when working with TRC-20 tokens, like USDT, especially when sending to a wallet that hasn’t received TRX before, and/or has a 0 balance of the token being sent to it. Essentially, the complexity of the transaction will require more or less ‘Energy’ to be created on-chain.\n\nThe Tron blockchain uses a ‘wallet resources’ system, consisting of Energy and Bandwidth. Every Tron wallet comes with 600 Bandwidth per day, enough to fully cover about 2 blockchain transactions, but has no Energy by default, and so burning TRX, for energy, can be the cause of higher fees for a transaction.\n\nIf you stake TRX for Energy, you can reduce on-chain costs associated with having to burn TRX for energy. You may also use an Energy rental service on the Tron network to buy extra energy and complete transactions for free, which can be significantly cheaper than burning TRX alone for the required energy."
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "trc-20_token"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "current_tags",
+      "value": "fee_related_question"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Tron - Staking TRX to reduce fees (esp.USDT)"
+}

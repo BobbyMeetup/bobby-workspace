@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/23614811322779.json",
+  "id": 23614811322779,
+  "title": "nightmare",
+  "active": true,
+  "updated_at": "2024-03-08T18:28:28Z",
+  "created_at": "2024-03-08T18:28:28Z",
+  "default": false,
+  "position": 273,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p><a href=\"https://edge.app/blog/crypto-basics/manual-key-management/\" target=\"_blank\" rel=\"noreferrer\">https://edge.app/blog/crypto-basics/manual-key-management/</a><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "https://edge.app/blog/crypto-basics/manual-key-management/\n\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "nightmare"
+}

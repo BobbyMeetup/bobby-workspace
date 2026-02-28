@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7184071269275.json",
+  "id": 7184071269275,
+  "title": "Account - Crash reporting",
+  "active": true,
+  "updated_at": "2023-02-01T22:19:10Z",
+  "created_at": "2022-07-08T19:54:42Z",
+  "default": false,
+  "position": 24,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thanks for reaching out and we are sorry to hear about the issue you are running into and we'll try our best to get this resolved.</p><p><br></p><p>A few questions below to help us resolve this:</p><p><br></p><p>1) Can you please try to reproduce the crash and record a video either using a screen recorder on your device or record a video from a 2nd device that you have access to? Please send us the video as it may help our engineers in troubleshooting the crash.</p><p><br></p><p>2) Is the crash 100% reproducible or does it happens sometimes?</p><p><br></p><p>3) Did this crash just start happening after a recent update of the Edge app or perhaps an update to your OS that you can remember?</p><p><br></p><p>4) If you are able to reproduce the crash, can you immediately open Edge and let us know the date/time that you reproduce the crash so we can locate it on our crash reports?</p><p><br></p><p>5) Also immediately after you reproduce the crash, can you please go into your Edge account and go to Settings and scroll down and tap on Send Logs? Enter your email address in the notes and let us know the date/time that it is sent so we can locate it.</p><p><br></p><p>6) What type of device are you using? For example, iPhone 8 or Samsung Note 8 etc.</p><p><br></p><p>7) What is the operating system of your device? For example, iOS 13 or Android 13 etc.</p><p><br></p><p>Looking forward to your response.</p><p><br></p><p><br></p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Account - Crash reporting"
+}

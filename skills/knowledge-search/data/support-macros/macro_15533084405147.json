@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/15533084405147.json",
+  "id": 15533084405147,
+  "title": "When-BTC-unstuck",
+  "active": true,
+  "updated_at": "2023-11-15T22:17:36Z",
+  "created_at": "2023-05-17T18:26:39Z",
+  "default": false,
+  "position": 170,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "pending/stuck_transaction"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "network_issue"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "btc"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "send"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>For a more detailed understanding of stuck transactions, I recommend this article: <a href=\"https://bitcoinbriefly.com/so-your-bitcoin-transaction-is-stuck\" target=\"_blank\" rel=\"noreferrer\">https://bitcoinbriefly.com/so-your-bitcoin-transaction-is-stuck</a>&nbsp;-- there is no set time that may pass before a transaction is confirmed.</p><p><br></p><p><a href=\"https://mempool.space/\" target=\"_blank\" rel=\"noreferrer\">https://mempool.space/</a> -- here you can see the current fee levels. This can help give you an idea of when your transaction may confirm, but it's still not easy to determine precisely when, as other people are still paying higher fees and jumping in front of your priority fee level.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "For a more detailed understanding of stuck transactions, I recommend this article: https://bitcoinbriefly.com/so-your-bitcoin-transaction-is-stuck -- there is no set time that may pass before a transaction is confirmed.\n\nhttps://mempool.space/ -- here you can see the current fee levels. This can help give you an idea of when your transaction may confirm, but it's still not easy to determine precisely when, as other people are still paying higher fees and jumping in front of your priority fee level."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "When-BTC-unstuck"
+}

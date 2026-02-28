@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/23710959756571.json",
+  "id": 23710959756571,
+  "title": "light-account-backup",
+  "active": true,
+  "updated_at": "2024-03-11T21:53:40Z",
+  "created_at": "2024-03-11T21:53:40Z",
+  "default": false,
+  "position": 275,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "current_tags",
+      "value": "light_account"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>When you download and sign into Edge for the first time, some users will only be prompted to input a 4-digit PIN to create what is known as a \"light account.\" If this is the case, when you login and tap the side Menu (≡) you will see &lt;no username&gt; at the top. You can back up your account to convert it into a full account by tapping on Settings and following the prompt at the top.</p><p><br></p><p>Please let us know if you have more questions on this. And if other crypto or Edge questions ever come up, we will be happy to assist!</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "When you download and sign into Edge for the first time, some users will only be prompted to input a 4-digit PIN to create what is known as a \"light account.\" If this is the case, when you login and tap the side Menu (≡) you will see <no username> at the top. You can back up your account to convert it into a full account by tapping on Settings and following the prompt at the top.\n\nPlease let us know if you have more questions on this. And if other crypto or Edge questions ever come up, we will be happy to assist!\n"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "light-account-backup"
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7243454839067.json",
+  "id": 7243454839067,
+  "title": "Device - Send screen stuck spinning / Camera permissions",
+  "active": true,
+  "updated_at": "2024-10-13T02:03:32Z",
+  "created_at": "2022-07-11T20:16:08Z",
+  "default": false,
+  "position": 50,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thanks for reaching out.</p><p>It's possible that your camera permissions are disabled for either your default web browser or for Edge.</p><p>Please go to your Phone Settings, App, Permissions, and ensure that Edge and your default browser (ex. Safari or Chrome) has Camera Permissions enabled.</p><p>Then try again.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Thanks for reaching out.\nIt's possible that your camera permissions are disabled for either your default web browser or for Edge.\nPlease go to your Phone Settings, App, Permissions, and ensure that Edge and your default browser (ex. Safari or Chrome) has Camera Permissions enabled.\nThen try again."
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "kyc/id_verification_issue"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Device - Send screen stuck spinning / Camera permissions"
+}

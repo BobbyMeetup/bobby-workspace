@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/19012227346075.json",
+  "id": 19012227346075,
+  "title": "kr",
+  "active": true,
+  "updated_at": "2025-03-01T21:18:23Z",
+  "created_at": "2023-09-22T19:01:03Z",
+  "default": false,
+  "position": 13,
+  "description": "Kind regards",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Kind regards,</p><p>{{current_user.first_name}}</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Kind regards,\n{{current_user.first_name}}"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "kr"
+}

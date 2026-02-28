@@ -1,0 +1,30 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/19032498125467.json",
+  "id": 19032498125467,
+  "title": "my honor",
+  "active": true,
+  "updated_at": "2023-09-23T20:25:03Z",
+  "created_at": "2023-09-23T20:25:03Z",
+  "default": false,
+  "position": 13,
+  "description": null,
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923888415643"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>It's my honor! Anytime you have any crypto Qs or just need some assistance with your wallet, Edge support has you back! Reach out anytime.<br><br>Best regards,<br>Daniel<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "It's my honor! Anytime you have any crypto Qs or just need some assistance with your wallet, Edge support has you back! Reach out anytime.\n\nBest regards,\nDaniel\n\n"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 13919654551707
+  },
+  "raw_title": "my honor"
+}

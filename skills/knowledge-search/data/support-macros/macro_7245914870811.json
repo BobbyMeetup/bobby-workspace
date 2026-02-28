@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7245914870811.json",
+  "id": 7245914870811,
+  "title": "Exchange - Location Restriction Error",
+  "active": true,
+  "updated_at": "2023-02-13T18:27:47Z",
+  "created_at": "2022-07-11T21:40:32Z",
+  "default": false,
+  "position": 68,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Our exchange partners have restrictions on serving users in certain areas. Since they use IP addresses to determine location, there's a lot of room for errors and internally we've noticed a lot of false positives. In particular, T-Mobile users are most affected because their IP always appears to come from Washington state, a Shapeshift restricted location.</p><p><br></p><p>We wrote an FAQ article on the topic with steps to try if you are getting this error incorrectly:<br></p><p><br></p><p><a href=\"https://edgeapp.zendesk.com/hc/en-us/articles/7097226446747-What-does-the-error-message-Location-restricted-Unable-to-complete-exchange-mean-\" target=\"_blank\" rel=\"noreferrer\">https://edgeapp.zendesk.com/hc/en-us/articles/7097226446747-What-does-the-error-message-Location-restricted-Unable-to-complete-exchange-mean-</a><br></p>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Exchange - Location Restriction Error"
+}

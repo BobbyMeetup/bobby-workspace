@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/33919724566299.json",
+  "id": 33919724566299,
+  "title": "missing-token-bug",
+  "active": true,
+  "updated_at": "2025-02-11T18:53:22Z",
+  "created_at": "2025-02-11T18:53:22Z",
+  "default": false,
+  "position": 412,
+  "description": null,
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "disappearing-token"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "wallet"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>If this missing token was part of your 'My Ether' wallet, then it may have been accidentally disabled. Can you please check?</p><ol><li>Open Edge and tap on Assets near the bottom to get to your wallets list.</li><li>Next, find and long-press on the parent wallet of the missing token (or use the three vertical dots ⋮ inside of it) to access this wallet's menu, where you can select \"Add/Edit Tokens\"</li><li>Here, you can see or search for the missing token, and simply toggle it on before tapping Next to return to the main screen.</li></ol><p>Please let us know if you have any other questions or concerns.&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "If this missing token was part of your 'My Ether' wallet, then it may have been accidentally disabled. Can you please check?\n1. Open Edge and tap on Assets near the bottom to get to your wallets list.\n2. Next, find and long-press on the parent wallet of the missing token (or use the three vertical dots ⋮ inside of it) to access this wallet's menu, where you can select \"Add/Edit Tokens\"\n3. Here, you can see or search for the missing token, and simply toggle it on before tapping Next to return to the main screen.\n\nPlease let us know if you have any other questions or concerns. "
+    }
+  ],
+  "restriction": null,
+  "raw_title": "missing-token-bug"
+}

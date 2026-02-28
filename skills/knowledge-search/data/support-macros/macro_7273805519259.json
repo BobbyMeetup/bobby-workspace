@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7273805519259.json",
+  "id": 7273805519259,
+  "title": "Safello - Order update info",
+  "active": false,
+  "updated_at": "2024-01-25T22:09:17Z",
+  "created_at": "2022-07-12T20:45:55Z",
+  "default": false,
+  "position": 83,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge does not have access to orders made through our partners in the app. For an update, please reach out to Safello directly at&nbsp;<a href=\"mailto:support@safello.com\" target=\"_blank\" rel=\"noreferrer\">support@safello.com</a>.<br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Safello - Order update info"
+}

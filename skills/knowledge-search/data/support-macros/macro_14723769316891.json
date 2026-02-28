@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/14723769316891.json",
+  "id": 14723769316891,
+  "title": "Thorchain Savers - Unstake w/ Insufficent Funds",
+  "active": true,
+  "updated_at": "2024-08-15T20:59:14Z",
+  "created_at": "2023-04-19T22:27:27Z",
+  "default": false,
+  "position": 155,
+  "description": "",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "current_tags",
+      "value": "thorchain savers unstake insufficient"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "6991723828891"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thorchain Savers has some small entry and exit fees, so if your wallet is empty when you attempt to unstake funds, then you will have this \"insufficient funds\" message appear. Buy or transfer in $5-10 worth of crypto into the same wallet you stake from, and you will then have enough to broadcast the unstake command with exit fees (<a href=\"https://docs.thorchain.org/thorchain-finance/savings\" target=\"_blank\" rel=\"noreferrer\">https://docs.thorchain.org/thorchain-finance/savings</a>).<br></p>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Thorchain Savers - Unstake w/ Insufficent Funds"
+}

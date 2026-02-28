@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/26385085135387.json",
+  "id": 26385085135387,
+  "title": "Jaxx - Compromise (intro)",
+  "active": true,
+  "updated_at": "2024-06-06T23:26:42Z",
+  "created_at": "2024-06-06T23:26:42Z",
+  "default": false,
+  "position": 310,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hello {{ticket.requester.first_name}},</p><p><br></p><p>This situation is often due to attempting to restore your Jaxx wallet accidentally with a bad/fake phishing app or website that might have been pretending to be the real Jaxx Liberty. Often times, a user will input their Jaxx seed words, and then receive an error message from the fake app, while in the background, the app/site is busy sweeping all funds associated to your 12 words into the attacker's wallet. You might notice that the timestamps of the unrecognized, outgoing transactions may line up with a timeframe where you were trying to restore your Jaxx account.</p><p><br></p><p>And then, when finally coming into Edge to try importing, and the import is successful, then Edge will go and read the blockchain and pull all the transaction data into the app. This might be the first time you're seeing the unauthorized transactions, but the timestamps will indicate that they are older.</p><p><br></p><p>I also have a list of questions that I can send you to help identify where the seed phrase might have been compromised, but unfortunately, I won't be able to change or reverse any transactions that are already on-chain. You may want to start gathering all information in relation to this loss, so that you can build a report and submit to the authorities. If the criminal can be caught, there might be hope of recourse through legal means.</p><p><br></p><p>Please let me know if you have any more questions on this.</p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hello {{ticket.requester.first_name}},\n\nThis situation is often due to attempting to restore your Jaxx wallet accidentally with a bad/fake phishing app or website that might have been pretending to be the real Jaxx Liberty. Often times, a user will input their Jaxx seed words, and then receive an error message from the fake app, while in the background, the app/site is busy sweeping all funds associated to your 12 words into the attacker's wallet. You might notice that the timestamps of the unrecognized, outgoing transactions may line up with a timeframe where you were trying to restore your Jaxx account.\n\nAnd then, when finally coming into Edge to try importing, and the import is successful, then Edge will go and read the blockchain and pull all the transaction data into the app. This might be the first time you're seeing the unauthorized transactions, but the timestamps will indicate that they are older.\n\nI also have a list of questions that I can send you to help identify where the seed phrase might have been compromised, but unfortunately, I won't be able to change or reverse any transactions that are already on-chain. You may want to start gathering all information in relation to this loss, so that you can build a report and submit to the authorities. If the criminal can be caught, there might be hope of recourse through legal means.\n\nPlease let me know if you have any more questions on this.\n"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "import_issue"
+    },
+    {
+      "field": "current_tags",
+      "value": "jaxx"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Jaxx - Compromise (intro)"
+}

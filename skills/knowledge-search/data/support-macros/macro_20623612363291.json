@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/20623612363291.json",
+  "id": 20623612363291,
+  "title": "Paybis - Contact support",
+  "active": true,
+  "updated_at": "2025-01-08T19:35:06Z",
+  "created_at": "2023-11-23T00:49:30Z",
+  "default": false,
+  "position": 234,
+  "description": "",
+  "actions": [
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "paybis"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge is a zero-knowledge app, so we don't have access to the information you share with our exchange partners.<br>Please reach out directly to Paybis ( <a href=\"https://paybis.com/contacts/\">https://paybis.com/contacts/</a> ) for support with a recent order, or to update any personal information you have on file with them.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Edge is a zero-knowledge app, so we don't have access to the information you share with our exchange partners.\nPlease reach out directly to Paybis - https://paybis.com/contacts - for support with a recent order, or to update any personal information you have on file with them."
+    },
+    {
+      "field": "current_tags",
+      "value": "paybis"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Paybis - Contact support"
+}

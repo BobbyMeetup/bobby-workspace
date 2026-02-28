@@ -1,0 +1,22 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/31951307228187.json",
+  "id": 31951307228187,
+  "title": "order info",
+  "active": true,
+  "updated_at": "2024-12-17T06:23:44Z",
+  "created_at": "2024-12-17T06:23:44Z",
+  "default": false,
+  "position": 381,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge does NOT process any exchanges ourselves, but if you can identify the exchange partner that was used and locate the order ID, then I will be happy to help you reach out to them directly.&nbsp;</p><p>&nbsp;</p><p>If this was a purchase or sell of cryptocurrency, then you will have received an email from the exchange service. This email includes the specific order information as well as a way to check the status and contact the exchange if you have any questions or concerns.&nbsp;</p><p>&nbsp;</p><p>If this was a swap between two cryptocurrencies, then you can find the transaction/order information by tapping on the transaction from within the wallet sending the funds.</p>"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 26105022686363
+  },
+  "raw_title": "order info"
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/28442037679131.json",
+  "id": 28442037679131,
+  "title": "Device Info (screenshot request)",
+  "active": true,
+  "updated_at": "2025-07-30T19:08:50Z",
+  "created_at": "2024-08-20T17:51:21Z",
+  "default": false,
+  "position": 343,
+  "description": "useful for checking and verifying the sending device for an unauthorized transaction",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987639498651"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>To help confirm if the transaction was broadcasted by a foreign device, can you please share a specific screenshot with us?</p><ul><li>Log in, View Assets, and tap into the wallet in question, then</li><li>Tap on the unauthorized transaction</li><li>Scroll to the bottom of the transaction details page, and</li><li>Take a screenshot of the bottom (including the 'Done' button in it)</li></ul><p><br>This will help us verify any available information about the device that created this send transaction. Let us also know what model of phone you are on, and what the username is for your account. With that information, we can check our servers for any suspicious login activity.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "To help confirm if the transaction was broadcasted by a foreign device, can you please share a specific screenshot with us?\n\n- Log in, View Assets, and tap into the wallet in question, then\n- Tap on the unauthorized transaction\n- Scroll to the bottom of the transaction details page, and\n- Take a screenshot of the bottom (including the 'Done' button in it)\n\nThis will help us verify any available information about the device that created this send transaction. Let us also know what model of phone you are on, and what the username is for your account. With that information, we can check our servers for any suspicious login activity."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Device Info (screenshot request)"
+}

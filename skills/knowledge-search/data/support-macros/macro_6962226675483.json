@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/6962226675483.json",
+  "id": 6962226675483,
+  "title": "SMART - Deprecated ",
+  "active": false,
+  "updated_at": "2023-05-23T20:27:25Z",
+  "created_at": "2022-06-29T21:46:10Z",
+  "default": false,
+  "position": 14,
+  "description": "Directions for user to recover funds",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>do this</p>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "SMART - Deprecated "
+}

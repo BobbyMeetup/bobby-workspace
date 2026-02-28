@@ -1,0 +1,26 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/30203344890011.json",
+  "id": 30203344890011,
+  "title": "sig",
+  "active": true,
+  "updated_at": "2024-10-19T01:32:55Z",
+  "created_at": "2024-10-19T01:32:55Z",
+  "default": false,
+  "position": 362,
+  "description": null,
+  "actions": [
+    {
+      "field": "assignee_id",
+      "value": "26105022686363"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>__<br>Jared<br>Edge QA/Support Engineer</p>"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 26105022686363
+  },
+  "raw_title": "sig"
+}

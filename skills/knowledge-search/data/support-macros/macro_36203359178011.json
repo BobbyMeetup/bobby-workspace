@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/36203359178011.json",
+  "id": 36203359178011,
+  "title": "UK removed Buy / Sell",
+  "active": false,
+  "updated_at": "2025-05-18T17:33:19Z",
+  "created_at": "2025-04-22T07:00:35Z",
+  "default": false,
+  "position": 429,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Please note:<br>Due to FCA regulatory changes, users located in the United Kingdom may be restricted from buying and selling cryptocurrency at this time through applications like Edge. We are speaking with lawyers now to get this straightened out, so you may eventually be able to resume in-app cryptocurrency purchases/sales in the UK.<br><br>If you have Edge already installed on your device, you may safely continue using it to send, receive, hold, or swap your cryptocurrency.&nbsp;</p><hr><p>If you still want to Buy cryptocurrency in the UK, we did work closely with one of our exchange partners to help them become compliant in UK (for purchases only). You can place an order through Banxa's external web link, here:</p><p><a href=\"https://edgewallet.banxa.com\">https://edgewallet.banxa.com</a></p><ul><li>To do this, first locate your receiving address, in Edge, for the cryptocurrency you want to purchase.</li><li>Copy your receiving address, so that you're ready to enter it into the Banxa site.<ul><li>Please be sure to verify you're using the same network/blockchain, ex. use 'Ethereum (ERC20)' on their site for Ethereum (ETH) or any erc-20 token (USDT, PEPE, etc) that's part of your \"My Ether\" wallet in Edge.</li></ul></li><li>Follow the steps on screen to enter your email and complete the purchase.</li></ul><p>Note: If this is your first time using Banxa, then you may need to complete a KYC identity verification process before continuing to link your payment method.</p><hr><p>In order to Sell cryptocurrency, the best option at this time would be to locate an external or local exchange service that is already compliant as a money transmitter and able to facilitate crypto sales in the UK.<br><br>Please let us know if you have any other questions.</p>"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "current_tags",
+      "value": "uk_restricted"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "UK removed Buy / Sell"
+}

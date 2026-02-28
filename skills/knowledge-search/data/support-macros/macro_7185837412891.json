@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7185837412891.json",
+  "id": 7185837412891,
+  "title": "BTC - CPFP only steps",
+  "active": true,
+  "updated_at": "2023-09-20T18:02:27Z",
+  "created_at": "2022-07-08T20:58:56Z",
+  "default": false,
+  "position": 44,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>If your transaction is stuck, you can try a Child-Pays-For-Parent (CPFP) transaction to potentially speed up a transaction.<br><i>Note:  if you did a max send and do not have any change addresses, you can not  perform a CPFP from the sending wallet; unless you also own the receiving wallet and see the  unconfirmed funds in it, then you do a CPFP from the receiving wallet using the same process below</i> -<br></p><p><br></p><p>To perform a CPFP transaction, please follow these steps:</p><p>​</p><p>1) Copy your BTC address from the same wallet as the original transaction by tapping the Receive option and then Copy.</p><p>2) Go to the Send screen and click to Paste your recipient address.</p><p>3) Edit the Amount by clicking on \"Tap to edit\" and select Max (sending everything to yourself)</p><p>4) <b>Important</b>: Now tap the Fee section, change the mining fee to High. You can also use Custom fees, if you need to more specifically calibrate the fee&nbsp;to carry the weight of the ancestor's transaction fee deficit, in addition to its own.</p><p>(current fees can be seen here:&nbsp;<a href=\"https://mempool.space/\" target=\"_blank\" rel=\"noreferrer\">https://mempool.space</a>&nbsp;or <a href=\"https://bitcoinfees.net/\" target=\"_blank\" rel=\"noreferrer\">https://bitcoinfees.net</a>)</p><p>5) Then Slide to Confirm.</p><p>​</p><p><i>Note: you do&nbsp;<b>not&nbsp;</b>need to follow these steps to get your original transaction confirmed. Most low-fee transactions remain valid for days and eventually confirm, however in rare cases, a transaction can be stuck for weeks if the Bitcoin network remains busy.</i></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "If your transaction is stuck, you can try a Child-Pays-For-Parent (CPFP) transaction to potentially speed up a transaction.\nNote: if you did a max send and do not have any change addresses, you can not perform a CPFP from the sending wallet; unless you also own the receiving wallet and see the unconfirmed funds in it, then you do a CPFP from the receiving wallet using the same process below -\n\nTo perform a CPFP transaction, please follow these steps:\n\n1) Copy your BTC address from the same wallet as the original transaction by tapping the Receive option and then Copy.\n2) Go to the Send screen and click to Paste your recipient address.\n3) Edit the Amount by clicking on \"Tap to edit\" and select Max (sending everything to yourself)\n4) Important: Now tap the Fee section, change the mining fee to High. You can also use Custom fees, if you need to more specifically calibrate the fee to carry the weight of the ancestor's transaction fee deficit, in addition to its own.\n(current fees can be seen here: https://mempool.space or https://bitcoinfees.net)\n5) Then Slide to Confirm.\n\nNote: you do not need to follow these steps to get your original transaction confirmed. Most low-fee transactions remain valid for days and eventually confirm, however in rare cases, a transaction can be stuck for weeks if the Bitcoin network remains busy."
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "pending/stuck_transaction"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "btc"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "BTC - CPFP only steps"
+}

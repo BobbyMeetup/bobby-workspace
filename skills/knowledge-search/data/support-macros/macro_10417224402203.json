@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/10417224402203.json",
+  "id": 10417224402203,
+  "title": "Scam - Novatech disclaimer ",
+  "active": true,
+  "updated_at": "2023-02-01T22:30:26Z",
+  "created_at": "2022-11-15T17:59:14Z",
+  "default": false,
+  "position": 141,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Note: Our team has reviewed Novatech and feel that any Edge user interacting with that website should be aware that the site and founders may be involved in illegitimate practices. The founders have been involved in previous scams. Please consider reviewing this video: <a href=\"https://youtu.be/R_MZ8ayK9xw\" target=\"_blank\" rel=\"noreferrer\">https://youtu.be/R_MZ8ayK9xw</a>&nbsp;and doing some more research on Novatech.&nbsp;</p>"
+    },
+    {
+      "field": "current_tags",
+      "value": "novatech"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Scam - Novatech disclaimer "
+}

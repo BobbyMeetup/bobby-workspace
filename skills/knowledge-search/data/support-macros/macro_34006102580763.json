@@ -1,0 +1,55 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/34006102580763.json",
+  "id": 34006102580763,
+  "title": "Modify/Update Bank Card Details",
+  "active": true,
+  "updated_at": "2025-02-13T20:39:03Z",
+  "created_at": "2025-02-13T20:32:21Z",
+  "default": false,
+  "position": 413,
+  "description": "",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "current_tags",
+      "value": "update_payment_details has_account general_inquiry"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Modifying your card or payment details can only be done while in the process of Buying or Selling in the app.<br><br>Your Edge account is created by setting a username and password. It only holds crypto and has no other personal information is saved to it. Any personal information submitted through the app, such as personal ID and payment information, is encrypted and passed securely to one of our partnered exchange services. There is no need to update any payment information until you are ready to make your next buy or sell order.<br><br>Let us know if you have any other questions!</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Modifying your card or payment details can only be done while in the process of Buying or Selling in the app.\n\nYour Edge account is created by setting a username and password. It only holds crypto and has no other personal information is saved to it. Any personal information submitted through the app, such as personal ID and payment information, is encrypted and passed securely to one of our partnered exchange services. There is no need to update any payment information until you are ready to make your next buy or sell order.\n\nLet us know if you have any other questions!"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Modify/Update Bank Card Details"
+}

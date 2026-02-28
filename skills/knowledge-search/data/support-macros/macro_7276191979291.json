@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7276191979291.json",
+  "id": 7276191979291,
+  "title": "Wallet - CPFP Child pays for parent complete",
+  "active": true,
+  "updated_at": "2023-06-22T17:11:37Z",
+  "created_at": "2022-07-12T21:59:15Z",
+  "default": false,
+  "position": 94,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>One option you have to encourage the network to confirm your transaction faster is to create a Child-Pays-For-Parent transaction, or CPFP. A CPFP transaction is a high-fee transaction you send to yourself containing an output from the pending transaction. This incentivizes the network to confirm your first transaction because the second, high-fee transaction, relies on it. This isn't guaranteed to get your transaction confirmed immediately but it does increase the chance of it getting mined sooner. <i>Note: these steps will not help if your first transaction was a Max Send since there aren't any available outputs to spend.&nbsp;</i></p><p><br></p><p>The description may sound complex but it's very easy to do:</p><p><br></p><p>1) Copy the receiving address from the same wallet you sent the original transaction from, enter that wallet and tap Receive and then Copy.</p><p>2) Go to the send screen and paste the address</p><p>3) Tap the Fee section and select Custom, and input a number of Satoshi Per Byte that is 50-100% higher than the current High Fee Priority level for BTC (<a href=\"https://mempool.space/\" target=\"_blank\" rel=\"noreferrer\">https://mempool.space</a>&nbsp;or <a href=\"https://bitcoinfees.net/\" target=\"_blank\" rel=\"noreferrer\">https://bitcoinfees.net</a>) <i>- this fee needs to carry the weight of the first transaction's deficit, in addition to its own.</i></p><p>4) 'Tap to edit' the Amount section and tap Max (sending everything to yourself)</p><p>5) Slide to Confirm.&nbsp;</p><p>​</p><p>Note, you do&nbsp;<b>not&nbsp;</b>need to follow these steps to get your original transaction confirmed. Most low-fee transactions remain valid for days and will eventually confirm. CPFP transactions are only intended to help you get the original transaction confirmed&nbsp;<b>sooner&nbsp;</b>by incentivizing the network with higher fees.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "One option you have to encourage the network to confirm your transaction faster is to create a Child-Pays-For-Parent transaction, or CPFP. A CPFP transaction is a high-fee transaction you send to yourself containing an output from the pending transaction. This incentivizes the network to confirm your first transaction because the second, high-fee transaction, relies on it. This isn't guaranteed to get your transaction confirmed immediately but it does increase the chance of it getting mined sooner. Note: these steps will not help if your first transaction was a Max Send since there aren't any available outputs to spend. \n\nThe description may sound complex but it's very easy to do:\n\n1) Copy the receiving address from the same wallet you sent the original transaction from, enter that wallet and tap Receive and then Copy.\n2) Go to the send screen and paste the address\n3) Tap the Fee section and select Custom, and input a number of Satoshi Per Byte that is 50-100% higher than the current High Fee Priority level for BTC (https://mempool.space or https://bitcoinfees.net) - this fee needs to carry the weight of the first transaction's deficit, in addition to its own.\n4) 'Tap to edit' the Amount section and tap Max (sending everything to yourself)\n5) Slide to Confirm. \n​\nNote, you do not need to follow these steps to get your original transaction confirmed. Most low-fee transactions remain valid for days and will eventually confirm. CPFP transactions are only intended to help you get the original transaction confirmed sooner by incentivizing the network with higher fees."
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "pending/stuck_transaction"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "send"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - CPFP Child pays for parent complete"
+}

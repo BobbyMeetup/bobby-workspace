@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/38656599924251.json",
+  "id": 38656599924251,
+  "title": "Extend PIN Login Attempts",
+  "active": true,
+  "updated_at": "2025-07-04T22:42:43Z",
+  "created_at": "2025-07-04T22:42:43Z",
+  "default": false,
+  "position": 449,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>We may be able to extend the number of PIN attempts permitted for your account. If you are interested, a few security questions need to be answered before we can proceed.<br><br><u>Please answer the following questions</u>:<br>1. What is the username of the account?<br>2. When was the account created? Give month and year within three months.<br>3. When was the account last logged in? Give month and year within three months.<br>4. What location do you normally access the account?<br><br>After receiving your answers to verify their accuracy and your ownership of the account, we will need to wait for 30 days to ensure there are no other/new logins made to this account.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "We may be able to extend the number of PIN attempts permitted for your account. If you are interested, a few security questions need to be answered before we can proceed.\n \nPlease answer the following questions:\n1. What is the username of the account?\n2. When was the account created? Give month and year within three months.\n3. When was the account last logged in? Give month and year within three months.\n4. What location do you normally access the account?\n \nAfter receiving your answers to verify their accuracy and your ownership of the account, we will need to wait for 30 days to ensure there are no other/new logins made to this account."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Extend PIN Login Attempts"
+}

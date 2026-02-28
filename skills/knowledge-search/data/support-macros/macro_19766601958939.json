@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/19766601958939.json",
+  "id": 19766601958939,
+  "title": "XRP - can't buy/sell with Banxa",
+  "active": true,
+  "updated_at": "2025-02-15T18:35:44Z",
+  "created_at": "2023-10-22T04:00:37Z",
+  "default": false,
+  "position": 224,
+  "description": "",
+  "actions": [
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "banxa"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "xrp"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>If you see this 'payment method unsupported' error when attempting to buy or sell XRP directly, you can try using another payment method to access other ramp providers that are able to work with this asset directly, Moonpay being one of them. It seems that XRP still cannot be bought or sold directly with Banxa.</p><p><br>Generally speaking, buying or selling 99% of cryptocurrencies will require 'one hop' - being converted into a top crypto asset, with lots of liquidity, for it to be supported by an exchange that can also interface with your local currency.</p><p><br>You may use the Exchange tab in Edge to do this 1 hop, crypto-to-crypto. For example, getting XRP into BTC or vice versa. You can then use the Buy/Sell tab for your crypto on/off ramp.</p><p><br>Please let us know if you have any other questions or concerns.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "If you see this 'payment method unsupported' error when attempting to buy or sell XRP directly, you can try using another payment method to access other ramp providers that are able to work with this asset directly, Moonpay being one of them. It seems that XRP still cannot be bought or sold directly with Banxa.\n\nGenerally speaking, buying or selling 99% of cryptocurrencies will require 'one hop' - being converted into a top crypto asset, with lots of liquidity, for it to be supported by an exchange that can also interface with your local currency.\n\nYou may use the Exchange tab in Edge to do this 1 hop, crypto-to-crypto. For example, getting XRP into BTC or vice versa. You can then use the Buy/Sell tab for your crypto on/off ramp.\n\nPlease let us know if you have any other questions or concerns."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "XRP - can't buy/sell with Banxa"
+}

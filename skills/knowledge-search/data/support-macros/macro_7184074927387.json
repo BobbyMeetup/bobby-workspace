@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7184074927387.json",
+  "id": 7184074927387,
+  "title": "Account - Delete/Close account",
+  "active": true,
+  "updated_at": "2025-08-05T20:12:02Z",
+  "created_at": "2022-07-08T19:55:25Z",
+  "default": false,
+  "position": 25,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>If you would like to permanently delete your Edge account:</p><ol><li>Open your Edge app</li><li>Tap Menu &gt; Settings &gt; and Tap to Unlock Account Settings near the top, using your password</li><li>Find the option to \"Delete Account\" and follow the steps<br>&nbsp;</li></ol><p><strong><u>Important</u>:</strong> All of the transaction history and wallet data for your account is encrypted. Not even we cannot see this information. After deleting your Edge account, any remaining funds inside will be lost and not accessible!<br><br><i>Note: this does NOT delete any accounts you may have established with our partner exchanges used when purchasing/selling cryptocurrency - for those you will need to access or contact the partner service separately</i></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "If you would like to permanently delete your Edge account:\n\n1. Open your Edge app\n2. Tap Menu > Settings > and Tap to Unlock Account Settings near the top, using your password\n3. Find the option to \"Delete Account\" and follow the steps\n\nImportant: All of the transaction history and wallet data for your account is encrypted. Not even we cannot see this information. After deleting your Edge account, any remaining funds inside will be lost and not accessible!\n\nNote: this does NOT delete any accounts you may have established with our partner exchanges used when purchasing/selling cryptocurrency - for those you will need to access or contact the partner service separately"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "delete_account"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Account - Delete/Close account"
+}

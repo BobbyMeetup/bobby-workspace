@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7247084442907.json",
+  "id": 7247084442907,
+  "title": "LTC - Recover Litecoin (LTC) sent to Bitcoin (BTC) Segwit address",
+  "active": true,
+  "updated_at": "2023-02-13T18:25:20Z",
+  "created_at": "2022-07-11T22:35:04Z",
+  "default": false,
+  "position": 77,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>You'll be using&nbsp;<a href=\"https://iancoleman.io/bip39/\" target=\"_blank\" rel=\"noreferrer\">https://iancoleman.io/bip39/</a>&nbsp;to complete these steps and it's HIGHLY recommended that you load the site in a private browser like Chrome's Incognito Mode.&nbsp;</p><p><br></p><p>This appears like a lot of steps but I wanted to be as descriptive as possible.&nbsp;</p><p><br></p><p>1) Retrieve the master private key from your bitcoin wallet (in Edge, you can do this by tapping and holding on your wallet until a menu pops up from the bottom and then tap on \"Master Private Key\")</p><p><br></p><p>2) Enter this word phrase exactly into the \"BIP39 Mnemonic\" field on&nbsp;<a href=\"https://iancoleman.io/bip39/\" target=\"_blank\" rel=\"noreferrer\">https://iancoleman.io/bip39/</a></p><p><br></p><p>3) Under Derivation Path, select BIP49</p><p><br></p><p>4) In the table of addresses, find the bitcoin address that the Litecoin was sent to and copy the Path (for example: m/49'/0'/0'/0/2). You'll need this Path in a future step.</p><p><br></p><p>5) Back to the top of the page, change the coin to Litecoin</p><p><br></p><p>6) Change the Derivation Path to BIP141</p><p><br></p><p>7) in the BIP32 Derivation Path, enter the copied Path from step 4, removing all the characters after fifth position (for example, m/49'/0'/0'/0/2 becomes m/49'/0'/0'/0</p><p><br></p><p>8) In the table of addresses, find the line that corresponds to the Path you copied in step 4 (m/49'/0'/0'/0/2). This line has the private key that you need to sweep.&nbsp;</p><p><br></p><p>Once you have the private key, go into your LTC wallet in the app and then tap Scan. Scan the private key QR code to sweep the funds into your LTC wallet.</p><p><br></p><p>There's a lot of steps so please feel free to reach out if you have any questions.</p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "LTC - Recover Litecoin (LTC) sent to Bitcoin (BTC) Segwit address"
+}

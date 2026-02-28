@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/24517836917915.json",
+  "id": 24517836917915,
+  "title": "assets-page-default",
+  "active": true,
+  "updated_at": "2024-04-05T00:04:18Z",
+  "created_at": "2024-04-05T00:04:10Z",
+  "default": false,
+  "position": 283,
+  "description": null,
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "user-customization"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>We have added the option to change your default screen when opening up Edge.</p><p><br></p><p>This was added because many of our users had long-grown accustom to seeing their list of wallets after launching the app.</p><p><br></p><p>If you'd like to change your default screen when opening Edge, simply log into your account, tap Menu (≡) &gt; Settings &gt; 'Show Screen on Login' (under 'Options'), and you may choose to display the 'Home' tab or the 'Assets' tab immediately after logging in.</p><p><br></p><p>Let us know if you have more questions, anytime!<br><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "We have added the option to change your default screen when opening up Edge.\n\nThis was added because many of our users had long-grown accustom to seeing their list of wallets after launching the app.\n\nIf you'd like to change your default screen when opening Edge, simply log into your account, tap Menu (≡) > Settings > 'Show Screen on Login' (under 'Options'), and you may choose to display the 'Home' tab or the 'Assets' tab immediately after logging in.\n\nLet us know if you have more questions, anytime!"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "assets-page-default"
+}

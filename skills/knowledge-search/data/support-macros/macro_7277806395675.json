@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7277806395675.json",
+  "id": 7277806395675,
+  "title": "Wyre - General Contact ",
+  "active": false,
+  "updated_at": "2024-04-05T20:39:34Z",
+  "created_at": "2022-07-12T22:52:34Z",
+  "default": false,
+  "position": 117,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thanks for reaching out.</p><p>​<br></p><p>Because Wyre is our third-party partner we will direct you to contact them. &nbsp;You can&nbsp;open a ticket with Wyre at&nbsp;<a href=\"https://wyre-support.zendesk.com/hc/en-us/requests/new\" target=\"_blank\" rel=\"noreferrer\">https://wyre-support.zendesk.com/hc/en-us/requests/new</a>&nbsp;or by phone 1-415-374-7356.<br></p><p>​</p><p>They will assist you as soon as possible.</p><p>​<br></p><p>If you need more information please let us know.</p><p>​</p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "6990941198363"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wyre - General Contact "
+}

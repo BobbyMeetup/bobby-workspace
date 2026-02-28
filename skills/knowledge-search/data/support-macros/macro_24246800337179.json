@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/24246800337179.json",
+  "id": 24246800337179,
+  "title": "background-data-refresh (iOS)",
+  "active": true,
+  "updated_at": "2024-03-27T21:26:44Z",
+  "created_at": "2024-03-27T21:26:44Z",
+  "default": false,
+  "position": 280,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>If you are seeing the 'Security is Our Priority' pop-up each time after logging into Edge, but don't seem to be able to modify this 'Background App Refresh' setting for Edge from your iOS settings, this can be resolved by navigating to a different place in your iOS settings (Settings-&gt;General-&gt;Background Refresh). Here, you might have it turned off for all apps, which is why it was greyed out and uneditable for your Edge-specific refresh settings.</p><p><br></p><p>Once this is enabled for all, you can turn-off other apps manually if you'd like, leaving it on Edge. Now, the pop-up will stop appearing, and your account will be more secure with the app now able to notify you if someone were to ever try to access your Edge account without your permission.<br></p><p><br></p><p>Let us know if this works, or if you have any other questions!</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "If you are seeing the 'Security is Our Priority' pop-up each time after logging into Edge, but don't seem to be able to modify this 'Background App Refresh' setting for Edge from your iOS settings, this can be resolved by navigating to a different place in your iOS settings (Settings->General->Background Refresh). Here, you might have it turned off for all apps, which is why it was greyed out and uneditable for your Edge-specific refresh settings.\n\nOnce this is enabled for all, you can turn-off other apps manually if you'd like, leaving it on Edge. Now, the pop-up will stop appearing, and your account will be more secure with the app now able to notify you if someone were to ever try to access your Edge account without your permission.\n\n\nLet us know if this works, or if you have any other questions!\n"
+    },
+    {
+      "field": "custom_fields_6990591909275",
+      "value": "ios"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "background-data-refresh (iOS)"
+}

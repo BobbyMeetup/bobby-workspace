@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/32944490452763.json",
+  "id": 32944490452763,
+  "title": "Maya Protocol support (discord)",
+  "active": true,
+  "updated_at": "2025-01-18T22:37:26Z",
+  "created_at": "2025-01-18T22:37:26Z",
+  "default": false,
+  "position": 403,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987701197339"
+    },
+    {
+      "field": "custom_fields_6991267185435",
+      "value": "maya_protocol"
+    },
+    {
+      "field": "custom_fields_30728781462555",
+      "value": "user_resolved_by_contacting_partner"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923916366107"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>For support direct support from the Maya Protocol, please use their Discord server's Support ticketing system where they handle all their &nbsp;inquires -<span style=\"background-color:rgb(0,0,0);color:rgb(218,215,210);\"> </span><a href=\"https://t.co/wzCQY6Ona1\"><span style=\"background-color:rgba(0,0,0,0);color:inherit;\">https://</span>discord.gg/mayaprotocol</a></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "For support direct support from the Maya Protocol, please use their Discord server's Support ticketing system where they handle all their  inquires - https://discord.gg/mayaprotocol\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Maya Protocol support (discord)"
+}

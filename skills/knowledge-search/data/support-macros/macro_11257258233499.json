@@ -1,0 +1,30 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/11257258233499.json",
+  "id": 11257258233499,
+  "title": "What is a Recovery Token?",
+  "active": true,
+  "updated_at": "2024-02-15T11:24:41Z",
+  "created_at": "2022-12-14T10:35:09Z",
+  "default": false,
+  "position": 130,
+  "description": null,
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "6924706366107"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>The recovery token is an unique alphanumeric string which a user sends to him/herself usually via email, after tapping on Side Menu, Settings, Account Settings, Password Recovery and setting up the recovery questions.<br>If the procedure has not be followed, then you cannot have a recovery token in your email folder, so we suggest to proceed with the spreadsheet technique.<br></p>"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 6924706366107
+  },
+  "raw_title": "What is a Recovery Token?"
+}

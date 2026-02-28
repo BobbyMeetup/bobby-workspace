@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7183833278491.json",
+  "id": 7183833278491,
+  "title": "Account - Accidental send/Wrong Address ",
+  "active": true,
+  "updated_at": "2024-02-07T23:31:36Z",
+  "created_at": "2022-07-08T19:46:52Z",
+  "default": false,
+  "position": 15,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thanks for reaching out, and we are very sorry to hear about this.</p><p>Unfortunately,  all crypto transactions are irreversible. If the funds were sent to an address or account by accident that you do not recognize, you will need to retrace your steps and recall where the address came from or what wallet was chosen for receiving the funds. Addresses are not connected to any identity, nor can we tell which service, application, or wallet was used to receive the funds.</p><p><br></p><p>A couple of things to check:</p><p><br></p><p>1) Check any other wallet applications that you have where the funds may have been accidentally sent to</p><p>2) Check your message history or emails and see if the address was sent to someone that you may have done business with in the past</p><p><br></p><p>Let me know if you have any questions, and we'll do our best to help.</p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Thanks for reaching out, and we are very sorry to hear about this.\nUnfortunately, all crypto transactions are irreversible. If the funds were sent to an address or account by accident that you do not recognize, you will need to retrace your steps and recall where the address came from or what wallet was chosen for receiving the funds. Addresses are not connected to any identity, nor can we tell which service, application, or wallet was used to receive the funds.\n\nA couple of things to check:\n\n1) Check any other wallet applications that you have where the funds may have been accidentally sent to\n2) Check your message history or emails and see if the address was sent to someone that you may have done business with in the past\n\nLet me know if you have any questions, and we'll do our best to help.\n"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "sent_to_wrong_network"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "send"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Account - Accidental send/Wrong Address "
+}

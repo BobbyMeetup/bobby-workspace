@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/39261335332763.json",
+  "id": 39261335332763,
+  "title": "Canada Selling Interac e-Transfer Not Currently Supported ",
+  "active": true,
+  "updated_at": "2025-07-23T17:19:03Z",
+  "created_at": "2025-07-23T16:15:57Z",
+  "default": false,
+  "position": 462,
+  "description": "Edge currently does not fully support selling cryptocurrency in Canada via Interac e-Transfer. We are working to restore support for Interac e-Transfer sales for Canada. We are sorry for the inconvenience and thank you for patience. ",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "13053445492635"
+    },
+    {
+      "field": "custom_fields_25170963300251",
+      "value": "canada"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "unable_to_sell"
+    },
+    {
+      "field": "custom_fields_19558556601243",
+      "value": "interac"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge currently does not fully support selling cryptocurrency in Canada via Interac e-Transfer. We are working to restore support for Interac e-Transfer sales for Canada. We are sorry for the inconvenience and thank you for patience.&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Edge currently does not fully support selling cryptocurrency in Canada via Interac e-Transfer. We are working to restore support for Interac e-Transfer sales for Canada. We are sorry for the inconvenience and thank you for patience. \n"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Canada Selling Interac e-Transfer Not Currently Supported "
+}

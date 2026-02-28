@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7185355064091.json",
+  "id": 7185355064091,
+  "title": "BCH - Bitcoin Cash (BCH) to Bitcoin (BTC) Segwit",
+  "active": true,
+  "updated_at": "2025-08-11T16:27:07Z",
+  "created_at": "2022-07-08T20:40:48Z",
+  "default": false,
+  "position": 37,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Unfortunately, due to rules in the BCH network, there is no way for our wallet or engineers to recover your Bitcoin Cash - however, your funds may be recoverable with the help of a BCH miner!</p><p><br><i>They can use your wallet information to create a transaction on your behalf and include it in a block that they mine (for a fee)</i><br><br><u>They require three pieces of information in order to recover your funds.&nbsp;</u></p><ol><li>The Bitcoin Cash <strong>Transaction ID</strong> (hash)<ol><li>Find this in your sent transaction details</li></ol></li><li><strong>Public Key</strong> for the Bitcoin address where the funds were sent<ol><li>This is different from your normal receiving address needs to found using a derivation tool: <a href=\"https://edge.app/recovery\"><u>https://edge.app/recovery</u></a><ol><li>In Edge, tap and hold on the BTC wallet that holds the misplaced BCH</li><li>Tap on Master Private Key</li><li>Write down the private seed phrase exactly</li><li>Enter the seed phrase in the <a href=\"https://edge.app/recovery\"><u>derivation tool</u></a> - \"BIP39 Mnemonic\" field</li><li>Under Derivation Path, select BIP49</li><li>Under Derived Addresses, find the address where the funds were sent</li><li>The public key you is listed right next to this BCH address</li></ol></li></ol></li><li>An <strong>Address to Receive</strong> Bitcoin Cash<ol><li>This is the address you want the recovered BCH sent to. In Edge, your BCH wallet address will begin with “q...”</li></ol></li></ol><p>&nbsp;</p><p>Share these three pieces of information with a BCH miner and they may agree to attempt to recover your funds.&nbsp;</p><p><br><br>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "BCH - Bitcoin Cash (BCH) to Bitcoin (BTC) Segwit"
+}

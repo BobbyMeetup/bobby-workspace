@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7277025881371.json",
+  "id": 7277025881371,
+  "title": "Wallet - Resync fail, change network / Reinstall ",
+  "active": true,
+  "updated_at": "2024-04-08T14:07:10Z",
+  "created_at": "2022-07-12T22:21:33Z",
+  "default": false,
+  "position": 108,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>For a successful resync, there should be a green line at the top, loading from left to right, and   for each individual wallet in your list, you'll see a green line that moves in a circle around the currency's logo. Once all the green lines complete, they will disappear and the re-synchronization of your wallet with the blockchain is complete.<br><br>If resync doesn't work, please try these steps:</p><p><br></p><p>1) Change your network configuration:&nbsp;<br>- Force close Edge Wallet, change the network from 4G to Wifi or vice versa, open the app again and wait for sync.</p><p>- Temporarily disable Battery Saver Mode or any VPN service you may have enabled, this can mess with the resync.<br></p><p><br></p><p>2) Make sure you are not using custom servers.<br>- Click on the side menu, tap Settings and scroll down to Options and look for Asset Settings. If the asset in question is in this list, then it's possible to have customer servers turned on. Check that this option is disabled.</p><p><br>3) Reinstall. <i>** First, ensure that you have your username, password, and 2FA key! **</i></p><p><i><br></i></p><p>The two factor code can be found in Menu &gt; Settings &gt; Set up Two Factor&nbsp;</p><p><i><br></i></p><p><u><b>** IP validation is on by default for your wallet, so if you do not disable it or save your 2FA code, you will get locked out of your account for 7-days when reinstalling the app. **</b></u><br></p><p><u><b><br></b></u></p><p>- After securing your 2FA key, you may go ahead and completely delete Edge.</p><p>- Next, reinstall the app and log into your account. Give it a moment to finish loading, and allow for all the green circles around each asset to completely finish and go away, indicating full synchronization with each blockchain.</p><p><br></p><p>Are all assets and balances now as they should be?</p><p><br></p><p>I'm looking forward to your response.</p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - Resync fail, change network / Reinstall "
+}

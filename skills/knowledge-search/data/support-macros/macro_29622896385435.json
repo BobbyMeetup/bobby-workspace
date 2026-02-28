@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/29622896385435.json",
+  "id": 29622896385435,
+  "title": "phishing",
+  "active": true,
+  "updated_at": "2025-07-08T17:50:37Z",
+  "created_at": "2024-09-28T21:58:04Z",
+  "default": false,
+  "position": 349,
+  "description": "",
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "phishing is_scam spam"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "irrelevant"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "comment_mode_is_public",
+      "value": "false"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>hahahhaha, you almost got us there! 😏🧐</p>"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923888415643"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "phishing"
+}

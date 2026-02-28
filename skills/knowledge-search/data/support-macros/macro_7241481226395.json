@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7241481226395.json",
+  "id": 7241481226395,
+  "title": "No rates",
+  "active": true,
+  "updated_at": "2024-12-15T02:14:53Z",
+  "created_at": "2022-07-11T19:14:44Z",
+  "default": false,
+  "position": 48,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Some users are currently experiencing a 'rates server' issue that is causing balances to appear wrong. Your cryptocurrency is safe and still worth the same amount. When you tap into each wallet, you will see that the <i>crypto</i> amount is still present.&nbsp;</p><p>&nbsp;</p><p>The functionality to receive and send are still functioning, but you would need to manually calculate the $$ values of the coins. We apologize for the alarming inconvenience. Rest assured, this is only a temporary issue and we are working to resolve as quickly as possible.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Some users are currently experiencing a 'rates server' issue that is causing balances to appear wrong. Your cryptocurrency is safe and still worth the same amount. When you tap into each wallet, you will see that the crypto amount is still present. \n\nThe functionality to receive and send are still functioning, but you would need to manually calculate the $$ values of the coins. We apologize for the alarming inconvenience. Rest assured, this is only a temporary issue and we are working to resolve as quickly as possible.\n"
+    },
+    {
+      "field": "subject",
+      "value": "Rates issue"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "current_tags",
+      "value": "rates_not_loading"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "No rates"
+}

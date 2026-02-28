@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/27785452174235.json",
+  "id": 27785452174235,
+  "title": "ETC => ETH - Recover Ethereum (ETH) sent to Ethereum Classic (ETC) address",
+  "active": true,
+  "updated_at": "2024-07-28T21:32:14Z",
+  "created_at": "2024-07-28T21:32:14Z",
+  "default": false,
+  "position": 329,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>You can recover ETH sent to an Edge ETC address by importing your ETC private key while creating a new ETH wallet.&nbsp;</p><p>&nbsp;</p><p>1) Login to the Edge app and locate the Assets screen</p><p>2) Then tap on your ETC wallet to go inside (the wallet where the funds were sent)</p><p>3) Once inside of the wallet, tap the three vertical dots (⋮) to access this wallet's menu (located on the upper right side of screen)</p><p>4) Tap Master Private Key and enter your password and the private key will be displayed</p><p>5) Record this private key and be careful to match the capitalization exactly as it is displayed</p><p>6) Go back to your main Assets screen and then tap the \"+\" button to create a new ETH wallet&nbsp;</p><p>7) Select the import option and then carefully input your private key</p><p>8)&nbsp;Tap next to create the new ETH wallet<br><br>Once the wallet syncs you'll see your ETH balance and you can then send, receive, etc.</p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "ETC => ETH - Recover Ethereum (ETH) sent to Ethereum Classic (ETC) address"
+}

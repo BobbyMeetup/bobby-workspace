@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/35644407182747.json",
+  "id": 35644407182747,
+  "title": "Vulnerability Report",
+  "active": true,
+  "updated_at": "2025-04-04T01:37:11Z",
+  "created_at": "2025-04-04T01:37:11Z",
+  "default": false,
+  "position": 426,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thank you for the report.</p><p>I will escalate this internally with our development team and keep you updated.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Thank you for the report. I will escalate this internally with our development team and keep you updated.\n\n \n \n \n"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923916366107"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "current_tags",
+      "value": "bounty-hunter"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "internally_resolved"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Vulnerability Report"
+}

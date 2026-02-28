@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/39086701006363.json",
+  "id": 39086701006363,
+  "title": "Insufficient Error (general)",
+  "active": true,
+  "updated_at": "2025-07-18T20:03:11Z",
+  "created_at": "2025-07-18T05:01:45Z",
+  "default": false,
+  "position": 460,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>You might see an 'insufficient' error come up when trying to send from an out of sync wallet, or when attempting to send or swap a token without enough for the \"gas fees\" to broadcast the transaction. Gas/network fees are paid with the main or native currency of the blockchain that your tokens are on, rather than by the tokens themselves.</p><p>&nbsp;</p><p>You can get some native currency for network fees by either:</p><ol><li>Having a friend send you some</li><li>Purchasing some directly</li><li>Exchanging from another asset that can pay its own fees (ex. BTC or ETH)</li></ol><p>&nbsp;</p><p>Blockchain fees are generally pretty inexpensive, and $5-10 USD is usually enough to cover multiple transactions.</p><p>&nbsp;</p><p>If you are trying to send an asset that can pay it's own fees, and getting a plain 'insufficient funds' error, then please try a resync on the wallet to see the latest transactions and resolve any balance discrepancy.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "You might see an 'insufficient' error come up when trying to send from an out of sync wallet, or when attempting to send or swap a token without enough for the \"gas fees\" to broadcast the transaction. Gas/network fees are paid with the main or native currency of the blockchain that your tokens are on, rather than by the tokens themselves.\n\nYou can get some native currency for network fees by either:\n1. Having a friend send you some\n2. Purchasing some directly\n3. Exchanging from another asset that can pay its own fees (ex. BTC or ETH)\n\nBlockchain fees are generally pretty inexpensive, and $5-10 USD is usually enough to cover multiple transactions.\n\nIf you are trying to send an asset that can pay it's own fees, and getting a plain 'insufficient funds' error, then please try a resync on the wallet to see the latest transactions and resolve any balance discrepancy."
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "insufficient_unable_to_send"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Insufficient Error (general)"
+}

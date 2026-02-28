@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/17048898525211.json",
+  "id": 17048898525211,
+  "title": "plaid-berbix",
+  "active": true,
+  "updated_at": "2023-07-11T17:46:13Z",
+  "created_at": "2023-07-11T17:46:13Z",
+  "default": false,
+  "position": 184,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "kyc/id_verification_issue"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "unable_to_resolve"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Ok! Sorry for the inconvenience of this hang up.</p><p><br></p><p>There's been an recent issue with the latest version of iOS having an incompatible browser with Berbix when verifying your ID documents during a Buy or Sell order. If you have an android you can use temporarily, that could be a quick workaround for the time being.</p><p><br></p><p>Alternatively, we are currently integrating a new Buy partner for Debit/Credit and ACH bank transfers in the US. If you are experiencing an issue when purchasing crypto through our normal swap providers, please give this a go: <a href=\"http://crypto.sardine.ai/?client_id=e1690397-c9f5-4c54-9293-cb05593fd20a\" target=\"_blank\" rel=\"noreferrer\">http://crypto.sardine.ai/?client_id=e1690397-c9f5-4c54-9293-cb05593fd20a</a> </p><p><br></p><p>We appreciate any and all feedback regarding the experience you have with Sardine!</p><p><br></p><p>And as this service can be accessed through a computer or externally to Edge, you will need to copy your BTC Receiving address, and bring it into the Sardine portal when going through the buy process. If you have any questions or further hangups, send me a message here and I'll be happy to help!</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Ok! Sorry for the inconvenience of this hang up.\n\nThere's been an recent issue with the latest version of iOS having an incompatible browser with Berbix when verifying your ID documents during a Buy or Sell order. If you have an android you can use temporarily, that could be a quick workaround for the time being.\n\nAlternatively, we are currently integrating a new Buy partner for Debit/Credit and ACH bank transfers in the US. If you are experiencing an issue when purchasing crypto through our normal swap providers, please give this a go: http://crypto.sardine.ai/?client_id=e1690397-c9f5-4c54-9293-cb05593fd20a \n\nWe appreciate any and all feedback regarding the experience you have with Sardine!\n\nAnd as this service can be accessed through a computer or externally to Edge, you will need to copy your BTC Receiving address, and bring it into the Sardine portal when going through the buy process. If you have any questions or further hangups, send me a message here and I'll be happy to help!"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "plaid-berbix"
+}

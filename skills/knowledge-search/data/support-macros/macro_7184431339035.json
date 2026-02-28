@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7184431339035.json",
+  "id": 7184431339035,
+  "title": "Airbitz - Github Recovery",
+  "active": false,
+  "updated_at": "2023-08-02T18:51:58Z",
+  "created_at": "2022-07-08T20:08:37Z",
+  "default": false,
+  "position": 35,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>1) On a computer, Go to Github here:&nbsp;<a href=\"https://github.com/Jacobbubble/airbitz-wallet-recovery\" target=\"_blank\" rel=\"noreferrer\">https://github.com/Jacobbubble/airbitz-wallet-recovery</a>&nbsp;(on a desktop computer)</p><p>---Download ZIP --&gt; Open ZIP file --&gt; Open SRC Folder --&gt; Open index.html&nbsp;</p><p>2) Enter the private seed that you got earlier from Airbitz</p><p>3) Click the 3 vertical dots on the top right and set index to 500 for example might be a good start (or higher depending how many tx's)</p><p>4) Click on Load Seed</p><p>5) This will generate every address as well as the private keys. Enter or search for the address in the search bar or go through the pages</p><p>6) Find the address that the funds are on and reveal the private key QR code on the right column</p><p>7) On Edge create a NEW account</p><p>8) Go inside your BTC&nbsp;Wallet&nbsp;on Edge and tap on Send to open the camera</p><p>9) Scan the private key QR Code that has the BTC funds and import</p><p>10) The funds will arrive into your Edge&nbsp;wallet&nbsp;where it shouldn't crash anymore since it is now a single non mining transaction</p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Airbitz - Github Recovery"
+}

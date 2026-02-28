@@ -1,0 +1,22 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/31909713422747.json",
+  "id": 31909713422747,
+  "title": "edge cannot access accounts",
+  "active": true,
+  "updated_at": "2025-01-02T23:05:20Z",
+  "created_at": "2024-12-16T05:19:05Z",
+  "default": false,
+  "position": 379,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge does not have the ability to view or access any user account information, but I may be able to help if you share transaction IDs, error messages, and any screenshots that may help me see where the issue is.&nbsp;</p>"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 26105022686363
+  },
+  "raw_title": "edge cannot access accounts"
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/20304786513819.json",
+  "id": 20304786513819,
+  "title": "expected object at .data",
+  "active": true,
+  "updated_at": "2023-11-26T03:15:15Z",
+  "created_at": "2023-11-10T21:44:07Z",
+  "default": false,
+  "position": 229,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "banxa"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "unable_to_buy"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p><b>\"Alert! Expected an object at .data\"</b><br>This error message may occur when attempting to purchase or sell an amount of crypto that's a bit lower than Banxa's actual minimum amount. If you try slightly increasing the amount, you can bypass this error message and continue creating your order with Banxa. We're actively working with them on this to clarify their minimums and/or modify the wording of the error. The stated minimum in your local currency is sometimes in conflict with their true minimum, which is based in cryptocurrency. For bitcoin, it's &gt;.001 BTC, so increasing your amount just slightly above that stated fiat minimum, should do the trick.</p><p><br></p><p>Apologies for the inconvenience of this! Please let us know if you have any more questions.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "\"Alert! Expected an object at .data\"\nThis error message may occur when attempting to purchase or sell an amount of crypto that's a bit lower than Banxa's actual minimum amount. If you try slightly increasing the amount, you can bypass this error message and continue creating your order with Banxa. We're actively working with them on this to clarify their minimums and/or modify the wording of the error. The stated minimum in your local currency is sometimes in conflict with their true minimum, which is based in cryptocurrency. For bitcoin, it's >.001 BTC, so increasing your amount just slightly above that stated fiat minimum, should do the trick.\n\nApologies for the inconvenience of this! Please let us know if you have any more questions."
+    },
+    {
+      "field": "subject",
+      "value": "Banxa's minimum, almost met"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "expected object at .data"
+}

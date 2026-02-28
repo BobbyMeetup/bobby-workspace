@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/28571490550171.json",
+  "id": 28571490550171,
+  "title": "captcha-issue",
+  "active": true,
+  "updated_at": "2025-04-02T00:27:24Z",
+  "created_at": "2024-08-25T01:06:46Z",
+  "default": false,
+  "position": 347,
+  "description": "",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987966018715"
+    },
+    {
+      "field": "custom_fields_6990445837595",
+      "value": "login__auth_server__error_"
+    },
+    {
+      "field": "current_tags",
+      "value": "captcha prosopo"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thank you for the reporting this issue. We've received several reports from other users about this.</p><p>&nbsp;</p><p>We are aware of the issue and are working now to resolve it as fast as possible. If the bug fix works properly, you can try to login again in 1 or 2 days. I can message you again when the issue is resolved, if you'd like.</p><p>&nbsp;</p><p>Please reply with any other questions or concerns.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Thank you for the reporting this issue. We've received several reports from other users about this.\n \nWe are aware of the issue and are working now to resolve it as fast as possible. If the bug fix works properly, you can try to login again in 1 or 2 days. I can message you again when the issue is resolved, if you'd like.\n \nPlease reply with any other questions or concerns.\n"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923916366107"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "captcha-issue"
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7412043459611.json",
+  "id": 7412043459611,
+  "title": "Compromised account",
+  "active": true,
+  "updated_at": "2024-02-15T11:22:47Z",
+  "created_at": "2022-07-18T12:26:24Z",
+  "default": false,
+  "position": 114,
+  "description": null,
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "6924706366107"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thanks for reaching out and am very sorry to hear about what happened, and we have some questions to try to find out how this may have happened.</p><p><br></p><p>First, when creating an Edge account, everything is completely encrypted before being backed up, meaning not even Edge can see the username, password, or the transactions inside the wallet.</p><p><b>If you think your account is compromised, please IMMEDIATELY STOP USING IT AND DO NOT RECEIVE ANY ADDITIONAL FUNDS AS MORE CAN BE LOST.</b></p><p><br></p><p>With that said, here are some questions below.&nbsp;Please fill the replies in the form here&nbsp;<a href=\"https://form.asana.com/?k=g4MFFV8sJJC6P-nxQb192Q&amp;d=9976422036640\" target=\"_blank\" rel=\"noreferrer\">https://form.asana.com/?k=g4MFFV8sJJC6P-nxQb192Q&amp;d=9976422036640</a></p><p><br></p><p>1) Did you ever store your username/password in an email, cloud, or have it physically written down somewhere?</p><p>2) Have you ever signed into another device?</p><p>3) Does anyone else such as family or friends have access to the device or account?</p><p>4) Have you ever revealed the Master Private Seed or private keys of the wallet and written it down somewhere or save it in an email or cloud?</p><p>5) Is your username and password the same as some other websites or social media that you use?</p><p>6) Do you remember ever doing a Slide to Confirm send around the time that transaction was made which you do not recognize?</p><p>7) If you go to&nbsp;<a href=\"https://haveibeenpwned.com/\" target=\"_blank\" rel=\"noreferrer\">https://haveibeenpwned.com/</a>&nbsp;and enter your email address there, does it indicate that your email has been leaked at any point?</p><p>8) Did you have 2FA enabled on your account? This would have prevented any unknown logins from any device except your own physical device</p><p>9) Was your account initially created on the Edge app or some other app such as Airbitz or Bitcoin of America etc.?</p><p>10) Was the account completely EMPTIED out, meaning you have 0 or very close to 0 balance? Or do you still have a significant balance left in the account?</p><p>​11) Lastly, what is the username of the account? And what city/state are you in? With this information, we can look up your account history to see if anyone has accessed the account from outside your location</p><p><br></p><p><br> </p><p><br></p>"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 6924706366107
+  },
+  "raw_title": "Compromised account"
+}

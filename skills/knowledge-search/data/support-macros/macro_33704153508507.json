@@ -1,0 +1,63 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/33704153508507.json",
+  "id": 33704153508507,
+  "title": "UK iOS issues (general)",
+  "active": false,
+  "updated_at": "2025-05-18T17:39:02Z",
+  "created_at": "2025-02-06T00:48:07Z",
+  "default": false,
+  "position": 410,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi {{ticket.requester.first_name}},</p><p>&nbsp;</p><p>Due to legal restrictions for residents in the UK, the Edge app is currently not able to be listed in the app stores. Downloading and installing the .apk file directly from our website -- <a href=\"https://edge.app/uk\">https://edge.app/uk</a> -- is most reliable (<strong>android only</strong>) solution in this case, for now, while we continue to work with lawyers to comply with new regulations and get the app re-enabled it in the Appstore and Google Play. It might be worth acquiring a cheap android device that could be utilized as a dedicated machine for managing your cryptocurrency while this regulatory uncertainty in the UK persists. We hope to have it resolved as soon as possible.</p><p>&nbsp;</p><p>If you are with the iPhone only, as long as the Apple Appstore sees that you are a UK resident, the Edge app will not be available for download or updates until this is resolved with regulators. Meanwhile, all of your assets remain safe in your Edge account, and you may restore your account from encrypted backups with your login credentials (username &amp; password). Be sure to have this information saved in your secure files.</p><p>&nbsp;</p><p>Please let us know if you have any more questions or concerns.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hi {{ticket.requester.first_name}},\n \nDue to legal restrictions for residents in the UK, the Edge app is currently not able to be listed in the app stores. Downloading and installing the .apk file directly from our website -- https://edge.app/uk -- is most reliable (android only) solution in this case, for now, while we continue to work with lawyers to comply with new regulations and get the app re-enabled it in the Appstore and Google Play. It might be worth acquiring a cheap android device that could be utilized as a dedicated machine for managing your cryptocurrency while this regulatory uncertainty in the UK persists. We hope to have it resolved as soon as possible.\n \nIf you are with the iPhone only, as long as the Apple Appstore sees that you are a UK resident, the Edge app will not be available for download or updates until this is resolved with regulators. Meanwhile, all of your assets remain safe in your Edge account, and you may restore your account from encrypted backups with your login credentials (username & password). Be sure to have this information saved in your secure files.\n\nPlease let us know if you have any more questions or concerns."
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_25170963300251",
+      "value": "united_kingdom"
+    },
+    {
+      "field": "current_tags",
+      "value": "uk_restricted"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "unable_to_access_app"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6990591909275",
+      "value": "ios"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "UK iOS issues (general)"
+}

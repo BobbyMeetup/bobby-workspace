@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7185380687515.json",
+  "id": 7185380687515,
+  "title": "BCH - Bitcoin Cash (BCH) Cashaddr to Legacy address",
+  "active": true,
+  "updated_at": "2023-02-01T22:22:52Z",
+  "created_at": "2022-07-08T20:39:43Z",
+  "default": false,
+  "position": 36,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge supports the latest bitcoin cash address&nbsp;type called CashAddr. Not all services are compatible with this yet and you'll need to convert your receiving address into a legacy address.&nbsp;You can do that in the wallet by tapping on the three dot menu on the Receive screen (the screen that shows your QR code) and tap \"Use Legacy Address\".</p><p><br></p><p>For more information about the CashAddr address type please read this blog post from bitcoinabc.org&nbsp;<a href=\"https://www.bitcoinabc.org/cashaddr\" target=\"_blank\" rel=\"noreferrer\">https://www.bitcoinabc.org/cashaddr</a></p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "BCH - Bitcoin Cash (BCH) Cashaddr to Legacy address"
+}

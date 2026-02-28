@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/10516876721307.json",
+  "id": 10516876721307,
+  "title": "Release Ticket",
+  "active": true,
+  "updated_at": "2022-11-19T00:39:06Z",
+  "created_at": "2022-11-19T00:39:06Z",
+  "default": false,
+  "position": 145,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "open"
+    },
+    {
+      "field": "group_id",
+      "value": "6923892939675"
+    },
+    {
+      "field": "assignee_id",
+      "value": ""
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Release Ticket"
+}

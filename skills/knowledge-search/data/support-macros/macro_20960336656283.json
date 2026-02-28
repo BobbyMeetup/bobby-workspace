@@ -1,0 +1,19 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/20960336656283.json",
+  "id": 20960336656283,
+  "title": "Paybis terms and limits",
+  "active": true,
+  "updated_at": "2023-12-05T19:26:43Z",
+  "created_at": "2023-12-05T19:26:43Z",
+  "default": false,
+  "position": 243,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>\"The list of Restricted jurisdictions for the provision of the Services includes: Afghanistan,&nbsp; Belarus, Cuba, Hawaii (state of the US), Iran, Iraq,&nbsp;Louisiana (state of the US), Myanmar, New York (state of the US), North Korea, Russia, Somalia, South Sudan, Sudan, Syria,&nbsp;Venezuela, Yemen, and geographies with unrecognized or disputed status.\"<br>(source: <a href=\"https://paybis.com/policies/terms-of-service\" target=\"_blank\" rel=\"noreferrer\">https://paybis.com/policies/terms-of-service</a>)</p><p><br></p><p>Are you in one of these locations?</p>"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Paybis terms and limits"
+}

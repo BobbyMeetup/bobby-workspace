@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/24245993173915.json",
+  "id": 24245993173915,
+  "title": "staking-guide",
+  "active": true,
+  "updated_at": "2024-03-27T21:04:24Z",
+  "created_at": "2024-03-27T21:04:24Z",
+  "default": false,
+  "position": 279,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "current_tags",
+      "value": "general_inquiry staking"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>To view and manage your stakes within Edge:</p><p><br></p><p>Open Edge and tap 'View Assets'</p><p>- Next, scroll to and tap into the wallet with your staked funds</p><p>- Near the top, to right of the 'Receive' and 'Send' buttons for that asset, you will find the mint green button for 'Earn'</p><p>&nbsp; &nbsp;(note: if only 'Receive' and 'Send' are showing, then staking is not available for this asset...yet)</p><p>- Tap into the Earn section, where you can Stake more or Unstake any percentage of your existing stake.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "To view and manage your stakes within Edge:\n\nOpen Edge and tap 'View Assets'\n- Next, scroll to and tap into the wallet with your staked funds\n- Near the top, to right of the 'Receive' and 'Send' buttons for that asset, you will find the mint green button for 'Earn'\n   (note: if only 'Receive' and 'Send' are showing, then staking is not available for this asset...yet)\n- Tap into the Earn section, where you can Stake more or Unstake any percentage of your existing stake.\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "staking-guide"
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/30292801379227.json",
+  "id": 30292801379227,
+  "title": "UK Buy/Sell Removed (FCA restriction)",
+  "active": true,
+  "updated_at": "2025-05-19T03:43:06Z",
+  "created_at": "2024-10-22T21:15:52Z",
+  "default": false,
+  "position": 363,
+  "description": "explaining new UK app layout",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Due to FCA regulatory changes, users located in the United Kingdom will experience a restricted version of the app: <i>buying, selling </i>and<i> trading </i>options have been removed. It was necessary for us to comply with these new regulations in order to be re-listed for download in mobile app stores. As a self-custodial wallet, Edge empowers its users to safely send, receive, and secure their cryptocurrency, regardless of regulators' decisions.</p><p>&nbsp;</p><p>Despite these legal challenges, one of our banking partners has already become compliant in UK for sales of cryptocurrency. If you want to make a crypto purchase (from your bank, into Edge) -- here are the steps:</p><ol><li>Visit our banking partner's website: <a href=\"https://edgewallet.banxa.com/\">https://edgewallet.banxa.com</a></li><li>Find your receiving address in your Edge account for the crypto you want to purchase.<br><i>&nbsp;*be sure to use the same network/blockchain as what's shown on their website.</i></li><li>Copy and Paste this receiving address into your Banxa order.</li><li>Follow the steps on screen to enter your email and complete the purchase.</li></ol><p><i>Note: If this is your first time using Banxa, then you may need to complete a KYC identity verification process before continuing to link your payment method.</i></p><p>&nbsp;</p><p>To sell crypto, the best option at this time would be to locate an external or local exchange service that is already compliant for crypto sales in the UK.</p><p>&nbsp;</p><p>Please let us know if you have any other questions.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Due to FCA regulatory changes, users located in the United Kingdom will experience a restricted version of the app: buying, selling and trading options have been removed. It was necessary for us to comply with these new regulations in order to be re-listed for download in mobile app stores. As a self-custodial wallet, Edge empowers its users to safely send, receive, and secure their cryptocurrency, regardless of regulators' decisions.\n \nDespite these legal challenges, one of our banking partners has already become compliant in UK for sales of cryptocurrency. If you want to make a crypto purchase (from your bank, into Edge) -- here are the steps:\n1. Visit our banking partner's website: https://edgewallet.banxa.com\n2. Find your receiving address in your Edge account for the crypto you want to purchase. *be sure to use the same network/blockchain as what's shown on their website.\n3. Copy and Paste this receiving address into your Banxa order.\n4. Follow the steps on screen to enter your email and complete the purchase.\nNote: If this is your first time using Banxa, then you may need to complete a KYC identity verification process before continuing to link your payment method.\n \nTo sell crypto, the best option at this time would be to locate an external or local exchange service that is already compliant for crypto sales in the UK.\n \nPlease let us know if you have any other questions."
+    },
+    {
+      "field": "current_tags",
+      "value": "uk_restricted"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "unable_to_buy"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_25170963300251",
+      "value": "united_kingdom"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "UK Buy/Sell Removed (FCA restriction)"
+}

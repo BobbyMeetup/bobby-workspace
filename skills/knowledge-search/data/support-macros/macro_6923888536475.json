@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/6923888536475.json",
+  "id": 6923888536475,
+  "title": "Customer not responding",
+  "active": true,
+  "updated_at": "2022-06-28T15:55:20Z",
+  "created_at": "2022-06-28T15:55:20Z",
+  "default": false,
+  "position": 10,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hello {{ticket.requester.name}}. Our agent {{current_user.name}} has tried to contact you about this request but we haven't heard back from you yet. Please let us know if we can be of further assistance. Thanks. "
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Customer not responding"
+}

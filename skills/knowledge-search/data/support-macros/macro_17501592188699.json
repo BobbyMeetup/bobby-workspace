@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/17501592188699.json",
+  "id": 17501592188699,
+  "title": "Marketing - FIO",
+  "active": true,
+  "updated_at": "2024-01-06T23:14:15Z",
+  "created_at": "2023-07-28T21:48:54Z",
+  "default": false,
+  "position": 190,
+  "description": "triggers slack side channel to ping marketing",
+  "actions": [
+    {
+      "field": "side_conversation_slack",
+      "value": [
+        "<p>New Collaboration Request from {{ticket.requester.name}}&nbsp;</p><p>via {{ticket.via}} Message, please check!<br></p>",
+        "edge-marketing",
+        "text/html"
+      ]
+    },
+    {
+      "field": "subject",
+      "value": "FIO x Edge Collaboration Request on Instagram"
+    },
+    {
+      "field": "current_tags",
+      "value": "marketing fio-marketing"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "status",
+      "value": "solved"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Marketing - FIO"
+}

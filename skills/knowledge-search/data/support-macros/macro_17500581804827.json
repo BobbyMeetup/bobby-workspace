@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/17500581804827.json",
+  "id": 17500581804827,
+  "title": "Marketing - Slack Notification ",
+  "active": true,
+  "updated_at": "2023-08-25T16:33:56Z",
+  "created_at": "2023-07-28T21:12:43Z",
+  "default": false,
+  "position": 188,
+  "description": "lets marketing know about an issue support can not resolve",
+  "actions": [
+    {
+      "field": "side_conversation_slack",
+      "value": [
+        "<p>{{ticket.via}}<br></p><p>{{ticket.requester.details}}<br></p><p>{{ticket.requester_field}}<br></p>",
+        "edge-marketing",
+        "text/html"
+      ]
+    },
+    {
+      "field": "subject",
+      "value": "Marketing review"
+    },
+    {
+      "field": "current_tags",
+      "value": "marketing"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "status",
+      "value": "solved"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Marketing - Slack Notification "
+}

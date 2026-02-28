@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/9739957467291.json",
+  "id": 9739957467291,
+  "title": "Moonpay - Sell 2.24.0 work flow",
+  "active": false,
+  "updated_at": "2024-02-16T21:23:25Z",
+  "created_at": "2022-10-19T00:14:01Z",
+  "default": false,
+  "position": 139,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "subject",
+      "value": "Moonpay Sell with 2.24.0 and beyond"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "moonpay"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>To sell with MoonPay please refer to this article: <a href=\"https://edgeapp.zendesk.com/hc/en-us/articles/9738775659419\" target=\"_blank\" rel=\"noreferrer\">https://edgeapp.zendesk.com/hc/en-us/articles/9738775659419</a></p><p><br></p><p>If you have any questions or concerns please let us know.&nbsp;</p>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Moonpay - Sell 2.24.0 work flow"
+}

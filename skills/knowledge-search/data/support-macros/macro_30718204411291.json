@@ -1,0 +1,63 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/30718204411291.json",
+  "id": 30718204411291,
+  "title": "ZEC - Receiving transparent shielded unified private",
+  "active": true,
+  "updated_at": "2024-11-07T00:09:27Z",
+  "created_at": "2024-11-07T00:09:27Z",
+  "default": false,
+  "position": 367,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "zec"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "unable_to_receive"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "externally_resolved"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "current_tags",
+      "value": "zashi"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">Some Zcash wallets, and many exchanges are limited about which ZEC address styles they can send to from their platform. This is either due to a technical limitation or for legal compliance. Edge is a privacy focused company, and only supports the Unified version of ZEC addresses, which are generated from a set of multiple Zcash address types (i.e., transparent, Sapling and Orchard). You can learn more about the different ZEC addresses, here: </span><a href=\"https://electriccoin.co/blog/unified-addresses-in-zcash-explained/\"><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">https://electriccoin.co/blog/unified-addresses-in-zcash-explained</span></a></p><p>&nbsp;</p><p><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">In order to receive ZEC to your Edge account, you'll likely need to use a 3rd party application that can receive with a 'transparent' address, and then shield these funds, before they can be sent to a private or unified address type. To accomplish this, you'll want to make use of a full-featured Zcash wallet. For this, we recommend Zashi wallet: </span><a href=\"https://z.cash/ecosystem/zashi-wallet/\">https://z.cash/ecosystem/zashi-wallet</a><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">, which supports both transparent address and unified address types. Once the funds are 'shielded' from within Zashi wallet, you'll be able to then send them to your Edge account's Unified ZEC address.</span></p><p>&nbsp;</p><p><span style=\"background-color:rgb(28,30,31);color:rgb(197,192,184);\">Let us know if you need more help with receiving ZEC into Edge, or if you have any other questions.</span></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Some Zcash wallets, and many exchanges are limited about which ZEC address styles they can send to from their platform. This is either due to a technical limitation or for legal compliance. Edge is a privacy focused company, and only supports the Unified version of ZEC addresses, which are generated from a set of multiple Zcash address types (i.e., transparent, Sapling and Orchard). You can learn more about the different ZEC addresses, here: https://electriccoin.co/blog/unified-addresses-in-zcash-explained\n\nIn order to receive ZEC to your Edge account, you'll likely need to use a 3rd party application that can receive with a 'transparent' address, and then shield these funds, before they can be sent to a private or unified address type. To accomplish this, you'll want to make use of a full-featured Zcash wallet. For this, we recommend Zashi wallet: https://z.cash/ecosystem/zashi-wallet, which supports both transparent address and unified address types. Once the funds are 'shielded' from within Zashi wallet, you'll be able to then send them to your Edge account's Unified ZEC address.\n\nLet us know if you need more help with receiving ZEC into Edge, or if you have any other questions."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "ZEC - Receiving transparent shielded unified private"
+}

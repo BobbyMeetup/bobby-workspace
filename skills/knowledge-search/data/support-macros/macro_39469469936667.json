@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/39469469936667.json",
+  "id": 39469469936667,
+  "title": "Resync (My Money is Gone!)",
+  "active": true,
+  "updated_at": "2025-07-30T17:49:17Z",
+  "created_at": "2025-07-29T21:05:06Z",
+  "default": false,
+  "position": 465,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>When a resync is performed, no funds are moved on-chain. This action only reads the blockchain and ensures that all transactions are accounted for, and your balance displayed in the app is accurate with your actual balances on the blockchain.</p><p>&nbsp;</p><p>You may need to review your whole transaction history to see and account for when and where funds have moved. To do this, tap into your Assets page, and into the wallet in question. Scroll down to 'Recent Transactions' and tap on 'See All' to review any completed, on-chain transactions for this wallet.</p><p>&nbsp;</p><p>Please let me know if you have more questions.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "When a resync is performed, no funds are moved on-chain. This action only reads the blockchain and ensures that all transactions are accounted for, and your balance displayed in the app is accurate with your actual balances on the blockchain.\n\nYou may need to review your whole transaction history to see and account for when and where funds have moved. To do this, tap into your Assets page, and into the wallet in question. Scroll down to 'Recent Transactions' and tap on 'See All' to review any completed, on-chain transactions for this wallet.\n\nPlease let me know if you have more questions."
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "wallet"
+    },
+    {
+      "field": "current_tags",
+      "value": "missing-after-resync"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Resync (My Money is Gone!)"
+}

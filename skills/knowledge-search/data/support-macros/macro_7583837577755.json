@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7583837577755.json",
+  "id": 7583837577755,
+  "title": "Oops screen",
+  "active": true,
+  "updated_at": "2024-04-05T20:40:23Z",
+  "created_at": "2022-07-25T11:13:49Z",
+  "default": false,
+  "position": 125,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Can you please try to login into your Edge account in a second device?<br>Please check if you have the Oops screen issue.<br>If you don't see that, KEEP Edge on the second device, remove Edge from the first device, install it again, login with your credentials and check.<br><br>Then you can remove Edge from the second device.<br></p>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Oops screen"
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/12744698882075.json",
+  "id": 12744698882075,
+  "title": "Bity - Contact",
+  "active": true,
+  "updated_at": "2024-10-08T18:41:13Z",
+  "created_at": "2023-02-08T15:56:24Z",
+  "default": false,
+  "position": 150,
+  "description": "",
+  "actions": [
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "bity"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge can not access Bity records. If you have questions regarding your order or account with Bity - please contact them directly via email:&nbsp; <a href=\"mailto:support_edge@bity.com\">support_edge@bity.com</a> - or - by using their chat bubble on <a href=\"http://www.bity.com/\">www.bity.com</a><br>&nbsp;</p><p>Please let us know if you have any questions or concerns.&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Edge can not access Bity records. If you have questions regarding your order or account with Bity - please contact them directly via email:  support_edge@bity.com - or - by using their chat bubble on www.bity.com\n\nPlease let us know if you have any questions or concerns."
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Bity - Contact"
+}

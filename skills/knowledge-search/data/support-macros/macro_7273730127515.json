@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7273730127515.json",
+  "id": 7273730127515,
+  "title": "RVN - RVN Down | Export seeds",
+  "active": true,
+  "updated_at": "2024-04-13T13:13:38Z",
+  "created_at": "2022-07-12T20:44:07Z",
+  "default": false,
+  "position": 82,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>I apologize for the issue and engineers are working on Ravencoin to get it back online working so that it can sync properly on the network. If you have any Raven on Edge it will be fine but the issue is the syncing.</p><p>​</p><p>In the event that you urgently need access to send those coins out, remember, you have full access to the wallet's 24 word seed. You can access it and restore your wallet on any other wallet outside of Edge if you wish and can be done by:</p><p>​</p><p>1) Open Edge and login</p><p>2) Then tap on your RVN wallet to go inside of it</p><p>3) Then tap on the three vertical dots (located on the top right side of screen)</p><p>4) A new menu will appear, then tap on View Private Seed</p><p>5) Enter your password</p><p>6) The 24 words will be revealed</p><p>7) Using any Ravencoin wallet, you can use those 24 words to restore your funds on another Ravencoin Wallet outside of Edge. Note, not all RVN wallets support the 24 words format so you may need to follow the next steps below.</p><p><br></p><p>If the 24 word format is not supported for the RVN Wallet you are using, you can also head over to&nbsp;<a href=\"https://iancoleman.io/bip39/\" target=\"_blank\" rel=\"noreferrer\">https://iancoleman.io/bip39/</a>&nbsp;and then enter the 24 words there in the Mnemonic field. Make sure you set the coin to RVN. Below you will find a list of your addresses and your private keys. Locate the address that has the money in it and then reveal the private key on the right column. You can then use any other Ravencoin wallet to sweep the private key so that the funds will transfer to your new wallet.</p><p>​</p><p>Otherwise if it is not urgent, you can also simply wait until we get the server back online and in sync.</p><p>​</p><p>Let me know if you have any questions and will keep you updated of any changes.</p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "I apologize for the issue and engineers are working on Ravencoin to get it back online working so that it can sync properly on the network. If you have any Raven on Edge it will be fine but the issue is the syncing.\n​\nIn the event that you urgently need access to send those coins out, remember, you have full access to the wallet's 24 word seed. You can access it and restore your wallet on any other wallet outside of Edge if you wish and can be done by:\n​\n1) Open Edge and login\n2) Then tap on your RVN wallet to go inside of it\n3) Then tap on the three vertical dots (located on the top right side of screen)\n4) A new menu will appear, then tap on View Private Seed\n5) Enter your password\n6) The 24 words will be revealed\n7) Using any Ravencoin wallet, you can use those 24 words to restore your funds on another Ravencoin Wallet outside of Edge. Note, not all RVN wallets support the 24 words format so you may need to follow the next steps below.\n\nIf the 24 word format is not supported for the RVN Wallet you are using, you can also head over to https://iancoleman.io/bip39/ and then enter the 24 words there in the Mnemonic field. Make sure you set the coin to RVN. Below you will find a list of your addresses and your private keys. Locate the address that has the money in it and then reveal the private key on the right column. You can then use any other Ravencoin wallet to sweep the private key so that the funds will transfer to your new wallet.\n​\nOtherwise if it is not urgent, you can also simply wait until we get the server back online and in sync.\n​\nLet me know if you have any questions and will keep you updated of any changes.\n\n"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "RVN - RVN Down | Export seeds"
+}

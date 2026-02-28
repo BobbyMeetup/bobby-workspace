@@ -1,0 +1,19 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/28415948165531.json",
+  "id": 28415948165531,
+  "title": "nft",
+  "active": true,
+  "updated_at": "2024-08-19T21:38:20Z",
+  "created_at": "2024-08-19T21:38:20Z",
+  "default": false,
+  "position": 342,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>If you bought an NFT with your Edge wallet, then the NFT is safely stored in that ETH address. To sell an NFT, you will need to connect your ETH wallet to a marketplace and list it for sale. By connecting to the marketplace, you will also be able to view or transfer the NFT to another wallet address.&nbsp;<br><br>While Edge does not currently have a viewer within the app itself, connecting to an online marketplace will give you full access to view/manage your NFTs.&nbsp;<br><br>When connecting to a marketplace, simply look for a \"Connect\" button, typically in the top-right of the screen. Then select \"WalletConnect\" from the list of available options and scan the QR code using the \"Scan QR\" feature available in your Edge wallet - accessible from the side menu after you tap the three horizontal lines (≡) in the upper-right of the Edge screen.</p>"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "nft"
+}

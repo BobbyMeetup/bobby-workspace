@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7243747945371.json",
+  "id": 7243747945371,
+  "title": "EOS - API down",
+  "active": false,
+  "updated_at": "2023-12-06T22:53:44Z",
+  "created_at": "2022-07-11T20:25:07Z",
+  "default": false,
+  "position": 57,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Sorry, the EOS api we have been using to query the blockchain has discontinued service. We are currently searching for a replacement API to restore EOS functionality in the app. Your funds are safe and this will be resolved in the next release.<br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "EOS - API down"
+}

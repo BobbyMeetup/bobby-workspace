@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7185667269403.json",
+  "id": 7185667269403,
+  "title": "Bitrefill - update personal information",
+  "active": true,
+  "updated_at": "2023-07-17T21:22:33Z",
+  "created_at": "2022-07-08T20:51:12Z",
+  "default": false,
+  "position": 39,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge is a zero-knowledge app and we don't have access to the information you share with our partners. Please reach out directly to Bitrefill support to update your personal information:&nbsp;<a href=\"mailto:support@bitrefill.com\" target=\"_blank\" rel=\"noreferrer\">support@bitrefill.com</a><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Edge is a zero-knowledge app and we don't have access to the information you share with our partners. Please reach out directly to Bitrefill support to update your personal information: support@bitrefill.com"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "13053445492635"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "bitrefill"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Bitrefill - update personal information"
+}

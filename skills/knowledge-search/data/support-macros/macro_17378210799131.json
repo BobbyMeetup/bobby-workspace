@@ -1,0 +1,26 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/17378210799131.json",
+  "id": 17378210799131,
+  "title": "letus",
+  "active": true,
+  "updated_at": "2025-06-12T21:21:50Z",
+  "created_at": "2023-07-24T20:59:37Z",
+  "default": false,
+  "position": 9,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Let us know if you have any more questions for the Edge support team.</p><p>&nbsp;</p><p>Best regards,</p><p>Daniel</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Let us know if you have any more questions for the Edge support team.\n\nBest regards,\nDaniel"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 13919654551707
+  },
+  "raw_title": "letus"
+}

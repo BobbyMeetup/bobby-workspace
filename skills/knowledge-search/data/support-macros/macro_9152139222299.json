@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/9152139222299.json",
+  "id": 9152139222299,
+  "title": "Airbitz - Recover with edge.app/recovery",
+  "active": true,
+  "updated_at": "2023-08-02T21:07:55Z",
+  "created_at": "2022-09-27T12:16:38Z",
+  "default": false,
+  "position": 135,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi, thanks for reaching out!</p><p><br>If you have an older Airbitz account, you should be able to login to Edge with the same account credentials that you use with Airbitz. If you cannot log into the Edge app for some reason, you may need to follow this more complex procedure:<br><br>Go to <a href=\"http://edge.app/recovery\" target=\"_blank\" rel=\"noreferrer\" data-nofollow=\"true\">edge.app/recovery</a><br></p><ol dir=\"auto\"><li>Set the Coin to:&nbsp; <b>BTC - Bitcoin</b>&nbsp; (may already be inputted by default)</li><li>Enter your private seed from Airbitz format into the P<b>rivate Key Hex</b>&nbsp;field</li><li>Go down to Derivation Path and select the first tab: <b>BIP32</b></li><li>Set the BIP32 Derivation Path&nbsp;to:&nbsp; <b>m/0/0</b></li><li>Continue down the list to locate the address that has funds in it to sweep</li></ol><p><br></p><p>If you cannot find the address with your funds in it, we can help you locate it with the XPUB:</p><p>In Airbitz, to find your xpub or&nbsp;&nbsp;<b style=\"font-family: system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, Arial, sans-serif;\">Wallet Public Seed:</b></p><ul dir=\"auto\"><li>iOS:&nbsp; Menu --&gt; WALLETS --&gt; Export (looks like a square with an arrow) --&gt; Wallet Public Seed (XPub) --&gt; View&nbsp;</li></ul><div class=\"zd-indent\" style=\"margin-left: 0px;\"><ul dir=\"auto\"><li>Android: Tap the three vertically aligned dots (top-right) --&gt; Export --&gt; Wallet Public Seed (XPub) --&gt; View&nbsp;</li></ul><p><br></p><p>Send us this public key and we can help you locate any funds associated with this wallet.</p><p><br></p></div><p>Once you find the private keys with funds on them, you can hover your mouse cursor over each key to display its QR code, and you can use the 'Scan QR' feature found in the main menu (≡) of Edge to easily sweep the BTC into a fresh wallet created in Edge.</p><p><br></p><p>Let us know if you have any questions.</p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hi, thanks for reaching out!\n\nIf you have an older Airbitz account, you should be able to login to Edge using the same account credentials that you use to login with Airbitz. If you cannot log into the Edge app for some reason, you may need to follow this more complex procedure:\n\nGo to https://edge.app/recovery\n1. Set the Coin to:  BTC - Bitcoin  (may already be inputted by default)\n2. Enter your private seed from Airbitz format into the Private Key Hex field\n3. Go down to Derivation Path and select the first tab: BIP32\n4. Set the BIP32 Derivation Path to:  m/0/0\n5. Continue down the list to locate the address that has funds in it to sweep\n\nIf you cannot find the address with your funds in it, we can help you locate it with your XPUB:\nIn Airbitz, to find your xpub or Wallet Public Seed:\n - For iOS:  Menu --> WALLETS --> Export (looks like a square with an arrow) --> Wallet Public Seed (XPub) --> View \n - Android: Tap the three vertically aligned dots (top-right) --> Export --> Wallet Public Seed (XPub) --> View \n\nSend us this public key and we can help you locate any funds associated with this wallet.\n\nOnce you find the private keys with funds on them, you can hover your mouse cursor over each key to display its QR code, and then you can use the 'Scan QR' feature found in the main menu (≡) of Edge to easily sweep the BTC into a fresh wallet created in Edge.\n\nLet us know if you have any questions."
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "import_issue"
+    },
+    {
+      "field": "custom_fields_10768400573083",
+      "value": "true"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Airbitz - Recover with edge.app/recovery"
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/27001747570971.json",
+  "id": 27001747570971,
+  "title": "hes",
+  "active": true,
+  "updated_at": "2024-06-29T17:05:34Z",
+  "created_at": "2024-06-29T17:05:34Z",
+  "default": false,
+  "position": 322,
+  "description": "Hello! From [agent] with Edge Support. (opener for texts and social channels)",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hello! This is {{current_user.first_name}} with Edge Support.&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hello! This is {{current_user.first_name}} with Edge Support. "
+    }
+  ],
+  "restriction": null,
+  "raw_title": "hes"
+}

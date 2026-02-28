@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/23548865460507.json",
+  "id": 23548865460507,
+  "title": "Tether-BSC",
+  "active": true,
+  "updated_at": "2024-03-06T20:40:16Z",
+  "created_at": "2024-03-06T20:40:16Z",
+  "default": false,
+  "position": 272,
+  "description": "contract details for custom adding the USDT token on binance smart chain",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Here are the details for the USDT token contract on BSC -<br><br>Token Code:&nbsp;USDT<br>Token Name:&nbsp;Binance Pegged USDT<br>Contract Address: 0x55d398326f99059fF775485246999027B3197955<br>Number of Decimal Places: 18<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Here are the details for the USDT token contract on BSC -\n\nToken Code: USDT\nToken Name: Binance Pegged USDT\nContract Address: 0x55d398326f99059fF775485246999027B3197955\nNumber of Decimal Places: 18"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Tether-BSC"
+}

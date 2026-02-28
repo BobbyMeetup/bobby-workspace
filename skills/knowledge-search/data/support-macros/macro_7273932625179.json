@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7273932625179.json",
+  "id": 7273932625179,
+  "title": "SMART - deprecated recover in core",
+  "active": true,
+  "updated_at": "2023-02-01T22:43:29Z",
+  "created_at": "2022-07-12T20:50:28Z",
+  "default": false,
+  "position": 89,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>SMART support has been removed.&nbsp;</p><p>If you would like to recover your funds you can do so by extracting the private key and importing into a core wallet or wallet of your choice. One suggestion for a wallet would be <a href=\"https://smartcash.cc/wallets/#electrum\" target=\"_blank\" rel=\"noreferrer\">https://smartcash.cc/wallets/#electrum</a>.</p><p><br></p><p>To access your private key tap and hold on your SMART wallet from the main wallet list and then tap on \"Master Private Key\" input that key into the core wallet. NOTE: do not store this key online anyone with access to that key can access your funds.&nbsp;</p><p><br></p><p>If you need assistance please reach out.&nbsp;</p><p><br></p><p><br></p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "SMART - deprecated recover in core"
+}

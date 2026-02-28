@@ -1,0 +1,22 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/26534907811995.json",
+  "id": 26534907811995,
+  "title": "Split Wallet J",
+  "active": true,
+  "updated_at": "2024-06-12T17:49:48Z",
+  "created_at": "2024-06-12T17:49:48Z",
+  "default": false,
+  "position": 314,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge has streamlined a solution for these cases. We're calling the 'Split Wallet' feature, and here is an example of recovering ETH funds sent along the Ethereum main network, into a Fantom (ETH) wallet address in Edge:</p><ol><li>Locate the receiving wallet with the address that matches where the funds were sent - \"Mis Fantom\" in this case</li><li>Tap into this parent wallet, then on the three vertical dots (⋮) to access this wallet's menu.</li><li>Find the option to 'Split'</li><li>Now select the network or blockchain that funds were sent on (ETH main network).&nbsp;</li></ol><p>This will create a new wallet with the same address, on the appropriate network where you will see your funds!</p><p>Please let us know if you have any more questions on this.</p><p><br></p>"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 26105022686363
+  },
+  "raw_title": "Split Wallet J"
+}

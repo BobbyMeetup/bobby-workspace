@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/23825663496731.json",
+  "id": 23825663496731,
+  "title": "Thorswap/Savers support (discord)",
+  "active": true,
+  "updated_at": "2024-03-14T19:16:37Z",
+  "created_at": "2024-03-14T19:14:04Z",
+  "default": false,
+  "position": 277,
+  "description": null,
+  "actions": [
+    {
+      "field": "custom_fields_6991267185435",
+      "value": "thorchain"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>If you would like to get direct assistance regarding your Thorchain Savers Stake, or any Thorchain swaps, you may reach their #support-desk from the main THORSwap Discord server, located here: <a href=\"https://discord.gg/thorswap\" target=\"_blank\" rel=\"noreferrer\">https://discord.gg/thorswap</a>&nbsp;- they may be able to provide better insights into any errors that occur while using Thorchain protocols/dapps and be able to recommend the best remedy for the situation.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "If you would like to get direct assistance regarding your Thorchain Savers Stake, or any Thorchain swaps, you may reach their #support-desk from the main THORSwap Discord server, located here: https://discord.gg/thorswap - they may be able to provide better insights into any errors that occur while using Thorchain protocols/dapps and be able to recommend the best remedy for the situation.\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Thorswap/Savers support (discord)"
+}

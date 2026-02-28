@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/19617595094043.json",
+  "id": 19617595094043,
+  "title": "Account - PIN fail (Error 500)",
+  "active": true,
+  "updated_at": "2023-10-16T19:50:13Z",
+  "created_at": "2023-10-16T19:50:13Z",
+  "default": false,
+  "position": 221,
+  "description": null,
+  "actions": [
+    {
+      "field": "subject",
+      "value": "Login fail"
+    },
+    {
+      "field": "set_tags",
+      "value": "login__auth_server__error_"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Our login server is currently under a heavy load which is producing the error 500. We are aware of this issue and will have it resolved soon. You can still login using your full password or biometric login if enabled. Please let me know if you have any questions.&nbsp;</p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Account - PIN fail (Error 500)"
+}

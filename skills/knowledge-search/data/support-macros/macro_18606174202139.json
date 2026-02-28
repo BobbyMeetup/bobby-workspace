@@ -1,0 +1,34 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/18606174202139.json",
+  "id": 18606174202139,
+  "title": "Login fail - attempt again",
+  "active": true,
+  "updated_at": "2023-10-27T22:14:49Z",
+  "created_at": "2023-09-07T22:39:15Z",
+  "default": false,
+  "position": 191,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>The submitted form is missing information.</p><p>&nbsp;Please resubmit if you still need access to your account.&nbsp;</p><p>Edge is a zero knowledge app and does not have access to or maintain any information about its users. If recovery questions were not set up and you do not remember your password, we cannot recover the username or password for you since Edge does not have access.</p><p>With that being said, we recommend that you start a spreadsheet in which you write down all possible usernames and passwords that you think you may have used, and you test them. We have had multiple users regain access to their accounts by using this method.</p><p>To test if the account name is correct, you can try creating a new account. If account creation proceeds, then the account name is not the one you used because Edge does not allow users to have the same account name. However, suppose account creation does not proceed. In that case, there is a possibility that the username you tested could be your original username.</p><p>Regarding account setup, the only username requirement that Edge has is that the username is at least three characters long. The username can be any combination of letters, numbers, or symbols.</p><p>For the password, the requirements are as follows:</p><p>- Must have at least one upper case letter</p><p>- Must have at least one lower case letter</p><p>- Must have at least one number</p><p>- Must have at least ten characters</p><p>By utilizing the method detailed above, we have had multiple users regain access to their accounts.<br><br> </p><p>It is possible for us to send you an encrypted wallet file for this account. If you are interested, a few security questions need to be answered before we can send the file. Please understand that this file still requires the entire password before you would be able to access to the account, but in this&nbsp;format, you can use other tools or services to brute force the password.</p><p>Please answer the following questions:</p><p>1. What is the username of the account?</p><p>2. When was the account created? Give month and year within three months.&nbsp;</p><p>3. When was the account last logged in? Give month and year within three months.&nbsp;</p><p>4. What location do you normally access the account?</p><p>After receiving your answers to verify their accuracy and your ownership of the account, we will need to wait for 30 days, and if there are no other/new logins made to this account, then we will then send you this Login Package or encrypted wallet file.&nbsp;This encrypted Login Package is well-suited for a brute-force service such as&nbsp;<a href=\"http://walletrecoveryservices.com/\" target=\"_blank\" rel=\"noreferrer\">walletrecoveryservices.com</a>&nbsp;where they can run specialized software to make ~10,000 password guesses per second until they can unlock the account. They do not charge fees unless they are successful, in which case they'll charge 20% of the assets they're able to recover.</p><p><br></p>"
+    },
+    {
+      "field": "subject",
+      "value": "Login Package"
+    },
+    {
+      "field": "assignee_id",
+      "value": "1904053440604"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 1904053440604
+  },
+  "raw_title": "Login fail - attempt again"
+}

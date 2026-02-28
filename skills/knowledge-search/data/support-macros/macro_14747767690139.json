@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/14747767690139.json",
+  "id": 14747767690139,
+  "title": "current version? (updateapp)",
+  "active": true,
+  "updated_at": "2025-08-05T19:56:40Z",
+  "created_at": "2023-04-20T19:01:54Z",
+  "default": false,
+  "position": 158,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Could you please confirm the version number of Edge that you're running?<br>&nbsp;</p><p>To check: open Edge, tap 'Help' in the top corner, and look to the bottom of this menu.</p><p>&nbsp;</p><p>If you are not yet on the latest version (v4.33), please look for this update in your app store or click the appropriate download link from here: <a href=\"https://dl.edge.app/\">https://dl.edge.app/</a></p><p>&nbsp;</p><p>DO NOT DELETE THE APP while updating - this would clear the app's memory completely and you will need the full username, password, and 2FA code for your account to quickly regain access from an fresh installation.</p><p>&nbsp;</p><p>With this new version installed, can you see if the issue still persists?</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Could you please confirm the version number of Edge that you're running?\n\nTo check: open Edge, tap 'Help' in the top corner, and look to the bottom of this menu.\n\nIf you are not yet on the latest version (v4.33), please look for this update in your app store, or click the appropriate download link from here: https://dl.edge.app/\n\nDO NOT DELETE THE APP while updating - this would clear the app's memory completely and you will need the full username, password, and 2FA code for your account to quickly regain access from an fresh installation.\n\nWith this new version installed, can you see if the issue still persists?"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "current_tags",
+      "value": "version-check"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "current version? (updateapp)"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7273973979291.json",
+  "id": 7273973979291,
+  "title": "Wallet - Address change (HD wallet)",
+  "active": true,
+  "updated_at": "2023-02-01T22:43:13Z",
+  "created_at": "2022-07-12T20:51:09Z",
+  "default": false,
+  "position": 90,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge generates a new address every time you receive a transaction. This is a privacy feature and it makes it much more difficult for a sender to determine your entire wallet balance. When the app generates a new address, it still keeps track of all of your old addresses and you'll still see every payment sent to them.&nbsp;</p><p><br></p><p>While we recommend that you use a new address for every transaction, you can reuse old addresses as many times&nbsp;as you'd like.</p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - Address change (HD wallet)"
+}

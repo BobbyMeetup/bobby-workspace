@@ -1,0 +1,26 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/32410767139611.json",
+  "id": 32410767139611,
+  "title": "somebody guiding",
+  "active": true,
+  "updated_at": "2025-01-02T09:02:00Z",
+  "created_at": "2025-01-02T09:02:00Z",
+  "default": false,
+  "position": 386,
+  "description": null,
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "scam-likely"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p><i>If somebody is guiding you into cryptocurrency, please take a moment to consider their motives.</i></p>"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 26105022686363
+  },
+  "raw_title": "somebody guiding"
+}

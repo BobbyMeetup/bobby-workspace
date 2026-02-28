@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/28053985341595.json",
+  "id": 28053985341595,
+  "title": "three horizontal lines",
+  "active": true,
+  "updated_at": "2024-08-06T21:20:12Z",
+  "created_at": "2024-08-06T21:18:54Z",
+  "default": false,
+  "position": 333,
+  "description": "≡",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>&nbsp;tap the three horizontal lines (≡)&nbsp;in upper-right of screen to access side menu</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": " tap the three horizontal lines (≡) in upper-right of screen to access side menu"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "three horizontal lines"
+}

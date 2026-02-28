@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/18686048026907.json",
+  "id": 18686048026907,
+  "title": "Wallet - How to Import",
+  "active": true,
+  "updated_at": "2025-03-12T00:07:12Z",
+  "created_at": "2023-09-11T17:12:21Z",
+  "default": false,
+  "position": 206,
+  "description": "",
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "import wallet"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>To import a wallet,</p><p><br></p><ol dir=\"auto\"><li>Click on the '+' near the top of your Assets list</li><li>Then choose the type of wallet that you want to import and tap 'Next'</li><li>Here, you may rename the wallet if you'd like for your internal organization (can be done later)</li><li>And now, instead of tapping on the 'Create Wallets' button, you'll want to tap below that, on 'Import Wallets'</li><li>Proceed to paste your private key, or input your seed words, all lowercase, single space in-between</li></ol><p><br></p><p>Please be aware that imported wallets do not have the same level of protection as a new wallet that is created inside of Edge, which would have its own, unique seed phrase or private key that's never been exposed before.<br></p><p><br></p><p>Let me know if you have any more questions!</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "To import a wallet,\n\n1) Click on the '+' near the top of your Assets list\n2) Then choose the type of wallet that you want to import and tap 'Next'\n3) Here, you may rename the wallet if you'd like for your internal organization (can be done later)\n4) And now, instead of tapping on the 'Create Wallets' button, you'll want to tap below that, on 'Import Wallets'\n5) Proceed to paste your private key, or input your seed words, all lowercase, single space in-between\n\nPlease be aware that imported wallets do not have the same level of protection as a new wallet that is created inside of Edge, which would have its own, unique seed phrase or private key that's never been exposed before.\n\nLet me know if you have any more questions!\n"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - How to Import"
+}

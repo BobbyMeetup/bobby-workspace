@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/20864503198619.json",
+  "id": 20864503198619,
+  "title": "toogoodtobetrue",
+  "active": true,
+  "updated_at": "2023-12-01T22:13:38Z",
+  "created_at": "2023-12-01T22:13:38Z",
+  "default": false,
+  "position": 240,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>And as a general rule, whenever someone is pushing an opportunity onto you, and it's characterized by either 'fast' and/or 'easy' profits -- this is almost 100% of the time, this is a scam. Money needs to be legitimately produced for an investment to have merit, and that will require doing your own research (DYOR) to ensure that you are consciously aware that you are extending your trust to someone who may not rightfully deserve it.</p><p><br></p><p>Please let me know if you have any questions. If you have any links or screenshots that you may want to share with me, I will research into them for you and try to provide more insight into what's really going on with this project.<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "And as a general rule, whenever someone is pushing an opportunity onto you, and it's characterized by either 'fast' and/or 'easy' profits -- this is almost 100% of the time, this is a scam. Money needs to be legitimately produced for an investment to have merit, and that will require doing your own research (DYOR) to ensure that you are consciously aware that you are extending your trust to someone who may not rightfully deserve it.\n\nPlease let me know if you have any questions. Or, if you have any links or screenshots that you may want to share with me, I will research into them for you and try to provide more insight into what's really going on with this project.\n\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "toogoodtobetrue"
+}

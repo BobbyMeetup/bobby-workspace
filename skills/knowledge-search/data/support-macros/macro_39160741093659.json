@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/39160741093659.json",
+  "id": 39160741093659,
+  "title": "captcha-struggle",
+  "active": true,
+  "updated_at": "2025-07-21T02:55:39Z",
+  "created_at": "2025-07-21T02:55:39Z",
+  "default": false,
+  "position": 461,
+  "description": "general tips for passing CAPTCHA",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "captcha_issue"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Especially when logging in from a foreign device or IP address, you might be prompted to solve a CAPTCHA in order to attempt your account login. This can be challenging and requires 100% accuracy as you move through each test. One wrong answer and the whole series will need to be attempted again.</p><p>&nbsp;</p><p>Take your time to slowly go through each, selecting all applicable images before proceeding. If you still are struggling to pass the tests, or some error is present, please let us know and we'll troubleshoot this further with you.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Especially when logging in from a foreign device or IP address, you might be prompted to solve a CAPTCHA in order to attempt your account login. This can be challenging and requires 100% accuracy as you move through each test. One wrong answer and the whole series will need to be attempted again.\n\nTake your time to slowly go through each, selecting all applicable images before proceeding. If you still are struggling to pass the tests, or some error is present, please let us know and we'll troubleshoot this further with you."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "captcha-struggle"
+}

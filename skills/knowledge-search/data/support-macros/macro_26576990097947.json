@@ -1,0 +1,19 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/26576990097947.json",
+  "id": 26576990097947,
+  "title": "btc-fee-whatis",
+  "active": true,
+  "updated_at": "2024-06-13T21:54:23Z",
+  "created_at": "2024-06-13T21:54:23Z",
+  "default": false,
+  "position": 317,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Bitcoin fees will fluctuate drastically from day to day in relation to network activity, but they are typically the lowest during the middle of the night (US timezone) and on Saturdays. Cryptocurrency transactions are processed in an order dependent on the fee rate which was selected at the time the transaction was placed. Therefore, choosing a low fee in relation to the current fee rate could result in significant delays, while all the high-fee pending transactions get prioritized and processed first.<br><br>Use this website at any time to identify the current suggested fee rate, view the status of a pending transaction, or see the backlog of other transactions that are awaiting confirmation (known as the mempool): <a href=\"https://mempool.space\" target=\"_blank\" rel=\"noreferrer\">https://mempool.space</a><br></p>"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "btc-fee-whatis"
+}

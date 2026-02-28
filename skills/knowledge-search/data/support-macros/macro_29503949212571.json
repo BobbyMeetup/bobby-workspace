@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/29503949212571.json",
+  "id": 29503949212571,
+  "title": "api-request",
+  "active": true,
+  "updated_at": "2024-09-24T22:50:12Z",
+  "created_at": "2024-09-24T22:50:12Z",
+  "default": false,
+  "position": 352,
+  "description": null,
+  "actions": [
+    {
+      "field": "assignee_id",
+      "value": "1904053440604"
+    },
+    {
+      "field": "current_tags",
+      "value": "api_request"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "internally_resolved"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Before we generate an API key for you, please provide us with:</p><ol><li>your preferred email address to associate with this API access key, and</li><li>a brief description of how you plan to use it</li></ol>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Before we generate an API key for you, please provide us with:\n  1. your preferred email address to associate with this key, and\n  2. a brief description of how you plan to use it\n\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "api-request"
+}

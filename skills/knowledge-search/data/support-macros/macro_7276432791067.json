@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7276432791067.json",
+  "id": 7276432791067,
+  "title": "Wallet - How to delete/archive/restore/disable a wallet ",
+  "active": true,
+  "updated_at": "2024-11-09T17:00:04Z",
+  "created_at": "2022-07-12T22:04:42Z",
+  "default": false,
+  "position": 99,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>To Archive or Disable any unwanted wallets and remove them from your Assets page, please follow these steps:<br><br>1. Log into Edge and tap on the Assets tab at the bottom to view your list of wallets.</p><p>2. Find the wallet you want to remove, then hold down or long-press on it to pull up its menu.<br><i>&nbsp; (Alternatively: you can tap into the wallet &amp; use the three vertical dots in the upper-right to access this menu)</i></p><p>3. Tap on \"Archive Wallet\" or \"Disable Token\" and confirm.</p><p>&nbsp;</p><p>Note:</p><p>- Archiving a parent wallet will automatically disable any token wallets associated with it.</p><p>- To restore any archived or disabled wallets that have been archived, use the 'Restore Wallets' button at the bottom of your list of wallets on the Assets page.</p><p>&nbsp;</p><p>Let us know if you have any further questions.</p><p>&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "To Archive or Disable any unwanted wallets and remove them from your Assets page, please follow these steps:\n\n\n1. Log into Edge and tap on the Assets tab at the bottom to view your list of wallets.\n\n2. Find the wallet you want to remove, then hold down or long-press on it to pull up its menu.\n  (Alternatively: you can tap into the wallet & use the three vertical dots in the upper-right to access this menu)\n\n3. Tap on \"Archive Wallet\" or \"Disable Token\" and confirm.\n\n\n\nNote:\n- Archiving a parent wallet will automatically disable any token wallets associated with it.\n- To restore any archived or disabled wallets that have been archived, use the 'Restore Wallets' button at the bottom of your list of wallets on the Assets page.\n\nLet us know if you have any further questions."
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "current_tags",
+      "value": "general_inquiry archive_wallets has_account"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "wallet"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - How to delete/archive/restore/disable a wallet "
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/18539109654939.json",
+  "id": 18539109654939,
+  "title": "Exchange - External Partner Links",
+  "active": true,
+  "updated_at": "2023-10-03T17:39:08Z",
+  "created_at": "2023-09-05T21:05:30Z",
+  "default": false,
+  "position": 203,
+  "description": "quick agent access to Edge ref links for external swaps",
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "external_swap_link"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>If you are having trouble accessing our exchange services from within the app, you can still access these services, particularly for coins that may currently be disabled in-app with these dedicated links:<br><br><a href=\"https://changehero.io/?ref=581574809c2448ad832fa2f9d3fe4cb8\" target=\"_blank\" rel=\"noreferrer\">ChangeHero</a>&nbsp;(support for BSV)</p><p><br></p><p><a href=\"https://changenow.app.link/referral?link_id=db30644774551b\" target=\"_blank\" rel=\"noreferrer\">ChangeNow</a>&nbsp;(support for BSV)</p><p><br></p><p><a href=\"https://letsexchange.io/?ref_id=TEFfWjFDyDkhnrlR\" target=\"_blank\" rel=\"noreferrer\">Let's Exchange</a>&nbsp;(support for ARRR)</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "If you are having trouble accessing our exchange services from within the app, you can still access these services, particularly for coins that may currently be disabled in-app with these dedicated links:\n\nChangeHero (https://changehero.io/?ref=581574809c2448ad832fa2f9d3fe4cb8) *support for BSV\n\nChangeNow (https://changenow.app.link/referral?link_id=db30644774551b) *support for BSV\n\nLet's Exchange (https://letsexchange.io/?ref_id=TEFfWjFDyDkhnrlR) *support for ARRR"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Exchange - External Partner Links"
+}

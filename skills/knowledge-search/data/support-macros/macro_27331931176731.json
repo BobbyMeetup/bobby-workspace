@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/27331931176731.json",
+  "id": 27331931176731,
+  "title": "Mt.Pelerin - Contact support",
+  "active": true,
+  "updated_at": "2024-07-12T00:14:06Z",
+  "created_at": "2024-07-12T00:10:10Z",
+  "default": false,
+  "position": 325,
+  "description": "",
+  "actions": [
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "mtpelerin"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge is a zero-knowledge app, so we don't have access to the information you share with our exchange partners.</p><p><br>For support with a recent order or to update any personal information on file with the Mt. Pelerin exchange, please reach out to them here: <a href=\"https://mtpelerin.com/contact\">https://mtpelerin.com/contact</a> - or send an email directly to: <a href=\"mailto:hello@mtpelerin.com\">hello@mtpelerin.com</a></p><p>&nbsp;</p><p>&nbsp;</p><p>Their support database &amp; FAQ may also help you find the answer you're looking for, located here: <a href=\"https://mtpelerin.com/support\">https://mtpelerin.com/support</a></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Edge is a zero-knowledge app, so we don't have access to the information you share with our exchange partners.\n\nFor support with a recent order or to update any personal information on file with the Mt. Pelerin exchange, please reach out to them here: https://mtpelerin.com/contact - or send an email directly to: hello@mtpelerin.com\n \n\nA support database & FAQ may also help you find the answer you're looking for, located here: https://mtpelerin.com/support"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Mt.Pelerin - Contact support"
+}

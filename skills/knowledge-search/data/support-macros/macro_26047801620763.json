@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/26047801620763.json",
+  "id": 26047801620763,
+  "title": "showinexplorer",
+  "active": true,
+  "updated_at": "2024-05-25T15:40:16Z",
+  "created_at": "2024-05-25T15:40:16Z",
+  "default": false,
+  "position": 304,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>To view this wallet on the block explorer yourself, open Edge to your Assets page, and tap into the wallet that you want to investigate closer. Tap on Receive, and once you see the wallet's QR image, tap on the text address just below it. Then tap OK to Show Address in Block Explorer. This will bring you to a webpage where you can get a top-down view of any on-chain activity associated with this wallet address.<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "To view this wallet on the block explorer yourself, open Edge to your Assets page, and tap into the wallet that you want to investigate closer. Tap on Receive, and once you see the wallet's QR image, tap on the text address just below it. Then tap OK to Show Address in Block Explorer. This will bring you to a webpage where you can get a top-down view of any on-chain activity associated with this wallet address.\n\n"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "showinexplorer"
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/17555946811547.json",
+  "id": 17555946811547,
+  "title": "QR-login",
+  "active": true,
+  "updated_at": "2023-07-31T18:54:44Z",
+  "created_at": "2023-07-31T18:52:44Z",
+  "default": false,
+  "position": 191,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "forgot_username/password"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "account"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>The easiest way to login to a new device, would be from an old device that's already logged in. To do this, follow these steps:</p><ol><li>On the <i>new</i> device, open Edge up to the login screen and tap the little QR symbol at the bottom (underneath the words \"Create an Account\")</li><li>On the <i>old</i> device, open Edge and login. (You might be able to use your PIN or biometrics to bypass the password if you don't remember it)</li><li>Once logged in, open the main menu (≡) at the top right, and select \"Scan QR\"</li><li>Scan the <i>new</i> device's login QR with your <i>old</i> device, and you will permission your new device to be logged in with your old account. (You may reset the password now if you did not remember it)</li></ol>"
+    },
+    {
+      "field": "comment_value",
+      "value": "The easiest way to login to a new device, would be from an old device that's already logged in. To do this, follow these steps:\n1. On the new device, open Edge up to the login screen and tap the little QR symbol at the bottom (underneath the words \"Create an Account\")\n2. On the old device, open Edge and login. (You might be able to use your PIN or biometrics to bypass the password if you don't remember it)\n3. Once logged in, open the main menu (≡) at the top right, and select \"Scan QR\"\n4. Scan the new device's login QR with your old device, and you will permission your new device to be logged in with your old account. (You may reset the password now if you did not remember it)"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "QR-login"
+}

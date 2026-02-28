@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7245131581595.json",
+  "id": 7245131581595,
+  "title": "Exchange - Exchange Order Status",
+  "active": true,
+  "updated_at": "2023-08-23T21:12:52Z",
+  "created_at": "2022-07-11T21:09:23Z",
+  "default": false,
+  "position": 66,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge is a private application, and we cannot see orders created in the app.</p><p>​</p><p>In the notes of the outgoing transaction, you'll find your order details and a link to check on the exchange status. Tap on that to review the status page. Let us know what you see here, and we'll try to provide more insight. You may need to reach out directly to them for support  for with this transaction.<br><br>Please let us know if you have trouble finding this exchange status page, or if you are unable to resolve this through direct support with the exchange.&nbsp;<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Edge is a private application, and we cannot see orders created in the app.\n​\nIn the notes of the outgoing transaction, you'll find your order details and a link to check on the exchange status. Tap on that to review the status page. Let us know what you see here, and we'll try to provide more insight. You may need to reach out directly to them for support for with this transaction.\n\nPlease let us know if you have trouble finding this exchange status page, or if you are unable to resolve this through direct support with the exchange. "
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987701197339"
+    },
+    {
+      "field": "custom_fields_6991553191067",
+      "value": "unable_to_exchange/swap_error"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Exchange - Exchange Order Status"
+}

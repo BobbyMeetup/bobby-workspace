@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/15578671163547.json",
+  "id": 15578671163547,
+  "title": "coinstructive-referral ",
+  "active": true,
+  "updated_at": "2023-06-05T22:10:20Z",
+  "created_at": "2023-05-18T23:09:50Z",
+  "default": false,
+  "position": 174,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987639498651"
+    },
+    {
+      "field": "remove_tags",
+      "value": "referred_to_service_outside_of_edge coinstructive"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>If you believe that your coins have been stolen by an attacker, we can refer you to a blockchain forensic analyst that specializes in tracing stolen funds. They will do a free consultation with you to share more about how they work, and what options you have, given your specific circumstances. The chances of recovering stolen crypto are generally low, but I would encourage you start conversation with them if you'd like to pursue these coins -- <a href=\"https://coinstructive.com/investigations/\" target=\"_blank\" rel=\"noreferrer\">https://coinstructive.com/investigations/</a><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "If you believe that your coins have been stolen by an attacker, we can refer you to a blockchain forensic analyst that specializes in tracing stolen funds. They will do a free consultation with you to share more about how they work, and what options you have, given your specific circumstances. The chances of recovering stolen crypto are generally low, but I would encourage you start conversation with them if you'd like to pursue these coins -- https://coinstructive.com/investigations/"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "coinstructive-referral "
+}

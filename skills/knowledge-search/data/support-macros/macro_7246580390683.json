@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7246580390683.json",
+  "id": 7246580390683,
+  "title": "FTM - FTM Bridge",
+  "active": false,
+  "updated_at": "2024-02-27T17:48:37Z",
+  "created_at": "2022-07-11T22:09:43Z",
+  "default": false,
+  "position": 73,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>If you want to sell your FTM (ERC-20) you can do so by visiting Changelly.com and then selecting FTM as your deposit currency. Go through the normal steps of an exchange to sell your FTM.&nbsp;</p><p>If your intentions were to receive the FTM (Opera) coin and you received FTM (ERC-20) you will need to use a “Bridge” to get your coins converted.&nbsp;</p><p>To use the FTM bridge please follow these steps:</p><ol><li>Tap to go inside of your FTM wallet (the wallet that accidentally received the FTM ERC-20) and tap on the gear icon (located upper right side) and a new menu will pop up.<br></li><li>Tap on master private key and then enter your password. From here you will have to write down the private key and you will be inputting it into MetaMask. <b>(NOTE: Exposing your private key does come with some risk. Never store your private key digitally or share it with anyone)</b> <br></li><li>Now that the private key is noted please download MetaMask, the browser extension is preferred as a computer will make this experience much easier.<br></li><li>Create an account (follow all instructions to safely backup your MetaMask account).&nbsp;<br></li><li>Once the account is created you will then tap on the Menu (typically the colored circle) and then tap “Import Wallet”.<br></li><li>Enter the private key into MetaMask. Your token FTM ERC-20 will now show in that wallet.&nbsp;<br></li><li>You will need to add ETH to the wallet that contains your FTM ERC-20. To do so you can add from Edge by tapping “Buy” and purchasing ETH or you can acquire some from a third party, or if you already have ETH simply send some to that wallet. The correct amount of ETH depends on network congestion however around $10 should be enough.&nbsp;<br></li></ol><p><br></p><p>To use the bridge visit <a href=\"https://multichain.xyz/\" target=\"_blank\" rel=\"noreferrer\">https://multichain.xyz/</a> or <a href=\"https://spookyswap.finance/bridge\" target=\"_blank\" rel=\"noreferrer\">https://spookyswap.finance/bridge</a></p><p>If you’re using <a href=\"https://spookyswap.finance/bridge\" target=\"_blank\" rel=\"noreferrer\">https://spookyswap.finance/bridge</a></p><ol><li>Connect your MetaMask wallet.<br></li><li>Select your token on the left side and then select the Opera or Fantom Chain on the right side.&nbsp;<br></li><li>Next to the text “Token to Bridge”&nbsp; tap MAX to send your total balance of FTM ERC-20 to exchange into FTM (Opera) now you can click “Bridge Token”&nbsp;<br></li><li>MetaMask will show a confirmation message that you will have to allow. (Note if this first confirmation doesn’t work you may need to re-initiate the transaction).<br></li></ol><p>If you’re using <a href=\"https://multichain.xyz/\" target=\"_blank\" rel=\"noreferrer\">https://multichain.xyz/</a></p><ol><li>Connect your meta mask and then select the ETH or ERC-20 version of Fantom as the top wallet and the FTM main net or FTM Opera as the bottom wallet.&nbsp;<br></li><li>Click on transfer and you will then see a confirmation screen show from MetaMask. Confirm the transaction<br></li></ol><p>Give the process some time as it can take a long time. You can check your transaction using the transaction ID within MetaMask. You can find this in your transaction history of your ETH wallet.&nbsp;</p><p>If you need any assistance or have any questions about this process please let us know.&nbsp;</p><p><br></p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "FTM - FTM Bridge"
+}

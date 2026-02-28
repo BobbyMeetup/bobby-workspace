@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7183776861083.json",
+  "id": 7183776861083,
+  "title": "Scam - Person has been scammed ",
+  "active": true,
+  "updated_at": "2025-06-18T13:21:15Z",
+  "created_at": "2022-07-08T19:43:06Z",
+  "default": false,
+  "position": 4,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>I am sorry that you were a victim of a scam.</p><p>Cryptocurrency transactions are not reversible which is why bad actors elect to use digital assets like BTC.</p><p>From this point on, the only way to get your money back is from the organization that took it or by pursuing legal means of recourse.</p><p>&nbsp;</p><p>We always advise filing a report with your local law enforcement so there is a record of what happened.</p><p>You may want to consider reviewing this article: <a href=\"https://support.edge.app/hc/en-us/articles/15900906321051-I-ve-been-victim-of-a-scam-What-should-I-do\">I've been victim of a scam! What should I do?</a></p><p>&nbsp;</p><p>For additional support you can submit your case here: https://www.chainabuse.com/report?source=edge</p><p>Chainabuse collects scam issues and is a great resource of information.</p><p>&nbsp;</p><p>If you have any questions please let me know.</p>"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987639498651"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "current_tags",
+      "value": "scam"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Scam - Person has been scammed "
+}

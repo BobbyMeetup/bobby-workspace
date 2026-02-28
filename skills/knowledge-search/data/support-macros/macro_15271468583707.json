@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/15271468583707.json",
+  "id": 15271468583707,
+  "title": "BTC - Pending BTC (Temp ordinals)",
+  "active": true,
+  "updated_at": "2023-12-04T09:15:11Z",
+  "created_at": "2023-05-08T17:17:25Z",
+  "default": false,
+  "position": 164,
+  "description": "delete after ",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "pending/stuck_transaction"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "send"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>The Bitcoin network is very congested due to spam transactions taking place with a recent trend involving ordinals (<a href=\"https://docs.ordinals.com/\" target=\"_blank\" rel=\"noreferrer\">https://docs.ordinals.com/</a>). This is a BTC network issue and is not related to Edge. Many other wallets and services have halted transactions or  are getting transactions stuck as a result.<br></p><p>This recent surge in bitcoin usage is bringing the fees to a level we haven't seen since 2017.</p><p><br></p><p>Your transaction will either return to your wallet or confirm however it may take a very long time. <br></p><p>You can check the current fee levels here: <a href=\"https://mempool.space/\" target=\"_blank\" rel=\"noreferrer\">https://mempool.space/</a></p><p><br></p><p>If your transaction is stuck, you can try a Child-Pays-For-Parent (CPFP) transaction to potentially speed up a transaction.</p><p><b>Note: You will need a change address to perform a CPFP. </b>To check if the send has a change address tap on the pending transaction and then tap \"Advanced transaction details' then tap \"Show in explorer.\" <br></p><p>From here look at the recipient side, if you have two address there you have a change address (caution this may not be true for all apps but will be true for Edge). <br></p><p><br></p><p>To perform a CPFP transaction, please follow these steps:</p><p>​</p><p>1) From your Wallets screen, tap to enter the Bitcoin wallet with your pending transaction.</p><p>2) Tap on Receive, and then Copy your wallet address with the button at the bottom.</p><p>3) Go back once, to view your BTC wallet, and now tap on Send</p><p>4) Tap Paste on the far right to input your BTC address</p><p>5) Tap the Fee section, select High, or Custom to input a 'Satoshi Per Byte' value that is relatively high</p><p>&nbsp; --&nbsp; The current BTC fees can be seen here for you to reference: https://mempool.space/ --</p><p>6) Tap the Amount section and tap Max (sending all to self)</p><p>7) Now you can Slide to Confirm</p><p>​</p><p>By doing this 2nd transaction with a much higher fee, it will force the pending transaction with a low fee to be seen and acknowledged by the blockchain miners, along with this new transaction. Please give this a try if you want to speed things up - otherwise, you may need to wait hours or days for it to confirm if the Bitcoin network remains so busy.</p><p><br></p><p>Please let us know if you have any questions. <br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "The Bitcoin network is very congested due to spam transactions taking place with a recent trend involving ordinals (https://docs.ordinals.com/). This is a BTC network issue and is not related to Edge. Many other wallets and services have halted transactions or are getting transactions stuck as a result.\nThis recent surge in use of Bitcoin is bringing fees to a level we haven't seen since 2017.\n\nYour transaction will either return to your wallet or confirm however it may take a very long time.\nYou can check the current fee levels here: https://mempool.space/\n\nIf your transaction is stuck, you can try a Child-Pays-For-Parent (CPFP) transaction to potentially speed up a transaction.\nNote: You will need a change address to perform a CPFP. To check if the send has a change address tap on the pending transaction and then tap \"Advanced transaction details' then tap \"Show in explorer.\"\n\nFrom here look at the recipient side, if you have two address there you have a change address (caution this may not be true for all apps but will be true for Edge).\n\nTo perform a CPFP transaction, please follow these steps:\n​\n1) From your Wallets screen, tap to enter the Bitcoin wallet with your pending transaction.\n2) Tap on Receive, and then Copy your wallet address with the button at the bottom.\n3) Go back once, to view your BTC wallet, and now tap on Send\n4) Tap Paste on the far right to input your BTC address\n5) Tap the Fee section, select High, or Custom to input a 'Satoshi Per Byte' value that is relatively high\n  --  The current BTC fees can be seen here for you to reference: https://mempool.space/ --\n6) Tap the Amount section and tap Max (sending all to self)\n7) Now you can Slide to Confirm\n​\nBy doing this 2nd transaction with a much higher fee, it will force the pending transaction with a low fee to be seen and acknowledged by the blockchain miners, along with this new transaction. Please give this a try if you want to speed things up - otherwise, you may need to wait hours or days for it to confirm if the Bitcoin network remains so busy.\n\nPlease let us know if you have any questions."
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "BTC - Pending BTC (Temp ordinals)"
+}

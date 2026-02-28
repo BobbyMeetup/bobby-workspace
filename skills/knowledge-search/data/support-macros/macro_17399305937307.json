@@ -1,0 +1,55 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/17399305937307.json",
+  "id": 17399305937307,
+  "title": "negative-dust-error",
+  "active": true,
+  "updated_at": "2023-07-25T17:24:45Z",
+  "created_at": "2023-07-25T17:20:15Z",
+  "default": false,
+  "position": 187,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "unable_to_send"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "current_tags",
+      "value": "negative-dust-error"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "send"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "btc"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>This negative dust error happens when you are trying to send 0 btc.</p><p>Where it says -</p><p><br></p><p>&nbsp;Amount:</p><p>&nbsp;tap to edit</p><p><br></p><p>Click here and input a higher value for a successful send 🎉</p><p><br></p><p>If you have any other questions, feel free to message us anytime!</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "This negative dust error happens when you are trying to send 0 btc.\nWhere it says -\n\n Amount:\n tap to edit\n\nClick here and input a higher value for a successful send 🎉\n\nIf you have any other questions, feel free to message us anytime!"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "negative-dust-error"
+}

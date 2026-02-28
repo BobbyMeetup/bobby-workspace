@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/22752812909339.json",
+  "id": 22752812909339,
+  "title": "vmuh - user hangs-up",
+  "active": true,
+  "updated_at": "2024-06-09T00:14:01Z",
+  "created_at": "2024-02-08T02:26:38Z",
+  "default": false,
+  "position": 20,
+  "description": "inconclusive callback, user consciously rejects the call",
+  "actions": [
+    {
+      "field": "comment_mode_is_public",
+      "value": "false"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>- User intentionally rejects callback -&nbsp;</p><p>- maybe not aware that we're Edge -</p><p><br></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Inconclusive<br></p>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "unresponsive/inconclusive"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923888415643"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "subject",
+      "value": "{{ticket.requester.name}} Hangs Up - Inconclusive"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "vmuh - user hangs-up"
+}

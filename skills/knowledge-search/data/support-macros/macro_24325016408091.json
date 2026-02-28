@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/24325016408091.json",
+  "id": 24325016408091,
+  "title": "vmna - no answer / call rejected",
+  "active": true,
+  "updated_at": "2024-05-25T17:48:20Z",
+  "created_at": "2024-03-29T21:46:18Z",
+  "default": false,
+  "position": 21,
+  "description": "inconclusive due to \"No answer\" when calling back",
+  "actions": [
+    {
+      "field": "comment_mode_is_public",
+      "value": "false"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>- No Answer on callback -</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Inconclusive<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "- No Answer on callback -\n         Inconclusive"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "unresponsive/inconclusive"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923888415643"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "subject",
+      "value": "No Answer for {{ticket.requester.name}} - Inconclusive"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "vmna - no answer / call rejected"
+}

@@ -1,0 +1,63 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/25384655145115.json",
+  "id": 25384655145115,
+  "title": "Tron - Unstake claimable TRX",
+  "active": true,
+  "updated_at": "2024-05-02T17:44:56Z",
+  "created_at": "2024-05-02T17:44:56Z",
+  "default": false,
+  "position": 211,
+  "description": "how to claim TRX that was unstaked over 14 days ago",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "subject",
+      "value": "How to claim unstaked Tron (TRX)"
+    },
+    {
+      "field": "current_tags",
+      "value": "unstake"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "funds_never_arrived_receive"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_18541027654043",
+      "value": "navigation"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "tron"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>If you have unstaked some Tron, over 14 days ago, and it's now ready to be claimed - you can easily claim it with this process:<br><br>1. Login to Edge and tap into your TRX wallet with the claimable unstake</p><p>2. Tap on 'Earn' and then into the Energy or Bandwidth staking option</p><p>3. Tap on 'Claim Rewards'</p><p><i><br></i>Please let us know if you have any other questions!</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "If you have unstaked some Tron, over 14 days ago, and it's now ready to be claimed - you can easily claim it with this process:\n\n1. Login to Edge and tap into your TRX wallet with the claimable unstake\n2. Tap on 'Earn' and then into the Energy or Bandwidth staking option\n3. Tap on 'Claim Rewards'\n\nPlease let us know if you have any other questions!"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Tron - Unstake claimable TRX"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/12381386175387.json",
+  "id": 12381386175387,
+  "title": "iOS - Update past 12",
+  "active": true,
+  "updated_at": "2023-01-26T20:23:10Z",
+  "created_at": "2023-01-26T20:23:10Z",
+  "default": false,
+  "position": 149,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Users should update past iOS 12 when using the Edge app because new  updates may include security patches and bug fixes that can improve the  performance and stability of the app. Additionally, new versions of the  Edge app may include new features and improvements to existing ones.  It's important to keep the app updated in order to ensure that it is  working properly, and to protect your personal information and data when  using the app.<br></p>"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "iOS - Update past 12"
+}

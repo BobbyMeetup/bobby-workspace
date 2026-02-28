@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7457876646171.json",
+  "id": 7457876646171,
+  "title": "Account - Compromised ",
+  "active": true,
+  "updated_at": "2025-06-11T14:44:52Z",
+  "created_at": "2022-07-19T21:49:24Z",
+  "default": false,
+  "position": 122,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p style=\"margin-left:20px;\">To help us identify what happened please answer the following questions.&nbsp;</p><p>&nbsp;</p><ol><li>What is the username of the account?</li><li>What is the country/city/state that you normally log into the account from?</li><li>Did you ever store your username/password in an email, cloud, or have it physically written down somewhere?</li><li>Do you have notifications enabled for Edge?</li><li>Have you ever signed into another device?</li><li>Does anyone else such as family or friends have access to the device or account?</li><li>Have you ever revealed the Master Private Seed or private keys of the wallet and written it down somewhere or save it in an email or cloud?</li><li>Is your username and password the same as some other websites or social media that you use?</li><li>Did you make any transactions around the time of the compromise?&nbsp;</li><li>If you go to <a href=\"https://haveibeenpwned.com/\">https://haveibeenpwned.com/</a> and enter your email address there, does it indicate that your email has been leaked at any point?</li><li>Did you have 2FA enabled on your account? This would have prevented any unknown logins from any device except your own physical device</li><li>Was your account initially created on the Edge app or some other app such as Airbitz or Bitcoin of America etc.?</li><li>Was the account completely EMPTIED out, meaning you have 0 or very close to 0 balance? Or do you still have a significant balance left in the account?</li></ol><p>&nbsp;</p><p>If you believe your account has been compromised please stop using the account and move funds to a new Edge account. If the account was compromised the private keys could also be compromised.&nbsp;</p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987639498651"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "current_tags",
+      "value": "hacked/compromised"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Account - Compromised "
+}

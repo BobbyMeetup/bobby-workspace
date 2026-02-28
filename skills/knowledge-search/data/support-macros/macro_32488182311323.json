@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/32488182311323.json",
+  "id": 32488182311323,
+  "title": "Thorchain Savers Fix 2",
+  "active": false,
+  "updated_at": "2025-01-08T20:46:57Z",
+  "created_at": "2025-01-04T18:19:26Z",
+  "default": false,
+  "position": 389,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi {{ticket.requester.first_name}},<br><br>Thank you for working with us to get this issue resolved.<br>We have another update that should now fully restore the app's ability to read your Thorchain balances.<br><br>Would you please try once more to download this latest build and let us know if you can then see your staked balances again?</p><p>https://drive.google.com/file/d/16FTSr2v7JSASxnMXyg-4BgXpQsEXqxUB/view?usp=sharing</p><p>&nbsp;</p><p>We're looking forward to your response.</p><p>&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hi {{ticket.requester.first_name}},\n\nThank you for working with us to get this issue resolved.\nWe have another update that should now fully restore the app's ability to read your Thorchain balances.\n\nWould you please try once more to download this latest build and let us know if you can then see your staked balances again?\nhttps://drive.google.com/file/d/16FTSr2v7JSASxnMXyg-4BgXpQsEXqxUB/view?usp=sharing\n \nWe're looking forward to your response.\n"
+    },
+    {
+      "field": "current_tags",
+      "value": "thorchain savers apk"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "internally_resolved"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987966018715"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923916366107"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Thorchain Savers Fix 2"
+}

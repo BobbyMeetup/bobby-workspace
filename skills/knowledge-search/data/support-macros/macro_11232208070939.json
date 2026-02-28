@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/11232208070939.json",
+  "id": 11232208070939,
+  "title": "Marketing - Exolix Giveaway",
+  "active": false,
+  "updated_at": "2023-10-07T17:35:21Z",
+  "created_at": "2022-12-13T18:20:28Z",
+  "default": false,
+  "position": 143,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "group_id",
+      "value": "6923892939675"
+    },
+    {
+      "field": "set_tags",
+      "value": "marketing"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>The promo link is dl.edge.app/exolixgiveaway (http://dl.edge.app/exolixgiveaway)&nbsp; which will give you access to the banner.&nbsp;</p><p>If you're a new user download using the QR or link and the banner should be at the top of the app when you open Edge. If you have an existing Edge account enter your account and then tap Menu &gt; Scan QR&nbsp; and then point your camera at the QR code. If you are visiting the webpage from the device that has your Edge account simply tap on the QR code.&nbsp;</p><p>Please let us know if you have any questions or concerns.</p><p><br></p>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Marketing - Exolix Giveaway"
+}

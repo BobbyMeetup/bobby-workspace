@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7276230233115.json",
+  "id": 7276230233115,
+  "title": "Wallet - Destination Tag / Memo ID",
+  "active": true,
+  "updated_at": "2024-01-21T18:56:08Z",
+  "created_at": "2022-07-12T22:00:03Z",
+  "default": false,
+  "position": 95,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>When sending cryptocurrency, some blockchains make use of a Destination Tag or Memo ID in addition to a public address.&nbsp; Some examples: Cosmos (ATOM), EOS, Hedera (HBAR), Stellar (XLM), and XRP</p><p><br></p><p>When <b>Receiving</b>&nbsp;into Edge:</p><p>- No Destination Tag or Memo is required.</p><p>- If required by the sending wallet, you can input anything. Edge will see all deposits coming to your receiving address!<br> - Self-custody: Only you have the private key, and own 100% your wallet!</p><p><br></p><p>For&nbsp;<b>Sending</b>&nbsp;out of Edge:</p><p>-&nbsp;To an exchange, a Memo will be required! <b>Funds could be lost</b> when sending coins without a destination tag to any custodial wallet that manages multiple accounts for one public address.</p><p>- No memo needed when sending to any self-custody wallet.</p><p><br></p><p>If a memo was required and you already sent coins without one, it may be very difficult for the receiver to find the deposit and associate to your account. In this case, contact support services for the receiving wallet to resolve a missing deposit.</p><p><br></p><p>Let us know if you have more questions.</p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "When sending cryptocurrency, some blockchains make use of a Destination Tag or Memo ID in addition to a public address.  Some examples: Cosmos (ATOM), EOS, Hedera (HBAR), Stellar (XLM), and XRP\n\nWhen Receiving into Edge:\n- No Destination Tag or Memo is required.\n- If required by the sending wallet, you can input anything. Edge will see all deposits coming to your receiving address!\n- Self-custody: Only you have the private key, and own 100% your wallet!\n\nFor Sending out of Edge:\n- To an exchange, a Memo will be required! Funds could be lost when sending coins without a destination tag to any custodial wallet that manages multiple accounts for one public address.\n- No memo needed when sending to any self-custody wallet.\n\nIf a memo was required and you already sent coins without one, it may be very difficult for the receiver to find the deposit and associate to your account. In this case, contact support services for the receiving wallet to resolve a missing deposit.\n\nLet us know if you have more questions.\n"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "current_tags",
+      "value": "destination-tag_memo general_inquiry"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - Destination Tag / Memo ID"
+}

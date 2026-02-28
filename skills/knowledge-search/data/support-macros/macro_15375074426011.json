@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/15375074426011.json",
+  "id": 15375074426011,
+  "title": "Jaxx - Private Key Export",
+  "active": true,
+  "updated_at": "2023-05-23T23:28:07Z",
+  "created_at": "2023-05-11T19:19:15Z",
+  "default": false,
+  "position": 168,
+  "description": null,
+  "actions": [
+    {
+      "field": "subject",
+      "value": "How to import private key from Jaxx"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "set_tags",
+      "value": "jaxx import"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>From your Jaxx home screen, tap the Menu button (≡) in the upper-right,  select 🔧️ Tools at the top of the Menu, then it's the second option  down: Display Private Keys &nbsp;ℹ&nbsp;<br><br>After you await the 5-second  countdown, tap \"I Understand\" and proceed to Display the private keys  for each wallet you want to import. You can also tap on  the 'Export' button in the bottom left, to view the keys in a text  viewer which easily allows you to easily (long press to highlight) copy  the private key for importing into Edge, which is detailed in the import article from step 8 onward (<a href=\"https://edgeapp.zendesk.com/hc/en-us/articles/13160464080539-Move-Your-Crypto-From-Jaxx-Liberty-to-Edge\" target=\"_blank\" rel=\"noreferrer\">https://edgeapp.zendesk.com/hc/en-us/articles/13160464080539-Move-Your-Crypto-From-Jaxx-Liberty-to-Edge</a>)<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "From your Jaxx home screen, tap the Menu button (≡) in the upper-right, select 🔧️ Tools at the top of the Menu, then it's the second option down: Display Private Keys  ℹ \n\nAfter you await the 5-second countdown, tap \"I Understand\" and proceed to Display the private keys for each wallet you want to import. You can also tap on the 'Export' button in the bottom left, to view the keys in a text viewer which easily allows you to easily (long press to highlight) copy the private key for importing into Edge, which is detailed in the import article from step 8 onward (https://edgeapp.zendesk.com/hc/en-us/articles/13160464080539-Move-Your-Crypto-From-Jaxx-Liberty-to-Edge)"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Jaxx - Private Key Export"
+}

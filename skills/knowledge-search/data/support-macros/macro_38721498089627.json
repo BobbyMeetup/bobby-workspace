@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/38721498089627.json",
+  "id": 38721498089627,
+  "title": "Account - Timer reset",
+  "active": true,
+  "updated_at": "2025-07-07T19:34:17Z",
+  "created_at": "2025-07-07T19:31:34Z",
+  "default": false,
+  "position": 452,
+  "description": "",
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "unable_to_access_app"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "account"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>To reset your attempts we must verify this account is yours.&nbsp;</p><p>&nbsp;</p><p>Please answer the following questions:</p><p>1. What is the username of the account?</p><p>2. When was the account created? Give month and year within three months.&nbsp;</p><p>3. When was the account last logged in? Give month and year within three months.&nbsp;</p><p>4. What location do you normally access the account?</p><p>&nbsp;</p><p>In addition to resetting your attempts it is possible for us to send you an encrypted wallet file for this account. If you are interested, please let us know that you would like to request the login package. Please understand that this file still requires the entire password before you would be able to access to the account, but in this&nbsp;format, you can use other tools or services to brute force the password.</p><p>&nbsp;</p><p>After receiving your answers to verify their accuracy and your ownership of the account, we will need to wait for 30 days, and if there are no other/new logins made to this account, then we will then send you this Login Package or encrypted wallet file.&nbsp;This encrypted Login Package is well-suited for a brute-force service such as&nbsp;<a href=\"http://walletrecoveryservices.com/\">walletrecoveryservices.com</a>&nbsp;where they can run specialized software to make ~10,000 password guesses per second until they can unlock the account. They do not charge fees unless they are successful, in which case they'll charge 20% of the assets they're able to recover.</p><p>&nbsp;</p>"
+    },
+    {
+      "field": "assignee_id",
+      "value": "1904053440604"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Account - Timer reset"
+}

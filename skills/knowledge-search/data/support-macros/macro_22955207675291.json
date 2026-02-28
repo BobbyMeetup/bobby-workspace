@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/22955207675291.json",
+  "id": 22955207675291,
+  "title": "Bitcoin Depot - Rates Issue ",
+  "active": true,
+  "updated_at": "2024-02-15T01:01:07Z",
+  "created_at": "2024-02-15T00:52:26Z",
+  "default": false,
+  "position": 262,
+  "description": null,
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "bitcoin_depot rates_not_loading tier2"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "bitcoin_depot"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>There is an ongoing issue with Bitcoin Depot rates.&nbsp;</p><p>This means you may not see the dollar value of your cryptocurrency. You can check that this is the issue if you tap on your cryptocurrency wallet and see that there is a crypto balance but no dollar value.&nbsp;</p><p>If this is the case there is no reason for concern, the crypto is still there and the Bitcoin Depot team will be resolving this very soon.&nbsp;</p><p><br></p><p>Please let me know if you have any further questions.&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "There is an ongoing issue with Bitcoin Depot rates. \nThis means you may not see the dollar value of your cryptocurrency. You can check that this is the issue if you tap on your cryptocurrency wallet and see that there is a crypto balance but no dollar value. \nIf this is the case there is no reason for concern, the crypto is still there and the Bitcoin Depot team will be resolving this very soon. \n\nPlease let me know if you have any further questions. \n"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Bitcoin Depot - Rates Issue "
+}

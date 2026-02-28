@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/36419530655259.json",
+  "id": 36419530655259,
+  "title": "web3 walletconnect dapp scan",
+  "active": true,
+  "updated_at": "2025-04-28T20:33:35Z",
+  "created_at": "2025-04-28T20:33:35Z",
+  "default": false,
+  "position": 431,
+  "description": "",
+  "actions": [
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>If you're looking for how to connect one of your wallets in Edge to a DApp (decentralized application), all you need to do is tap the three horizontal lines (≡)&nbsp;in upper-right of screen to access side menu and then tap \"Scan QR\" to be able to scan a WalletConnect QR code from the website!<br><br>Please let me know if you have any questions about this and I will be happy to help guide you!<br><br>Important Note:&nbsp;<br>Connecting your wallet to a fraudulent website risks losing all the funds in that wallet. Please do extra research before connecting to any unfamiliar websites. It is helpful to know that wallets in your Edge account each have their own private keys, so even if you accidentally compromise one of your wallets it will not compromise the rest of your Edge account.&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "If you're looking for how to connect one of your wallets in Edge to a DApp (decentralized application), all you need to do is tap the three horizontal lines (≡) in upper-right of screen to access side menu and then tap \"Scan QR\" to be able to scan a WalletConnect QR code from the website!\n\nPlease let me know if you have any questions about this and I will be happy to help guide you!\n\nImportant Note: \nConnecting your wallet to a fraudulent website risks losing all the funds in that wallet. Please do extra research before connecting to any unfamiliar websites. It is helpful to know that wallets in your Edge account each have their own private keys, so even if you accidentally compromise one of your wallets it will not compromise the rest of your Edge account. "
+    }
+  ],
+  "restriction": null,
+  "raw_title": "web3 walletconnect dapp scan"
+}

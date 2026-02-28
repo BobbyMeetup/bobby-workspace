@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/32580601487387.json",
+  "id": 32580601487387,
+  "title": "vmmd - misdial, butt dial",
+  "active": true,
+  "updated_at": "2025-01-07T23:44:52Z",
+  "created_at": "2025-01-07T23:44:52Z",
+  "default": false,
+  "position": 393,
+  "description": "user did not intend to, or does not remember reaching out to us ",
+  "actions": [
+    {
+      "field": "comment_mode_is_public",
+      "value": "false"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>User didn't intend to call Edge Support</p><ul><li>No Assistance needed</li></ul>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "self-resolved"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923888415643"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "subject",
+      "value": "Misdialed Edge Support, {{ticket.requester.name}}"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "vmmd - misdial, butt dial"
+}

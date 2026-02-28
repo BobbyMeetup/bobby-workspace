@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/26619787080219.json",
+  "id": 26619787080219,
+  "title": "qun-spam",
+  "active": false,
+  "updated_at": "2025-07-27T23:12:52Z",
+  "created_at": "2024-06-15T14:52:31Z",
+  "default": false,
+  "position": 334,
+  "description": "spam tracking for when 'marking as spam' doesn't work",
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "spam"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "irrelevant"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "comment_mode_is_public",
+      "value": "false"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>spam from the dynamic 'qun' email - 'Mark as Spam' = ineffective</p><p>&nbsp;</p>"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923888415643"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "qun-spam"
+}

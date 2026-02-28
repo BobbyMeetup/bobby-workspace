@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/25661201602843.json",
+  "id": 25661201602843,
+  "title": "Scam - scamwarning",
+  "active": true,
+  "updated_at": "2025-06-18T13:24:09Z",
+  "created_at": "2024-05-12T00:17:02Z",
+  "default": false,
+  "position": 302,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p><i>Please be aware that if someone is guiding or coaching you to get started in crypto, and you didn't seek them out or hire them for coaching, they may likely be a scam artist - eventually guiding you to send them crypto under false pretenses. Crypto transactions cannot be stopped or reversed, so please be extraordinarily cautious and clear minded when sending crypto to new friends online! If they are presenting a very good deal, guaranteed profits, easy remote work or possibly even a long-distance romance, these scenarios can often be constructed to mislead and financially take advantage of new crypto users.</i><br>&nbsp;</p><p>&nbsp;</p><p>We recommend learning about the various types of scams seen today, so you can best guard yourself from the liars and imposters that may approach you with very enticing offers. Here are some resources:&nbsp;</p><ul><li><a href=\"https://www.chainabuse.com/glossary/FRAUDS\">Scam Glossary: Crypto Frauds</a></li><li><a href=\"https://consumer.ftc.gov/articles/what-know-about-cryptocurrency-and-scams\">FTC: What to Know about Cryptocurrency and Scams</a></li></ul><p>Please stay safe out there! If you keep your Edge account's Username &amp; Password: secure -- then you can safely hold and grow your crypto portfolio within it! If you have any general crypto questions, or if you are unclear about something in the app, we'll be honored to assist and provide you with more insights for your success!</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Please be aware that if someone is guiding or coaching you to get started in crypto, and you didn't seek them out or hire them for coaching, they may likely be a scam artist - eventually guiding you to send them crypto under false pretenses. Crypto transactions cannot be stopped or reversed, so please be extraordinarily cautious and clear minded when sending crypto to new friends online! If they are presenting a very good deal, guaranteed profits, easy remote work or possibly even a long-distance romance, these scenarios can often be constructed to mislead and financially take advantage of new crypto users.\n\nWe recommend learning about the various types of scams seen today, so you can best guard yourself from the liars and imposters that may approach you with very enticing offers. Here are some resources: \n\n- Scam Glossary: Crypto Frauds\n(https://www.chainabuse.com/glossary/FRAUDS)\n- FTC: What to Know about Cryptocurrency and Scams \n(https://consumer.ftc.gov/articles/what-know-about-cryptocurrency-and-scams)\n\nPlease stay safe out there! If you keep your Edge account's Username & Password: secure -- then you can safely hold and grow your crypto portfolio within it! If you have any general crypto questions, or if you are unclear about something in the app, we'll be honored to assist and provide you with more insights for your success!"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Scam - scamwarning"
+}

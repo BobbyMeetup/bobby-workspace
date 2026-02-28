@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/39550666620187.json",
+  "id": 39550666620187,
+  "title": "IP lock out 2025",
+  "active": true,
+  "updated_at": "2025-08-14T00:52:39Z",
+  "created_at": "2025-07-31T20:28:28Z",
+  "default": false,
+  "position": 468,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<h3>Regarding the “Authorize Device” warning:</h3><p>This is a security measure that's enabled by default and triggered when our servers detect a login from a new or un-permissioned device. If an unauthorized person obtained or guessed your login credentials, this prevents them from quickly logging in and accessing your funds without your permission.</p><p>&nbsp;</p><p>&nbsp;</p><p><strong>For immediate access to your Edge account, you can:</strong></p><ul><li>Use the 2FA code (if you backed it up before this).</li><li>Use a logged-in device to permission a new device.</li><li>Wait the indicated number of days for an unrecognized device to become permissioned.</li></ul><p>&nbsp;</p><p>If your account has been dormant for awhile, that last option will be increasingly long. If you can authenticate yourself by providing the following information, we can reduce this lock-out period to its minimum of 7 days.</p><ol><li>Username of the account</li><li>Date and location you recently attempted to log in and received this IP lock-out</li><li>Device type or model you are attempting to login with</li><li>City or region that you historically access the account from</li><li>Approximately when you were last logged into your account</li><li>The year the account was created</li></ol><p>&nbsp;</p><p>After the waiting period has elapsed, you may login with your username and password to gain full access to your account. Once you're back in, you may go into Menu (≡) &gt; Settings &gt; Account Settings to make a record of your 2-Factor Security / Backup Code and be able to rapidly permission a new device, if you're ever in this situation again.</p><p>&nbsp;</p><p>Please review our support article for more information:<a href=\"https://support.edge.app/hc/en-us/articles/7018106439579-Edge-Security-IP-Validation-and-2FA\"> https://support.edge.app/hc/en-us/articles/7018106439579-Edge-Security-IP-Validation-and-2FA</a></p>"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "2fa_locked/ip_validation"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "IP lock out 2025"
+}

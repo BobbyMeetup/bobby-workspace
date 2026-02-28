@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/16163754302619.json",
+  "id": 16163754302619,
+  "title": "BSV - Wallet cannot sync / Paused",
+  "active": true,
+  "updated_at": "2024-02-23T11:39:57Z",
+  "created_at": "2023-06-07T20:34:04Z",
+  "default": false,
+  "position": 46,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "bsv"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "network_issue"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>The BSV asset within Edge is unable to synchronize with the latest blockchain data, due to the Bitcoin Association node going offline. Your BSV wallet is still valid and can safely receive and hold BSV, but it cannot see the current balance or broadcast transactions at this time.</p><p><br></p><p>To be able to access and use the coins, you would need to export the BSV seed phrase out of your Edge app and into an operating client. Our top recommendation for this is Simply Cash (mobile) or ElectrumSV (desktop), and we have a guide for both, here -&nbsp;<a href=\"https://support.edge.app/hc/en-us/articles/21985270263067\" target=\"_blank\" rel=\"noreferrer\">BSV Wallet Paused: How to export private seed and access your coins</a></p><p><br></p><p>We apologize for any inconvenience this has caused. If you have any other questions, we're here to help!</p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "The BSV asset within Edge is unable to synchronize with the latest blockchain data, due to our BA node going offline. Your BSV wallet is still valid and can safely receive and hold BSV, but it cannot see the current balance or broadcast transactions at this time.\n\nTo be able to access and use the coins, you would need to export the BSV seed phrase out of your Edge app and into an operating client. Our top recommendation for this is Simply Cash (mobile) or ElectrumSV (desktop), and we have a guide for both, here - https://support.edge.app/hc/en-us/articles/21985270263067\n\nWe apologize for any inconvenience this has caused. If you have any other questions, we're here to help!\n"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "6992127095195"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "BSV - Wallet cannot sync / Paused"
+}

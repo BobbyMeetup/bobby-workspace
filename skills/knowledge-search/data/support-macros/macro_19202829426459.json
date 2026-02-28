@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/19202829426459.json",
+  "id": 19202829426459,
+  "title": "desktop-browser-request",
+  "active": true,
+  "updated_at": "2024-09-21T20:52:16Z",
+  "created_at": "2023-09-29T19:14:48Z",
+  "default": false,
+  "position": 217,
+  "description": "",
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "desktop_app general_inquiry has_account"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge is mobile app only, right now. This is partially due to the app leveraging smartphone data to create advanced security measures for your account, such as IP validation and biometric login.</p><p>&nbsp;</p><p>Note: You can use WalletConnect to interact with most decentralized apps (DApps) on your computer, while authorizing transactions securely and conveniently from your phone. To do this, simply log into your account, tap the menu button (≡) in the top right, and use the WalletConnect option to create a new connection. From here, you'll scan a QR code from the dapp on your desktop.</p><p>&nbsp;</p><p>Technically speaking, you can also run the app itself from your computer using a mobile emulator.</p><p>For Windows PC, the <a href=\"https://developer.android.com/studio/run/emulator\">Android Emulator</a> is one of the best options.</p><p>From a Mac, you can simply download the <a href=\"https://apps.apple.com/us/app/edge-crypto-bitcoin-wallet/id1344400091\">Edge - Crypto &amp; Bitcoin Wallet</a> app from the App Store.</p><p>Although the app is not fully optimized for a desktop environment, it will still function perfectly!</p><p>&nbsp;</p><p>Let us know if you have any other questions!</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Edge is mobile app only, right now. This is partially due to the app leveraging smartphone data to create advanced security measures for your account, such as IP validation and biometric login.\n \nNote: You can use WalletConnect to interact with most decentralized apps (DApps) on your computer, while authorizing transactions securely and conveniently from your phone. To do this, simply log into your account, tap the menu button (≡) in the top right, and use the WalletConnect option to create a new connection. From here, you'll scan a QR code from the dapp on your desktop.\n \nTechnically speaking, you can also run the app itself from your computer using a mobile emulator.\nFor Windows PC, the Android Emulator is one of the best options.\nFrom a Mac, you can simply download the 'Edge - Crypto & Bitcoin Wallet' app from the App Store.\nAlthough the app is not fully optimized for a desktop environment, it will still function perfectly!\n \nLet us know if you have any other questions!\n"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987913685531"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "desktop-browser-request"
+}

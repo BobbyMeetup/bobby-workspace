@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/37695055229339.json",
+  "id": 37695055229339,
+  "title": "scamadvisor",
+  "active": true,
+  "updated_at": "2025-06-04T22:29:32Z",
+  "created_at": "2025-06-04T22:29:32Z",
+  "default": false,
+  "position": 443,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>I also recommend using the <a href=\"https://www.scamadviser.com\">scamadviser.com</a> tool quickly to check the 'trust score' of any questionable website you may come across, especially when it deals with any financial investments.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "I also recommend using the scamadviser.com tool quickly to check the 'trust score' of any questionable website you may come across, especially when it deals with any financial investments."
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "scamadvisor"
+}

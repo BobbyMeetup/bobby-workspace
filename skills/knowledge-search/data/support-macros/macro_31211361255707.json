@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/31211361255707.json",
+  "id": 31211361255707,
+  "title": "testing",
+  "active": true,
+  "updated_at": "2024-11-23T00:46:07Z",
+  "created_at": "2024-11-23T00:46:07Z",
+  "default": false,
+  "position": 374,
+  "description": "used when internal tickets come in to quickly dismiss",
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "testing"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "irrelevant"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923888415643"
+    },
+    {
+      "field": "comment_mode_is_public",
+      "value": "false"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Internal testing</p>"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "testing"
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/20793086690203.json",
+  "id": 20793086690203,
+  "title": "obfuscate",
+  "active": true,
+  "updated_at": "2023-11-29T20:30:15Z",
+  "created_at": "2023-11-29T20:30:15Z",
+  "default": false,
+  "position": 238,
+  "description": null,
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>We have several exchange options built into Edge, and we're constantly seeking to add more, but a \"no KYC\" exchange is very rare to find these days, as the government is becoming more strict about enforcing AML compliance. If you are not laundering large sums of money, it should not be much of an issue, though I still understand your concerns for privacy. Once you have some cryptocurrency within Edge, you can trade it into other cryptocurrencies while fully maintaining your privacy. Decentralized exchanges are good at crypto to crypto without asking for personal information, and we have several of those available now. So, for instance, even if you submitted verification docs to an exchange to on-ramp some funds into crypto, then you could use a DEX like THORSwap to exchange into Monero and now the funds you just purchased would last been seen going into the Monero blockchain! Pretty effective way to build your crypto portfolio in a way that doesn't have your name attached to it all. Let me know if you have any other questions!<br></p>"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "obfuscate"
+}

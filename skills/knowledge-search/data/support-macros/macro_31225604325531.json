@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/31225604325531.json",
+  "id": 31225604325531,
+  "title": "newphone",
+  "active": true,
+  "updated_at": "2024-11-23T20:42:41Z",
+  "created_at": "2024-11-23T20:42:41Z",
+  "default": false,
+  "position": 375,
+  "description": "link-to-article, 269-charaters, text-compliant",
+  "actions": [
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "current_tags",
+      "value": "new_device"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>To learn more about switching devices and how exactly your Edge account is secured, backed-up, and how it can be restored, I recommend a quick read through this article: <a href=\"https://support.edge.app/hc/en-us/articles/24469866252443-Getting-a-new-phone\">Getting a new phone</a></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "To learn more about switching devices and how exactly your Edge account is secured, backed-up, and how it can be restored, I recommend a quick read through this article: Getting a new phone (https://support.edge.app/hc/en-us/articles/24469866252443-Getting-a-new-phone)\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "newphone"
+}

@@ -1,0 +1,55 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/19012566527515.json",
+  "id": 19012566527515,
+  "title": "Bug - Plaid-iPhone-Moonpay",
+  "active": false,
+  "updated_at": "2024-02-16T21:23:37Z",
+  "created_at": "2023-09-22T19:08:43Z",
+  "default": false,
+  "position": 209,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "moonpay"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "unable_to_sign_up"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "account"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "current_tags",
+      "value": "plaid moonpay bug"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>If you are on an iPhone and running into the issue where you cannot continue back to Moonpay from Plaid (after inputting all the bank details, and nothing gets saved) - this is a known bug that Moonpay is working on.</p><p>The workaround for this would be to to directly to <a href=\"http://buy.moonpay.com\" target=\"_blank\" rel=\"noreferrer\">buy.moonpay.com</a> or <a href=\"http://sell.moonpay.com\" target=\"_blank\" rel=\"noreferrer\">sell.moonpay.com</a> and login in with the same email that you used while in Edge. Now proceed to link your bank account.</p><p><br></p><p>Once successful, this bank account will be associated with your customer profile and email for Moonpay. At this point, you may proceed normally to buy or sell with Moonpay inside of Edge without having to re-enter your bank info.</p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "If you are on an iPhone and running into the issue where you cannot continue back to Moonpay from Plaid (after inputting all the bank details, and nothing gets saved) - this is a known bug that Moonpay is working on.\nThe workaround for this would be to to directly to buy.moonpay.com or sell.moonpay.com and login in with the same email that you used while in Edge. Now proceed to link your bank account.\n\nOnce successful, this bank account will be associated with your customer profile and email for Moonpay. At this point, you may proceed normally to buy or sell with Moonpay inside of Edge without having to re-enter your bank info."
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Bug - Plaid-iPhone-Moonpay"
+}

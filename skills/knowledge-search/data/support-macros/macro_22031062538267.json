@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/22031062538267.json",
+  "id": 22031062538267,
+  "title": "Bity - order status",
+  "active": true,
+  "updated_at": "2024-01-13T22:10:26Z",
+  "created_at": "2024-01-13T22:10:26Z",
+  "default": false,
+  "position": 256,
+  "description": null,
+  "actions": [
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "bity"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "current_tags",
+      "value": "missing_funds/did_not_arrive_"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>To check your order status with Bity -<br><br>Locate your order number, and enter it here: <a href=\"https://sophia.bity.com\" target=\"_blank\" rel=\"noreferrer\">https://sophia.bity.com</a></p><p><br></p><p>Order number will be in the transaction notes for crypto sell orders. For purchases, you may find any recent order numbers referenced in your email. Try searching for 'Bity' to quickly locate any correspondence from the exchange.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "To check your order status with Bity -\n\nLocate your order number, and enter it here: https://sophia.bity.com\n\nOrder number will be in the transaction notes for crypto sell orders. For purchases, you may find any recent order numbers referenced in your email. Try searching for 'Bity' to quickly locate any correspondence from the exchange.\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Bity - order status"
+}

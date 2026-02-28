@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/33135069550875.json",
+  "id": 33135069550875,
+  "title": "sideload-apk",
+  "active": true,
+  "updated_at": "2025-01-24T19:47:19Z",
+  "created_at": "2025-01-24T19:47:19Z",
+  "default": false,
+  "position": 404,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p><i>Note: This may require going into your phone settings to allow unknown source install/downloads. If you need assistance with installing the APK please let us know.</i></p><p>&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Note: This may require going into your phone settings to allow unknown source install/downloads. If you need assistance with installing the APK please let us know.\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "sideload-apk"
+}

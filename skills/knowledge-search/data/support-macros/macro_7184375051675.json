@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7184375051675.json",
+  "id": 7184375051675,
+  "title": "Account - Send Logs",
+  "active": true,
+  "updated_at": "2025-02-20T23:41:37Z",
+  "created_at": "2022-07-08T20:05:10Z",
+  "default": false,
+  "position": 32,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Could you please send us your logs file?</p><p>- Go to the main Menu (<strong>≡</strong>) in the upper right corner, tap Settings, scroll to the bottom and select 'Export Logs'</p><p>- Enter your email address in the notes field to help us identify your log submission.</p><p>- Tap 'Send Logs to Edge' and reply here with time sent.</p><p>&nbsp;</p><p>NOTE:&nbsp;</p><ul><li>If you DO NOT have access to your account, from the login screen you can access the log submission prompt by taping 5 times fast on the Edge logo.</li><li>Logs do not provide any private information such as private key, password, or XPUBS.&nbsp;</li><li>Logs do provide some information about your account such as username, device, exchange queries, and EVM addresses.</li></ul>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Could you please send us your logs file?\n- Go to the main Menu (≡) in the upper right corner, tap Settings, scroll to the bottom and select 'Export Logs'\n- Enter your email address in the notes field to help us identify your log submission.\n- Tap 'Send Logs to Edge' and reply here with time sent. \n\n\nNOTE: \n- If you DO NOT have access to your account, from the login screen you can access the log submission prompt by taping 5 times fast on the Edge logo.\n- Logs do not provide any private information such as private key, password, or XPUBS. \n- Logs do provide some information about your account such as username, device, exchange queries, and EVM addresses."
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "current_tags",
+      "value": "logs_requested"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Account - Send Logs"
+}

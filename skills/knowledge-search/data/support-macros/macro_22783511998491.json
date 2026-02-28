@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/22783511998491.json",
+  "id": 22783511998491,
+  "title": "Accounting for Network Fees",
+  "active": true,
+  "updated_at": "2024-02-09T00:11:11Z",
+  "created_at": "2024-02-09T00:11:11Z",
+  "default": false,
+  "position": 261,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "current_tags",
+      "value": "general_inquiry fee_related_question network_issue"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>The exchange fee of 5-7% would be independent of any network fees needed to send the bitcoin to you on-chain. Unfortunately, bitcoin has become rather expensive to use for basic transactions, so when making smaller purchases, your slippage will seem more significant because the blockchain fees don't change with the amount of coins being sent. By contrast, an example purchase of $1000 may have up to $70 in exchange fees, but only the same ~$2-5 in pure, blockchain network fees.</p><p><br></p><p>The other possible explanation is the price volatility of crypto assets can be such that the current value may be slightly less than was the rate of exchange at the time of purchase. Please let me know if you have any more questions about network fees vs. exchange fees.<br></p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "The exchange fee of 5-7% would be independent of any network fees needed to send the bitcoin to you on-chain. Unfortunately, bitcoin has become rather expensive to use for basic transactions, so when making smaller purchases, your slippage will seem more significant because the blockchain fees don't change with the amount of coins being sent. By contrast, an example purchase of $1000 may have up to $70 in exchange fees, but only the same ~$2-5 in pure, blockchain network fees.\n\nThe other possible explanation is the price volatility of crypto assets can be such that the current value may be slightly less than was the rate of exchange at the time of purchase. Please let me know if you have any more questions about network fees vs. exchange fees.\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Accounting for Network Fees"
+}

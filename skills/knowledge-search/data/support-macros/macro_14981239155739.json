@@ -1,0 +1,55 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/14981239155739.json",
+  "id": 14981239155739,
+  "title": "TRX - Insufficient funds TRC20 (tron)",
+  "active": true,
+  "updated_at": "2025-04-10T18:36:57Z",
+  "created_at": "2023-04-28T16:45:58Z",
+  "default": false,
+  "position": 162,
+  "description": "",
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "trc-20_token"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>In order to send any tokens (known also as TRC-20s, like USDT, BTT, SUN, and others) on the Tron network - you'll need some Tron (TRX) to pay blockchain fees.<br><br>Receiving tokens does not require any TRX, but some is needed in order to create or broadcast a transaction on-chain, for example, sending to another wallet address or swapping tokens into another asset. Just as with Ethereum, some ETH is needed for 'gas fees' in order to use tokens on that chain. The Tron network runs on TRX. Tokens can NOT <i>typically</i> pay their own fees and require a secondary asset to pay these gas fees. (Note: there is special support for 'gasless sends' on some blockchains, for some assets)</p><p>&nbsp;</p><p>Please note, there is currently a congestion in Tron network, so your USDT transaction might cost a lot in terms of TRX.&nbsp;</p><p>You can check the current average fee here <a href=\"https://gasfeesnow.com/tron/\">https://gasfeesnow.com/tron/</a> or calculate the fee on your side with this tool: <a href=\"https://chaingateway.io/tools/tron-fee-calculator/\"><u>https://chaingateway.io/tools/tron-fee-calculator/</u></a></p><p>&nbsp;</p><p>Please understand that Edge does not make any profit from these fees; they are paid strictly to the blockchain miners &amp; validators who secure each network.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "In order to send any tokens (known also as TRC-20s, like USDT, BTT, JST, SUN, and others) on the Tron network - you'll need some Tron (TRX) to pay blockchain fees.Receiving tokens does not require any TRX, but some is needed in order to create or broadcast a transaction on-chain, for example, sending to another wallet address or swapping tokens into another asset. Just as with Ethereum, some ETH is needed for 'gas fees' in order to use tokens on that chain. The Tron network runs on TRX. Tokens can NOT typically pay their own fees and require a secondary asset to pay these gas fees. (Note: there is special support for 'gasless sends' on some blockchains, for some assets)\n \nIn this case, ~$1-5 of TRX should be enough to cover a basic TRC-20 transaction. You may either buy a small amount, transfer some into your Tron wallet from another source, or swap into TRX from another available cryptocurrency in your account, one that can cover its own fees.\n \nPlease understand that Edge does not make any profit from these fees; they are paid strictly to the blockchain miners & validators who secure each network."
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "insufficient_unable_to_send"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "TRX - Insufficient funds TRC20 (tron)"
+}

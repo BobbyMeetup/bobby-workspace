@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/34057402001435.json",
+  "id": 34057402001435,
+  "title": "affiliate-referral program inquiry",
+  "active": true,
+  "updated_at": "2025-02-15T01:08:47Z",
+  "created_at": "2025-02-15T01:08:47Z",
+  "default": false,
+  "position": 415,
+  "description": null,
+  "actions": [
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "current_tags",
+      "value": "affiliate_program general_inquiry has_account"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge does not yet have an affiliate program that is offered to the general public. We aim to create this referral program within the year.</p><p>&nbsp;</p><p>On a case-by-case basis, we can work with influencers to create a unique affiliate code. If you'd be interested in pursuing this, we would need to first need to get an idea of your social reach and following.</p><p>&nbsp;</p><p>Please submit any social handles or platforms where you are or plan to be advertising Edge, and I will forward any information you provide to our marketing coordinator to review.<br><br>Let us know if you have any more questions.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Edge does not yet have an affiliate program that is offered to the general public. We aim to create this referral program within the year.\n\nOn a case-by-case basis, we can work with influencers to create a unique affiliate code. If you'd be interested in pursuing this, we would need to first need to get an idea of your social reach and following.\n\nPlease submit any social handles or platforms where you are or plan to be advertising Edge, and I will forward any information you provide to our marketing coordinator to review.\n\nLet us know if you have any more questions."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "affiliate-referral program inquiry"
+}

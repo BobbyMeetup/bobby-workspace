@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/31180846107419.json",
+  "id": 31180846107419,
+  "title": "UK removed from appstore (still)",
+  "active": true,
+  "updated_at": "2025-08-04T21:16:30Z",
+  "created_at": "2024-11-22T13:02:01Z",
+  "default": false,
+  "position": 373,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>The Edge app was temporarily removed from the UK app stores due to the new FCA regulations. We've worked with a legal team and just finished making the required changes for the app to become compliant these new laws, and re-enabled in the UK region!<br>&nbsp;</p><p>If you still do not find '<strong>Edge - Bitcoin &amp; Crypto Wallet</strong>' app listed in your app store, yet:</p><ul><li>Android users may always download the latest version of the Edge .apk directly from our website - <a href=\"https://edge.app/uk/\">https://edge.app/uk</a></li><li>iPhone users, we expect the app to be live in Apple Appstore very soon, please allow a bit more time for the government to process our request.</li><li>Any users who have Edge installed on their device already, may continue using the app as normal, but won’t be able to re-install or update Edge while located in UK, until the UK version of the app is fully approved.</li></ul><p>&nbsp;</p><p>Please let us know if you have any questions or concerns, we are here to help.</p>"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "current_tags",
+      "value": "uk_restricted"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "unable_to_access_app"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "internally_resolved"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "UK removed from appstore (still)"
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/21743274474139.json",
+  "id": 21743274474139,
+  "title": "Sell - Moonpay website (external)",
+  "active": true,
+  "updated_at": "2024-01-04T19:23:11Z",
+  "created_at": "2024-01-04T02:15:11Z",
+  "default": false,
+  "position": 138,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "13053445492635"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "moonpay"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "unable_to_sell"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>You may still access and use Moonpay's exchange services, externally of Edge, here:</p><p><a href=\"https://sell.moonpay.com\" target=\"_blank\" rel=\"noreferrer\">https://sell.moonpay.com</a></p><p><br></p><p>When visiting their site, click on the hamburger menu at the top-right and login with the same email address that you have used with Moonpay in the past. Carefully follow the prompts to complete the sell order.</p><p><br></p><p>Let us know if you have any questions!</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "You may still access and use Moonpay's exchange services, externally of Edge, here:\nhttps://sell.moonpay.com\n\nWhen visiting their site, click on the hamburger menu at the top-right and login with the same email address that you have used with Moonpay in the past. Carefully follow the prompts to complete the sell order.\n\nLet us know if you have any questions.\n"
+    },
+    {
+      "field": "current_tags",
+      "value": "moonpay-external"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Sell - Moonpay website (external)"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7244995998491.json",
+  "id": 7244995998491,
+  "title": "ETH - Network fees",
+  "active": true,
+  "updated_at": "2023-02-13T18:28:55Z",
+  "created_at": "2022-07-11T21:06:20Z",
+  "default": false,
+  "position": 63,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thanks for reaching out.</p><p>In order to send USDT and other ERC20 tokens (Ethereum tokens), you need some fraction of ethereum to pay gas (mining fees).<br>This is an Ethereum network policy not an Edge one.<br><br>Please note that this policy applies also to exchanges, so if you want to exchange some ERC20 token to a coin (for example USDT to ETH), you need some ETH to cover the mining fees, because the exchange needs a normal Ethereum transaction.<br><br></p><p>Less then 10 USD in ethereum are usually sufficient to cover a lot of USDT (or other tokens) transactions, because, if the network is not congested, you pay the equivalent of 1 to 10 cents per transaction, or even less.</p><p><br></p><p>However, currently there is a high traffic on the ETH network such that the fees are abnormally high exceeding $10 in fees perhaps even higher depending on the complexity of your transaction.&nbsp;</p><p>Even if you use the low fee, it may be still calculating a high fee that is considered low relative to the network. If you'd like you can try a custom fee of a low amount but that will like be pending for multiple days or might get dropped outright.</p><p><br></p><p>For reference, fees are 100,000 gas and over 400 GWEI at the time of this email according to&nbsp;<a href=\"https://ethgasstation.info/\" target=\"_blank\" rel=\"noreferrer\">https://ethgasstation.info/</a>. If you enter a custom amount lower than that it will get stuck or drop.&nbsp;</p><p>This is true for simple transactions (Ethereum to Ethereum address), but also for exchange (for example Ethereum to Bitcoin) and expecially for token transfers.&nbsp;</p><p>The more smart contracts involved in an Ethereum transaction (eg Cdai -&gt; Dai -&gt; Eth), the more gas you pay, and this rises the price for normal transactions too, congesting the network.&nbsp;</p><p>I'm really sorry for that, but it's not an Edge issue, so the only thing you can do is to wait for the transactions to be confirmed or wait until the network congestion stops.</p><p><br></p><p>Please let me know if you have other questions.&nbsp;</p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "ETH - Network fees"
+}

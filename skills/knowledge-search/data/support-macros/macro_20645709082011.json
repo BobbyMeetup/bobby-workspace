@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/20645709082011.json",
+  "id": 20645709082011,
+  "title": "blocked account on hold",
+  "active": true,
+  "updated_at": "2024-05-10T21:46:32Z",
+  "created_at": "2023-11-24T00:33:59Z",
+  "default": false,
+  "position": 235,
+  "description": null,
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "account_on-hold"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge will never place your Edge account on hold. We work with several independent exchanges to bring you convenient access to as many cryptocurrencies as possible. For the exchanges that deal with your local currency, they may restrict your account. If you know which one it is, you may reach out to them for a direct inquiry into this matter. Do you recognize if it was: Banxa, Kado, Paybis, Simplex, Moonpay or Bity?</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Edge will never place your Edge account on hold. We work with several independent exchanges to bring you convenient access to as many cryptocurrencies as possible. For the exchanges that deal with your local currency, they may restrict your account. If you know which one it is, you may reach out to them for a direct inquiry into this matter. Do you recognize if it was: Banxa, Kado, Paybis, Simplex, Moonpay or Bity?\n"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "verification"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "blocked account on hold"
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/14016906096283.json",
+  "id": 14016906096283,
+  "title": "Account - Jaxx Import",
+  "active": true,
+  "updated_at": "2023-07-12T17:35:37Z",
+  "created_at": "2023-03-27T16:45:31Z",
+  "default": false,
+  "position": 1,
+  "description": null,
+  "actions": [
+    {
+      "field": "subject",
+      "value": "Jaxx Import"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "current_tags",
+      "value": "jaxx seed-import"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>We welcome you to Edge. We have an import article available here: <a href=\"https://edgeapp.zendesk.com/hc/en-us/articles/13160464080539-Move-Your-Crypto-From-Jaxx-Liberty-to-Edge\" target=\"_blank\" rel=\"noreferrer\">https://edgeapp.zendesk.com/hc/en-us/articles/13160464080539-Move-Your-Crypto-From-Jaxx-Liberty-to-Edge</a> <br></p><p><br></p><p>Please follow through the steps carefully, and we'll be happy to answer any questions or concerns that may come during the import process.<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "We welcome you to Edge. We have an import article available here: https://edgeapp.zendesk.com/hc/en-us/articles/13160464080539-Move-Your-Crypto-From-Jaxx-Liberty-to-Edge\n\nPlease follow through the steps carefully, and we'll be happy to answer any questions or concerns that may come during the import process."
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Account - Jaxx Import"
+}

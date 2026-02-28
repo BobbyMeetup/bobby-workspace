@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/23230292537627.json",
+  "id": 23230292537627,
+  "title": "sr",
+  "active": true,
+  "updated_at": "2024-02-24T20:49:30Z",
+  "created_at": "2024-02-24T20:49:30Z",
+  "default": false,
+  "position": 267,
+  "description": "self-resolved",
+  "actions": [
+    {
+      "field": "subject",
+      "value": "Self-Resolved, {{ticket.requester.name}}"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "self-resolved"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923888415643"
+    },
+    {
+      "field": "comment_mode_is_public",
+      "value": "false"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Assistance is no longer required.</p>"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "sr"
+}

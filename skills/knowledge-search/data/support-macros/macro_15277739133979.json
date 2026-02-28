@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/15277739133979.json",
+  "id": 15277739133979,
+  "title": "Sardine - ACH",
+  "active": true,
+  "updated_at": "2023-10-18T18:45:39Z",
+  "created_at": "2023-05-08T19:56:34Z",
+  "default": false,
+  "position": 165,
+  "description": "temporarily affiliate link for testing ACH on/off ramp transactions, particularly for customers who's Plaid/Moonpay integration is getting stuck.",
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "current_tags",
+      "value": "sardine"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "unable_to_buy"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>We've recently started working with an new exchange that supports direct ACH bank transfers for purchasing cryptocurrency.&nbsp;</p><p><br></p><p>Any issues when attempting to purchase crypto with your debit card, for instance, could have to do with it not being 3DSecure, internationally capable, or the transaction may be getting declined by the card issuing bank for simply being related to cryptocurrency. If you're having this trouble, or would simply prefer buying crypto directly from your bank account, please give this a try:</p><p><br></p><p><a href=\"http://crypto.sardine.ai/?client_id=e1690397-c9f5-4c54-9293-cb05593fd20a\" target=\"_blank\" rel=\"noreferrer\" data-darkreader-inline-bgcolor=\"\" style=\"font-family: system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, Arial, sans-serif; background-color: rgb(24, 26, 27); --darkreader-inline-bgcolor: #131516;\" data-nofollow=\"true\">http://crypto.sardine.ai/?client_id=e1690397-c9f5-4c54-9293-cb05593fd20a</a></p><p><br></p><p><i>*note: because this exchange service is not live in the app yet, you'll need to manually copy your BTC receive address from Edge and paste it into their platform to tell them where to deliver your purchased coins.</i><br></p><p><br></p><p>We look forward to integrating their services fully into the Edge app, and will appreciate any and all feedback you have while working with Sardine!</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "We've recently started working with an new exchange that supports direct ACH bank transfers for purchasing cryptocurrency.\n\nAny issues when attempting to purchase crypto with your debit card, for instance, could have to do with it not being 3DSecure, internationally capable, or the transaction may be getting declined by the card issuing bank for simply being related to cryptocurrency. If you're having this trouble, or would simply prefer buying crypto directly from your bank account, please give this a try:\n\nhttp://crypto.sardine.ai/?client_id=e1690397-c9f5-4c54-9293-cb05593fd20a\n\n*note: because this exchange service is not live in the app yet, you'll need to manually copy your BTC receive address from Edge and paste it into their platform to tell them where to deliver your purchased coins.\n\nWe look forward to integrating their services fully into the Edge app, and will appreciate any and all feedback you have while working with Sardine!"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Sardine - ACH"
+}

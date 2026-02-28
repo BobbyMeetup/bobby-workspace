@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/20457700671515.json",
+  "id": 20457700671515,
+  "title": "XMR - MyMonero is on it!",
+  "active": true,
+  "updated_at": "2023-11-18T18:14:05Z",
+  "created_at": "2023-11-16T20:11:16Z",
+  "default": false,
+  "position": 231,
+  "description": null,
+  "actions": [
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "xmr"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p><a href=\"https://twitter.com/MyMonero/status/1724352386481762500\" target=\"_blank\" rel=\"noreferrer\">https://twitter.com/MyMonero/status/1724352386481762500</a> - just hang tight! your coins are safe, but Edge relies on the MyMonero infrastructure to deliver the fast and reliable service for this blockchain. The MyMonero team is on top of this and working to resolve it now!<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "https://twitter.com/MyMonero/status/1724352386481762500 - just hang tight! your coins are safe, but Edge relies on the MyMonero infrastructure to deliver the fast and reliable service for this blockchain. The MyMonero team is on top of this and working to resolve it now!\n\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "XMR - MyMonero is on it!"
+}

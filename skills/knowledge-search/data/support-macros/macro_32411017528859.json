@@ -1,0 +1,22 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/32411017528859.json",
+  "id": 32411017528859,
+  "title": "people lie about crypto scam",
+  "active": true,
+  "updated_at": "2025-01-02T09:23:34Z",
+  "created_at": "2025-01-02T09:23:34Z",
+  "default": false,
+  "position": 387,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>We have found that anybody saying otherwise is typically a scammer. &nbsp;<br>&nbsp;<br>Please proceed with extreme caution and know that people will lie about cryptocurrency because it is a new technology.</p>"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 26105022686363
+  },
+  "raw_title": "people lie about crypto scam"
+}

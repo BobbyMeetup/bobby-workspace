@@ -1,0 +1,42 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/32432601801499.json",
+  "id": 32432601801499,
+  "title": "allow 72 hours check email",
+  "active": true,
+  "updated_at": "2025-08-13T02:37:27Z",
+  "created_at": "2025-01-02T19:46:13Z",
+  "default": false,
+  "position": 388,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>It may take up to 72 hours for purchase or sell orders to be processed by the exchange service.&nbsp;</p><p>&nbsp;</p><p>Please <u>check your email</u> for a confirmation message from them regarding this order.&nbsp;</p><p>&nbsp;</p><p>There you will find the link to check the status of the order as well as contact information for the exchange should you have any questions or concerns.</p>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "current_tags",
+      "value": "impatience pending funds_never_arrived_receive new_user purchase/sell"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "missing_funds/did_not_arrive_"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 26105022686363
+  },
+  "raw_title": "allow 72 hours check email"
+}

@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/17626384050331.json",
+  "id": 17626384050331,
+  "title": "Buy - Processing Time, Impatience (chill)",
+  "active": true,
+  "updated_at": "2025-05-21T21:25:04Z",
+  "created_at": "2023-08-02T22:14:06Z",
+  "default": false,
+  "position": 194,
+  "description": "set temporal expactations for new customer expecting fast delivery of crypto purchases",
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "current_tags",
+      "value": "new_user impatience missing_funds/did_not_arrive_"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "missing_funds/did_not_arrive_"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Some processing time is normal and required for a Buy or Sell order to completely settle.</p><p>&nbsp;</p><p>This is often due to the time it takes for funds to settle between financial institutions, though some additional delays could also be possible, perhaps if there is a backlog of ID verifications requiring manual approval.</p><p><br>If your payment was successful, the exchange should be completed in about 4 to 72 hours, so if you are in this range, please be patient to allow the cryptocurrency to be delivered into your wallet. You may also reach out the the exchange that powers the order for an update. Edge does not have access to any of your order information because all data is encrypted on your device before it's submitted with our partnered exchange services.</p><p>&nbsp;</p><p>Do you know which exchange company was used in this case? (Paybis, Banxa, Moonpay, Simplex, etc.)</p><p>You may have received an email from them already.</p><p><br><i>Note: Crypto-to-crypto exchange transactions are much faster, typically between 2 minutes and 2 hours, because they are not impacted by the delays caused by traditional banking systems.</i></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Some processing time is normal and required for a Buy or Sell order to completely settle.\n\nThis is often due to the time it takes for funds to settle between financial institutions, though some additional delays could also be possible, perhaps if there is a backlog of ID verifications requiring manual approval.\n\nIf your payment was successful, the exchange should be completed in about 4 to 72 hours, so if you are in this range, please be patient to allow the cryptocurrency to be delivered into your wallet. You may also reach out the the exchange that powers the order for an update. Edge does not have access to any of your order information because all data is encrypted on your device before it's submitted with our partnered exchange services.\n\nDo you know which exchange company was used in this case? (Paybis, Banxa, Moonpay, Simplex, etc.)\n\nYou may have received an email from them already.\n\nNote: Crypto-to-crypto exchange transactions are much faster, typically between 2 minutes and 2 hours, because they are not impacted by the delays caused by traditional banking systems."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Buy - Processing Time, Impatience (chill)"
+}

@@ -1,0 +1,55 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/23375330243099.json",
+  "id": 23375330243099,
+  "title": "non-segwit-bug-jaxx-import",
+  "active": true,
+  "updated_at": "2024-03-01T21:31:51Z",
+  "created_at": "2024-02-29T22:31:00Z",
+  "default": false,
+  "position": 270,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "import_issue"
+    },
+    {
+      "field": "current_tags",
+      "value": "non-segwit jaxx"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi {{ticket.requester.first_name}},</p><p><br></p><p>Apologies for the inconvenience here! No worries, your funds are safe! We have found an answer to what is happening just yesterday. In the latest v4.1 update of Edge, a bug surfaced where, when you try to import the non-segwit version of a bitcoin, litecoin or digibyte wallet, the app creates a segwit version of the wallet instead, so the incorrect addresses are being derived, and funds won't be seen. Other assets like ETH for example, would not be affected by this.</p><p><br></p><p>Our lead developer worked hard yesterday and completed the v4.1.1 fix, which was submitted to the app stores just last night. So, within the next ~24 hours, after the update rolls out to all devices, update Edge and you may re-attempt the import of your non-segwit wallet from Jaxx into Edge. Just please be patient for this update, and do not overexpose your seed words trying multiple apps, as we have received multiple reports of fake/phishing Jaxx apps, in the Apple App Store specifically, that have been stealing user funds.</p><p><br></p><p>Let us know if you have more questions. We’re here to help! And if you could keep us posted on how the import goes after getting v4.1.1 on your phone, we will be happy to hear the feedback.</p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hi {{ticket.requester.first_name}},\n\nApologies for the inconvenience here! No worries, your funds are safe! We have found an answer to what is happening just yesterday. In the latest v4.1 update of Edge, a bug surfaced where, when you try to import the non-segwit version of a bitcoin, litecoin or digibyte wallet, the app creates a segwit version of the wallet instead, so the incorrect addresses are being derived, and funds won't be seen. Other assets like ETH for example, would not be affected by this.\n\nOur lead developer worked hard yesterday and completed the v4.1.1 fix, which was submitted to the app stores just last night. So, within the next ~24 hours, after the update rolls out to all devices, update Edge and you may re-attempt the import of your non-segwit wallet from Jaxx into Edge. Just please be patient for this update, and do not overexpose your seed words trying multiple apps, as we have received multiple reports of fake/phishing Jaxx apps, in the Apple App Store specifically, that have been stealing user funds.\n\nLet us know if you have more questions. We’re here to help! And if you could keep us posted on how the import goes after getting v4.1.1 on your phone, we will be happy to hear the feedback.\n"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923916366107"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "update_app"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "non-segwit-bug-jaxx-import"
+}

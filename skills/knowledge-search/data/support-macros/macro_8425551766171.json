@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/8425551766171.json",
+  "id": 8425551766171,
+  "title": "XMR - Monero fixed (post hard fork)",
+  "active": true,
+  "updated_at": "2023-02-01T22:37:08Z",
+  "created_at": "2022-08-29T10:09:26Z",
+  "default": false,
+  "position": 131,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi,<br>Monero functionalities have been fully restored. You can also exchange from / to Monero wallets.<br>Be sure to update Edge to the latest version, 2.20.2.<br><br>We apologize for the inconvenience and we hope we have provided you with good support during this bad time.</p>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "XMR - Monero fixed (post hard fork)"
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/13153721401371.json",
+  "id": 13153721401371,
+  "title": "Wallet- Migrate funds",
+  "active": true,
+  "updated_at": "2024-01-23T22:24:25Z",
+  "created_at": "2023-02-23T17:35:20Z",
+  "default": false,
+  "position": 151,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "current_tags",
+      "value": "migrate"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>To migrate your funds please follow this article:&nbsp;</p><p><a href=\"https://support.edge.app/hc/en-us/articles/22318658525595\" target=\"_blank\" rel=\"noreferrer\">https://support.edge.app/hc/en-us/articles/22318658525595</a>&nbsp;<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "To migrate your funds please follow this article: \nhttps://support.edge.app/hc/en-us/articles/22318658525595 \n\n"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet- Migrate funds"
+}

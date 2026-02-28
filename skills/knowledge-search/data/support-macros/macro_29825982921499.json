@@ -1,0 +1,59 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/29825982921499.json",
+  "id": 29825982921499,
+  "title": "PayPal - Declined",
+  "active": true,
+  "updated_at": "2024-10-05T19:03:22Z",
+  "created_at": "2024-10-05T19:03:22Z",
+  "default": false,
+  "position": 360,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "moonpay"
+    },
+    {
+      "field": "custom_fields_19558556601243",
+      "value": "other_payment"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "current_tags",
+      "value": "paypal"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hello {{ticket.requester.first_name}},</p><p>&nbsp;</p><p>Thanks for reporting the issue. The first thing to check is the payment that's being used from within your PayPal account. Not every card/bank will allow you to buy cryptocurrency, so it's possible for a PayPal order to be declined, depending on which payment method is passing through it. If you have another pay method linked to your PayPal account, it's first recommended to try this.</p><p>&nbsp;</p><p>If you suspect another issue, Edge doesn't watch user accounts at all, so it might be best to troubleshoot with Moonpay directly by submitting a request, here:&nbsp;<a href=\"https://support.moonpay.com/hc/en-gb/requests/new\">https://support.moonpay.com/hc/en-gb/requests/new</a></p><p>&nbsp;</p><p>They will reply as soon as possible and help you with your issue.<br>If you have more questions for us, you may reply here.</p><p>&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hello {{ticket.requester.first_name}},\n\nThanks for reporting the issue. The first thing to check is the payment that's being used from within your PayPal account. Not every card/bank will allow you to buy cryptocurrency, so it's possible for a PayPal order to be declined, depending on which payment method is passing through it. If you have another pay method linked to your PayPal account, it's first recommended to try this.\n\nIf you suspect another issue, Edge doesn't watch user accounts at all, so it might be best to troubleshoot with Moonpay directly by submitting a request, here: https://support.moonpay.com/hc/en-gb/requests/new\n\nThey will reply as soon as possible and help you with your issue.If you have more questions for us, you may reply here. \n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "PayPal - Declined"
+}

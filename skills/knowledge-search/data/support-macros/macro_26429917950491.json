@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/26429917950491.json",
+  "id": 26429917950491,
+  "title": "auth-server-maintenance",
+  "active": true,
+  "updated_at": "2024-06-08T23:46:18Z",
+  "created_at": "2024-06-08T17:53:14Z",
+  "default": false,
+  "position": 312,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thanks for reporting this login issue.</p><p><br></p><p>We unexpectedly had to optimize our login server over the weekend. This has been resolved, and PIN logins should now be fully working again, thanks to the hard work of our developer team!</p><p><br></p><p>Please note: when our login servers are under heavy load, a 4-digit PIN may not work to access your account. So long as you haven't deleted the app, you can <u>always</u> login using your<b> full password </b>or<b> saved biometrics </b>(faceID, fingerprint) from a device that you have logged into before.</p><p><br></p><p>Let us know if you still have trouble logging into your account, or if you have any other questions.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Thanks for reporting this login issue.\n\nWe unexpectedly had to optimize our login server over the weekend. This has been resolved, and PIN logins should now be fully working again, thanks to the hard work of our developer team!\n\nPlease note: when our login servers are under heavy load, a 4-digit PIN may not work to access your account. So long as you haven't deleted the app, you can always login using your full password or saved biometrics (faceID, fingerprint) from a device that you have logged into before.\n\nLet us know if you still have trouble logging into your account, or if you have any other questions."
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987966018715"
+    },
+    {
+      "field": "custom_fields_6990445837595",
+      "value": "login__auth_server__error_"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "self-resolved"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "auth-server-maintenance"
+}

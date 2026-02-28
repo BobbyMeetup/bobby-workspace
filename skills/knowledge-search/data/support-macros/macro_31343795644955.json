@@ -1,0 +1,55 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/31343795644955.json",
+  "id": 31343795644955,
+  "title": "Moonpay - Sell to Debit (card criteria)",
+  "active": true,
+  "updated_at": "2024-11-27T22:47:27Z",
+  "created_at": "2024-11-27T22:47:27Z",
+  "default": false,
+  "position": 376,
+  "description": "",
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "13053445492635"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "moonpay"
+    },
+    {
+      "field": "custom_fields_23152938690971",
+      "value": "debit_sell"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "payment_declined"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>When selling cryptocurrency in Edge using the 'Bank Transfer via Debit Card' method - you'll be routed through Moonpay to complete the transaction.</p><p>&nbsp;</p><p>Please keep in mind that not all cards will be eligible for this payout method. They must have 3D Secure features to reduce any risk of fraud or disputes, and the card issuing bank may have its own rules and occasionally decline a payment.</p><p>&nbsp;</p><p>Because Edge privacy focused application, we do not have access to any of your order information.</p><p>For support with Moonpay related inquires, please create a ticket here: https://support.moonpay.com/hc/en-gb/requests/new - They are usually very quick to reply.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "When selling cryptocurrency in Edge using the 'Bank Transfer via Debit Card' method - you'll be routed through Moonpay to complete the transaction.\n\nPlease keep in mind that not all cards will be eligible for this payout method. They must have 3D Secure features to reduce any risk of fraud or disputes, and the card issuing bank may have its own rules and occasionally decline a payment.\n\nBecause Edge privacy focused application, we do not have access to any of your order information.\nFor support with Moonpay related inquires, please create a ticket here: https://support.moonpay.com/hc/en-gb/requests/new - They are usually very quick to reply.\n"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Moonpay - Sell to Debit (card criteria)"
+}

@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/21306886807195.json",
+  "id": 21306886807195,
+  "title": "XMR - Can't Swap/Buy Monero from the USA/Australia",
+  "active": true,
+  "updated_at": "2023-12-17T00:05:04Z",
+  "created_at": "2023-12-16T23:52:56Z",
+  "default": false,
+  "position": 251,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi {{ticket.requester.first_name}},<br><br>Due to updated regulations, trading into Monero (XMR) is geo-restricted. Users presently located in the USA, Australia and some others will not be able utilize the swap services from our exchange partners in the app. This is out of Edge's control, unfortunately, but if you/your device were to ever travel outside of the geo-restricted region, you will be able to conduct a trade into XMR from that location.</p><p><br></p><p>Let us know if you have any more questions. Apologies for the inconvenience here!</p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hi,\n\nDue to updated regulations, trading into Monero (XMR) is geo-restricted. Users presently located in the U.S. will not be able utilize swap services from our partnered exchanges in-app. This is out of Edge's control, unfortunately, but if you/your device were to ever travel outside of the US, you will be able to conduct a trade into XMR from that location.\n\nLet us know if you have any more questions. Apologies for the inconvenience here!\n"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "unable_to_buy"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "xmr"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "current_tags",
+      "value": "geo-restricted"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "XMR - Can't Swap/Buy Monero from the USA/Australia"
+}

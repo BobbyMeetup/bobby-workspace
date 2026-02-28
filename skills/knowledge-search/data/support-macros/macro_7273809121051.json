@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7273809121051.json",
+  "id": 7273809121051,
+  "title": "Safello - Update personal information",
+  "active": false,
+  "updated_at": "2024-01-25T22:09:12Z",
+  "created_at": "2022-07-12T20:46:36Z",
+  "default": false,
+  "position": 84,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge is a zero-knowledge app and we don't have access to the information you share with our partners. Please reach out directly to Safello support to update your personal information:&nbsp;<a href=\"mailto:support@safello.com\" target=\"_blank\" rel=\"noreferrer\">support@safello.com</a><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Safello - Update personal information"
+}

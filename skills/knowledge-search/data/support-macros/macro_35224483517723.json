@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/35224483517723.json",
+  "id": 35224483517723,
+  "title": "Doge - RangeError (Step 1: confirm)",
+  "active": true,
+  "updated_at": "2025-08-13T23:37:52Z",
+  "created_at": "2025-03-22T16:47:32Z",
+  "default": false,
+  "position": 423,
+  "description": "",
+  "actions": [
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "doge"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "current_tags",
+      "value": "range_error"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "unable_to_send"
+    },
+    {
+      "field": "custom_fields_6991553191067",
+      "value": "unable_to_exchange/swap_error"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Could you please do a quick test to verify the issue?</p><ol><li>Log into your Edge account and tap into your Assets page</li><li>Locate and tap into your DOGE wallet</li><li>Tap on Receive, to see your current Dogecoin receive address</li><li>Tap Copy at the bottom</li><li>Go back one time</li><li>Tap on Send</li><li>Tap Paste</li><li>Tap to edit the Amount, Tap Max (to send all to self)</li></ol><p><br>If the above transaction proceeds, please retry your original swap or send transaction that caused the error, and it should proceed normally now with all your DOGE consolidated into one public address.</p><p>&nbsp;</p><p>If the above transaction attempt fails and you see the \"RangeError: value out of range\" message, please let us know, and we'll go through the steps to remedy this rare error.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Could you please do a quick test to verify the issue?\n1. Log into your Edge account and tap into your Assets page\n2. Locate and tap into your DOGE wallet\n3. Tap on Receive, to see your current Dogecoin receive address\n4. Tap Copy at the bottom\n5. Go back one time\n6. Tap on Send\n7. Tap Paste\n8. Tap to edit the Amount, Tap Max (to send all to self)\n\nIf the above transaction proceeds, please retry your original swap or send transaction that caused the error, and it should proceed normally now with all your DOGE consolidated into one public address.\n\nIf the above transaction attempt fails and you see the \"RangeError: value out of range\" message, please let us know, and we'll go through the steps to remedy this rare error."
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Doge - RangeError (Step 1: confirm)"
+}

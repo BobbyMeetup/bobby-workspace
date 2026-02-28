@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/37536112826395.json",
+  "id": 37536112826395,
+  "title": "endcall",
+  "active": true,
+  "updated_at": "2025-05-30T20:30:58Z",
+  "created_at": "2025-05-30T18:57:01Z",
+  "default": false,
+  "position": 440,
+  "description": "take & solve",
+  "actions": [
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923888415643"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "endcall"
+}

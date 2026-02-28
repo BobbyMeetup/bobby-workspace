@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/35790173127579.json",
+  "id": 35790173127579,
+  "title": "UK iOS - Get Android or change Appstore Region",
+  "active": false,
+  "updated_at": "2025-04-10T20:02:21Z",
+  "created_at": "2025-04-08T19:46:43Z",
+  "default": false,
+  "position": 427,
+  "description": "",
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Due to legal restrictions for residents in the UK, the Edge app is currently unable to be listed in the app stores. We continue to work with various partners and lawyers to remedy the situation. All funds remain safely stored in your Edge account that's encrypted with your login credentials.</p><p>&nbsp;</p><p>Aside from waiting for resolution from lawmakers bodies, downloading and installing the .apk file directly from our website is most reliable method, but this is only for Android devices. You may look into acquiring a cheap android device that could be used for managing your cryptocurrency while this regulatory uncertainty in the UK persists.</p><p>&nbsp;</p><p>****!***If you only have an iPhone, it is technically possible to modify the Region associated with your Apple account, but there are a lot of steps involved and I cannot officially recommend that you attempt to circumvent your local laws.</p><p>&nbsp;</p><p>Let us know if you have questions or need more assistance with accessing your Edge account.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Due to legal restrictions for residents in the UK, the Edge app is currently unable to be listed in the app stores. We continue to work with various partners and lawyers to remedy the situation. All funds remain safely stored in your Edge account that's encrypted with your login credentials.\n\nAside from waiting for resolution from lawmakers bodies, downloading and installing the .apk file directly from our website is most reliable method, but this is only for Android devices. You may look into acquiring a cheap android device that could be used for managing your cryptocurrency while this regulatory uncertainty in the UK persists.\n\nIf you only have an iPhone, it is technically possible to modify the Region associated with your Apple account, but there are a lot of steps involved and I cannot officially recommend that you attempt to circumvent your local laws.\n\nLet us know if you have questions or need more assistance with accessing your Edge account."
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "current_tags",
+      "value": "uk_restricted"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "unable_to_access_app"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "UK iOS - Get Android or change Appstore Region"
+}

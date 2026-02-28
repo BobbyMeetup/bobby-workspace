@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7185710119835.json",
+  "id": 7185710119835,
+  "title": "BSV - Bitcoin SV (BSV) to Bitcoin (BTC) segwit",
+  "active": true,
+  "updated_at": "2023-02-01T22:25:23Z",
+  "created_at": "2022-07-08T20:54:35Z",
+  "default": false,
+  "position": 47,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Unfortunately, BitcoinSV (BSV) sent to a BItcoin (BTC) segwit 3-address cannot be recovered at this time. Prior to BSV's fork from BCH in November 2018, it was technically possible to recover funds sent to a segwit address with the help of a miner. At this time, we're unaware of any BSV mining pools who are able to help.<br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "BSV - Bitcoin SV (BSV) to Bitcoin (BTC) segwit"
+}

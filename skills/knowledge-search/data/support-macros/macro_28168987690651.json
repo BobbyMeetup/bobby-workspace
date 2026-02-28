@@ -1,0 +1,63 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/28168987690651.json",
+  "id": 28168987690651,
+  "title": "split mainnet from arbitrum",
+  "active": true,
+  "updated_at": "2025-07-27T22:26:46Z",
+  "created_at": "2024-08-10T16:11:18Z",
+  "default": false,
+  "position": 335,
+  "description": "mainnet = eth",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Please be mindful about which network or blockchain you're working on, whenever sending or receiving crypto assets. This is an important lesson as funds can be permanently lost in some situations!</p><p>&nbsp;</p><p>Thankfully, Edge has developed an innovative solution, the 'Split Wallet' feature, that allows you to quickly recover funds that were sent into Edge on the wrong network. For this case of recovering any USDT (Ethereum) tokens that were mistakenly sent into your USDT (Arbitrum) wallet address in Edge, here are your steps -</p><p>&nbsp;</p><ol><li>For the USDT wallet you tried receiving with, locate its parent wallet for ETH (Arbitrum) in your Assets. It will have the same receiving address and the same wallet name, for example \"My Arbitrum\"</li><li>Hold down on, or tap into this ETH(arb) wallet and use the three vertical dots (⋮) to access this wallet's menu.</li><li>Find the option to 'Split Wallet'</li><li>Now select Ethereum to create a new ETH wallet with the same receiving address as your arbitrum ETH wallet.</li><li>After a moment, your USDT tokens should be auto-detected, added to your total balance and viewable in your Assets list, likely near the bottom and named \"My Ether 2 (Spilt from My Arbitrum)\"</li></ol><p>&nbsp;</p><p>Note: this new Ethereum wallet is probably with 0 ETH, and so the USDT tokens will temporarily be stuck, until you transfer some ETH into it for gas.</p><p>&nbsp;</p><p>Please let us know if you have any other questions!</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Please be mindful about which network or blockchain you're working on, whenever sending or receiving crypto assets. This is an important lesson as funds can be permanently lost in some situations!\n \nThankfully, Edge has developed an innovative solution, the 'Split Wallet' feature, that allows you to quickly recover funds that were sent into Edge on the wrong network. For this case of recovering any USDT (Ethereum) tokens that were mistakenly sent into your USDT (Arbitrum) wallet address in Edge, here are your steps -\n \n1. For the USDT wallet you tried receiving with, locate its parent wallet for ETH (Arbitrum) in your Assets. It will have the same receiving address and the same wallet name, for example \"My Arbitrum\"\n2. Hold down on, or tap into this ETH(arb) wallet and use the three vertical dots (⋮) to access this wallet's menu.\n3. Find the option to 'Split Wallet'\n4. Now select Ethereum to create a new ETH wallet with the same receiving address as your arbitrum ETH wallet.\n5. After a moment, your USDT tokens should be auto-detected, added to your total balance and viewable in your Assets list, likely near the bottom and named \"My Ether 2 (Spilt from My Arbitrum)\"\n\n \nNote: this new Ethereum wallet is probably with 0 ETH, and so the USDT tokens will temporarily be stuck, until you transfer some ETH into it for gas.\n \nPlease let us know if you have any other questions!"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "receive_wrong_network"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "erc-20"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "split_wallet"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "current_tags",
+      "value": "arbitrum_tether"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "split mainnet from arbitrum"
+}

@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/33177878824219.json",
+  "id": 33177878824219,
+  "title": "Savers Deprecated - Damage Control (touch1)",
+  "active": true,
+  "updated_at": "2025-01-25T23:51:01Z",
+  "created_at": "2025-01-25T21:23:13Z",
+  "default": false,
+  "position": 406,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi {{ticket.requester.first_name}},</p><p>&nbsp;</p><p>I understand how upsetting and frightening this must be. The protocol risk involved with staking is generally very low, since Thorchain has had many code audits. Unfortunately, it may not have undergone a rigorous economic audit, and this event has taken everyone by surprise. We are keeping a close eye on developments, and all we can say at this time is what's publicly known from Thorchain's social channels like Discord. This 'pause' was done in order to protect from loss, and give the team time to find the best path forward and credit back those with coins locked in Savers stakes.</p><p>&nbsp;</p><p>After the 90-day pause period is through, we'll expect greater clarity on how to access and unstake these coins. The results may come sooner, as the protocol suspension cannot last longer. Thank you for understanding.</p><p>&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hi {{ticket.requester.first_name}},\n\nI understand how upsetting and frightening this must be. The protocol risk involved with staking is generally very low, since Thorchain has had many code audits. Unfortunately, it may not have undergone a rigorous economic audit, and this event has taken everyone by surprise. We are keeping a close eye on developments, and all we can say at this time is what's publicly known from Thorchain's social channels like Discord. This 'pause' was done in order to protect from loss, and give the team time to find the best path forward and credit back those with coins locked in Savers stakes.\n\nAfter the 90-day pause period is through, we'll expect greater clarity on how to access and unstake these coins. The results may come sooner, as the protocol suspension cannot last longer. Thank you for understanding.\n"
+    },
+    {
+      "field": "current_tags",
+      "value": "thorchain savers_deprecated unstake"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "unable_to_resolve"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "unresponsive/inconclusive"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Savers Deprecated - Damage Control (touch1)"
+}

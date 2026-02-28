@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/31396941526043.json",
+  "id": 31396941526043,
+  "title": "vmfs - voicemail full + SMS",
+  "active": true,
+  "updated_at": "2024-11-29T21:50:04Z",
+  "created_at": "2024-11-29T21:50:04Z",
+  "default": false,
+  "position": 378,
+  "description": "inconclusive callbacks due to user's voice mailbox being full (noVM)",
+  "actions": [
+    {
+      "field": "comment_mode_is_public",
+      "value": "false"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>- The voicemail is full and cannot accept any messages at this time -</p><p>&nbsp;</p><p>...&amp; pressed \"5\" to send SMS notification! 🤘🔔</p>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "unresponsive/inconclusive"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923888415643"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "subject",
+      "value": "Full Voicemail for {{ticket.requester.name}}, SMS notification sent!"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "vmfs - voicemail full + SMS"
+}

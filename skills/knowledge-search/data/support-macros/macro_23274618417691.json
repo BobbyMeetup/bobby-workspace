@@ -1,0 +1,19 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/23274618417691.json",
+  "id": 23274618417691,
+  "title": "DOT",
+  "active": true,
+  "updated_at": "2024-02-26T22:22:33Z",
+  "created_at": "2024-02-26T22:22:33Z",
+  "default": false,
+  "position": 268,
+  "description": "All DOT wallets are required to hold at least 1 DOT at all times. This is an DOT policy called the Existential Deposit \nThe ED exists so that accounts with very small balances or completely empty do not \"bloat\" the state of the blockchain.",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>All DOT wallets are required to hold at least 1 DOT at all times. This is an DOT policy called the <b>Existential Deposit</b> (<a href=\"https://support.polkadot.network/support/solutions/articles/65000168651-what-is-the-existential-deposit-\" target=\"_blank\" rel=\"noreferrer\">https://support.polkadot.network/support/solutions/articles/65000168651-what-is-the-existential-deposit-</a>) and it applies to all DOT wallets. When you create a new DOT wallet in Edge, you'll see a message informing you about this.</p><p>The ED exists so that accounts with very small balances or completely empty do not \"bloat\" the state of the blockchain. This limit allows the network to maintain high performance and reduce fees.</p><p>The amount of 1 DOT has come from experimental data that suggests this is the minimum amount required to accomplish that.</p><p>The last 1 DOT is bound to your DOT account / public address on the blockchain, so these funds are not technically stuck in Edge. By exporting your private key, you could create access to your DOT account from another wallet application, and avoid having to permanently lock up another 1 coin by creating and using a fresh DOT account.</p><p><br>Please let us know if you have any questions.&nbsp;</p><p><br></p>"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "DOT"
+}

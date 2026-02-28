@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/34375258510235.json",
+  "id": 34375258510235,
+  "title": "Migrate after successful import (emphasis/reminder)",
+  "active": true,
+  "updated_at": "2025-02-25T21:00:42Z",
+  "created_at": "2025-02-25T21:00:42Z",
+  "default": false,
+  "position": 417,
+  "description": "",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "current_tags",
+      "value": "migrate seed-import jaxx"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thank you for letting us know the import was successful!</p><p>&nbsp;</p><p>To complete this move from Jaxx into Edge, these newly imported funds may still be lost if the 12-word seed phase from Jaxx becomes compromised. Edge cannot protect imported wallets, because if someone knows or learns your imported 12-words, they will be able to spend those imported assets out of your Edge account, without even using Edge at all.</p><p>&nbsp;</p><p>If you are keeping your original 12 Jaxx words very secure, then you may opt out from this step, but for maximizing security of assets, you may consider 'Migrating' these imported wallets into brand new wallets within your Edge account, as your final step. This will invalidate the old, 12-words from Jaxx by moving funds into new wallets that have their own, never before exposed 24-word seed phrases.</p><p>&nbsp;</p><p>Once the Migration is complete, you should double check that you have your Username and Password for your account backed up and secure, so that you do not lose access to your Edge account and wallets held within it.</p><p>&nbsp;</p><p>To read more on this: <a href=\"https://support.edge.app/hc/en-us/articles/33617360777499-Understanding-Wallet-Migration-vs-Importing-in-Edge\">Understanding Wallet Migration vs. Importing in Edge</a></p><p>&nbsp;</p><p>Please let me know if you have more questions on Edge's account security system, how to strengthen your account security, or any other questions at all.</p><p>&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "\nThank you for letting us know the import was successful!\n\nTo complete this move from Jaxx into Edge, these newly imported funds may still be lost if the 12-word seed phase from Jaxx becomes compromised. Edge cannot protect imported wallets, because if someone knows or learns your imported 12-words, they will be able to spend those imported assets out of your Edge account, without even using Edge at all.\n\nIf you are keeping your original 12 Jaxx words very secure, then you may opt out from this step, but for maximizing security of assets, you may consider 'Migrating' these imported wallets into brand new wallets within your Edge account, as your final step. This will invalidate the old, 12-words from Jaxx by moving funds into new wallets that have their own, never before exposed 24-word seed phrases.\n\nOnce the Migration is complete, you should double check that you have your Username and Password for your account backed up and secure, so that you do not lose access to your Edge account and wallets held within it.\n\nTo read more on this: Understanding Wallet Migration vs. Importing in Edge (https://support.edge.app/hc/en-us/articles/33617360777499-Understanding-Wallet-Migration-vs-Importing-in-Edge)\n\nPlease let me know if you have more questions on Edge's account security system, how to strengthen your account security, or any other questions at all.\n"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Migrate after successful import (emphasis/reminder)"
+}

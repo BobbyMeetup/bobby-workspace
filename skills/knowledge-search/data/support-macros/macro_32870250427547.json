@@ -1,0 +1,46 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/32870250427547.json",
+  "id": 32870250427547,
+  "title": "011625 Rates Bug ",
+  "active": false,
+  "updated_at": "2025-02-12T18:51:04Z",
+  "created_at": "2025-01-16T17:27:43Z",
+  "default": false,
+  "position": 398,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p><span style=\"background-color:rgb(248,249,249);color:rgb(47,57,65);\">On January 16, 2025 Edge was made aware of an issue with one of our rates providers that provide inaccurate prices for a handful of assets such as XLM, XMR, XRP, and others. We have disabled this provider and all rates should display correctly now.&nbsp;</span></p><p>&nbsp;</p><p><span style=\"background-color:rgb(248,249,249);color:rgb(47,57,65);\">We do apologize for any inconvenience.&nbsp;</span></p><p>&nbsp;</p><p><span style=\"background-color:rgb(248,249,249);color:rgb(47,57,65);\">NOTE: &nbsp;Your assets are safe. This was caused by inaccurate data being provided for pricing, any alarming increase was due to this visual bug. See attached screenshot for the cause of the bug.&nbsp;</span></p><p><br>If you have any questions or concerns please respond to this message.&nbsp;<br>&nbsp;</p>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "current_tags",
+      "value": "rates"
+    },
+    {
+      "field": "assignee_id",
+      "value": "1904053440604"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923916366107"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "internally_resolved"
+    }
+  ],
+  "restriction": null,
+  "attachments": [
+    32874996110363
+  ],
+  "raw_title": "011625 Rates Bug "
+}

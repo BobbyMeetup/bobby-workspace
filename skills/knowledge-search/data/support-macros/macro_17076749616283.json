@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/17076749616283.json",
+  "id": 17076749616283,
+  "title": "Jaxx - Import Troubleshooting",
+  "active": true,
+  "updated_at": "2025-01-18T21:42:33Z",
+  "created_at": "2023-07-12T17:32:05Z",
+  "default": false,
+  "position": 185,
+  "description": "",
+  "actions": [
+    {
+      "field": "subject",
+      "value": "Troubleshooting Your Import from Jaxx Liberty"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "current_tags",
+      "value": "jaxx seed-import import_issue"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "import_issue"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "funds_never_arrived_receive"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Ok, let's go through the troubleshooting process for attempting a seed phrase import:</p><ol dir=\"auto\"><li>Do you possibly have multiple Jaxx wallet seeds? -- Many times, the import fails because a different set of 12-words are being used.</li><li>If you are sure it's one seed, next let's verify it by confirming that your receiving address(es) in Edge, matches your receiving address(es) in Jaxx. Note: for BTC and any other UTXO chains, you may need to compare the Xpub or extended public key to verify wallets are the same. Ethereum and EVM addresses are easy to match up - unless importing from the old Jaxx app (not Jaxx Liberty), then you may have multiple ETH private keys to import.</li><li>If the addresses match, and you're sure the wallets are the same, you might need to simply resync your Edge wallet (when you have a good internet connection), you can do this by simply closing and reopening Edge app.</li><li>If the above steps do not help with bringing your funds into Edge, reach back out here, and we'll work together to figure this out 😇️</li></ol>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Ok, let's go through the troubleshooting process for attempting a seed phrase import:\n\n1. Do you possibly have multiple Jaxx wallet seeds? -- Many times, the import fails because a different set of 12-words are being used.\n2. If you are sure it's one seed, next let's verify it by confirming that your receiving address(es) in Edge, matches your receiving address(es) in Jaxx. Note: for BTC and any other UTXO chains, you may need to compare the Xpub or extended public key to verify wallets are the same. Ethereum and EVM addresses are easy to match up - unless importing from the old Jaxx app (not Jaxx Liberty), then you may have multiple ETH private keys to import.\n3. If the addresses match, and you're sure the wallets are the same, you might need to simply resync your Edge wallet (when you have a good internet connection), you can do this by simply closing and reopening Edge app.\n4. If the above steps do not help with bringing your funds into Edge, reach back out here, and we'll work together to figure this out 😇️"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Jaxx - Import Troubleshooting"
+}

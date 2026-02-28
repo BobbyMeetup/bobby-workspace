@@ -1,0 +1,59 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/20979066444059.json",
+  "id": 20979066444059,
+  "title": "RBF - Accelerate Bitcoin transaction",
+  "active": true,
+  "updated_at": "2025-04-19T21:33:36Z",
+  "created_at": "2023-12-06T12:17:00Z",
+  "default": false,
+  "position": 244,
+  "description": "",
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>If you have a stuck BTC transaction sent with Edge version 3.22.0 or higher, you can accelerate the  transaction by adding a higher fee in a new broadcast to encourage  miners to confirm your transaction, thanks to RBF.&nbsp;</p><p><br>To Accelerate follow these steps:&nbsp;</p><ol> <li>Login into your Edge account and enter the Bitcoin wallet with the stuck transaction.&nbsp;</li><li>Tap on the pending transaction and then look for \"Accelerate this transaction\" option.&nbsp;&nbsp;</li><li>Tap on Accelerate Transaction. Here you will see your old fee and the proposed new fee. If you agree with the new fee, simply slide to confirm.&nbsp;</li> </ol><p><br>Your old pending transaction will be replaced with a new higher fee transaction that is more likely to confirm. <br><br>Note: <br>- The replaced transaction will be dropped and will not appear in the explorer once the new transaction is confirmed.</p><p>- This will require enough BTC in your wallet to pay the increased fee rate.<br>- It is not possible to accelerate pending transactions made with an older version of the Edge wallet.<br></p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "If you have a stuck BTC transaction sent with Edge version 3.22.0 or higher, you can accelerate the transaction by adding a higher fee in a new broadcast to encourage miners to confirm your transaction, thanks to RBF. \n\nTo Accelerate follow these steps: \nLogin into your Edge account and enter the Bitcoin wallet with the stuck transaction. \nTap on the pending transaction and then look for \"Accelerate this transaction\" option.  \nTap on Accelerate Transaction. Here you will see your old fee and the proposed new fee. If you agree with the new fee, simply slide to confirm. \n\nYour old pending transaction will be replaced with a new higher fee transaction that is more likely to confirm.\n\nNote:\n- The replaced transaction will be dropped and will not appear in the explorer once the new transaction is confirmed.\n- This will require enough BTC in your wallet to pay the increased fee rate.\n- It is not possible to accelerate pending transactions made with an older version of the Edge wallet."
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "pending/stuck_transaction"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "current_tags",
+      "value": "rbf"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "btc"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "RBF - Accelerate Bitcoin transaction"
+}

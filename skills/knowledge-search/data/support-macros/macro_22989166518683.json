@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/22989166518683.json",
+  "id": 22989166518683,
+  "title": "3DSecure card",
+  "active": true,
+  "updated_at": "2025-04-26T18:41:10Z",
+  "created_at": "2024-02-16T01:33:47Z",
+  "default": false,
+  "position": 263,
+  "description": "payment declined - nothing showing in the bank",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Not every credit/debit card is capable of buying cryptocurrency. If your card gets rejected while attempting to buy crypto, the first step would be to verify with the Card Issuing Bank that no crypto-restrictions are in effect.&nbsp;</p><p>&nbsp;</p><p>For instance, if the card does not have the '3DSecure' features needed by crypto exchangers to verify 100% that you are the primary account holder for the card, then they will likely not be able to accept payment. For example, a pre-paid debit card that's loaded at the grocery store will not be 3DS enabled, and most digital banking (neobanks, app-only) cards may automatically decline a crypto or \"quasi-cash\" transaction, depending on their rules. And some banks are just not crypto friendly, like Chase, which as a reputation for blocking crypto-related transactions before the payment attempt can even be registered.</p><p>&nbsp;</p><p>Many 'Payment Declined' cases are simply resolved by using a different payment card, if possible. Or if an alternate payment option is available to you in your selected region, such as bank wire transfer, ApplePay, PayPal etc. - these options would complete bypass any crypto limitations presented by your card.</p><p>&nbsp;</p><p>And if you're confident that your card <i>can</i> buy crypto, and no issue is present from your bank, then you may want to try simply switching the exchange service that you work with in Edge. To see these alternatives, the next time you are creating a Buy order in Edge -- on the screen when you are inputting the amount that you want to buy, you will notice a small tile underneath that says \"Powered by...\" and when you tap on that, you'll be able to see the other exchange quotes available here.</p><p>&nbsp;</p><p>If you have any questions, let us know.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Not every credit/debit card is capable of buying cryptocurrency. If your card gets rejected while attempting to buy crypto, the first step would be to verify with the Card Issuing Bank that no crypto-restrictions are in effect. \n \nFor instance, if the card does not have the '3DSecure' features needed by crypto exchangers to verify 100% that you are the primary account holder for the card, then they will likely not be able to accept payment. For example, a pre-paid debit card that's loaded at the grocery store will not be 3DS enabled, and most digital banking (neobanks, app-only) cards may automatically decline a crypto or \"quasi-cash\" transaction, depending on their rules. And some banks are just not crypto friendly, like Chase, which as a reputation for blocking crypto-related transactions before the payment attempt can even be registered.\n \nMany 'Payment Declined' cases are simply resolved by using a different payment card, if possible. Or if an alternate payment option is available to you in your selected region, such as bank wire transfer, ApplePay, PayPal etc. - these options would complete bypass any crypto limitations presented by your card.\n \nAnd if you're confident that your card can buy crypto, and no issue is present from your bank, then you may want to try simply switching the exchange service that you work with in Edge. To see these alternatives, the next time you are creating a Buy order in Edge -- on the screen when you are inputting the amount that you want to buy, you will notice a small tile underneath that says \"Powered by...\" and when you tap on that, you'll be able to see the other exchange quotes available here.\n \nIf you have any questions, let us know."
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "payment_declined"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_19558556601243",
+      "value": "debit"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "3DSecure card"
+}

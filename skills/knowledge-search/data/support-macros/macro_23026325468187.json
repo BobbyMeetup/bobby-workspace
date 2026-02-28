@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/23026325468187.json",
+  "id": 23026325468187,
+  "title": "No rates (BD)",
+  "active": false,
+  "updated_at": "2024-03-02T16:53:53Z",
+  "created_at": "2024-02-17T02:30:14Z",
+  "default": false,
+  "position": 264,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Bitcoin Depot is currently experiencing a rates server issue that is causing all balances to appear as $0. Your cryptocurrency is safe and still valuable!</p><p><br></p><p>When you tap into each wallet, you will see that the <i>crypto</i> amount is still present. You may still receive and send, but you will need to manually calculate the $$ value of the coins. We apologize for this alarming inconvenience!</p><p><br></p><p>Rest assured, this is only a temporary issue and the Bitcoin Depot has already submitted v3.0.1 to the app stores for you to download. Once you update to this latest version with the fix, all your balances will be displayed accurately again.</p><p><br></p><p>Let us know if you have more questions.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Bitcoin Depot is currently experiencing a rates server issue that is causing all balances to appear as $0. Your cryptocurrency is safe and still valuable!\n\nWhen you tap into each wallet, you will see that the crypto amount is still present. You may still receive and send, but you will need to manually calculate the $$ value of the coins. We apologize for this alarming inconvenience!\n\nRest assured, this is only a temporary issue and the Bitcoin Depot has already submitted v3.0.1 to the app stores for you to download. Once you update to this latest version with the fix, all your balances will be displayed accurately again.\n\nLet us know if you have more questions."
+    },
+    {
+      "field": "subject",
+      "value": "Update Bitcoin Depot to v3.0.1"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "current_tags",
+      "value": "rates_not_loading bitcoin_depot"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "No rates (BD)"
+}

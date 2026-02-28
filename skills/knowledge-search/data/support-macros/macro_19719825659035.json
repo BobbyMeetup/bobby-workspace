@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/19719825659035.json",
+  "id": 19719825659035,
+  "title": "sweep-pk",
+  "active": true,
+  "updated_at": "2025-01-07T19:46:25Z",
+  "created_at": "2023-10-19T22:06:58Z",
+  "default": false,
+  "position": 223,
+  "description": "",
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "sweep import"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Sweeping funds from a Private Key can be easily accomplished by following these steps:</p><p>&nbsp;</p><p>- Login to Edge and open the main menu (≡) in the top-right.</p><p>- Tap on Scan QR.</p><p>- Scan your Private Key QR code. (Alternatively, you may scan a QR from your photo Album, or press Enter to manually type or paste in the private key)</p><p>- Specify which wallet you'd like to sweep your coins into (if there are multiple available), and</p><p>- Tap Import. 🎉<br>&nbsp;</p><p>&nbsp;</p><p>This feature is commonly used for easily retrieving funds off of a paper wallet. Please note, some blockchain fees exist whenever creating a on-chain transaction. Edge makes no profit from this. If you are trying to sweep a seed phrase, importing your seed words would be more appropriate, as sweeping only works for a single private key.<br>&nbsp;</p><p>Let us know if you have any more questions.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Sweeping funds from a Private Key can be easily accomplished by following these steps:\n\n- Login to Edge and open the main menu (≡) in the top-right.\n- Tap on Scan QR.\n- Scan your Private Key QR code. (Alternatively, you may scan a QR from your photo Album, or press Enter to manually type or paste in the private key)\n- Specify which wallet you'd like to sweep your coins into (if there are multiple available), and\n- Tap Import. 🎉\n\nThis feature is commonly used for easily retrieving funds off of a paper wallet. Please note, some blockchain fees exist whenever creating a on-chain transaction. Edge makes no profit from this. If you are trying to sweep a seed phrase, importing your seed words would be more appropriate, as sweeping only works for a single private key.\n\nLet us know if you have any more questions."
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "sweep-pk"
+}

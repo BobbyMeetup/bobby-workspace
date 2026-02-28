@@ -1,0 +1,55 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/26050097067675.json",
+  "id": 26050097067675,
+  "title": "trouble connecting bank ACH",
+  "active": true,
+  "updated_at": "2024-05-25T18:23:17Z",
+  "created_at": "2024-05-25T18:23:17Z",
+  "default": false,
+  "position": 306,
+  "description": "refer to plaid troubleshooting link and kado email",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_19558556601243",
+      "value": "ach"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "unable_to_connect_bank"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>What error do you see when attempting to link your bank account?<br><br>You might find this article helpful for troubleshooting a bank connection:&nbsp;<a href=\"https://plaid.com/trouble-connecting\" target=\"_blank\" rel=\"noreferrer\">https://plaid.com/trouble-connecting</a>&nbsp;</p><p><br></p><p>If possible, you could try with an alternate banking institution.</p><p><br></p><p>If the issue persists, please reach out to Kado for direct support with connecting your bank.</p><p>Their best email for this is: <a href=\"mailto:support@kado.money\" target=\"_blank\" rel=\"noreferrer\">support@kado.money</a></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "What error do you see when attempting to link your bank account?\n\nYou might find this article helpful for troubleshooting a bank connection: https://plaid.com/trouble-connecting \n\nIf possible, you could try with an alternate banking institution.\n\nIf the issue persists, please reach out to Kado for direct support with connecting your bank.\nTheir best email for this is: support@kado.money"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "trouble connecting bank ACH"
+}

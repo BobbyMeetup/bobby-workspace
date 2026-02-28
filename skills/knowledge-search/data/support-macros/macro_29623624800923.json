@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/29623624800923.json",
+  "id": 29623624800923,
+  "title": "Paybis - incomplete verification",
+  "active": true,
+  "updated_at": "2024-11-10T00:06:51Z",
+  "created_at": "2024-09-28T22:48:41Z",
+  "default": false,
+  "position": 355,
+  "description": "\"When proceeding with the transaction the verification should open automatically.\nIf the user closes the verification they can access it by proceeding via this link.\"",
+  "actions": [
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "partner-resolved"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "paybis"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "kyc/id_verification_issue"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Alright, I do apologize for the inconvenience. You may still be able to process the order, if the pending charge is still able to be seen in your bank. Or, if you do nothing at this stage, it will cancel automatically and funds restored as soon as the \"preauth\" charge expires in about 2-3 days.</p><p>&nbsp;</p><p>If it's possible that the verification step was simply not completed during this order with Paybis, you can try heading to this link: <a href=\"https://payb.is\">Payb.is</a>, enter your email to sign-in, and there you'll be able to check any recent or pending orders, and finish any verifications to resume order processing.</p><p>&nbsp;</p><p>If there is another issue, or if you have any other questions, you may reach out to Edge support anytime and we'll assist you.</p><p>&nbsp;</p><p>Best regards,</p><p>{{current_user.first_name}}</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Alright, I do apologize for the inconvenience. You may still be able to process the order, if the pending charge is still able to be seen in your bank. Or, if you do nothing at this stage, it will cancel automatically and funds restored as soon as the \"preauth\" charge expires in about 2-3 days.\n\nIf it's possible that the verification step was simply not completed during this order with Paybis, you can try heading to this link: Payb.is (https://payb.is), enter your email to sign-in, and there you'll be able to check any recent or pending orders, and finish any verifications to resume order processing.\n\nIf there is another issue, or if you have any other questions, you may reach out to Edge support anytime and we'll assist you.\n \nBest regards,\n{{current_user.first_name}}"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Paybis - incomplete verification"
+}

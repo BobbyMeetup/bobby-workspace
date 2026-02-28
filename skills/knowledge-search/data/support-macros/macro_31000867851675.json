@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/31000867851675.json",
+  "id": 31000867851675,
+  "title": "article-feędback",
+  "active": true,
+  "updated_at": "2024-11-19T18:07:55Z",
+  "created_at": "2024-11-16T17:21:52Z",
+  "default": false,
+  "position": 368,
+  "description": "",
+  "actions": [
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923888415643"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "current_tags",
+      "value": "article-feedback"
+    },
+    {
+      "field": "comment_mode_is_public",
+      "value": "false"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Use the Zendesk Apps plugin to track this in Asana -</p><p>Add to existing. Search for task titled: \"Article Feedback from Anonymous\"</p>"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "article-feędback"
+}

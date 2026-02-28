@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/20865309585947.json",
+  "id": 20865309585947,
+  "title": "IBAN-SWIFT-whatisit",
+  "active": true,
+  "updated_at": "2023-12-01T22:37:30Z",
+  "created_at": "2023-12-01T22:37:30Z",
+  "default": false,
+  "position": 241,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "13053445492635"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "current_tags",
+      "value": "general_inquiry how_to_sell total_newb"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>An IBAN is short for 'International Bank Account Number' and is used to identify an individual account in cross-border payments. A BIC (Business Identifier Code) or SWIFT (Society for Worldwide Interbank Financial Telecommunication) code is a set of 8 or 11 digits used to identify a specific bank branch for international transfers. You should be able to find this information when logging into your online banking portal and viewing your account details.<br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "An IBAN is short for 'International Bank Account Number' and is used to identify an individual account in cross-border payments. A BIC (Business Identifier Code) or SWIFT (Society for Worldwide Interbank Financial Telecommunication) code is a set of 8 or 11 digits used to identify a specific bank branch for international transfers. You should be able to find this information when logging into your online banking portal and viewing your account details."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "IBAN-SWIFT-whatisit"
+}

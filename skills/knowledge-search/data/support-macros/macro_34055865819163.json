@@ -1,0 +1,47 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/34055865819163.json",
+  "id": 34055865819163,
+  "title": "unhide hidden balances",
+  "active": true,
+  "updated_at": "2025-02-15T00:12:35Z",
+  "created_at": "2025-02-15T00:12:35Z",
+  "default": false,
+  "position": 414,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "current_tags",
+      "value": "hidden_balances"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>If you are seeing 4 dots where your Total Balance is normally displayed, you may have accidentally tapped on it to hide your wallet balances. You can tap on these 4 dots, or on the little green eyeball above them, to <i>unhide</i> your balances.</p><p>&nbsp;</p><p>Let us know if you have any other questions or concerns.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "If you are seeing 4 dots where your Total Balance is normally displayed, you may have accidentally tapped on it to hide your wallet balances. You can tap on these 4 dots, or on the little green eyeball above them, to 'unhide' your balances.\n\nLet us know if you have any other questions or concerns. "
+    }
+  ],
+  "restriction": null,
+  "raw_title": "unhide hidden balances"
+}

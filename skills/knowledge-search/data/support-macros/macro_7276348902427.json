@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7276348902427.json",
+  "id": 7276348902427,
+  "title": "Wallet - Export Master Private Key (Seeds or Private key) - advanced",
+  "active": true,
+  "updated_at": "2024-11-27T10:36:23Z",
+  "created_at": "2022-07-12T22:03:04Z",
+  "default": false,
+  "position": 97,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>You can export your Master Private Key by going to the Assets screen. Then tap on the wallet you wish to view the key&nbsp; / seeds for. Once in the wallet, tap on the three vertical dots (located upper right side of screen) and a new menu will pop up. Next tap View Master Private Key and enter your password and your seeds will be displayed. If you are exporting from an Ethereum or other EVM wallet, you will see the private key, a long alphanumeric string, instead of the seeds.<br>If you need the seeds for this type of wallet, once in the wallet, tap on the three vertical dots and a new menu will pop up. Next tap View Raw Keys, enter your password and you will see your seeds in \"Mnemonic\" field.<br>&nbsp;</p><p>​With the seeds you can derive all your private keys or simply import them into a wallet that support that crypto.</p><p>​</p><p><strong>WARNING</strong>: Exposing your private keys can be risky if you do not take the right precautions. Using a private browser or opening the derivation tool on an air-gapped PC will help prevent malicious software from stealing your keys. Most users will not need to follow these steps and they are presented for informational use only.<br><br>If you need to derive individual private keys we recommend using Ian Coleman's tool&nbsp;<a href=\"https://iancoleman.io/bip39/\">https://iancoleman.io/bip39/</a>. All bitcoin-related currencies in Edge can be derived using this tool. If you are exporting an Edge wallet seeds to use in another wallet you can find the appropriate derivation path in the table below.<br><br>Generally, the process to derive private keys is the same for each currency and involves these three steps:<br>-Enter private seed (24 word phrase) into the \"BIP39 Mnemonic\" field<br>-Change the Coin<br>-Select a derivation path &lt;-- This step may be different depending on the coin and which type of address you are attempting to derive a private key for.</p><figure class=\"table\"><table><thead><tr><th>Coin</th><th>Derivation Path</th><th>Full Derivation Path</th></tr></thead><tbody><tr><td>Bitcoin</td><td>BIP49</td><td>m/49'/0'/0'/0</td></tr><tr><td>Bitcoin (no segwit)</td><td>BIP44</td><td>m/44'/0'/0'/0</td></tr><tr><td>Bitcoin Cash (BCH)</td><td>BIP44</td><td>m/44'/145'/0'/0</td></tr><tr><td>Bitcoin Gold (BTG)</td><td>BIP49</td><td>m/49'/156'/0'/0</td></tr><tr><td>Bitcoin SV (BSV)</td><td>BIP44</td><td>m/44'/145'/0'/0</td></tr><tr><td>Dash (DASH)</td><td>BIP44</td><td>m/44'/5'/0'/0</td></tr><tr><td>DigiByte (DGB)</td><td>BIP49</td><td>m/49'/20'/0'/0</td></tr><tr><td>Dogecoin (DOGE)</td><td>BIP44</td><td>m/44'/3'/0'/0</td></tr><tr><td>eBoost (EBST)*</td><td>BIP44</td><td>m/44'/324'/0'/0</td></tr><tr><td>Feathercoin (FTC)</td><td>BIP44</td><td>m/44'/8'/0'/0</td></tr><tr><td>GroestlCoin (GRS)*</td><td>BIP49</td><td>m/49'/17'/0'/0</td></tr><tr><td>Litecoin (LTC)</td><td>BIP49</td><td>m/49'/2'/0'/0</td></tr><tr><td>QTUM*</td><td>BIP44</td><td>m/44'/2301'/0'/0</td></tr><tr><td>Ravencoin (RVN)</td><td>BIP44</td><td>m/44'/175'/0'/0</td></tr><tr><td>SmartCash (SMART)*</td><td>BIP44</td><td>m/44'/224'/0'/0</td></tr><tr><td>Uniform Fiscal Object (UFO)*</td><td>BIP49</td><td>m/49'/202'/0'/0</td></tr><tr><td>Vertcoin (VTC)</td><td>BIP49</td><td>m/49'/28'/0'/0</td></tr><tr><td>Zcoin (XZC)</td><td>BIP44</td><td>m/44'/136'/0'/0</td></tr></tbody></table></figure><p>* = not available on&nbsp;<a href=\"https://iancoleman.io/bip39/\">https://iancoleman.io/bip39/</a></p><p>&nbsp;</p><p>If you are exporting a Bitcoin wallet created on Airbitz, you will get a 64 digits hex instead of a seed phrase.<br>You can follow these steps to derive the private keys:</p><p>&nbsp;</p><ol><li>Go to edge.app/recovery (the iancoleman tool doesn't have this)</li><li>Set to btc</li><li>Enter the 64 digit hex from airbitz into private key hex field</li><li>Set to bip32</li><li>custom derivation path to m/0/0</li><li>Continue as normal to locate the address that has the funds to sweep</li></ol><p>&nbsp;</p>"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "current_tags",
+      "value": "seed-export"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Wallet - Export Master Private Key (Seeds or Private key) - advanced"
+}

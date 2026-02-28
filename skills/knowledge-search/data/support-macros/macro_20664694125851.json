@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/20664694125851.json",
+  "id": 20664694125851,
+  "title": "custom contract template",
+  "active": true,
+  "updated_at": "2023-11-24T20:36:02Z",
+  "created_at": "2023-11-24T20:36:02Z",
+  "default": false,
+  "position": 237,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Token Code:&nbsp;<br>Token Name:&nbsp;<br>Contract Address:&nbsp;</p><p>Number of Decimal Places:&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Token Code: \nToken Name: \nContract Address: \nNumber of Decimal Places: "
+    }
+  ],
+  "restriction": null,
+  "raw_title": "custom contract template"
+}

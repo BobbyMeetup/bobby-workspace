@@ -2,6 +2,16 @@
 
 Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
 
+## Hosting Environment
+
+- **Type:** Linux VPS (Virtual Private Server) — NOT a Mac mini, NOT a local machine
+- **OS:** Ubuntu (Linux) — `uname -a` or `cat /etc/os-release` for specifics
+- **Home dir:** `/home/bobby`
+- **Shell:** bash
+- **Assume:** Linux filesystem layout, `apt` for packages, no macOS-specific tools (no `brew`, no `open`, no `pbcopy`, etc.)
+
+> ⚠️ If you're ever unsure about the environment, run `uname -a` before assuming anything about the OS or hardware.
+
 ## Critical Resources (ALWAYS REMEMBER)
 
 ### Edge Wallet

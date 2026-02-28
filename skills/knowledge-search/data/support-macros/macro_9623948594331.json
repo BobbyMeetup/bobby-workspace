@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/9623948594331.json",
+  "id": 9623948594331,
+  "title": "Sell - Moonpay website/Wyre alternative ",
+  "active": false,
+  "updated_at": "2024-01-04T02:15:21Z",
+  "created_at": "2022-10-14T20:11:13Z",
+  "default": false,
+  "position": 137,
+  "description": null,
+  "actions": [
+    {
+      "field": "subject",
+      "value": "Moonpay sell"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "moonpay"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": ""
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Our Wyre sell option has been having issues. We would suggest contacting them directly at <a href=\"mailto:support@sendwyre.com\">support@sendwyre.com</a>&nbsp;to help with your sell. If they are not responsive we would suggest giving Moonpay a try. You can access their sell option here: <a href=\"https://www.moonpay.com/buy\" target=\"_blank\" rel=\"noreferrer\">https://www.moonpay.com/buy</a>. After visiting the site click on \"Sell BTC\" and then follow the prompts.&nbsp;</p><p><br></p><p>If you have any questions or concerns please let us know.&nbsp;</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Our Wyre sell option has been having issues. We would suggest contacting them directly at support@sendwyre.com to help with your sell. If they are not responsive we would suggest giving Moonpay a try. You can access their sell option here: https://www.moonpay.com/buy. After visiting the site click on \"Sell BTC\" and then follow the prompts. \n"
+    },
+    {
+      "field": "current_tags",
+      "value": "wyre"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Sell - Moonpay website/Wyre alternative "
+}

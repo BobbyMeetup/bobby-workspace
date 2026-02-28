@@ -1,0 +1,59 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/20647695484571.json",
+  "id": 20647695484571,
+  "title": "blockbook-syncserver - resync not working",
+  "active": true,
+  "updated_at": "2023-11-26T01:23:08Z",
+  "created_at": "2023-11-24T03:55:41Z",
+  "default": false,
+  "position": 236,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "funds_never_arrived_receive"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "network_issue"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "btc"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "unable_to_send"
+    },
+    {
+      "field": "current_tags",
+      "value": "syncserver"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>We have been seeing some lag, or sync issues with BTC blockbook servers recently. This could affect your ability to see or spend recent transactions, and your total balance may not display correctly if a wallet is out of sync. Rest assured, your funds are safe and at no risk of being lost.</p><p>&nbsp;<br></p><p>Bitcoin has been undergoing severe congestion lately. This issue could be related and would be self-resolving as the network clears up. If you don't mind letting us know your region and how you are connecting to the internet, either by cell data and/or WiFi, this may help us to establish a pattern and possibly prevent this issue going forward. Now, it seems that the issue has been resolving already for many affected users and BTC wallets are fully synchronizing, but there could still be some latent issues.</p><p><br>The best strategy might simply be waiting for the servers to send updated information to your device. You can also try force closing the app and re-opening it after some time, and switching your internet source if possible. Blockchains are sometimes slow, but very reliable. Please give this some time, and let us know if it persists beyond 48 hours. We appreciate your patience and understanding.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "We have been seeing sync issues with BTC blockbook servers lately. This could affect your ability to see or spend recent transactions, and your total balance may not display correctly if a wallet is out of sync. Rest assured, your funds are safe and at no risk of being lost.\n\nBitcoin has been undergoing severe congestion lately. This issue could be related and would be self-resolving as the network clears up. If you don't mind letting us know your region and how you are connecting to the internet, either by cell data and/or WiFi, this may help us to establish a pattern and possibly prevent this issue going forward. Now, it seems that the issue has been resolving already for many affected users and BTC wallets are fully synchronizing, but there could still be some latent issues.\n\nThe best strategy might simply be waiting for the servers to send updated information to your device. You can also try force closing the app and re-opening it after some time, and switching your internet source if possible. Blockchains are sometimes slow, but very reliable. Please give this some time, and let us know if it persists beyond 48 hours. We appreciate your patience and understanding."
+    }
+  ],
+  "restriction": null,
+  "raw_title": "blockbook-syncserver - resync not working"
+}

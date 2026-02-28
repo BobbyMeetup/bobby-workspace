@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7247458981915.json",
+  "id": 7247458981915,
+  "title": "Review Edge - Trust Pilot App Store PlayStore",
+  "active": true,
+  "updated_at": "2025-03-22T20:35:58Z",
+  "created_at": "2022-07-11T22:57:04Z",
+  "default": false,
+  "position": 81,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Awesome!! I'm very glad we were able to get to the solution in this case!</p><p>Please feel free to reach out whenever you have some more crypto or wallet questions 👍</p><p>&nbsp;</p><p><br>--</p><p><i>P.S. If you would like to help Edge out a bit(coin;) too, a quick&nbsp;</i><a href=\"https://www.trustpilot.com/review/edge.app\"><i>Trustpilot</i></a><i>&nbsp;review goes a long way!</i></p><p><i>Or an honest review in your app store is also a huge help! ❤️</i></p><p><a href=\"https://itunes.apple.com/us/app/edge-bitcoin-wallet/id1344400091\"><i>Apple App Store</i></a><i>&nbsp;|&nbsp;</i><a href=\"https://play.google.com/store/apps/details?id=co.edgesecure.app\"><i>Google Play Store</i></a></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Awesome!! I'm very glad we were able to get to the solution in this case!\nPlease feel free to reach out whenever you have some more crypto or wallet questions 👍\n\n\n--\nP.S. If you would like to help Edge out a bit(coin;) too, a quick Trustpilot review goes a long way! - https://www.trustpilot.com/review/edge.app\n\nOr an honest review in your app store is also a huge help! ❤️\nApple App Store - https://apps.apple.com/us/app/edge-bitcoin-wallet/id1344400091\nGoogle Play Store - https://play.google.com/store/apps/details?id=co.edgesecure.app"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923888415643"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "current_tags",
+      "value": "review_requested"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Review Edge - Trust Pilot App Store PlayStore"
+}

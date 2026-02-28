@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/29803387672347.json",
+  "id": 29803387672347,
+  "title": "Support - Troubleshoot QA",
+  "active": true,
+  "updated_at": "2024-10-04T19:56:40Z",
+  "created_at": "2024-10-04T19:56:40Z",
+  "default": false,
+  "position": 357,
+  "description": null,
+  "actions": [
+    {
+      "field": "current_tags",
+      "value": "troubleshooting"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "side_conversation_slack",
+      "value": [
+        "<p>QA questions sent to user</p>",
+        "edge-support",
+        "text/html"
+      ]
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>To help us solve the issue we would like to gather a bit more information from you. Do not uninstall while we troubleshoot.</p><p>&nbsp;</p><p>Please provide the following information:&nbsp;</p><ol><li>Steps taken to receive the error? Please be as detailed as possible.</li><li>Any error messages you received? Screenshot or exact wording is the most helpful.&nbsp;</li><li>Please send us your logs file?<ol><li>Go to the main Menu (<strong>≡</strong>) in the upper right corner, tap Settings, scroll to the bottom and select 'Export Logs'</li><li>Enter your email address in the notes field to help us identify your log submission.</li><li>Tap 'Send Logs to Edge' and reply here with time sent.</li><li><strong>If you DO NOT have access to your account</strong>, from the login screen you can access the log submission prompt by taping 5 times fast on the Edge logo.</li></ol></li></ol><p>&nbsp;</p><p>Any additional information would be helpful as well. Screenshots, video recordings, etc.&nbsp;</p><p>&nbsp;</p><p>NOTE:&nbsp;</p><ul><li>Logs do not provide any private information such as private key, password, or XPUBS.&nbsp;</li><li>Logs do provide some information about your account such as username, device, exchange queries, and EVM addresses.</li><li>Never send private key or password information.&nbsp;</li></ul>"
+    },
+    {
+      "field": "comment_value",
+      "value": "To help us solve the issue we would like to gather a bit more information from you. Do not uninstall while we troubleshoot.\n \nPlease provide the following information: \nSteps taken to receive the error? Please be as detailed as possible.\nAny error messages you received? Screenshot or exact wording is the most helpful. \nPlease send us your logs file?Go to the main Menu (≡) in the upper right corner, tap Settings, scroll to the bottom and select 'Export Logs'\nEnter your email address in the notes field to help us identify your log submission.\nTap 'Send Logs to Edge' and reply here with time sent.\nIf you DO NOT have access to your account, from the login screen you can access the log submission prompt by taping 5 times fast on the Edge logo.\n\n\n\n \nAny additional information would be helpful as well. Screenshots, video recordings, etc. \n \nNOTE: \nLogs do not provide any private information such as private key, password, or XPUBS. \nLogs do provide some information about your account such as username, device, exchange queries, and EVM addresses.\nNever send private key or password information. \n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Support - Troubleshoot QA"
+}

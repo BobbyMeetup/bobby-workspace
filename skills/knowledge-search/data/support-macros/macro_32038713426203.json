@@ -1,0 +1,23 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/32038713426203.json",
+  "id": 32038713426203,
+  "title": "Rango stuck swap",
+  "active": true,
+  "updated_at": "2024-12-19T11:41:24Z",
+  "created_at": "2024-12-19T11:41:24Z",
+  "default": false,
+  "position": 385,
+  "description": null,
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Since the swap is stuck, as you can see here ---, you should be able to claim your funds back by using this tool:<br><a href=\"https://app.symbiosis.finance/pending\">https://app.symbiosis.finance/pending</a><br>&nbsp;<br>Tap Connect Wallet, upper right, tap Wallet Connect.<br>In Edge, login, tap Side Menu, tap Wallet Connect, tap New Connection and frame the QRCode. Select your wallet where the transaction was sent from.<br>If you have issues connecting, refresh the tool page, tap again Wallet Connect, go to Edge and repeat the steps above.<br>&nbsp;<br>Please let me know.</p>"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Rango stuck swap"
+}

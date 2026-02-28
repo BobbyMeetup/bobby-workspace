@@ -1,0 +1,42 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/12318576949787.json",
+  "id": 12318576949787,
+  "title": "login package success ",
+  "active": true,
+  "updated_at": "2025-08-13T16:18:30Z",
+  "created_at": "2023-01-24T19:43:17Z",
+  "default": false,
+  "position": 133,
+  "description": "",
+  "actions": [
+    {
+      "field": "subject",
+      "value": "Login package success"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "account"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>The login package has passed. We typically wait 30 days to make sure there are no successful logins before we will give the encrypted file out. Please let us know if you have any questions or concerns. &nbsp;You can continue to guess your password while we gather the login package.&nbsp;</p>"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923916366107"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 1904053440604
+  },
+  "raw_title": "login package success "
+}

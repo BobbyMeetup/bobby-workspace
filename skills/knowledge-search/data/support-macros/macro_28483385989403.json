@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/28483385989403.json",
+  "id": 28483385989403,
+  "title": "arrr (short / iOS)",
+  "active": false,
+  "updated_at": "2025-05-22T20:28:54Z",
+  "created_at": "2024-08-21T20:12:07Z",
+  "default": false,
+  "position": 344,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>PirateChain (ARRR) wallets on iOS devices has been temporarily disabled, while developers are making adjustments to their network. As they release new code updates, we will be able to integrate and resume support for the ARRR. Meanwhile, funds are safe!</p><p>&nbsp;</p><p>If you need access to it now, you may export your Master Private Key for your ARRR wallet -</p><ol><li>Login, tap into your Assets view and locate the ARRR wallet.</li><li>Hold down on it to quickly open its menu (or tap inside and use the ⋮ button)</li><li>Select: View Master Private Key, enter your Password and it will be displayed</li></ol><p><br>WARNING: Exposing your private key can be risky if you do not take the right precautions to keep it secure.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "PirateChain (ARRR) wallets on iOS devices has been temporarily disabled, while developers are making adjustments to their network. As they release new code updates, we will be able to integrate and resume support for the ARRR. Meanwhile, funds are safe!\n\nIf you need access to it now, you may export your Master Private Key for your ARRR wallet -\n\n  1. Login, tap into your Assets view and locate the ARRR wallet.\n  2. Hold down on it to quickly open its menu (or tap inside and use the ⋮ button)\n  3. Select: View Master Private Key, enter your Password and it will be displayed\n\n\nWARNING: Exposing your private key can be risky if you do not take the right precautions to keep it secure."
+    },
+    {
+      "field": "current_tags",
+      "value": "sync_issue"
+    },
+    {
+      "field": "custom_fields_6988774951835",
+      "value": "pirate_chain"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "arrr (short / iOS)"
+}

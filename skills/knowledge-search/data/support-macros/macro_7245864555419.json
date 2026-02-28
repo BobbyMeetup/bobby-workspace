@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7245864555419.json",
+  "id": 7245864555419,
+  "title": "Exchange - How to exchange/swap",
+  "active": true,
+  "updated_at": "2025-08-13T21:18:04Z",
+  "created_at": "2022-07-11T21:38:12Z",
+  "default": false,
+  "position": 67,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>To exchange one cryptocurrency for another one:</p><p>1. Open Edge, sign in and tap on the \"Exchange\" tab in the bottom navigation bar</p><p>2. Tap the \"Select Source Wallet\" and pick the currency you'd like to exchange for a different cryptocurrency.&nbsp;</p><p>3. Tap the \"Select Receiving Wallet\" and pick the currency you'd like to receive.&nbsp;</p><p>4. Type in how much you want to swap, or use the 'Max' button to swap everything in the source wallet.</p><p>5. On the next screen, the details of the quote will be displayed, and if satisfied with the terms of the transaction, you can then Slide to Confirm.</p><p>&nbsp;</p><p>🎉 That's it! You can now go to your source wallet from the Assets screen and see the transaction in your history. You may also tap into the transaction details to find an exchange status page. A crypto-to-crypto swap will typically process within a few minutes to a few hours, so please allow some time for the results of the transaction.</p><p>&nbsp;</p><p>If you have any issues or concerns please let us know.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "To exchange one cryptocurrency for another one:\n1. Open Edge, sign in and tap on the \"Exchange\" tab in the bottom navigation bar\n2. Tap the \"Select Source Wallet\" and pick the currency you'd like to exchange for a different cryptocurrency. \n3. Tap the \"Select Receiving Wallet\" and pick the currency you'd like to receive. \n4. Type in how much you want to swap, or use the 'Max' button to swap everything in the source wallet.\n5. On the next screen, the details of the quote will be displayed, and if satisfied with the terms of the transaction, you can then Slide to Confirm.\n \n🎉 That's it! You can now go to your source wallet from the Assets screen and see the transaction in your history. You may also tap into the transaction details to find an exchange status page. A crypto-to-crypto swap will typically process within a few minutes to a few hours, so please allow some time for the results of the transaction.\n \nIf you have any issues or concerns please let us know."
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "current_tags",
+      "value": "general_inquiry new_to_edge has_account"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987701197339"
+    },
+    {
+      "field": "custom_fields_6991553191067",
+      "value": "how_to_swap"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Exchange - How to exchange/swap"
+}

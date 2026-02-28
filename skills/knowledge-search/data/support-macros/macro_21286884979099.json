@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/21286884979099.json",
+  "id": 21286884979099,
+  "title": "Bitcoin Depot support (bd)",
+  "active": true,
+  "updated_at": "2024-08-02T22:14:13Z",
+  "created_at": "2023-12-15T22:09:39Z",
+  "default": false,
+  "position": 248,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi {{ticket.requester.first_name}},</p><p>&nbsp;</p><p>You may have been referred to us from Bitcoin Depot support (<a href=\"https://bitcoindepot.com/contact-us/\">https://bitcoindepot.com/contact-us</a>). This is Edge wallet support, and we sometimes function as Tier 2 support for Bitcoin Depot user to help troubleshoot more complex wallet issues. For more advanced troubleshooting, please download and log into our app, so that you can better manage your Edge wallet account that is securing your Bitcoin Depot assets in the background.</p><p>&nbsp;</p><p>Before going further, here are some quick troubleshooting steps you may try:<br>- restart your phone to clear active memory<br>- check for any app updates in your app store<br>- ensure a good internet connection and that no power-saving mode is enabled, then open the Bitcoin Depot app fresh, allowing some time for blockchain data to synchronize with your device.</p><p>&nbsp;</p><p>Is the issue persists, you will be able to download Edge in your app store or by following the link, here: <a href=\"https://edge.app/get-started\">https://edge.app/get-started</a> &nbsp;And once you log into your existing account with the same username and password that you created when setting up your Bitcoin Depot wallet, you will be able to access and operate the same assets from both apps, equally. &nbsp;If you do not remember your wallet password, then you may be able to use Login Scan feature to replicate your account in Edge.</p><p>&nbsp;</p><p>Edge is a zero-knowledge application with client-side encryption, so we have no way to mange your account for you or see your assets, but this will allow you to access your funds within a more powerful wallet platform, which may help you in this case.<br>&nbsp;</p><p>Let us know if you have more info or questions for the Edge team, and we'll assist you.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hi {{ticket.requester.first_name}},\n\nYou may have been referred to us from Bitcoin Depot support (https://bitcoindepot.com/contact-us). This is Edge wallet support, and we sometimes function as Tier 2 support for Bitcoin Depot user to help troubleshoot more complex wallet issues. For more advanced troubleshooting, please download and log into our app, so that you can better manage your Edge wallet account that is securing your Bitcoin Depot assets in the background.\n\nBefore going further, here are some quick troubleshooting steps you may try:\n- restart your phone to clear active memory\n- check for any app updates in your app store\n- ensure a good internet connection and that no power-saving mode is enabled, then open the Bitcoin Depot app fresh, allowing some time for blockchain data to synchronize with your device.\n\nIs the issue persists, you will be able to download Edge in your app store or by following the link, here: https://edge.app/get-started  And once you log into your existing account with the same username and password that you created when setting up your Bitcoin Depot wallet, you will be able to access and operate the same assets from both apps, equally.  If you do not remember your wallet password, then you may be able to use Login Scan feature to replicate your account in Edge.\n\nEdge is a zero-knowledge application with client-side encryption, so we have no way to mange your account for you or see your assets, but this will allow you to access your funds within a more powerful wallet platform, which may help you in this case.\n\nLet us know if you have more info or questions for the Edge team, and we'll assist you."
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "bitcoin_depot"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Bitcoin Depot support (bd)"
+}

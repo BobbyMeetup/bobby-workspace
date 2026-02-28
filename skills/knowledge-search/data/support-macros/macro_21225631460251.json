@@ -1,0 +1,19 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/21225631460251.json",
+  "id": 21225631460251,
+  "title": "Rename wallet",
+  "active": true,
+  "updated_at": "2024-04-13T13:26:08Z",
+  "created_at": "2023-12-14T00:59:20Z",
+  "default": false,
+  "position": 246,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>To rename any wallet in your list, long-press or hold down on the asset on your main wallet list page. This is a shortcut to a specific coin's menu, the same options that can be found from the three vertical dots, after tapping into a wallet. Here you will see the option to Rename the wallet near the top.</p>"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Rename wallet"
+}

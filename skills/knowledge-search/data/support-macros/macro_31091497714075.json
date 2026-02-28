@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/31091497714075.json",
+  "id": 31091497714075,
+  "title": "RVN - Mining directly into Edge = Export seed",
+  "active": true,
+  "updated_at": "2024-11-20T01:11:44Z",
+  "created_at": "2024-11-20T01:11:44Z",
+  "default": false,
+  "position": 370,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Mining directly into Edge is not advised.</p><p>&nbsp;</p><p>Due to the frequency of payouts coming directly from the mining pool, it's possible overload one of your RVN receiving addresses with too many inputs, making it impossible for Edge to see your balance accurately. This can be prevented by reducing the frequency of payouts from your mining pool, but in order to fix this issue once it's already present, you'll need to export the Master Private Key (the 24 word seed phrase) for this RVN wallet and import it into an external, full-node wallet (ideally on a desktop), so you can download the whole Ravencoin blockchain quickly and gain access your funds as soon as possible.</p><p>&nbsp;</p><p>A full node Ravencoin wallet can be obtained from here: <a href=\"https://ravencoin.org/wallet/\">https://ravencoin.org/wallet</a></p><p>&nbsp;</p><p>To export your Master Private Key for an asset in your Edge account -</p><p>1) Open Edge and login</p><p>2) Navigate to your Assets page, and tap into your RVN wallet</p><p>3) Next, tap on the three vertical dots (<strong>⋮</strong>)&nbsp;to access this wallet's menu</p><p>4) Find the option for Master Private Key, tap it, and use your account password to reveal this private data.</p><p>5) Write this down safely and securely!</p><p>&nbsp;</p><p>Once you've downloaded a full-node wallet client, you may import your Edge RVN wallet seed phrase to restore full access to all the coins you've mined into this wallet. Now, you may even conduct a 'send all to self' transaction to consolidate the many outputs into one, which will fix the original issue and send transactions from within Edge will be possible again.</p><p>​</p><p>Let us know if you need any help or have any additional questions while attempting this process.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Mining directly into Edge is not advised.\n \nDue to the frequency of payouts coming directly from the mining pool, it's possible overload one of your RVN receiving addresses with too many inputs, making it impossible for Edge to see your balance accurately. This can be prevented by reducing the frequency of payouts from your mining pool, but in order to fix this issue once it's already present, you'll need to export the Master Private Key (the 24 word seed phrase) for this RVN wallet and import it into an external, full-node wallet (ideally on a desktop), so you can download the whole Ravencoin blockchain quickly and gain access your funds as soon as possible.\n \nA full node Ravencoin wallet can be obtained from here: https://ravencoin.org/wallet\n \nTo export your Master Private Key for an asset in your Edge account -\n1) Open Edge and login\n2) Navigate to your Assets page, and tap into your RVN wallet\n3) Next, tap on the three vertical dots (⋮) to access this wallet's menu\n4) Find the option for Master Private Key, tap it, and use your account password to reveal this private data.\n5) Write this down safely and securely!\n \nOnce you've downloaded a full-node wallet client, you may import your Edge RVN wallet seed phrase to restore full access to all the coins you've mined into this wallet. Now, you may even conduct a 'send all to self' transaction to consolidate the many outputs into one, which will fix the original issue and send transactions from within Edge will be possible again.\n​\nLet us know if you need any help or have any additional questions while attempting this process."
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987575115803"
+    },
+    {
+      "field": "custom_fields_6991693831579",
+      "value": "unable_to_send"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "RVN - Mining directly into Edge = Export seed"
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/26702996851611.json",
+  "id": 26702996851611,
+  "title": "KYC-how-to",
+  "active": true,
+  "updated_at": "2024-06-18T21:00:38Z",
+  "created_at": "2024-06-18T21:00:38Z",
+  "default": false,
+  "position": 321,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge is a secure and private mobile crypto wallet that allows you to self-custody your own wallet keys, while giving you integrated access to several exchanges which offer services for simple buying, selling, and swapping of crypto assets.<br><br>In order to create an account or increase your limits with one of our exchange partners, they may have their own identification requirements, known as KYC. These requirements are intended to help their company comply with local (or international) business regulations.<br><br></p><p>So, to fulfill their KYC request, simply follow the instructions provided by the exchange you are using. If you are experiencing an issue when trying to verify your ID with one of the exchanges, you will get the quickest resolution by contacting them directly for support.<br><br></p><p>If you are still unable get the help you need, please reach back out to us with specific details regarding the exchange partner used so that we may submit a request with them on your behalf.</p><p><br></p>"
+    }
+  ],
+  "restriction": {
+    "type": "User",
+    "id": 26105022686363
+  },
+  "raw_title": "KYC-how-to"
+}

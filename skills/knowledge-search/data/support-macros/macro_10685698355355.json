@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/10685698355355.json",
+  "id": 10685698355355,
+  "title": "Bitcoin - need to resync at every login (temporary)",
+  "active": true,
+  "updated_at": "2024-04-05T20:50:35Z",
+  "created_at": "2022-11-26T11:07:59Z",
+  "default": false,
+  "position": 146,
+  "description": null,
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hi,<br>we are aware of a bug with old Airbitz accounts in which Bitcoin wallets need to be resynced at every login in order to display the correct balance and transaction list.<br>Our engineers are working on that, meanwhile we have a temporary solution.<br><br>Please follow these steps:<br>1. Login and tap on \"+\" symbol<br>2. Select Bitcoin and create a new Bitcoin Segwit wallet<br>3. Open the old Bitcoin wallet, tap Send, tap Myself, select the new Bitcoin wallet.<br>5. Tap Amount, tap Max and Slide to confirm.<br><br>Your funds will be stored in the new wallet inside the same Edge account.<br><br>You will be able to use again your old wallet if you want, but it will need to be resynced at every login until the fix.</p>"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_fields_10768400573083",
+      "value": "true"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Bitcoin - need to resync at every login (temporary)"
+}

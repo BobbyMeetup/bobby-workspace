@@ -1,0 +1,31 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/31003724247451.json",
+  "id": 31003724247451,
+  "title": "guest-account",
+  "active": true,
+  "updated_at": "2024-11-16T20:28:44Z",
+  "created_at": "2024-11-16T20:28:44Z",
+  "default": false,
+  "position": 369,
+  "description": null,
+  "actions": [
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "current_tags",
+      "value": "sign-in_issues light_account"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>It sounds like you may have tapped on 'Get Started' instead of 'Sign in', and so a Guest Account was created for you.</p><p>&nbsp;</p><p>To logout of this, tap the menu button (≡) in the top right, and then Logout. Tap on Cancel and/or 'Exit Pin' to get back to the main sign-in page.</p><p>&nbsp;</p><p>Now, you may enter your username and password to restore your account from an encrypted backup.</p><p>&nbsp;</p><p>Please let us know if you have any more questions or concerns.</p><p>&nbsp;</p><p>Best regards,</p><p>{{current_user.first_name}}</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "It sounds like you may have tapped on 'Get Started' instead of 'Sign in', and so a Guest Account was created for you.\n \nTo logout of this, tap the menu button (≡) in the top right, and then Logout. Tap on Cancel and/or 'Exit Pin' to get back to the main sign-in page.\n \nNow, you may enter your username and password to restore your account from an encrypted backup.\n \nPlease let us know if you have any more questions or concerns.\n \nBest regards,\n{{current_user.first_name}}\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "guest-account"
+}

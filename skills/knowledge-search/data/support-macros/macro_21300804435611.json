@@ -1,0 +1,43 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/21300804435611.json",
+  "id": 21300804435611,
+  "title": "ada-request",
+  "active": true,
+  "updated_at": "2023-12-16T16:51:12Z",
+  "created_at": "2023-12-16T16:51:12Z",
+  "default": false,
+  "position": 249,
+  "description": "for users seeking Cardano within Edge",
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987621291547"
+    },
+    {
+      "field": "custom_fields_6991735387675",
+      "value": "unable_to_receive"
+    },
+    {
+      "field": "current_tags",
+      "value": "feature_request coin_or_token_not_supported ada"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "6992127095195"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>Edge does not have the resources to support Cardano (ADA) at this time. It's uniquely complex, and would require a lot development hours to effectively integrate it. If you search your app store for the VESPR app, this is a great example of a development team that is specifically focused on Cardano, and you will have a much more rich experience with this blockchain if you use a native or dedicated wallet environment for your ADA. Please let me know if you have more questions about this. Apologies for any inconvenience this causes you.<br><br>Note: If you would still like access to our exchange network for swapping into or out of Cardano, let me know. Despite not being able to hold ADA in your Edge account, our partners still do support this well known asset.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Edge does not have the resources to support Cardano (ADA) at this time. It's uniquely complex, and would require a lot development hours to effectively integrate it. If you search your app store for the VESPR app, this is a great example of a development team that is specifically focused on Cardano, and you will have a much more rich experience with this blockchain if you use a native or dedicated wallet environment for your ADA. Please let me know if you have more questions about this. Apologies for any inconvenience this causes you.\n\nNote: If you would still like access to our exchange network for swapping into or out of Cardano, let me know. Despite not being able to hold ADA in your Edge account, our partners still do support this well known asset.\n"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "ada-request"
+}

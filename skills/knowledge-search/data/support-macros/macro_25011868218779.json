@@ -1,0 +1,39 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/25011868218779.json",
+  "id": 25011868218779,
+  "title": "fitness",
+  "active": true,
+  "updated_at": "2024-04-19T22:22:49Z",
+  "created_at": "2024-04-19T22:22:49Z",
+  "default": false,
+  "position": 287,
+  "description": null,
+  "actions": [
+    {
+      "field": "custom_status_id",
+      "value": "6923888415643"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "irrelevant"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>The Edge Fitness app:</p><p><a href=\"https://www.theedgefitnessclubs.com/\" target=\"_blank\" rel=\"noreferrer\">https://www.theedgefitnessclubs.com</a></p><p>is a separate company.</p><p><br></p><p>We are Edge app:</p><p><a href=\"https://edge.app/get-started/\" target=\"_blank\" rel=\"noreferrer\">https://edge.app/get-started</a></p><p>for mobile cryptocurrency trading and hodling.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "The Edge Fitness app:\nhttps://www.theedgefitnessclubs.com\nis a separate company.\n\nWe are Edge app:\nhttps://edge.app/get-started\nfor mobile cryptocurrency trading and hodling.\n"
+    },
+    {
+      "field": "current_tags",
+      "value": "edgefitness"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "fitness"
+}

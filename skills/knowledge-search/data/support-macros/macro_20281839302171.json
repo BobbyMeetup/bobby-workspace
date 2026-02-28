@@ -1,0 +1,19 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/20281839302171.json",
+  "id": 20281839302171,
+  "title": "Thank you for reaching out. ",
+  "active": true,
+  "updated_at": "2023-11-10T02:10:19Z",
+  "created_at": "2023-11-10T02:10:19Z",
+  "default": false,
+  "position": 228,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thank you for reaching out.&nbsp;</p>"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Thank you for reaching out. "
+}

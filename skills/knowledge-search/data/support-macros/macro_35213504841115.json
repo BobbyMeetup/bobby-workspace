@@ -1,0 +1,62 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/35213504841115.json",
+  "id": 35213504841115,
+  "title": "verify google virtual card (paybis)",
+  "active": true,
+  "updated_at": "2025-03-22T01:04:23Z",
+  "created_at": "2025-03-22T01:04:23Z",
+  "default": false,
+  "position": 422,
+  "description": null,
+  "actions": [
+    {
+      "field": "ticket_form_id",
+      "value": "6987757211675"
+    },
+    {
+      "field": "custom_fields_6991125389467",
+      "value": "kyc/id_verification_issue"
+    },
+    {
+      "field": "custom_fields_6990941200027",
+      "value": "paybis"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "partner"
+    },
+    {
+      "field": "current_tags",
+      "value": "virtual"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p><span style=\"background-color:rgb(28,30,31);color:rgb(201,196,189);\">To secure their customers, Google Pay encrypts physical card numbers. Unfortunately, due to this encryption, we are unable to match a customer's physical card to their virtual card (the last 4 digits differ). Therefore, customers need to provide a screenshot from their Google Pay.</span></p><p><br><span style=\"background-color:rgb(28,30,31);color:rgb(201,196,189);\">If any other troubles persist, we recommend heading to </span><a href=\"https://payb.is\">https://payb.is</a><span style=\"background-color:rgb(28,30,31);color:rgb(201,196,189);\"> and login with your same email to review your complete order history with Paybis, complete any verification steps if needed, or get direct support from the exchanger on any open orders.</span><br>&nbsp;</p><p>Please let us know if you have more questions for the Edge support team.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "To secure their customers, Google Pay encrypts physical card numbers. Unfortunately, due to this encryption, we are unable to match a customer's physical card to their virtual card (the last 4 digits differ). Therefore, customers need to provide a screenshot from their Google Pay.\n\nIf any other troubles persist, we recommend heading to https://payb.is and login with your same email to review your complete order history with Paybis, complete any verification steps if needed, or get direct support from the exchanger on any open orders. \n\nPlease let us know if you have more questions for the Edge support team.\n"
+    }
+  ],
+  "restriction": null,
+  "attachments": [
+    35213441767323
+  ],
+  "raw_title": "verify google virtual card (paybis)"
+}

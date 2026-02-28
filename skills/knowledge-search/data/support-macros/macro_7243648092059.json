@@ -1,0 +1,27 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/7243648092059.json",
+  "id": 7243648092059,
+  "title": "DOGE - Dogecoin fee issue",
+  "active": true,
+  "updated_at": "2022-07-11T20:21:26Z",
+  "created_at": "2022-07-11T20:21:26Z",
+  "default": false,
+  "position": 53,
+  "description": null,
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Thanks for reaching out and I apologize for the inconvenience.</p><p><br></p><p>The transaction is stuck pending due to a change with Dogecoin fees recently where it requires 1 Dogecoin for the transaction to process. Any amount less than that even if the mempool is clear will be ignored and not go through.</p><p><br></p><p>In regards to your current stuck transaction it will continue to remain Pending for a few days possibly a week before the transaction will automatically drop. Once the transaction is dropped the funds will automatically be back in your wallet as if it was never sent.</p><p><br></p><p>You'll need to simply wait til the transaction expires and the funds are returned to you.&nbsp;</p><p><br></p><p><br></p><p>Let us know if you have any questions.</p><p><br></p>"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "DOGE - Dogecoin fee issue"
+}

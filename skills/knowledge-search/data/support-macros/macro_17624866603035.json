@@ -1,0 +1,55 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/17624866603035.json",
+  "id": 17624866603035,
+  "title": "Account - newuser download wallet",
+  "active": true,
+  "updated_at": "2024-10-24T21:25:49Z",
+  "created_at": "2023-08-02T21:18:45Z",
+  "default": false,
+  "position": 193,
+  "description": "",
+  "actions": [
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987525034011"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "current_tags",
+      "value": "new_user general_inquiry no_account"
+    },
+    {
+      "field": "custom_fields_6990567043227",
+      "value": "wallet"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "user/behavioral"
+    },
+    {
+      "field": "custom_fields_6984263703451",
+      "value": "receive"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "sent_how-to_steps"
+    },
+    {
+      "field": "comment_value_html",
+      "value": "<p>You can download Edge from your app store, here -<br><a href=\"https://dl.edge.app/?af=edge-app-get-started\">https://dl.edge.app/?af=edge-app-get-started</a></p><p>&nbsp;</p><p>After launching the app, please upgrade to a Full Account by backing up and securing a Username &amp; Password for it. Edge is a privacy-oriented application, so we will not be able to recover your login details if ever lost! You can create and a 'Password Recovery Token' and '2FA Code' in Account Settings to maximize security on the account.</p><p>&nbsp;</p><p>--</p><p><i>Note: Be aware if someone is guiding or coaching you to get started in crypto, and they made first contact with you, they are likely a professional scam artist - eventually guiding you to send them your money under false pretenses.</i></p><p><i>Crypto transactions cannot be stopped or reversed! If you are presented with a very good deal, guaranteed profits, easy remote work, or possibly even a long-distance romance - these scenarios are often used to mislead and financially take advantage of new crypto users.</i></p><p>&nbsp;</p><p>Please stay safe out there! If you keep your Edge account's Username &amp; Password: secure -- then you can safely hold and grow your crypto portfolio within it! If you have any general crypto questions, or if you are unclear about something in the app, we'll be honored to assist and provide you with more insights for your success!</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "You can download Edge from your app store, here -https://dl.edge.app/?af=edge-app-get-started\n\nAfter launching the app, please upgrade to a Full Account by backing up and securing a Username & Password for it. Edge is a privacy-oriented application, so we will not be able to recover your login details if ever lost! You can create and a 'Password Recovery Token' and '2FA Code' in Account Settings to maximize security on the account.\n\n--\nNote: Be aware if someone is guiding or coaching you to get started in crypto, and they made first contact with you, they are likely a professional scam artist - eventually guiding you to send them your money under false pretenses.\nCrypto transactions cannot be stopped or reversed! If you are presented with a very good deal, guaranteed profits, easy remote work, or possibly even a long-distance romance - these scenarios are often used to mislead and financially take advantage of new crypto users.\n\nPlease stay safe out there! If you keep your Edge account's Username & Password: secure -- then you can safely hold and grow your crypto portfolio within it! If you have any general crypto questions, or if you are unclear about something in the app, we'll be honored to assist and provide you with more insights for your success!"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Account - newuser download wallet"
+}

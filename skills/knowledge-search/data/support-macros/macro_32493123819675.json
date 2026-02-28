@@ -1,0 +1,51 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/32493123819675.json",
+  "id": 32493123819675,
+  "title": "Thorchain Savers Fixed in 4.19.2",
+  "active": false,
+  "updated_at": "2025-01-24T20:52:50Z",
+  "created_at": "2025-01-05T00:09:08Z",
+  "default": false,
+  "position": 390,
+  "description": "",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hello {{ticket.requester.first_name}},</p><p>&nbsp;</p><p>Please check for updates in your app store. The v4.19.2 release of Edge is now available globally. Once you install this update, you will be able to see and manage your Thorchain Savers stakes again.</p><p>&nbsp;</p><p>If you have any other questions or concerns, we're here to help.</p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hello {{ticket.requester.first_name}},\n\nPlease check for updates in your app store. The v4.19.2 release of Edge is now available globally. Once you install this update, you will be able to see and manage your Thorchain Savers stakes again.\n\nIf you have any other questions or concerns, we're here to help."
+    },
+    {
+      "field": "current_tags",
+      "value": "thorchain savers apk"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "app/bug"
+    },
+    {
+      "field": "custom_fields_6992131337883",
+      "value": "internally_resolved"
+    },
+    {
+      "field": "ticket_form_id",
+      "value": "6987966018715"
+    },
+    {
+      "field": "custom_status_id",
+      "value": "6923892938139"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    },
+    {
+      "field": "custom_fields_6990779148955",
+      "value": "edge"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "Thorchain Savers Fixed in 4.19.2"
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://edgeapp.zendesk.com/api/v2/macros/15135125965723.json",
+  "id": 15135125965723,
+  "title": "say-more",
+  "active": true,
+  "updated_at": "2024-05-30T18:56:33Z",
+  "created_at": "2023-05-03T23:19:29Z",
+  "default": false,
+  "position": 298,
+  "description": "tell me more info",
+  "actions": [
+    {
+      "field": "comment_value_html",
+      "value": "<p>Hello {{ticket.requester.first_name}},</p><p><br></p><p>Can you please say some more about what's going on, so we can assist you better?</p><p>We'll narrow down the best solution for your problem when more details are provided.</p><p><br></p><p>Looking forward to your response!</p><p><br></p>"
+    },
+    {
+      "field": "comment_value",
+      "value": "Hello {{ticket.requester.first_name}},\n\nCan you please say some more about what's going on, so we can assist you better?\nWe'll narrow down the best solution for your problem when more details are provided.\n\nLooking forward to your response!\n"
+    },
+    {
+      "field": "status",
+      "value": "pending"
+    },
+    {
+      "field": "custom_fields_6983430669211",
+      "value": "none"
+    },
+    {
+      "field": "assignee_id",
+      "value": "current_user"
+    }
+  ],
+  "restriction": null,
+  "raw_title": "say-more"
+}
