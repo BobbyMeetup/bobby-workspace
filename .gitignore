@@ -1,0 +1,13 @@
+# Internal openclaw state (not useful to track)
+.openclaw/
+
+# Don't commit secrets if any ever land here
+*.env
+*.key
+*.pem
+.env*
+
+# Editor / OS noise
+.DS_Store
+*.swp
+*~
