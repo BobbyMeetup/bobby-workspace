@@ -1,6 +1,10 @@
 # Internal openclaw state (not useful to track)
 .openclaw/
 
+# Personal memory (private context about the user)
+MEMORY.md
+memory/
+
 # Don't commit secrets if any ever land here
 *.env
 *.key
